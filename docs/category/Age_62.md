@@ -6,12 +6,12 @@
 |  | |name= not named yet |  | |name= not named yet |
 |  | |number= 62 |  | |number= 62 |
 | − | |status= online | + | |status= finished |
-|  | |owner= [[Arcadia Games]] |  | |owner= [[Arcadia Games]] |
+|  | |owner= [Arcadia Games](../misc/Arcadia_Games.md) |  | |owner= [Arcadia Games](../misc/Arcadia_Games.md) |
 | − | |start= not yet | + | |start= |
 | − | |end= | + | |end= 13 October 2014 |
 |  | |duration= |  | |duration= |
 |  | }} |  | }} |
-| − | '''Age of Books Of War''' (Age 62) - current nearest [[Age]] on [[World of Legends]] server. | + | '''Age of Books Of War''' (Age 62) - finished [[Age]] on [[World of Legends]] server. |
+| − | '''Age of Books Of War''' (Age 62) - current nearest Age on [World of Legends](World_of_Legends.md) server. | + | '''Age of Books Of War''' (Age 62) - finished Age on [World of Legends](World_of_Legends.md) server. |
 |  |  |  |  |
 |  |  |  |  |
 

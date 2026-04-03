@@ -2,7 +2,7 @@
 
 | **[Revision as of 06:12, 1 September 2015](#) ([view source](#))**[Leonidas](#) ([talk](#) | [contribs](#))(Created page with "{{Infobox\_Age |name= The Spoils of War |number= 64 |status= finished |owner= [Arcadia Games](../misc/Arcadia_Games.md) |start= 26 January 2015 |end= 23 January 2015 |duration= }} '''The Spoils of War''…") | | **[Latest revision as of 06:13, 1 September 2015](#) ([view source](#))** [Leonidas](#) ([talk](#) | [contribs](#)) | |
 | Line 5: | | Line 5: | |
-|  | |owner= [[Arcadia Games]] |  | |owner= [[Arcadia Games]] |
+|  | |owner= [Arcadia Games](../misc/Arcadia_Games.md) |  | |owner= [Arcadia Games](../misc/Arcadia_Games.md) |
 |  | |start= 26 January 2015 |  | |start= 26 January 2015 |
 | − | |end= 23 January 2015 | + | |end= 8 May 2015 |
 |  | |duration= |  | |duration= |

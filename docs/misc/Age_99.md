@@ -17,7 +17,7 @@
 
 # Crossing Boundaries
 
-Original details can be found in the forums here: [[Age 99 Final Changes](http://forums.utopia-game.com/showthread.php?640313-Age-99-Final-Changes)]
+Original details can be found in the forums here: [Age 99 Final Changes](http://forums.utopia-game.com/showthread.php?640313-Age-99-Final-Changes)
 
 ### Mechanical Changes
 

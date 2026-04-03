@@ -1,30 +1,24 @@
-# View source for Age 44
+# Age 44
 
-You do not have permission to edit this page, for the following reason:
+|  |  |
+| --- | --- |
+| **Age 44** | |
+| Name: | **The Age of Change** |
+| Number: | 44 |
+| **Official Information** | |
+| Server: | [World of Legends](/category/World_of_Legends.md "World of Legends") |
+| Status: | finished |
+| Owner: | Jolt Online Gaming |
+| **Dates** | |
+| Start: | 07 August 2009 |
+| End: | 14 October 2009 |
+| Duration (in days): | 69 |
+|  | |
 
-The action you have requested is limited to users in the group: Trusted.
+**The Age of Change** (Age 44) - finished Age on [World of Legends](/category/World_of_Legends.md "World of Legends") server.
 
----
+First Age based on [New Code](/misc/Brian_&_Sean.md "Brian & Sean").
 
-You can view and copy the source of this page.
-
-{{Infobox\_Age
-|name= The Age of Change
-|number= 44
-|status= finished
-|owner= Jolt Online Gaming
-|start= 07 August 2009
-|end= 14 October 2009
-|duration= 69
-}}
-'''The Age of Change''' (Age 44) - finished [[Age]] on [[World of Legends]] server.
-First Age based on [[Brian\_%26\_Sean#New Code|New Code]].
-{{Ages}}
-
-Templates used on this page:
-
-- [Template:Ages](#) ([view source](#))
-- [Template:Infobox Age](#) ([view source](#))
-- [Template:•](#) ([view source](#))
-
-Return to [Age 44](Age_44.md).
+| **Ages** | |
+| --- | --- |
+| Ages | **1998 - 1999 :** The first generation of Utopia (1)  • The Second Age of Utopia (2)  • The Third Age of Utopia (3)  • The Fourth Age of Utopia (4)  • The Fifth Age of Utopia (5)  • The Sixth Age of Utopia (6)  • **2000 - 2001 :** The Seventh Age of Utopia (7)  • The Age of Chaos (8)  • The Renaissance Age (9)  • The Age of Conflict (10)  • The Age of Nobility (11)  • The Era of Magic (12)  • The Era of Mystery (13)  • The Era of Strife (14)  •  **2002 - 2003 :** The Age of Valour (15)  • The Age of Discovery (16)  • The Age of the People (17)  • The Age of Heroes (18)  • An Era of Hope (19)  • An Age of Dreams (20)  • An Age of Wonders (21)  • An Age of Conquerors (22)  • The Revolution (23)  •  **2004 - 2005 :** An Age of Glory (24)  • An Age of Tranquility (25)  • An Age of Turmoil (26)  • An Age of Courage (27)  • An Age of Intrigue (28)  • An Age of War (29)  • An Age of Unity (30)  •  **2006 - 2007 :** An Age of Reason (31)  • An Age of Kings (32)  • An Age of Prosperity (33)  • The Age of the Dragon (34)  • An Age of Triumph (35)  • An Age of Bravery (36)  • The Age of Darkness (37)  •  **2008 - 2009 :** [The Age of Angels](/misc/Age_38.md "Age 38") (38)  • The Age of the Scholar (39)  • The Awakening (40)  • The Age of Renewal (41)  • The Age of Hope (42)  • The Age of Rebirth (43)  • **The Age of Change** (44)  • The Age of Light (45)  •  **2010 - 2011 :** The Age of Distinction (46)  • The Age of Justice (47)  • [The Age of Peril](/misc/Age_48.md "Age 48") (48)  • [The Age of Conspiracy](/misc/Age_49.md "Age 49") (49)  • The Age of Resurrection (50)  • The Age of Domination (51)  • An Era of Supremacy (52)  •  **2012 - 2013 :** [The Age of Havoc](/misc/Age_53.md "Age 53") (53)  • A Call to Arms (54)  • [Veil of Shadows](/misc/Age_55.md "Age 55") (55)  • [Strength in Union](/misc/Age_56.md "Age 56") (56)  • [Relentless Onslaught](/misc/Age_57.md "Age 57") (57)  • Art of War (58)  • An Honorable Proposition (59)  • A Battle Joined (60)  •  **2014 - 2015 :** [Age of Destruction](/category/Age_61.md "Age 61") (61)  • [Books of War](/category/Age_62.md "Age 62") (62)  • [Iron Walls, Iron Heart](/misc/Age_63.md "Age 63") (63)  • [The Spoils of War](/category/Age_64.md "Age 64") (64)  • [The Isles of Legion](/misc/Age_65.md "Age 65") (65)  • Thunder and Bedlam (66)  •  **2016 - 2017 :** The Age of Perception (67)  • [The Age of Heresy](/misc/Age_68.md "Age 68") (68)  • The Age of Scholars and Scoundrels (69)  • The Age of Daunting Judgement (70)  • [The Metamorphosis](/category/Age_71.md "Age 71") (71)  • [The Era of Venerated Bastions](/misc/Age_72.md "Age 72") (72)  • [The Age of Tricksters and Mischief](/category/Age_73.md "Age 73") (73)  • [The Age of Affinity](/misc/Age_74.md "Age 74") (74)  •  **2017 - 2018 :** [The Age of Empowering Enchantments](/category/Age_75.md "Age 75") (75)  • [The Age of the Empyrean Advent](/category/Age_76.md "Age 76") (76)  • [The Age of Accession and Abrogation](/category/Age_77.md "Age 77")  (77)  • [The Age of Insight](/misc/Age_78.md "Age 78")  (78)  • [The Age of Vanguards Acquiescence](/category/Age_79.md "Age 79") (79)  •  **2019 - 2020 :** [The Age of Reconnaissance](/misc/Age_80.md "Age 80") (80)  • [The Emergence](/category/Age_81.md "Age 81") (81)  • [The Grimoires of Glory](/misc/Age_82.md "Age 82") (82)  • [Age of Adjudication](/category/Age_83.md "Age 83") (83)  • [Bethink the Fray](/category/Age_84.md "Age 84") (84)  • [Intuition](/category/Age_85.md "Age 85") (85)  • [Global Viction](/misc/Age_86.md "Age 86") (86)  • [Age of the Sword](/misc/Age_87.md "Age 87") (87)  • [Swift Strife](/misc/Age_88.md "Age 88") (88)  • [Reformation](/category/Age_89.md "Age 89") (89)  **2021 - 2022 :** [Age of Exile](/category/Age_90.md "Age 90") 90  • [Age of Remembrance](/misc/Age_91.md "Age 91") 91  • [Age of Ancestry](/misc/Age_92.md "Age 92") 92  • [Occult Ordination](/misc/Age_93.md "Age 93") 93  • [Ascent](/misc/Age_94.md "Age 94") 94  • [Age of the Omen](/misc/Age_95.md "Age 95") 95  • [The Eternal Rift](/misc/Age_96.md "Age 96") 96  • [Dominance](/misc/Age_97.md "Age 97") 97  • [Keen Transformation](/misc/Age_98.md "Age 98") 98  •  **2023 - 2024 :** [Crossing Boundaries](/misc/Age_99.md "Age 99") 99  • [Equilibrium](/misc/Age_100.md "Age 100") 100  • [Crusades](/misc/Age_101.md "Age 101") 101  • [Godsend](/misc/Age_102.md "Age 102") 102  • [Unbound Dominion](/misc/Age_103.md "Age 103") 103  • [Renascence](/misc/Age_104.md "Age 104") 104  • [Devout Fervor](/misc/Age_105.md "Age 105") 105 |

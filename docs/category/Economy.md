@@ -2,7 +2,7 @@
 
 | **[Revision as of 23:26, 18 April 2021](#) ([view source](#))**[Umajon911](#) ([talk](#) | [contribs](#))([→](#Military_Expenses_.2F_Wages)‎Military Expenses / Wages)[← Older edit](#) | | **[Revision as of 13:35, 25 April 2021](#) ([view source](#))** [Avenger](#) ([talk](#) | [contribs](#))m ([→](#Money)‎Money)[Newer edit →](#) | |
 | Line 5: | | Line 5: | |
-|  | Banks and population produce money, wizards could cast it from [[Mystics#Tree\_of\_Gold|Tree of Gold]]. |  | Banks and population produce money, wizards could cast it from [[Mystics#Tree\_of\_Gold|Tree of Gold]]. |
+|  | Banks and population produce money, wizards could cast it from [Tree of Gold](../guide/Mystics.md#tree-_of-_gold). |  | Banks and population produce money, wizards could cast it from [Tree of Gold](../guide/Mystics.md#tree-_of-_gold). |
 |  |  |  |  |
 | − | Spend money on Exploration, Building, Training and Wages. | + | Spend money on Exploration, Building, Training, Wages, Dragons or aid your teammates. |
 | − |  |  | |
@@ -10,7 +10,7 @@
 |  |  |  |  |
 |  | === Raw Income === |  | === Raw Income === |
 | Line 19: | | Line 17: | |
-|  | <b>Military Expenses = </b>(((Def specs + Off specs )\*0.5) + Elites \* 0.75) \* Wage Rate \* Armouries Bonus \* [[Race|Race Mod]] \* [[Personality|Personality Mod]] \* max([[Mystics#Inspire\_Army|Inspire Army]] , [[Mystics#Hero's Inspiration|Hero's Inspiration]]) \* [[Mystics#Greed|Greed]] \* [[Science\_Formulas#Science\_Categories.2C\_Types\_and\_Effects|Bookkeeping Science Effect]] |  | <b>Military Expenses = </b>(((Def specs + Off specs )\*0.5) + Elites \* 0.75) \* Wage Rate \* Armouries Bonus \* [[Race|Race Mod]] \* [[Personality|Personality Mod]] \* max([[Mystics#Inspire\_Army|Inspire Army]] , [[Mystics#Hero's Inspiration|Hero's Inspiration]]) \* [[Mystics#Greed|Greed]] \* [[Science\_Formulas#Science\_Categories.2C\_Types\_and\_Effects|Bookkeeping Science Effect]] |
+|  | <b>Military Expenses = </b>(((Def specs + Off specs )\*0.5) + Elites \* 0.75) \* Wage Rate \* Armouries Bonus \* [Race Mod](../main/Race.md) \* [Personality Mod](../ages/Personality.md) \* max([Inspire Army](../guide/Mystics.md#inspire-_army) , [Hero's Inspiration](../guide/Mystics.md#hero-s-inspiration)) \* [Greed](../guide/Mystics.md#greed) \* [Bookkeeping Science Effect](../main/Science_Formulas.md#science-_categories-2c-_types-_and-_effects) |  | <b>Military Expenses = </b>(((Def specs + Off specs )\*0.5) + Elites \* 0.75) \* Wage Rate \* Armouries Bonus \* [Race Mod](../main/Race.md) \* [Personality Mod](../ages/Personality.md) \* max([Inspire Army](../guide/Mystics.md#inspire-_army) , [Hero's Inspiration](../guide/Mystics.md#hero-s-inspiration)) \* [Greed](../guide/Mystics.md#greed) \* [Bookkeeping Science Effect](../main/Science_Formulas.md#science-_categories-2c-_types-_and-_effects) |
 |  |  |  |  |
 | − | '''Note''' | + | '''Note:''' |
 | − | :Wages are not paid to basic soldiers. | + | \*Wages are not paid to basic soldiers |

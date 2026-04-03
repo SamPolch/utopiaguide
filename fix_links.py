@@ -126,10 +126,46 @@ def fix_file(path: Path, slug_to_path: dict[str, Path]) -> int:
     text = text.replace("https://wiki.utopia-game.com", "")
     text = text.replace("http://wiki.utopia-game.com", "")
 
+    # Convert any remaining [[wikitext links]]
+    text = convert_wikilinks(text, path, slug_to_path)
+
     if text != original:
         path.write_text(text, encoding="utf-8")
         return 1
     return 0
+
+
+WIKILINK_RE = re.compile(r'\[\[([^\]|#]+)(?:#([^\]|]*))?(?:\|([^\]]*))?\]\]')
+
+
+def convert_wikilinks(text: str, from_file: Path, slug_to_path: dict[str, Path]) -> str:
+    """Convert remaining [[WikiLink|Display]] syntax to Markdown links."""
+    def replace(m: re.Match) -> str:
+        page = m.group(1).strip()
+        anchor = m.group(2)  # may be None
+        display = m.group(3).strip() if m.group(3) else page
+
+        # Strip bold/italic markup from display text
+        display = re.sub(r"'{2,3}", "", display).strip()
+
+        # Category declarations → remove entirely
+        if page.startswith("Category:") and not m.group(3):
+            return ""
+
+        slug = slugify(page.replace(" ", "_"))
+        target_file = slug_to_path.get(slug) or slug_to_path.get(slugify(page))
+        if target_file:
+            rel = relative_link(from_file, target_file)
+            if anchor:
+                # MkDocs lowercases and slugifies anchors
+                anchor_slug = re.sub(r'[^\w-]', '-', anchor.lower()).strip('-')
+                rel = f"{rel}#{anchor_slug}"
+            return f"[{display}]({rel})"
+
+        # Page not found — just use display text as plain text
+        return display
+
+    return WIKILINK_RE.sub(replace, text)
 
 
 def main() -> None:

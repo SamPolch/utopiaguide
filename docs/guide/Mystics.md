@@ -2,10 +2,10 @@
 
 | **[Revision as of 16:59, 8 September 2021](#) ([view source](#))**[Avenger](#) ([talk](#) | [contribs](#))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[← Older edit](#) | | **[Revision as of 17:00, 8 September 2021](#) ([view source](#))** [Avenger](#) ([talk](#) | [contribs](#))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[Newer edit →](#) | |
 | Line 44: | | Line 44: | |
-|  | \*[[Mystics#The\_Spell\_Book:\_the\_self\_spells|Self Spells]] |  | \*[[Mystics#The\_Spell\_Book:\_the\_self\_spells|Self Spells]] |
-|  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [[Magic\_Formulas#The Spell Book|'''here''']]. |  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [[Magic\_Formulas#The Spell Book|'''here''']]. |
+|  | \*[Self Spells](Mystics.md#the-_spell-_book--_the-_self-_spells) |  | \*[Self Spells](Mystics.md#the-_spell-_book--_the-_self-_spells) |
+|  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [here](Magic_Formulas.md#the-spell-book). |  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [here](Magic_Formulas.md#the-spell-book). |
 |  | | + | \*\*The caster gains honor from kd mates whom they cast support spells on. Those getting casted on lose honor when having a support spell casted on them, ~0.1%. |
-|  | \*[[Mystics#The\_Spell\_Book:\_the\_offensive\_spells|Offensive spells]] |  | \*[[Mystics#The\_Spell\_Book:\_the\_offensive\_spells|Offensive spells]] |
+|  | \*[Offensive spells](Mystics.md#the-_spell-_book--_the-_offensive-_spells) |  | \*[Offensive spells](Mystics.md#the-_spell-_book--_the-_offensive-_spells) |
 |  |  |  |  |
 
 ---

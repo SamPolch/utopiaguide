@@ -2,7 +2,7 @@
 
 | **[Revision as of 20:07, 29 April 2016](#) ([view source](#))**[Utopia wolf](#) ([talk](#) | [contribs](#))[← Older edit](#) | | **[Revision as of 15:17, 3 February 2017](#) ([view source](#))** [Bishop](#) ([talk](#) | [contribs](#))([→](#Military_Units)‎Military Units)[Newer edit →](#) | |
 | Line 5: | | Line 5: | |
-|  | To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [[Units]] for more information. |  | To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [[Units]] for more information. |
+|  | To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](../misc/Units.md) for more information. |  | To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](../misc/Units.md) for more information. |
 |  |  |  |  |
 | − | {| {{GreenTable}} | + | You can view each races unit strengths through the games Race/Personality details page [http://utopia-game.com/wol/chooser/age\_details/] |
 | − | |- {{DarkGreenRow}} |  | |
@@ -10,14 +10,14 @@
 | − |  |  | |
 | − | |- {{LightGreenCell}} |  | |
 | − | ! width="12%" | Races |  | |
-| − | ! width="11%" | [[Avians]] |  | |
-| − | ! width="11%" | [[Dwarves]] |  | |
-| − | ! width="11%" | [[Elves]] |  | |
-| − | ! width="11%" | [[Faery]] |  | |
-| − | ! width="11%" | [[Halflings]] |  | |
-| − | ! width="11%" | [[Humans]] |  | |
-| − | ! width="11%" | [[Orcs]] |  | |
-| − | ! width="11%" | [[Undeads]] |  | |
+| − | ! width="11%" | Avians |  | |
+| − | ! width="11%" | Dwarves |  | |
+| − | ! width="11%" | Elves |  | |
+| − | ! width="11%" | Faery |  | |
+| − | ! width="11%" | Halflings |  | |
+| − | ! width="11%" | Humans |  | |
+| − | ! width="11%" | Orcs |  | |
+| − | ! width="11%" | Undeads |  | |
 | − |  |  | |
 | − | |-  bgcolor="#f9fafb" style="vertical-align: top; text-align:left" |  | |
 | − | |'''Solder''' Power (Off / Def) |  | |
@@ -121,7 +121,7 @@ Conflict is at the heart and soul of the fine world of Utopia. While peace has i
 
 To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](../misc/Units.md) for more information.
 
-You can view each races unit strengths through the games Race/Personality details page [[1]](http://utopia-game.com/wol/chooser/age_details/)
+You can view each races unit strengths through the games Race/Personality details page 1(http://utopia-game.com/wol/chooser/age_details/)
 
 ### Understanding Attacks
 

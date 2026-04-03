@@ -17,7 +17,7 @@
 
 # Keen Transformation
 
-Original details can be found in the forums here: [[Age 98 Finals](http://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)]
+Original details can be found in the forums here: [Age 98 Finals](http://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)
 
 ### Mechanical Changes
 

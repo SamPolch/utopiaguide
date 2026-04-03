@@ -6,12 +6,12 @@
 |  | | + |  |
 |  | | + |  |
 |  | | + | === Information === |
-|  | | + | [[WoL Races]] |
-|  | | + | [[WoL Personalities]] |
+|  | | + | WoL Races |
+|  | | + | WoL Personalities |
 |  | | + |  |
 |  | | + |  |
 |  |  |  |  |
-|  | [[Category:WoL]] |  | [[Category:WoL]] |
+|  |  |  |  |
 
 ---
 

@@ -23,7 +23,7 @@
 |  | | + |  |
 |  | Desertions due to overpopulation will remove soldiers first, up to a maximum of 50% of the total desertions. |  | Desertions due to overpopulation will remove soldiers first, up to a maximum of 50% of the total desertions. |
 |  |  |  |  |
-|  | [[Category:Formulas]] |  | [[Category:Formulas]] |
+|  |  |  |  |
 |  | | + |  |
 |  | | + |  |
 |  | | + |  |
