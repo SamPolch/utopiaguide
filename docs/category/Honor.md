@@ -15,7 +15,7 @@ As Honor can be gained, it can also be lost. Because Honor is captured and not c
 
 ## Honor when province is created
 
-If a Province is [created](/web/20241207205411//index.php?title=Creating_a_province "Creating a province") when the [age](/web/20241207205411//index.php?title=Age "Age") begins, the Honor value is initialized to 0. Additionally, over a period of 3 days, Honor is raised 20 points per [Tick](/web/20241207205411//index.php?title=Utopia_Time "Utopia Time"), resulting in a total of 1440 Honor points added.
+If a Province is [created](#) when the [age](#) begins, the Honor value is initialized to 0. Additionally, over a period of 3 days, Honor is raised 20 points per [Tick](/misc/Utopia_Time.md), resulting in a total of 1440 Honor points added.
 
 ## Honor Effects
 
@@ -61,7 +61,7 @@ If you enter vacation mode within the first days of the game you will not gain h
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/web/20241207205411//index.php?title=Getting_Started_with_Utopia "Getting Started with Utopia")  • [Creating a province](/web/20241207205411//index.php?title=Creating_a_province "Creating a province")  • [Race](/web/20241207205411//index.php?title=Race "Race") & [Personality](/web/20241207205411//index.php?title=Personality "Personality") |
-| The Menus | [Throne](/web/20241207205411//index.php?title=Throne "Throne")  • [Kingdom](/web/20241207205411//index.php?title=Kingdom "Kingdom")  • [News](/web/20241207205411//index.php?title=The_Paper "The Paper") [Explore](/web/20241207205411//index.php?title=Explore "Explore")  • [Growth](/web/20241207205411//index.php?title=Growth "Growth")  • [Science](/web/20241207205411//index.php?title=Science "Science")  • [Military](/web/20241207205411//index.php?title=Military "Military")  [Mystics](/web/20241207205411//index.php?title=Mystics "Mystics")  • [Thievery](/web/20241207205411//index.php?title=Thievery "Thievery")  • [War Room](/web/20241207205411//index.php?title=War_Room "War Room") • [Aid](/web/20241207205411//index.php?title=Aid "Aid")  • [Dragon](/web/20241207205411//index.php?title=Dragons "Dragons")  • [Ritual](/web/20241207205411//index.php?title=Ritual "Ritual")  • [Stances](/web/20241207205411//index.php?title=Stances "Stances")  [Mail & Forums](/web/20241207205411//index.php?title=Ingame "Ingame")  [Politics](/web/20241207205411//index.php?title=Politics "Politics")  • [Relations](/web/20241207205411//index.php?title=Relations "Relations")  • Rankings  • [Preferences](/web/20241207205411//index.php?title=Preferences "Preferences") |
-| Advanced | [MunkBot](/web/20241207205411//index.php?title=MunkBot "MunkBot")  • [Invitations](/web/20241207205411//index.php?title=Invitations "Invitations")  • [Reservations](/web/20241207205411//index.php?title=Reservations "Reservations")  • [Utopia](/web/20241207205411//index.php?title=Utopia "Utopia")  • [Province](/web/20241207205411//index.php?title=Province "Province")  • [World of Legends](/web/20241207205411//index.php?title=World_of_Legends "World of Legends")  • [Formulas](/web/20241207205411//index.php?title=Formulas "Formulas") |
-| Rules | [Game Rules](/web/20241207205411//index.php?title=Game_Rules "Game Rules") |
+| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • [Military](/guide/Military.md)  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md)  • [Formulas](#) |
+| Rules | [Game Rules](/misc/Game_Rules.md) |

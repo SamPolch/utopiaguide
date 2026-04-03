@@ -2,15 +2,15 @@
 
 |  |
 | --- |
-| **This is part of the Utopia WIKI [Tools Series](/web/20241207202819//index.php?title=Category:Tools "Category:Tools").** |
+| **This is part of the Utopia WIKI [Tools Series](#).** |
 
 |  |  |
 | --- | --- |
 | |  | | --- | | **THIS PAGE** describes the UtopiaPimp tool/addon for Utopia. If you have any queries with regards to the tool, direct your enquiries to the specific developer (refer below). | |
 
-Also known colloquially as **pimp**. This site was developed by [molesquirrel](/web/20241207202819//index.php?title=User:Molesquirrel&action=edit&redlink=1 "User:Molesquirrel (page does not exist)") and serves the function of collating all self intel of a kingdom as well as to store intel of target provinces/kingdoms.
+Also known colloquially as **pimp**. This site was developed by [molesquirrel](#) and serves the function of collating all self intel of a kingdom as well as to store intel of target provinces/kingdoms.
 
-As this tool is no longer updated, see [UtopiaPimp V2](/web/20241207202819//index.php?title=UtopiaPimp_V2 "UtopiaPimp V2")
+As this tool is no longer updated, see [UtopiaPimp V2](/category/UtopiaPimp_V2.md)
 
 ## External Links
 

@@ -82,9 +82,9 @@ where
 
 Templates used on this page:
 
-- [Template:Buildings](/web/20250720095817//index.php?title=Template:Buildings "Template:Buildings") ([view source](/web/20250720095817//index.php?title=Template:Buildings&action=edit "Template:Buildings"))
-- [Template:Guide navigation](/web/20250720095817//index.php?title=Template:Guide_navigation "Template:Guide navigation") ([view source](/web/20250720095817//index.php?title=Template:Guide_navigation&action=edit "Template:Guide navigation"))
-- [Template:Mods](/web/20250720095817//index.php?title=Template:Mods "Template:Mods") ([view source](/web/20250720095817//index.php?title=Template:Mods&action=edit "Template:Mods"))
-- [Template:•](/web/20250720095817//index.php?title=Template:%E2%80%A2 "Template:•") ([view source](/web/20250720095817//index.php?title=Template:%E2%80%A2&action=edit "Template:•"))
+- [Template:Buildings](#) ([view source](#))
+- [Template:Guide navigation](#) ([view source](#))
+- [Template:Mods](#) ([view source](#))
+- [Template:•](#) ([view source](#))
 
-Return to [Exploring, Construction & Building Formulas](/web/20250720095817//index.php?title=Exploring,_Construction_%26_Building_Formulas "Exploring, Construction & Building Formulas").
+Return to [Exploring, Construction & Building Formulas](/misc/Exploring,_Construction_&_Building_Formulas.md).

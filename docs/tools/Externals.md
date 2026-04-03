@@ -1,6 +1,6 @@
 # Difference between revisions of "Externals"
 
-| **[Revision as of 19:59, 14 August 2019](/web/20190823120345//index.php?title=Externals&oldid=8330 "Externals") ([view source](/web/20190823120345//index.php?title=Externals&action=edit&oldid=8330 "Externals"))**[Avenger](/web/20190823120345//index.php?title=User:Avenger "User:Avenger") ([talk](/web/20190823120345//index.php?title=User_talk:Avenger&action=edit&redlink=1 "User talk:Avenger (page does not exist)") | [contribs](/web/20190823120345//index.php?title=Special:Contributions/Avenger "Special:Contributions/Avenger"))m[← Older edit](/web/20190823120345//index.php?title=Externals&diff=prev&oldid=8330 "Externals") | | **[Latest revision as of 20:13, 14 August 2019](/web/20190823120345//index.php?title=Externals&oldid=8334 "Externals") ([view source](/web/20190823120345//index.php?title=Externals&action=edit "Externals"))** [Avenger](/web/20190823120345//index.php?title=User:Avenger "User:Avenger") ([talk](/web/20190823120345//index.php?title=User_talk:Avenger&action=edit&redlink=1 "User talk:Avenger (page does not exist)") | [contribs](/web/20190823120345//index.php?title=Special:Contributions/Avenger "Special:Contributions/Avenger"))m | |
+| **[Revision as of 19:59, 14 August 2019](#) ([view source](#))**[Avenger](#) ([talk](#) | [contribs](#))m[← Older edit](#) | | **[Latest revision as of 20:13, 14 August 2019](#) ([view source](#))** [Avenger](#) ([talk](#) | [contribs](#))m | |
 | Line 1: | | Line 1: | |
 | − | A hallmark of the game is the community feel you get, both of your kingdom and with other players in the game. [[Utopia]] is very much a 24/7 game, in that it never stops. For the casual players, this may translate as you suffering waves when you are logged out. If you choose to play competitively, this may require you to get online soon in response to this wave. As such, communication is essential in the game, whether it be to deal with circumstances such as those mentioned above, or whether it be about rebuilding your kingdom. | + | A hallmark of the game is the community feel you get, both of your kingdom and with other players in the game. [[Utopia]] is very much a 24/7 game, in that it never stops. For the casual players, this may translate as you suffering attacks when you are logged out. If you choose to play competitively, this may require you to get online soon in response to this. As such, communication is essential in the game, whether it be to deal with circumstances such as those mentioned above, or whether it be about rebuilding your kingdom. |
 |  | <!-- |  | <!-- |
@@ -10,7 +10,7 @@
 
 ## Latest revision as of 20:13, 14 August 2019
 
-A hallmark of the game is the community feel you get, both of your kingdom and with other players in the game. [Utopia](/web/20190823120345//index.php?title=Utopia "Utopia") is very much a 24/7 game, in that it never stops. For the casual players, this may translate as you suffering attacks when you are logged out. If you choose to play competitively, this may require you to get online soon in response to this. As such, communication is essential in the game, whether it be to deal with circumstances such as those mentioned above, or whether it be about rebuilding your kingdom.
+A hallmark of the game is the community feel you get, both of your kingdom and with other players in the game. [Utopia](/misc/Utopia.md) is very much a 24/7 game, in that it never stops. For the casual players, this may translate as you suffering attacks when you are logged out. If you choose to play competitively, this may require you to get online soon in response to this. As such, communication is essential in the game, whether it be to deal with circumstances such as those mentioned above, or whether it be about rebuilding your kingdom.
 
 ## Discord
 
@@ -26,9 +26,9 @@ Community forums are commonplace, with the official ones being the Forums hosted
 
 ### IRC
 
-[IRC](/web/20190823120345//index.php?title=IRC "IRC") is an acronym for Internet Relay Chat. IRC was developed by Jarkko "WiZ" Oikarinen at the University of Oulu, in Finland. IRC is the oldest chat protocol in wide use today. The first IRC network, IRCNet, spawned Eris Free Net (EfNet), which led to thousands of other networks. IRC is an effective way of communicating with people anywhere on the globe.
+[IRC](#) is an acronym for Internet Relay Chat. IRC was developed by Jarkko "WiZ" Oikarinen at the University of Oulu, in Finland. IRC is the oldest chat protocol in wide use today. The first IRC network, IRCNet, spawned Eris Free Net (EfNet), which led to thousands of other networks. IRC is an effective way of communicating with people anywhere on the globe.
 
-[For more info, read here.](/web/20190823120345//index.php?title=IRC "IRC")
+[For more info, read here.](#)
 
 ### ICQ
 
@@ -38,7 +38,7 @@ While it was commonly used in the past, ICQ is used to a far much lesser extent 
 
 ### MSN
 
-MSN, or Live Messenger is probably utilized by a majority of the utopian population. It allows Group Conversations, which makes coordinating a breeze. It also allows for offline messaging. However, the scope of MSN messenger only goes so far, and many prefer [IRC](/web/20190823120345//index.php?title=IRC "IRC") for the presence of bots and convenience which IRC provides.
+MSN, or Live Messenger is probably utilized by a majority of the utopian population. It allows Group Conversations, which makes coordinating a breeze. It also allows for offline messaging. However, the scope of MSN messenger only goes so far, and many prefer [IRC](#) for the presence of bots and convenience which IRC provides.
 
 ### External Forums
 

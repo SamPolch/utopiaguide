@@ -1,6 +1,6 @@
 # Difference between revisions of "Military"
 
-| **[Revision as of 20:07, 29 April 2016](/web/20220122120201//index.php?title=Military&oldid=6849 "Military") ([view source](/web/20220122120201//index.php?title=Military&action=edit&oldid=6849 "Military"))**[Utopia wolf](/web/20220122120201//index.php?title=User:Utopia_wolf&action=edit&redlink=1 "User:Utopia wolf (page does not exist)") ([talk](/web/20220122120201//index.php?title=User_talk:Utopia_wolf&action=edit&redlink=1 "User talk:Utopia wolf (page does not exist)") | [contribs](/web/20220122120201//index.php?title=Special:Contributions/Utopia_wolf "Special:Contributions/Utopia wolf"))[← Older edit](/web/20220122120201//index.php?title=Military&diff=prev&oldid=6849 "Military") | | **[Revision as of 15:17, 3 February 2017](/web/20220122120201//index.php?title=Military&oldid=6976 "Military") ([view source](/web/20220122120201//index.php?title=Military&action=edit&oldid=6976 "Military"))** [Bishop](/web/20220122120201//index.php?title=User:Bishop "User:Bishop") ([talk](/web/20220122120201//index.php?title=User_talk:Bishop "User talk:Bishop") | [contribs](/web/20220122120201//index.php?title=Special:Contributions/Bishop "Special:Contributions/Bishop"))([→](#Military_Units)‎Military Units)[Newer edit →](/web/20220122120201//index.php?title=Military&diff=next&oldid=6976 "Military") | |
+| **[Revision as of 20:07, 29 April 2016](#) ([view source](#))**[Utopia wolf](#) ([talk](#) | [contribs](#))[← Older edit](#) | | **[Revision as of 15:17, 3 February 2017](#) ([view source](#))** [Bishop](#) ([talk](#) | [contribs](#))([→](#Military_Units)‎Military Units)[Newer edit →](#) | |
 | Line 5: | | Line 5: | |
 |  | To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [[Units]] for more information. |  | To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [[Units]] for more information. |
 |  |  |  |  |
@@ -119,7 +119,7 @@ Conflict is at the heart and soul of the fine world of Utopia. While peace has i
 
 ## Military Units
 
-To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](/web/20220122120201//index.php?title=Units "Units") for more information.
+To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](/misc/Units.md) for more information.
 
 You can view each races unit strengths through the games Race/Personality details page [[1]](http://utopia-game.com/wol/chooser/age_details/)
 
@@ -145,7 +145,7 @@ You need to send slightly over 4% extra to compensate for the maximum potential 
 
 ### War Horses
 
-War Horses are produced from [stables](/web/20220122120201//index.php?title=Buildings#Stables "Buildings") and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers two additional points of offensive strength.
+War Horses are produced from [stables](/category/Buildings.md) and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers two additional points of offensive strength.
 
 ### Mercenaries
 
@@ -153,7 +153,7 @@ In addition to your own troops, you will may also hire mercenaries to help in at
 
 ### Prisoners
 
-Prisoners are taken in addition to enemy killed after an attack, usually a similar number to the number of kills, IF there is room in your [dungeons](/web/20220122120201//index.php?title=Buildings#Dungeons "Buildings") for them. Prisoners have no upkeep, every 2 prisoners fills 1 job, and every prisoner produces 0.5gc per hour. Each prisoner sent in your attack will provide five offensive points. About half the prisoners sent are lost in the fight. They are then again immediately available to your general.
+Prisoners are taken in addition to enemy killed after an attack, usually a similar number to the number of kills, IF there is room in your [dungeons](/category/Buildings.md) for them. Prisoners have no upkeep, every 2 prisoners fills 1 job, and every prisoner produces 0.5gc per hour. Each prisoner sent in your attack will provide five offensive points. About half the prisoners sent are lost in the fight. They are then again immediately available to your general.
 
 ### Specialist Credits
 
@@ -195,20 +195,20 @@ Similar to a Traditional March, but does not need to be fully successful to capt
 
 Can be conducted against a province that has recently captured land from you. Strike an opponent's army away from home and recaptures 50% of the land stolen from you. Because of its surprise nature, no offensive or defensive modifiers are considered - only raw military strength - and the defense will fight at 80% of its normal capacity. Specialists in the opposing army will defend with the strength of defensive specialists of that race. A province attacking anonymously or using War Spoils cannot be ambushed, and an army can only be ambushed once..
 
-Be sure to check out the [Ambush Guide](/web/20220122120201//index.php?title=Guide:Ambush "Guide:Ambush") if you are still unclear.
+Be sure to check out the [Ambush Guide](#) if you are still unclear.
 
 ## Addition Information
 
-- [Attacking & Defending](/web/20220122120201//index.php?title=Attacking_%26_Defending "Attacking & Defending")
-- [Units](/web/20220122120201//index.php?title=Units "Units")
+- [Attacking & Defending](/category/Attacking_&_Defending.md)
+- [Units](/misc/Units.md)
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Sciences](/web/20220122120201//index.php?title=Sciences&action=edit&redlink=1 "Sciences (page does not exist)")** | Next:  **[Mystics](/web/20220122120201//index.php?title=Mystics "Mystics")** » |
+| « Previous:  **[Sciences](#)** | Next:  **[Mystics](/guide/Mystics.md)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/web/20220122120201//index.php?title=Getting_Started_with_Utopia "Getting Started with Utopia")  • [Creating a province](/web/20220122120201//index.php?title=Creating_a_province "Creating a province")  • [Race](/web/20220122120201//index.php?title=Race "Race") & [Personality](/web/20220122120201//index.php?title=Personality "Personality") |
-| The Menus | [Throne](/web/20220122120201//index.php?title=Throne "Throne")  • [Kingdom](/web/20220122120201//index.php?title=Kingdom "Kingdom")  • [News](/web/20220122120201//index.php?title=The_Paper "The Paper") [Explore](/web/20220122120201//index.php?title=Explore "Explore")  • [Growth](/web/20220122120201//index.php?title=Growth "Growth")  • [Science](/web/20220122120201//index.php?title=Science "Science")  • **Military**  [Mystics](/web/20220122120201//index.php?title=Mystics "Mystics")  • [Thievery](/web/20220122120201//index.php?title=Thievery "Thievery")  • [War Room](/web/20220122120201//index.php?title=War_Room "War Room") • [Aid](/web/20220122120201//index.php?title=Aid "Aid")  • [Dragon](/web/20220122120201//index.php?title=Dragons "Dragons")  • [Ritual](/web/20220122120201//index.php?title=Ritual "Ritual")  [Mail & Forums](/web/20220122120201//index.php?title=Ingame "Ingame")  [Politics](/web/20220122120201//index.php?title=Politics "Politics")  • [Relations](/web/20220122120201//index.php?title=Relations "Relations")  • Rankings  • [Preferences](/web/20220122120201//index.php?title=Preferences "Preferences") |
-| Advanced | [MunkBot](/web/20220122120201//index.php?title=MunkBot "MunkBot")  • [Invitations](/web/20220122120201//index.php?title=Invitations "Invitations")  • [Reservations](/web/20220122120201//index.php?title=Reservations "Reservations")  • [Utopia](/web/20220122120201//index.php?title=Utopia "Utopia")  • [Province](/web/20220122120201//index.php?title=Province "Province")  • [World of Legends](/web/20220122120201//index.php?title=World_of_Legends "World of Legends") |
-| Rules | [Game Rules](/web/20220122120201//index.php?title=Game_Rules "Game Rules") |
+| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • **Military**  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md) |
+| Rules | [Game Rules](/misc/Game_Rules.md) |

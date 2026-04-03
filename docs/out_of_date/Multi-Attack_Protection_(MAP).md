@@ -2,11 +2,11 @@
 
 |  |
 | --- |
-| **This is part of the Utopia WIKI [Mini Guide Series](/web/20210411182400//index.php?title=Category:Mini_Guides "Category:Mini Guides").** |
+| **This is part of the Utopia WIKI [Mini Guide Series](#).** |
 
 |  |  |
 | --- | --- |
-| |  | | --- | | **THIS PAGE** describes a game mechanism - Multi-Attack Protection (MAP) in utopia. It also aims to discuss the implications of this game mechanism & how others have utilized it. To discuss further implications or ask questions with regards to Multi-Attack Protection (MAP), be sure to check out the [discussions page](/web/20210411182400//index.php?title=Talk:Multi-Attack_Protection_(MAP) "Talk:Multi-Attack Protection (MAP)"). | |
+| |  | | --- | | **THIS PAGE** describes a game mechanism - Multi-Attack Protection (MAP) in utopia. It also aims to discuss the implications of this game mechanism & how others have utilized it. To discuss further implications or ask questions with regards to Multi-Attack Protection (MAP), be sure to check out the [discussions page](#) "Talk:Multi-Attack Protection (MAP)"). | |
 
 Multi-Attack Protection (**MAP**) (formerly known as Gangbang Protection **GBP**) is a game mechanism introduced which aims to increase the protection conferred to provinces which have been recently hit.
 
@@ -83,4 +83,4 @@ This confers MAP on the chained province, which can then be aided with as many s
 | --- | --- |
 | **!** | *The information or formula below is not up to date. Please refer to the [Protection (MAP) discussions tab](/index.php/Talk:Multi-Attack) to contribute to ongoing research or start a new topic.* |
 
-The tax cap has been used to build up [banks](/web/20210411182400//index.php?title=Dictionary "Dictionary") before - what happens is that **Kingdom A** approaches a friendly **Kingdom B** and asks them to mass plunder
+The tax cap has been used to build up [banks](#) before - what happens is that **Kingdom A** approaches a friendly **Kingdom B** and asks them to mass plunder

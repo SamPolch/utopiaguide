@@ -193,16 +193,73 @@ def clean_content(soup: BeautifulSoup) -> BeautifulSoup:
     return soup
 
 
-WB_URL_RE = re.compile(
-    r"https?://web\.archive\.org/web/\d{14}[a-z]*/", re.IGNORECASE
+# Matches both absolute (https://web.archive.org/web/TS/...) and relative (/web/TS/...)
+# Wayback Machine link rewrites, capturing whatever comes after the wiki host.
+WB_HREF_RE = re.compile(
+    r'^(?:https?://web\.archive\.org)?/web/\d{14}[a-z]*/(?:https?://[^/]*)?(.*)$',
+    re.IGNORECASE,
 )
 
 
+def wiki_path_to_title(path: str) -> str | None:
+    """Extract page title from a bare wiki path like /index.php?title=Race or /index.php/Race."""
+    parsed = urllib.parse.urlparse(path)
+    m = re.match(r'^/(?:index\.php/|w/index\.php/)(.+)$', parsed.path)
+    if m:
+        return urllib.parse.unquote_plus(m.group(1))
+    qs = urllib.parse.parse_qs(parsed.query)
+    if "title" in qs:
+        title = urllib.parse.unquote_plus(qs["title"][0])
+        # Strip action params — only keep clean titles
+        if not any(k in qs for k in ("action", "diff", "oldid", "redlink")):
+            return title
+    return None
+
+
+def rewrite_soup_links(content_div, page_title_to_path: dict[str, str]) -> None:
+    """
+    Rewrite <a href> attributes in-place (before markdownify):
+    - Wayback Machine links → relative .md paths if the target page was scraped
+    - Unresolvable internal links → remove href (keep link text)
+    - External links and anchors → leave as-is
+    """
+    for a in content_div.select("a[href]"):
+        href = a.get("href", "")
+        if not href or href.startswith("#"):
+            continue  # anchor-only, fine as-is
+
+        m = WB_HREF_RE.match(href)
+        if not m:
+            continue  # not a Wayback link (e.g. already-external)
+
+        wiki_path = m.group(1)  # e.g. /index.php?title=Race
+        title = wiki_path_to_title(wiki_path)
+
+        if title and not any(title.startswith(p) for p in SKIP_PREFIXES):
+            slug = slugify(title)
+            path = page_title_to_path.get(slug)
+            if path:
+                a["href"] = path
+            else:
+                # Page not in our scraped set — drop the link, keep text
+                a.unwrap()
+        else:
+            # Unresolvable (Special:, action=edit, etc.) — drop
+            a.unwrap()
+
+
 def rewrite_links(markdown: str) -> str:
-    """Strip Wayback Machine URL prefixes from links, leaving bare wiki paths."""
-    # /web/20260101000000*/https://wiki.utopia-game.com/index.php/Foo → /index.php/Foo
-    markdown = WB_URL_RE.sub("", markdown)
-    # Absolute wiki URLs → relative
+    """Final pass: strip any remaining Wayback/wiki URL fragments in markdown text."""
+    # Catch any leftover absolute Wayback URLs not cleaned by soup pass
+    markdown = re.sub(
+        r'https?://web\.archive\.org/web/\d{14}[a-z]*/(?:https?://[^/]*)?',
+        "",
+        markdown,
+        flags=re.IGNORECASE,
+    )
+    # Catch leftover relative /web/TS/ paths
+    markdown = re.sub(r'/web/\d{14}[a-z]*/(?:https?://[^/]*)?', "", markdown)
+    # Bare wiki host references
     markdown = markdown.replace("https://wiki.utopia-game.com", "")
     markdown = markdown.replace("http://wiki.utopia-game.com", "")
     return markdown
@@ -219,7 +276,7 @@ def html_to_markdown(html_content: str) -> str:
     )
 
 
-def scrape_page(title: str, info: dict) -> dict | None:
+def scrape_page(title: str, info: dict, page_title_to_path: dict[str, str]) -> dict | None:
     """
     Fetch a page from the Wayback Machine and return:
         {"title": str, "markdown": str, "categories": [str]}
@@ -253,6 +310,7 @@ def scrape_page(title: str, info: dict) -> dict | None:
         return None
 
     clean_content(content_div)
+    rewrite_soup_links(content_div, page_title_to_path)
     markdown = html_to_markdown(content_div)
     markdown = rewrite_links(markdown)
     # Collapse excessive blank lines
@@ -422,33 +480,61 @@ plugins:
 # Main
 # ---------------------------------------------------------------------------
 
+def build_title_to_path(pages: dict[str, dict]) -> dict[str, str]:
+    """
+    Pre-compute a slug→MkDocs-relative-path map so link rewriting can resolve
+    targets before each page is individually fetched.
+
+    We don't know categories until we fetch each page, so we use a best-effort
+    heuristic: if the file already exists on disk (from a prior run), use that
+    path; otherwise assume misc/.
+    """
+    mapping: dict[str, str] = {}
+    for title in pages:
+        slug = slugify(title)
+        # Check if already downloaded anywhere under docs/
+        existing = list(DOCS_DIR.rglob(f"{slug[:200]}.md"))
+        if title.startswith(CATEGORY_PREFIX):
+            dirname = category_to_dirname(title)
+            path = f"/{dirname}/"
+        elif existing:
+            # Use the path relative to docs/
+            rel = existing[0].relative_to(DOCS_DIR)
+            path = "/" + str(rel).replace("\\", "/")
+        else:
+            path = f"/misc/{slug[:200]}.md"
+        mapping[slug] = path
+    return mapping
+
+
 def main() -> None:
     DOCS_DIR.mkdir(exist_ok=True)
     (DOCS_DIR / "misc").mkdir(exist_ok=True)
 
     pages = discover_pages()
 
+    # Build title→path lookup for internal link rewriting
+    page_title_to_path = build_title_to_path(pages)
+
     total = len(pages)
     ok = 0
     skipped = 0
 
     for i, (title, info) in enumerate(pages.items(), 1):
-        # Determine candidate output path to support resume
-        # (we don't know categories until we fetch, so check both possibilities)
-        # Simple heuristic: if any .md with this slug exists under docs/, skip
+        # Resume support: skip if already downloaded
         slug = slugify(title)
         existing = list(DOCS_DIR.rglob(f"{slug[:200]}.md"))
-        if title.startswith(CATEGORY_PREFIX):
-            existing += list(DOCS_DIR.rglob("index.md"))  # not ideal but harmless
-
         if existing:
             skipped += 1
             continue
 
         print(f"[{i}/{total}] {title}")
-        data = scrape_page(title, info)
+        data = scrape_page(title, info, page_title_to_path)
         if data:
-            write_page(title, data)
+            path = write_page(title, data)
+            # Update mapping now that we know the real path
+            rel = path.relative_to(DOCS_DIR)
+            page_title_to_path[slug] = "/" + str(rel).replace("\\", "/")
             ok += 1
         time.sleep(REQUEST_DELAY)
 

@@ -1,10 +1,10 @@
 # Island
 
-The world is divided into islands with an ocean. As the age progresses, more islands will become available to view using the [Kingdom](/web/20211020055553//index.php?title=Kingdom "Kingdom") view page.
+The world is divided into islands with an ocean. As the age progresses, more islands will become available to view using the [Kingdom](#) view page.
 
 The last island and first one are neighbors. On the World of Legends server, there are currently 20 islands.
 
-[World of Legends](/web/20211020055553//index.php?title=World_of_Legends "World of Legends") Islands for the [Current Age](/web/20211020055553//index.php?title=Age_72 "Age 72") are:
+[World of Legends](/category/World_of_Legends.md) Islands for the [Current Age](/misc/Age_72.md) are:
 
 |  |  |
 | --- | --- |

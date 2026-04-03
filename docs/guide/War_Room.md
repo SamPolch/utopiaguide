@@ -1,6 +1,6 @@
 # Difference between revisions of "War Room"
 
-| **[Revision as of 21:04, 22 September 2021](/web/20211026155005//index.php?title=War_Room&oldid=9674 "War Room") ([view source](/web/20211026155005//index.php?title=War_Room&action=edit&oldid=9674 "War Room"))**[Umajon911](/web/20211026155005//index.php?title=User:Umajon911 "User:Umajon911") ([talk](/web/20211026155005//index.php?title=User_talk:Umajon911&action=edit&redlink=1 "User talk:Umajon911 (page does not exist)") | [contribs](/web/20211026155005//index.php?title=Special:Contributions/Umajon911 "Special:Contributions/Umajon911"))[← Older edit](/web/20211026155005//index.php?title=War_Room&diff=prev&oldid=9674 "War Room") | | **[Latest revision as of 21:08, 22 September 2021](/web/20211026155005//index.php?title=War_Room&oldid=9675 "War Room") ([view source](/web/20211026155005//index.php?title=War_Room&action=edit "War Room"))** [Umajon911](/web/20211026155005//index.php?title=User:Umajon911 "User:Umajon911") ([talk](/web/20211026155005//index.php?title=User_talk:Umajon911&action=edit&redlink=1 "User talk:Umajon911 (page does not exist)") | [contribs](/web/20211026155005//index.php?title=Special:Contributions/Umajon911 "Special:Contributions/Umajon911")) | |
+| **[Revision as of 21:04, 22 September 2021](#) ([view source](#))**[Umajon911](#) ([talk](#) | [contribs](#))[← Older edit](#) | | **[Latest revision as of 21:08, 22 September 2021](#) ([view source](#))** [Umajon911](#) ([talk](#) | [contribs](#)) | |
 | Line 18: | | Line 18: | |
 |  | |- bgcolor="#f9fafb"  text-align:left" |  | |- bgcolor="#f9fafb"  text-align:left" |
 |  | | style="text-align:center"| '''Learn''' |  | | style="text-align:center"| '''Learn''' |
@@ -25,18 +25,18 @@
 
 ## Additional Information
 
-- [Attacking & Calculating an Attack](/web/20211026155005//index.php?title=Attacking_%26_Calculating_an_Attack "Attacking & Calculating an Attack")
-- [Attacking & Defending](/web/20211026155005//index.php?title=Attacking_%26_Defending "Attacking & Defending")
-- [Military](/web/20211026155005//index.php?title=Military "Military")
-- [War](/web/20211026155005//index.php?title=War "War")
+- [Attacking & Calculating an Attack](/misc/Attacking_&_Calculating_an_Attack.md)
+- [Attacking & Defending](/category/Attacking_&_Defending.md)
+- [Military](/guide/Military.md)
+- [War](#)
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Thievery](/web/20211026155005//index.php?title=Thievery "Thievery")** | Next:  **[Aid](/web/20211026155005//index.php?title=Aid "Aid")** » |
+| « Previous:  **[Thievery](/misc/Thievery.md)** | Next:  **[Aid](#)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/web/20211026155005//index.php?title=Getting_Started_with_Utopia "Getting Started with Utopia")  • [Creating a province](/web/20211026155005//index.php?title=Creating_a_province "Creating a province")  • [Race](/web/20211026155005//index.php?title=Race "Race") & [Personality](/web/20211026155005//index.php?title=Personality "Personality") |
-| The Menus | [Throne](/web/20211026155005//index.php?title=Throne "Throne")  • [Kingdom](/web/20211026155005//index.php?title=Kingdom "Kingdom")  • [News](/web/20211026155005//index.php?title=The_Paper "The Paper") [Explore](/web/20211026155005//index.php?title=Explore "Explore")  • [Growth](/web/20211026155005//index.php?title=Growth "Growth")  • [Science](/web/20211026155005//index.php?title=Science "Science")  • [Military](/web/20211026155005//index.php?title=Military "Military")  [Mystics](/web/20211026155005//index.php?title=Mystics "Mystics")  • [Thievery](/web/20211026155005//index.php?title=Thievery "Thievery")  • **War Room** • [Aid](/web/20211026155005//index.php?title=Aid "Aid")  • [Dragon](/web/20211026155005//index.php?title=Dragons "Dragons")  • [Ritual](/web/20211026155005//index.php?title=Ritual "Ritual")  [Mail & Forums](/web/20211026155005//index.php?title=Ingame "Ingame")  [Politics](/web/20211026155005//index.php?title=Politics "Politics")  • [Relations](/web/20211026155005//index.php?title=Relations "Relations")  • Rankings  • [Preferences](/web/20211026155005//index.php?title=Preferences "Preferences") |
-| Advanced | [MunkBot](/web/20211026155005//index.php?title=MunkBot "MunkBot")  • [Invitations](/web/20211026155005//index.php?title=Invitations "Invitations")  • [Reservations](/web/20211026155005//index.php?title=Reservations "Reservations")  • [Utopia](/web/20211026155005//index.php?title=Utopia "Utopia")  • [Province](/web/20211026155005//index.php?title=Province "Province")  • [World of Legends](/web/20211026155005//index.php?title=World_of_Legends "World of Legends") |
-| Rules | [Game Rules](/web/20211026155005//index.php?title=Game_Rules "Game Rules") |
+| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • [Military](/guide/Military.md)  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • **War Room** • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md) |
+| Rules | [Game Rules](/misc/Game_Rules.md) |

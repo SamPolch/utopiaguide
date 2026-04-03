@@ -1,6 +1,6 @@
 # Difference between revisions of "Economy"
 
-| **[Revision as of 23:26, 18 April 2021](/web/20211026130423//index.php?title=Economy&oldid=9221 "Economy") ([view source](/web/20211026130423//index.php?title=Economy&action=edit&oldid=9221 "Economy"))**[Umajon911](/web/20211026130423//index.php?title=User:Umajon911 "User:Umajon911") ([talk](/web/20211026130423//index.php?title=User_talk:Umajon911&action=edit&redlink=1 "User talk:Umajon911 (page does not exist)") | [contribs](/web/20211026130423//index.php?title=Special:Contributions/Umajon911 "Special:Contributions/Umajon911"))([→](#Military_Expenses_.2F_Wages)‎Military Expenses / Wages)[← Older edit](/web/20211026130423//index.php?title=Economy&diff=prev&oldid=9221 "Economy") | | **[Revision as of 13:35, 25 April 2021](/web/20211026130423//index.php?title=Economy&oldid=9334 "Economy") ([view source](/web/20211026130423//index.php?title=Economy&action=edit&oldid=9334 "Economy"))** [Avenger](/web/20211026130423//index.php?title=User:Avenger "User:Avenger") ([talk](/web/20211026130423//index.php?title=User_talk:Avenger&action=edit&redlink=1 "User talk:Avenger (page does not exist)") | [contribs](/web/20211026130423//index.php?title=Special:Contributions/Avenger "Special:Contributions/Avenger"))m ([→](#Money)‎Money)[Newer edit →](/web/20211026130423//index.php?title=Economy&diff=next&oldid=9334 "Economy") | |
+| **[Revision as of 23:26, 18 April 2021](#) ([view source](#))**[Umajon911](#) ([talk](#) | [contribs](#))([→](#Military_Expenses_.2F_Wages)‎Military Expenses / Wages)[← Older edit](#) | | **[Revision as of 13:35, 25 April 2021](#) ([view source](#))** [Avenger](#) ([talk](#) | [contribs](#))m ([→](#Money)‎Money)[Newer edit →](#) | |
 | Line 5: | | Line 5: | |
 |  | Banks and population produce money, wizards could cast it from [[Mystics#Tree\_of\_Gold|Tree of Gold]]. |  | Banks and population produce money, wizards could cast it from [[Mystics#Tree\_of\_Gold|Tree of Gold]]. |
 |  |  |  |  |
@@ -26,7 +26,7 @@
 
 **Gold Coin** (1gc or $1) is Utopian Currency, the base of Utopian Economics.
 
-Banks and population produce money, wizards could cast it from [Tree of Gold](/web/20211026130423//index.php?title=Mystics#Tree_of_Gold "Mystics").
+Banks and population produce money, wizards could cast it from [Tree of Gold](/guide/Mystics.md).
 
 Spend money on Exploration, Building, Training, Wages, Dragons or aid your teammates.
 

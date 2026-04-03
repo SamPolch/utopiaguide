@@ -59,6 +59,6 @@ Our second round with the unique Dual Race choice!
 
 Template used on this page:
 
-- [Template:Infobox Age](/web/20211020081639//index.php?title=Template:Infobox_Age "Template:Infobox Age") ([view source](/web/20211020081639//index.php?title=Template:Infobox_Age&action=edit "Template:Infobox Age"))
+- [Template:Infobox Age](#) ([view source](#))
 
-Return to [Age 93](/web/20211020081639//index.php?title=Age_93 "Age 93").
+Return to [Age 93](/misc/Age_93.md).

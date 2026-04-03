@@ -1,6 +1,6 @@
 # Units
 
-Here are the unit types that are available in [Utopia](/web/20211208180001//index.php?title=Utopia "Utopia")
+Here are the unit types that are available in [Utopia](/misc/Utopia.md)
 
 ### Peasants
 
@@ -15,7 +15,7 @@ The basic unit for every province. They are drafted from the peasantry and can b
 
 - Offense: 1
 - Defense: 1
-- Cost: Variable, depending on [Draft Rate](/web/20211208180001//index.php?title=Draft_Rate&action=edit&redlink=1 "Draft Rate (page does not exist)")
+- Cost: Variable, depending on [Draft Rate](#)
 - Networth: 1.5
 
 ### Defensive Specialists
@@ -24,7 +24,7 @@ These troops defend your land only, and are unable to attack.
 
 - Offense: 0
 - Defense: 5
-- Cost: 350[gc](/web/20211208180001//index.php?title=Gc&action=edit&redlink=1 "Gc (page does not exist)")
+- Cost: 350[gc](#)
 - Networth: 5
 
 ### Offensive Specialists
@@ -33,14 +33,14 @@ These troops are used to attack, and are unable to defend.
 
 - Offense: 5
 - Defense: 0
-- Cost: 350[gc](/web/20211208180001//index.php?title=Gc&action=edit&redlink=1 "Gc (page does not exist)")
+- Cost: 350[gc](#)
 - Networth: 4
 
 ### Elites
 
 Elites are, obviously, elite troops. Their offensive and defensive values vary from race to race.
 
-- For Elite values please see the receptive [wol races](/web/20211208180001//index.php?title=Wol_races&action=edit&redlink=1 "Wol races (page does not exist)") or [genesis races](/web/20211208180001//index.php?title=Genesis_races&action=edit&redlink=1 "Genesis races (page does not exist)") page
+- For Elite values please see the receptive [wol races](#) or [genesis races](#) page
 
 ### Generals
 

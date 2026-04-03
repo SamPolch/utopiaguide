@@ -6,7 +6,7 @@
 
 |  |
 | --- |
-| [Alliance Listings](/web/20250801115900//index.php?title=Alliance "Alliance") **·** [Kingdoms Listings](/web/20250801115900//index.php?title=Kingdoms "Kingdoms") |
+| [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
 |  |  |
 | --- | --- |

@@ -14,7 +14,7 @@ Age 33 - Age ?40 - white classic style (white/gray text)
 
 Age ?41 - Age 53 - post-classic style (no images, dark red /dark blue - dark gray/transparent tables)
 
-Since [Age of Havoc](/web/20211020070633//index.php?title=Age_of_Havoc "Age of Havoc") players can choose 2 themes at the Account Settings/CSS theme : Neo classic theme and New Theme (now called "Default")
+Since [Age of Havoc](#) players can choose 2 themes at the Account Settings/CSS theme : Neo classic theme and New Theme (now called "Default")
 
 ## Neo classic
 

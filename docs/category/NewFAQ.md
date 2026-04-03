@@ -2,13 +2,13 @@
 
 |  |
 | --- |
-| **This is the FAQ Page for [Utopia](/web/20170924213306//index.php?title=Utopia "Utopia"). If you have questions, it is suggested you post them at the [discussions page](/web/20170924213306//index.php?title=Talk:NewFAQ "Talk:NewFAQ") or put them up on the [Utopian Forums](http://forums.utopia-game.com/forumdisplay.php?1527-Utopia).** |
+| **This is the FAQ Page for [Utopia](/misc/Utopia.md). If you have questions, it is suggested you post them at the [discussions page](#) or put them up on the [Utopian Forums](http://forums.utopia-game.com/forumdisplay.php?1527-Utopia).** |
 
 ### Getting Started Questions
 
 **Q: ~What race and personality should I select??**
 
-**A:** \* [Beginners Guide to Choosing Race and Personalities](/web/20170924213306//index.php?title=Guide:Combo_Selection "Guide:Combo Selection")
+**A:** \* [Beginners Guide to Choosing Race and Personalities](#)
 
 **Q: What should I do when I first join? What buildings to build for protection?**
 
@@ -20,7 +20,7 @@
 
 **Q: ~What does x building do? When should I have x building?(this will be the direct link to the page with all the comments for each building)**
 
-**A:** \*[Building Uses](/web/20170924213306//index.php?title=Growth "Growth")
+**A:** \*[Building Uses](/guide/Growth.md)
 
 **Q: What should I do with starting science?**
 
@@ -36,7 +36,7 @@
 
 **Q: ~What self spells should I cast? Which are good to cast? When should I cast them(note: this will link to a page with each spell and a comment on it concerning when to do it, how good it is, ect.)**
 
-**A:**\*[Spell Uses](/web/20170924213306//index.php?title=Spell_Uses "Spell Uses")
+**A:**\*[Spell Uses](#)
 
 ### Beginner Game Play Questions
 
@@ -60,7 +60,7 @@ The success of a thief op is a function of the relative mod tpa between both par
 
 **Q: How do I calculate my attack so that I don't bounce?**
 
-**A:** First you should read the [Ambush](/web/20170924213306//index.php?title=Ambush "Ambush") guide for more information on how to calculate an Ambush. The main idea is that the army being ambushed will only fight at 80% of its defense because it is being surprised attacked by the ambush. The information you need to calculate your enemy army's defense for your ambush include: Spy on Military report, Offense and Defense Values of your enemy's different specialists and elites. Once you have this information, you will calculate the army's defense: (eliteDefense\*number\_of\_elites + number \_offensiveSpecialists\*defensiveSpecialistvalue + soldiers) = Army's\_Defense . Now you multiple this number by .8 and this gives you the minimum number of points you must send to ambush the army. Values for defense of defensive specialists and elites are different for each race, so you should look this information up here on the [Race](/web/20170924213306//index.php?title=Race "Race") page to be sure. Remember that you cannot count on modifiers and can only use ONE general for the attack. (Well, you can use more generals but no bonuses will be given). Keep in mind that you must ambush the most RECENT attack first, so make sure you are getting all your numbers from the correct army in your SoM. If you do not want to calculate the Ambush yourself you can simply take the SoM and then fill in the information on an Ambush Calculator - make sure you choose an updated one from the [External Sites](/index.php?title=External_Sites) page or ask in the forums for Ambush calculators other players use.
+**A:** First you should read the [Ambush](#) guide for more information on how to calculate an Ambush. The main idea is that the army being ambushed will only fight at 80% of its defense because it is being surprised attacked by the ambush. The information you need to calculate your enemy army's defense for your ambush include: Spy on Military report, Offense and Defense Values of your enemy's different specialists and elites. Once you have this information, you will calculate the army's defense: (eliteDefense\*number\_of\_elites + number \_offensiveSpecialists\*defensiveSpecialistvalue + soldiers) = Army's\_Defense . Now you multiple this number by .8 and this gives you the minimum number of points you must send to ambush the army. Values for defense of defensive specialists and elites are different for each race, so you should look this information up here on the [Race](/main/Race.md) page to be sure. Remember that you cannot count on modifiers and can only use ONE general for the attack. (Well, you can use more generals but no bonuses will be given). Keep in mind that you must ambush the most RECENT attack first, so make sure you are getting all your numbers from the correct army in your SoM. If you do not want to calculate the Ambush yourself you can simply take the SoM and then fill in the information on an Ambush Calculator - make sure you choose an updated one from the [External Sites](/index.php?title=External_Sites) page or ask in the forums for Ambush calculators other players use.
 
 **Q: When/Why should I ambush?**
 

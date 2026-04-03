@@ -6,7 +6,7 @@
 
 |  |  |
 | --- | --- |
-| |  | | --- | | **THIS PAGE** is a guide aimed to cover Target Finder. It comprises of tips and tricks written by other players, for regular utopians. Please be civil in your [discussions](/web/20210303045055//index.php?title=Talk:Target_Finder "Talk:Target Finder") if you disagree with a point made on the page. | |
+| |  | | --- | | **THIS PAGE** is a guide aimed to cover Target Finder. It comprises of tips and tricks written by other players, for regular utopians. Please be civil in your [discussions](#) if you disagree with a point made on the page. | |
 
 ## Target Finder
 

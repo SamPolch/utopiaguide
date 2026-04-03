@@ -2,7 +2,7 @@
 
 |  |
 | --- |
-| **This is part of the Utopia WIKI [Tools Series](/web/20241207211005//index.php?title=Category:Tools "Category:Tools").** |
+| **This is part of the Utopia WIKI [Tools Series](#).** |
 
 |  |  |
 | --- | --- |
@@ -14,10 +14,10 @@ Mozilla Firefox, also known as Firefox for short, is a web browser which is part
 
 ## Add Ons for Mozilla Firefox for Utopia
 
-- [Pimp Agent](/web/20241207211005//index.php?title=Pimp_Agent "Pimp Agent")
-- [Pimp Agent 2](/web/20241207211005//index.php?title=Pimp_Agent_2 "Pimp Agent 2")
-- [Metatron Plus](/web/20241207211005//index.php?title=Metatron_Plus "Metatron Plus")
-- [Seraphiel](/web/20241207211005//index.php?title=Seraphiel "Seraphiel")
+- [Pimp Agent](/category/Pimp_Agent.md)
+- [Pimp Agent 2](#)
+- [Metatron Plus](/misc/Metatron_Plus.md)
+- [Seraphiel](#)
 
 ## Where May I get Mozilla Firefox?
 

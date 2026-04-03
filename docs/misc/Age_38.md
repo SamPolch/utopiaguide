@@ -23,8 +23,8 @@ Historical Guide - [http://thedragonportal.eu/guides/38/ Copy of Original guide]
 
 Templates used on this page:
 
-- [Template:Ages](/web/20250120230740//index.php?title=Template:Ages "Template:Ages") ([view source](/web/20250120230740//index.php?title=Template:Ages&action=edit "Template:Ages"))
-- [Template:Infobox Age](/web/20250120230740//index.php?title=Template:Infobox_Age "Template:Infobox Age") ([view source](/web/20250120230740//index.php?title=Template:Infobox_Age&action=edit "Template:Infobox Age"))
-- [Template:•](/web/20250120230740//index.php?title=Template:%E2%80%A2 "Template:•") ([view source](/web/20250120230740//index.php?title=Template:%E2%80%A2&action=edit "Template:•"))
+- [Template:Ages](#) ([view source](#))
+- [Template:Infobox Age](#) ([view source](#))
+- [Template:•](#) ([view source](#))
 
-Return to [Age 38](/web/20250120230740//index.php?title=Age_38 "Age 38").
+Return to [Age 38](/misc/Age_38.md).

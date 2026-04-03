@@ -2,7 +2,7 @@
 
 |  |
 | --- |
-| **This is part of the Utopia WIKI [Tools Series](/web/20241207210022//index.php?title=Category:Tools "Category:Tools").** |
+| **This is part of the Utopia WIKI [Tools Series](#).** |
 
 |  |  |
 | --- | --- |
@@ -10,13 +10,13 @@
 
 ## What is Pimp Agent?
 
-An Add-on for [Mozilla Firefox](/web/20241207210022//index.php?title=Mozilla_Firefox "Mozilla Firefox") which makes it which links directly to your kingdom's [UtopiaPimp](/web/20241207210022//index.php?title=UtopiaPimp "UtopiaPimp") account without the use of [Forum Agent](/web/20241207210022//index.php?title=Utopia_Angel#Forum_Agent "Utopia Angel"). Pimp Agent builds itself right into the Utopia page, so you can get all the data you'll ever send to Utopiapimp sent directly without any copy/pasting or opening of extra browser windows. Seriously, sending data will never get easier than this.
+An Add-on for [Mozilla Firefox](/misc/Mozilla_Firefox.md) which makes it which links directly to your kingdom's [UtopiaPimp](/category/UtopiaPimp.md) account without the use of [Forum Agent](#). Pimp Agent builds itself right into the Utopia page, so you can get all the data you'll ever send to Utopiapimp sent directly without any copy/pasting or opening of extra browser windows. Seriously, sending data will never get easier than this.
 
 **Developer** Molesquirrel & Chid
 
 **Download Link** [http://www.utopiapimp.com/index.php?page=misc/pimp\_agent](http://www.utopiapimp.com/index.php?page=misc/pimp_agent)
 
-**NB** With Utopiapimp set to close down soon, [UtopiaPimp V2](/web/20241207210022//index.php?title=UtopiaPimp_V2 "UtopiaPimp V2") is in development and as such Pimp Agent may be soon superceded by [Pimp Agent 2](/web/20241207210022//index.php?title=Pimp_Agent_2 "Pimp Agent 2").
+**NB** With Utopiapimp set to close down soon, [UtopiaPimp V2](/category/UtopiaPimp_V2.md) is in development and as such Pimp Agent may be soon superceded by [Pimp Agent 2](#).
 
 ## Requirements
 

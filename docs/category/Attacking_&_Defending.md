@@ -86,8 +86,8 @@ For Attacks that target and capture Resources (Traditional March, Conquest, Plun
 
 - Resources are defined as: Land, Gold Coins, Food, Runes, Science Books
 - Land attacks (except Ambush) also reward Military Credits (target's Defense Points \*.008 \* relative NW \* Military Credits mod) and Building Credits (Acres captured \* 0.4 \* relative NW \* Building Credits mod).
-- Raze ignores all modifiers except Relations, [Multi-Attack Protection](/web/20241207210354//index.php?title=Multi-Attack_Protection_(MAP) "Multi-Attack Protection (MAP)") and the Attack Time Adjustment Factor.
-- Massacre ignores most Resource Gains modifiers, except RPNW, RKNW, Relations, [Multi-Attack Protection](/web/20241207210354//index.php?title=Multi-Attack_Protection_(MAP) "Multi-Attack Protection (MAP)") and the Attack Time Adjustment Factor; Massacre is affected by Massacre Damage mod.
+- Raze ignores all modifiers except Relations, [Multi-Attack Protection](#) "Multi-Attack Protection (MAP)") and the Attack Time Adjustment Factor.
+- Massacre ignores most Resource Gains modifiers, except RPNW, RKNW, Relations, [Multi-Attack Protection](#) "Multi-Attack Protection (MAP)") and the Attack Time Adjustment Factor; Massacre is affected by Massacre Damage mod.
 - Ambush ignores all modifiers except increased/decreased Ambush Battle Losses mod.
 
 ### Province Networth Factor
@@ -178,7 +178,7 @@ Mod Defense = MAX ( Raw Defense * Defensive Military Efficiency , Land )
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Def Spec Points** | *Variable* | 10 |
 | **Elite Defense** | *Variable* |
-| **[Town Watch](/web/20241207210354//index.php?title=Mystics#Town_Watch "Mystics")** | Peasants / 5 | 0 |
+| **[Town Watch](/guide/Mystics.md)** | Peasants / 5 | 0 |
 
 ### Minimum Defense
 
@@ -211,7 +211,7 @@ Base Military Casualties are 6.5%-8.5% on Offense, 5%-6.5% on Defense.
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/web/20241207210354//index.php?title=Getting_Started_with_Utopia "Getting Started with Utopia")  • [Creating a province](/web/20241207210354//index.php?title=Creating_a_province "Creating a province")  • [Race](/web/20241207210354//index.php?title=Race "Race") & [Personality](/web/20241207210354//index.php?title=Personality "Personality") |
-| The Menus | [Throne](/web/20241207210354//index.php?title=Throne "Throne")  • [Kingdom](/web/20241207210354//index.php?title=Kingdom "Kingdom")  • [News](/web/20241207210354//index.php?title=The_Paper "The Paper") [Explore](/web/20241207210354//index.php?title=Explore "Explore")  • [Growth](/web/20241207210354//index.php?title=Growth "Growth")  • [Science](/web/20241207210354//index.php?title=Science "Science")  • [Military](/web/20241207210354//index.php?title=Military "Military")  [Mystics](/web/20241207210354//index.php?title=Mystics "Mystics")  • [Thievery](/web/20241207210354//index.php?title=Thievery "Thievery")  • [War Room](/web/20241207210354//index.php?title=War_Room "War Room") • [Aid](/web/20241207210354//index.php?title=Aid "Aid")  • [Dragon](/web/20241207210354//index.php?title=Dragons "Dragons")  • [Ritual](/web/20241207210354//index.php?title=Ritual "Ritual")  • [Stances](/web/20241207210354//index.php?title=Stances "Stances")  [Mail & Forums](/web/20241207210354//index.php?title=Ingame "Ingame")  [Politics](/web/20241207210354//index.php?title=Politics "Politics")  • [Relations](/web/20241207210354//index.php?title=Relations "Relations")  • Rankings  • [Preferences](/web/20241207210354//index.php?title=Preferences "Preferences") |
-| Advanced | [MunkBot](/web/20241207210354//index.php?title=MunkBot "MunkBot")  • [Invitations](/web/20241207210354//index.php?title=Invitations "Invitations")  • [Reservations](/web/20241207210354//index.php?title=Reservations "Reservations")  • [Utopia](/web/20241207210354//index.php?title=Utopia "Utopia")  • [Province](/web/20241207210354//index.php?title=Province "Province")  • [World of Legends](/web/20241207210354//index.php?title=World_of_Legends "World of Legends")  • [Formulas](/web/20241207210354//index.php?title=Formulas "Formulas") |
-| Rules | [Game Rules](/web/20241207210354//index.php?title=Game_Rules "Game Rules") |
+| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • [Military](/guide/Military.md)  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md)  • [Formulas](#) |
+| Rules | [Game Rules](/misc/Game_Rules.md) |

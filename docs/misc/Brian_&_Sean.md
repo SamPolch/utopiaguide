@@ -37,7 +37,7 @@ Sean and Brian"
 
 Templates used on this page:
 
-- [Template:Guide navigation](/web/20250219213103//index.php?title=Template:Guide_navigation "Template:Guide navigation") ([view source](/web/20250219213103//index.php?title=Template:Guide_navigation&action=edit "Template:Guide navigation"))
-- [Template:•](/web/20250219213103//index.php?title=Template:%E2%80%A2 "Template:•") ([view source](/web/20250219213103//index.php?title=Template:%E2%80%A2&action=edit "Template:•"))
+- [Template:Guide navigation](#) ([view source](#))
+- [Template:•](#) ([view source](#))
 
-Return to [Brian & Sean](/web/20250219213103//index.php?title=Brian_%26_Sean "Brian & Sean").
+Return to [Brian & Sean](/misc/Brian_&_Sean.md).

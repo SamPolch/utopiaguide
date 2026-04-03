@@ -2,7 +2,7 @@
 
 ### MunkBot
 
-MunkBot is a new developer tool that was introduced in [Age 71](/web/20170708005427//index.php?title=Age_71 "Age 71"). This tool has been created in particular for third-party targetfinders to operate more efficiently, without stressing the Utopia servers. Any targetfinders found running that scrape the Utopia kingdom pages are going to be banned.
+MunkBot is a new developer tool that was introduced in [Age 71](/category/Age_71.md). This tool has been created in particular for third-party targetfinders to operate more efficiently, without stressing the Utopia servers. Any targetfinders found running that scrape the Utopia kingdom pages are going to be banned.
 
 The tool updates every 15 minutes (but offset from the tick, so at 5, 20, 35, and 50 minutes into the hour), and contains the following information:
 

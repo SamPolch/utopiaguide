@@ -10,4 +10,4 @@ You can view and copy the source of this page.
 
 This page is reserved for future rankings.
 
-Return to [Rankings](/web/20210724053635//index.php?title=Rankings "Rankings").
+Return to [Rankings](/misc/Rankings.md).

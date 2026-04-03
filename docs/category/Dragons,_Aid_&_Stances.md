@@ -1,6 +1,6 @@
 # Difference between revisions of "Dragons, Aid & Stances"
 
-| **[Revision as of 04:01, 14 October 2014](/web/20220122105717//index.php?title=Dragons,_Aid_%26_Stances&oldid=6703 "Dragons, Aid & Stances") ([view source](/web/20220122105717//index.php?title=Dragons,_Aid_%26_Stances&action=edit&oldid=6703 "Dragons, Aid & Stances"))**[Spahrep](/web/20220122105717//index.php?title=User:Spahrep "User:Spahrep") ([talk](/web/20220122105717//index.php?title=User_talk:Spahrep&action=edit&redlink=1 "User talk:Spahrep (page does not exist)") | [contribs](/web/20220122105717//index.php?title=Special:Contributions/Spahrep "Special:Contributions/Spahrep"))([→](#Stances)‎Stances)[← Older edit](/web/20220122105717//index.php?title=Dragons,_Aid_%26_Stances&diff=prev&oldid=6703 "Dragons, Aid & Stances") | | **[Revision as of 15:39, 6 November 2014](/web/20220122105717//index.php?title=Dragons,_Aid_%26_Stances&oldid=6711 "Dragons, Aid & Stances") ([view source](/web/20220122105717//index.php?title=Dragons,_Aid_%26_Stances&action=edit&oldid=6711 "Dragons, Aid & Stances"))** [Bishop](/web/20220122105717//index.php?title=User:Bishop "User:Bishop") ([talk](/web/20220122105717//index.php?title=User_talk:Bishop "User talk:Bishop") | [contribs](/web/20220122105717//index.php?title=Special:Contributions/Bishop "Special:Contributions/Bishop"))([→](#Stances)‎Stances)[Newer edit →](/web/20220122105717//index.php?title=Dragons,_Aid_%26_Stances&diff=next&oldid=6711 "Dragons, Aid & Stances") | |
+| **[Revision as of 04:01, 14 October 2014](#) ([view source](#))**[Spahrep](#) ([talk](#) | [contribs](#))([→](#Stances)‎Stances)[← Older edit](#) | | **[Revision as of 15:39, 6 November 2014](#) ([view source](#))** [Bishop](#) ([talk](#) | [contribs](#))([→](#Stances)‎Stances)[Newer edit →](#) | |
 | Line 26: | | Line 26: | |
 |  | \* -50% gains hitting in (slides in over a period of 24 hours) |  | \* -50% gains hitting in (slides in over a period of 24 hours) |
 |  | \* -50% gains on magic and thievery ops in(slides in over a period of 24 hours) |  | \* -50% gains on magic and thievery ops in(slides in over a period of 24 hours) |
@@ -16,8 +16,8 @@
 
 You may not change your stance if you have changed it within the last 24 hours, 24 full ticks must pass before it can be changed. If you are in Fortified the game will remove you after 4 days have passed since you entered it. If you enter Fortified on the 1st you will be removed on the 1st 4 days later.
 
-- Stance Effects are negated in [war](/web/20220122105717//index.php?title=War "War").
-- Stances may not be changed during [protection](/web/20220122105717//index.php?title=Protection "Protection").
+- Stance Effects are negated in [war](#).
+- Stances may not be changed during [protection](#).
 
 | Stances | | |
 | --- | --- | --- |
@@ -53,11 +53,11 @@ Dragon HP = ( Receiving Kingdom NW / ~44 ) * Relations Mod
 |  |  |
 | --- | --- |
 | **Condition** | **Modifier** |
-| **Relations: [Ceasefire](/web/20220122105717//index.php?title=Relations#Ceasefire "Relations")** | 0.25 |
+| **Relations: [Ceasefire](/guide/Relations.md)** | 0.25 |
 | **Relations: None** | 0.5 |
-| **Relations: [Unfriendly](/web/20220122105717//index.php?title=Relations#Hostile "Relations")** | 0.5 |
-| **Relations: [Hostile](/web/20220122105717//index.php?title=Relations#Hostile "Relations")** | 0.75 |
-| **Relations: [War](/web/20220122105717//index.php?title=Relations#War "Relations")** | 1 |
+| **Relations: [Unfriendly](/guide/Relations.md)** | 0.5 |
+| **Relations: [Hostile](/guide/Relations.md)** | 0.75 |
+| **Relations: [War](/guide/Relations.md)** | 1 |
 
 # Aid & Tax
 
@@ -79,7 +79,7 @@ Tax Rate = DEPEND ( Base Tax Rate ) :
 ```
 
 - Tax Rate is capped at 98% max.
-- If receiving province has been hit significantly and is subject to [Gangbang Protection](/web/20220122105717//index.php?title=Gangbang_Protection "Gangbang Protection"):
+- If receiving province has been hit significantly and is subject to [Gangbang Protection](#):
   - Tax rate will be cut in half
   - Tax will be capped at 15% rather than the 98% max.
 - Taxes don't take effect until your negative trade balance reaches 400% of your networth (equivalent to one maximum aid shipment).

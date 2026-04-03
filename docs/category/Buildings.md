@@ -121,7 +121,7 @@ Unlike Forts, Guard Stations will not make you less vulnerable to attacks. Never
 
 ### Hospitals
 
-Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the [Plague](/web/20170223075605//index.php?title=The_Plague "The Plague") if your province ever catches it.
+Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the [Plague](#) if your province ever catches it.
 
 ```
  % * 2 Daily Chance of Curing the Plague
@@ -209,14 +209,14 @@ Prisoners caught in combat are held captive into your dungeons. A dungeon can on
 | Forts |  |  | 2.0% | 37.5% | 25 | 25 | Increases Defensive Military Efficiency |
 | Guard Stations |  |  | 2% | 50% | 25 | 25 | Decrease Resource Losses when Attacked |
 | Barracks |  |  | 1.5% | 37.5% | 25 | 25 | Lowers Attack Time |
-| Hospitals |  |  | 2%3% | 50%75% | 25 | 25 | Daily Chance of Curing [the Plague](/web/20170223075605//index.php?title=The_Plague "The Plague")Decreases Military Losses |
-| Guilds |  | 0.02 Wizards |  |  | 25 | 25 | Wizards Trained per day Guilds also increase [spell](/web/20170223075605//index.php?title=Spells "Spells") duration |
+| Hospitals |  |  | 2%3% | 50%75% | 25 | 25 | Daily Chance of Curing [the Plague](#)Decreases Military Losses |
+| Guilds |  | 0.02 Wizards |  |  | 25 | 25 | Wizards Trained per day Guilds also increase [spell](#) duration |
 | Laboratories |  |  | 1.2% | 30% | 25 | 25 | Increase in new scientists |
 | Thieves Dens |  |  | 4%3% | 95%75% | 25 | 25 | Lowers losses in Thievery OperationsBonus to TPA |
 | Watchtowers |  |  | 2%3% | 50%75% | 25 | 25 | Chance of Catching Enemy ThievesRate of Repelling Individual Enemy Thieves |
 | Universities |  |  | 5.0% | 75% | 25 | 25 | Protection of Scientists from Abducts |
-| Training Grounds |  |  | 1.5% | 37.5% | 25 | 25 | Increases [Offensive Military Efficiency](/web/20170223075605//index.php?title=Offensive_Military_Efficiency "Offensive Military Efficiency") |
-| Mills |  |  | 4%3%2% | 99%75%?% | 25 | 25 | Decreases [Build Costs](/web/20170223075605//index.php?title=Exploring,_Construction_%26_Building_Formulas#Construction_Costs "Exploring, Construction & Building Formulas") (Max of 99%)Decreases [Gold Exploration Costs](/web/20170223075605//index.php?title=Exploring,_Construction_%26_Building_Formulas#Exploration_Costs "Exploring, Construction & Building Formulas")Decreases [Soldier Exploration Costs](/web/20170223075605//index.php?title=Exploring,_Construction_%26_Building_Formulas#Exploration_Costs "Exploring, Construction & Building Formulas") |
+| Training Grounds |  |  | 1.5% | 37.5% | 25 | 25 | Increases [Offensive Military Efficiency](#) |
+| Mills |  |  | 4%3%2% | 99%75%?% | 25 | 25 | Decreases [Build Costs](/misc/Exploring,_Construction_&_Building_Formulas.md) (Max of 99%)Decreases [Gold Exploration Costs](/misc/Exploring,_Construction_&_Building_Formulas.md)Decreases [Soldier Exploration Costs](/misc/Exploring,_Construction_&_Building_Formulas.md) |
 | Banks |  | 25gc | 1.25% | 31.25% | 25 | 25 | Produces 25gc per dayIncrease in Income |
 | Armouries |  |  | 2%2%1.5% | 50%50%37.5% | 25 | 25 | Decreases Draft CostsReduction of WagesDecreases Training Costs |
 | Towers |  | 12 Runes |  |  | 25 | 25 | Produces 12 runes per day |
@@ -225,11 +225,11 @@ Prisoners caught in combat are held captive into your dungeons. A dungeon can on
 
 ## Addition Information
 
-- [Growth](/web/20170223075605//index.php?title=Growth "Growth")
-- [Building Formulas](/web/20170223075605//index.php?title=Exploring,_Construction_%26_Building_Formulas#Buildings "Exploring, Construction & Building Formulas")
+- [Growth](/guide/Growth.md)
+- [Building Formulas](/misc/Exploring,_Construction_&_Building_Formulas.md)
 
 | **Buildings** | |
 | --- | --- |
-| Military Buildings | [Training Grounds](/web/20170223075605//index.php?title=Buildings#Training_Grounds "Buildings")  • [Armouries](/web/20170223075605//index.php?title=Buildings#Armouries "Buildings")  • [Barracks](/web/20170223075605//index.php?title=Buildings#Barracks "Buildings")  • [Forts](/web/20170223075605//index.php?title=Buildings#Forts "Buildings")  • [Guard Stations](/web/20170223075605//index.php?title=Buildings#Guard_Stations "Buildings")  • [Hospitals](/web/20170223075605//index.php?title=Buildings#Hospitals "Buildings")  • [Stables](/web/20170223075605//index.php?title=Buildings#Stables "Buildings")  • [Dungeons](/web/20170223075605//index.php?title=Buildings#Dungeons "Buildings") |
-| Thievery and Mystic Buildings | [Guilds](/web/20170223075605//index.php?title=Buildings#Guilds "Buildings")  • [Towers](/web/20170223075605//index.php?title=Buildings#Towers "Buildings")  • [Thieves' Dens](/web/20170223075605//index.php?title=Buildings#Thieves.27_Dens "Buildings")  • [Watchtowers](/web/20170223075605//index.php?title=Buildings#Watchtowers "Buildings") |
-| Civil Buildings | [Barren Lands](/web/20170223075605//index.php?title=Buildings#Barren_Lands "Buildings")  • [Homes](/web/20170223075605//index.php?title=Buildings#Homes "Buildings")  • [Farms](/web/20170223075605//index.php?title=Buildings#Farms "Buildings")  • [Mills](/web/20170223075605//index.php?title=Buildings#Mills "Buildings")  • [Banks](/web/20170223075605//index.php?title=Buildings#Banks "Buildings")  • [Libraries](/web/20170223075605//index.php?title=Buildings#Libraries "Buildings")  • [Schools](/web/20170223075605//index.php?title=Buildings#Schools "Buildings") |
+| Military Buildings | [Training Grounds](/category/Buildings.md)  • [Armouries](/category/Buildings.md)  • [Barracks](/category/Buildings.md)  • [Forts](/category/Buildings.md)  • [Guard Stations](/category/Buildings.md)  • [Hospitals](/category/Buildings.md)  • [Stables](/category/Buildings.md)  • [Dungeons](/category/Buildings.md) |
+| Thievery and Mystic Buildings | [Guilds](/category/Buildings.md)  • [Towers](/category/Buildings.md)  • [Thieves' Dens](/category/Buildings.md)  • [Watchtowers](/category/Buildings.md) |
+| Civil Buildings | [Barren Lands](/category/Buildings.md)  • [Homes](/category/Buildings.md)  • [Farms](/category/Buildings.md)  • [Mills](/category/Buildings.md)  • [Banks](/category/Buildings.md)  • [Libraries](/category/Buildings.md)  • [Schools](/category/Buildings.md) |

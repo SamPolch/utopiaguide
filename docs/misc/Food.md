@@ -46,9 +46,9 @@ You can view and copy the source of this page.
 
 Templates used on this page:
 
-- [Template:Guide navigation](/web/20250315082338//index.php?title=Template:Guide_navigation "Template:Guide navigation") ([view source](/web/20250315082338//index.php?title=Template:Guide_navigation&action=edit "Template:Guide navigation"))
-- [Template:Modifier](/web/20250315082338//index.php?title=Template:Modifier "Template:Modifier") ([view source](/web/20250315082338//index.php?title=Template:Modifier&action=edit "Template:Modifier"))
-- [Template:Mods](/web/20250315082338//index.php?title=Template:Mods "Template:Mods") ([view source](/web/20250315082338//index.php?title=Template:Mods&action=edit "Template:Mods"))
-- [Template:•](/web/20250315082338//index.php?title=Template:%E2%80%A2 "Template:•") ([view source](/web/20250315082338//index.php?title=Template:%E2%80%A2&action=edit "Template:•"))
+- [Template:Guide navigation](#) ([view source](#))
+- [Template:Modifier](#) ([view source](#))
+- [Template:Mods](#) ([view source](#))
+- [Template:•](#) ([view source](#))
 
-Return to [Food](/web/20250315082338//index.php?title=Food "Food").
+Return to [Food](/misc/Food.md).

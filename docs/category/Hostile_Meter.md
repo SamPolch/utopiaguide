@@ -82,55 +82,55 @@ No Effects
 
 ### Unfriendly
 
-- A [Dragon](/web/20240718110245//index.php?title=Dragons "Dragons") sent to an unfriendly Kingdom will only have 50% health points.
+- A [Dragon](/category/Dragons.md) sent to an unfriendly Kingdom will only have 50% health points.
 
 *Mystics:*
 
-- [Expose Thieves](/web/20240718110245//index.php?title=Mystics#Expose_Thieves "Mystics")
-- [Fireball](/web/20240718110245//index.php?title=Mystics#Fireball "Mystics")
-- [Lightning Strike](/web/20240718110245//index.php?title=Mystics#Lightning_Strike "Mystics")
-- [Chastity](/web/20240718110245//index.php?title=Mystics#Chastity "Mystics")
-- [Fool's Gold](/web/20240718110245//index.php?title=Mystics#Fool.27s_Gold "Mystics")
-- [Nightmares](/web/20240718110245//index.php?title=Mystics#Nightmares "Mystics")
-- [Mystic Vortex](/web/20240718110245//index.php?title=Mystics#Mystic_Vortex "Mystics")
-- [Tornadoes](/web/20240718110245//index.php?title=Mystics#Tornadoes "Mystics")
-- [Land Lust](/web/20240718110245//index.php?title=Mystics#Land_Lust "Mystics")
-- [Abolish Ritual](/web/20240718110245//index.php?title=Mystics#Abolish_Ritual "Mystics")
-- [Magic Ward](/web/20240718110245//index.php?title=Mystics#Magic_Ward "Mystics")
-- [Sloth](/web/20240718110245//index.php?title=Mystics#Sloth "Mystics")
+- [Expose Thieves](/guide/Mystics.md)
+- [Fireball](/guide/Mystics.md)
+- [Lightning Strike](/guide/Mystics.md)
+- [Chastity](/guide/Mystics.md)
+- [Fool's Gold](/guide/Mystics.md)
+- [Nightmares](/guide/Mystics.md)
+- [Mystic Vortex](/guide/Mystics.md)
+- [Tornadoes](/guide/Mystics.md)
+- [Land Lust](/guide/Mystics.md)
+- [Abolish Ritual](/guide/Mystics.md)
+- [Magic Ward](/guide/Mystics.md)
+- [Sloth](/guide/Mystics.md)
 
 *Thievery:*
 
-- [Night Strike](/web/20240718110245//index.php?title=Thievery#Night_Strike "Thievery")
-- [Assassinate Wizards](/web/20240718110245//index.php?title=Thievery#Assassinate_Wizards "Thievery")
-- [Greater Arson](/web/20240718110245//index.php?title=Thievery#Greater_Arson "Thievery")
-- [Sabotage Wizards](/web/20240718110245//index.php?title=Thievery#Sabotage_Wizards "Thievery")
+- [Night Strike](/misc/Thievery.md)
+- [Assassinate Wizards](/misc/Thievery.md)
+- [Greater Arson](/misc/Thievery.md)
+- [Sabotage Wizards](/misc/Thievery.md)
 
 ### Hostile
 
 - Some Honor gains from Ops and Spells
-- A [Dragon](/web/20240718110245//index.php?title=Dragons "Dragons") sent to a Hostile Kingdom will only have 75% health points.
+- A [Dragon](/category/Dragons.md) sent to a Hostile Kingdom will only have 75% health points.
 - Mana costs of Offensive Spells decreases to 2%
 - Stealth costs of Offensive Operations decreases to 2%
-- Access to [Meteor Showers](/web/20240718110245//index.php?title=Mystics#Meteor_Showers "Mystics")
+- Access to [Meteor Showers](/guide/Mystics.md)
 
 ### War
 
 - Greatly increased Honor gains from Ops and Spells
-- A [Dragon](/web/20240718110245//index.php?title=Dragons "Dragons") sent in War has full health
+- A [Dragon](/category/Dragons.md) sent in War has full health
 - Dragon Networth Range is removed when targeting a Kingdom you are at War with
-- Greatly reduced [Multi-Attack Protection](/web/20240718110245//index.php?title=Gangbang_Protection "Gangbang Protection")
+- Greatly reduced [Multi-Attack Protection](#)
 - 80% Protection from hits and spell/op effects from Kingdoms outside the War (phasing in over 24h)
 - Decreased Attack Time (phasing in) by 15% after 12 Ticks
 
 *Mystics:*
 
-- [Amnesia](/web/20240718110245//index.php?title=Mystics#Amnesia "Mystics")
-- [War Spoils](/web/20240718110245//index.php?title=Mystics#War_Spoils "Mystics")
+- [Amnesia](/guide/Mystics.md)
+- [War Spoils](/guide/Mystics.md)
 
 *Thievery:*
 
-- [Propaganda](/web/20240718110245//index.php?title=Thievery#Propaganda "Thievery")
+- [Propaganda](/misc/Thievery.md)
 
 ## Changelog
 

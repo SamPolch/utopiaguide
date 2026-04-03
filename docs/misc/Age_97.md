@@ -6,9 +6,9 @@
 | Name: | **Dominance** |
 | Number: | 97 |
 | **Official Information** | |
-| Server: | [World of Legends](/web/20241207204858//index.php?title=World_of_Legends "World of Legends") |
+| Server: | [World of Legends](/category/World_of_Legends.md) |
 | Status: | Ended |
-| Owner: | [Muga Gaming](/web/20241207204858//index.php?title=Muga_Gaming "Muga Gaming") |
+| Owner: | [Muga Gaming](/misc/Muga_Gaming.md) |
 | **Dates** | |
 | Start: | Wednesday June 29, 2022 @ 18:00 GMT |
 | End: | Saturday, September 3, 2022 @ 00:00 GMT |
@@ -24,25 +24,25 @@ Original details can be found in the forums here: [http://forums.utopia-game.com
 - Specialists once again convert to Elite Units on successful Traditional March Attacks for all Races
 - Military Wages penalty from the Kingdom Wall removed
 - Daily Activity Bonus will be calculated from the average Income of the last ingame Month
-- Provinces will no longer be affected by [Dragons](/web/20241207204858//index.php?title=Dragons "Dragons") during Protection
+- Provinces will no longer be affected by [Dragons](/category/Dragons.md) during Protection
 - An indicator for current MAP (Multi-Attack Protection) level will be visible on State Council
 - Out of Range Wars will no longer transfer War Score
 - Aggressive FCF will no longer transfer War Score
 
-### [Buildings](/web/20241207204858//index.php?title=Growth "Growth")
+### [Buildings](/guide/Growth.md)
 
 - Farms production reduced from 70 to 60 bushels per tick
 - Training Grounds now also reduce Mercenary costs by 2% (max 50%)
 - Universities now increase Science Book generation of all Categories; base Book generation effect reduced to from 2% to 1% (max 25%)
 
-### [Science](/web/20241207204858//index.php?title=Science "Science")
+### [Science](/misc/Science.md)
 
 - Cunning Science has been split into Sorcery:'Increased Instant Spell Damage' and Cunning:'Increased Sabotage Operation Damage'
 - Cunning Science efficiency scaling reduced to ~2/3 of current
 - Sorcery Science efficiency scaling reduced to ~2/3 of current
 - All Personalities will generate bonus Science Books based on their area of focus (see Personalities section for more information)
 
-### [Relations](/web/20241207204858//index.php?title=Relations "Relations")
+### [Relations](/guide/Relations.md)
 
 - Military Casualties will be proportionally reduced by the scaling Effectiveness penalty for hitting into/out of War
 - Points needed for reaching War Tiers have been adjusted (each tier provides additional bonuses to the winning Kingdom of a War)
@@ -55,7 +55,7 @@ Original details can be found in the forums here: [http://forums.utopia-game.com
 - Tier 4: 190
 - Tier 5: 220
 
-### [Rituals](/web/20241207204858//index.php?title=Ritual "Ritual")
+### [Rituals](/misc/Ritual.md)
 
 - Number of Casts needed to start a 100% strength Ritual changed from 80 to 3 times the number of provinces in the Kingdom (to a minimum 45 Casts for 15 provinces or fewer)
 - Undercasting a Ritual has been removed
@@ -73,7 +73,7 @@ Original details can be found in the forums here: [http://forums.utopia-game.com
 - Onslaught: +10% Offensive Military Efficiency, +15% Enemy Military Casualties on Attacks
 - Stalwart: +10% Defensive Military Efficiency, -15% Military Casualties
 
-### [Spells](/web/20241207204858//index.php?title=Mystics "Mystics")
+### [Spells](/guide/Mystics.md)
 
 - Returning Spell - Miner's Mystique: Peasants provide a stable, supplemental source of Income from mining precious metals, generating an extra 0.3gc each (medium duration)
 - New Spell - Salvation: protects military in battle, reducing all Military Casualties by 10% (medium duration)
@@ -110,14 +110,14 @@ Original details can be found in the forums here: [http://forums.utopia-game.com
 
 - (note: in order to cast a particular Support Spell, you must have access to it)
 
-### [Operations](/web/20241207204858//index.php?title=Thievery "Thievery")
+### [Operations](/misc/Thievery.md)
 
 - Sabotage Wizards Damage cap reduced by 50%
 - Assassinate Wizards meter points value increased to .12
 - Arson meter points value increased to .08
 - Greater Arson meter points value increased to .1
 
-### [Dragons](/web/20241207204858//index.php?title=Dragons "Dragons")
+### [Dragons](/category/Dragons.md)
 
 - Dragons no longer have baseline effects
 - Dragons maximum duration reduced from 120 to 48 Ticks
@@ -152,6 +152,6 @@ Original details can be found in the forums here: [http://forums.utopia-game.com
 - -15% Income
 - Instantly Destroys 2% of Buildings, and then again every 6 Ticks
 
-| **[Ages](/web/20241207204858//index.php?title=Age "Age")** | |
+| **[Ages](#)** | |
 | --- | --- |
-| Ages | **1998 - 1999 :** The first generation of Utopia (1)  • The Second Age of Utopia (2)  • The Third Age of Utopia (3)  • The Fourth Age of Utopia (4)  • The Fifth Age of Utopia (5)  • The Sixth Age of Utopia (6)  • **2000 - 2001 :** The Seventh Age of Utopia (7)  • The Age of Chaos (8)  • The Renaissance Age (9)  • The Age of Conflict (10)  • The Age of Nobility (11)  • The Era of Magic (12)  • The Era of Mystery (13)  • The Era of Strife (14)  •  **2002 - 2003 :** The Age of Valour (15)  • The Age of Discovery (16)  • The Age of the People (17)  • The Age of Heroes (18)  • An Era of Hope (19)  • An Age of Dreams (20)  • An Age of Wonders (21)  • An Age of Conquerors (22)  • The Revolution (23)  •  **2004 - 2005 :** An Age of Glory (24)  • An Age of Tranquility (25)  • An Age of Turmoil (26)  • An Age of Courage (27)  • An Age of Intrigue (28)  • An Age of War (29)  • An Age of Unity (30)  •  **2006 - 2007 :** An Age of Reason (31)  • An Age of Kings (32)  • An Age of Prosperity (33)  • The Age of the Dragon (34)  • An Age of Triumph (35)  • An Age of Bravery (36)  • [The Age of Darkness](/web/20241207204858//index.php?title=Age_37 "Age 37") (37)  •  **2008 - 2009 :** [The Age of Angels](/web/20241207204858//index.php?title=Age_38 "Age 38") (38)  • [The Age of the Scholar](/web/20241207204858//index.php?title=Age_39 "Age 39") (39)  • [The Awakening](/web/20241207204858//index.php?title=Age_40 "Age 40") (40)  • [The Age of Renewal](/web/20241207204858//index.php?title=Age_41 "Age 41") (41)  • [The Age of Hope](/web/20241207204858//index.php?title=Age_42 "Age 42") (42)  • [The Age of Rebirth](/web/20241207204858//index.php?title=Age_43 "Age 43") (43)  • [The Age of Change](/web/20241207204858//index.php?title=Age_44 "Age 44") (44)  • [The Age of Light](/web/20241207204858//index.php?title=Age_45 "Age 45") (45)  •  **2010 - 2011 :** [The Age of Distinction](/web/20241207204858//index.php?title=Age_46 "Age 46") (46)  • [The Age of Justice](/web/20241207204858//index.php?title=Age_47 "Age 47") (47)  • [The Age of Peril](/web/20241207204858//index.php?title=Age_48 "Age 48") (48)  • [The Age of Conspiracy](/web/20241207204858//index.php?title=Age_49 "Age 49") (49)  • [The Age of Resurrection](/web/20241207204858//index.php?title=Age_50 "Age 50") (50)  • [The Age of Domination](/web/20241207204858//index.php?title=Age_51 "Age 51") (51)  • [An Era of Supremacy](/web/20241207204858//index.php?title=Age_52 "Age 52") (52)  •  **2012 - 2013 :** [The Age of Havoc](/web/20241207204858//index.php?title=Age_53 "Age 53") (53)  • [A Call to Arms](/web/20241207204858//index.php?title=Age_54 "Age 54") (54)  • [Veil of Shadows](/web/20241207204858//index.php?title=Age_55 "Age 55") (55)  • [Strength in Union](/web/20241207204858//index.php?title=Age_56 "Age 56") (56)  • [Relentless Onslaught](/web/20241207204858//index.php?title=Age_57 "Age 57") (57)  • [Art of War](/web/20241207204858//index.php?title=Age_58 "Age 58") (58)  • [An Honorable Proposition](/web/20241207204858//index.php?title=Age_59 "Age 59") (59)  • [A Battle Joined](/web/20241207204858//index.php?title=Age_60 "Age 60") (60)  •  **2014 - 2015 :** [Age of Destruction](/web/20241207204858//index.php?title=Age_61 "Age 61") (61)  • [Books of War](/web/20241207204858//index.php?title=Age_62 "Age 62") (62)  • [Iron Walls, Iron Heart](/web/20241207204858//index.php?title=Age_63 "Age 63") (63)  • [The Spoils of War](/web/20241207204858//index.php?title=Age_64 "Age 64") (64)  • [The Isles of Legion](/web/20241207204858//index.php?title=Age_65 "Age 65") (65)  • [Thunder and Bedlam](/web/20241207204858//index.php?title=Age_66 "Age 66") (66)  •  **2016 - 2017 :** [The Age of Perception](/web/20241207204858//index.php?title=Age_67 "Age 67") (67)  • [The Age of Heresy](/web/20241207204858//index.php?title=Age_68 "Age 68") (68)  • [The Age of Scholars and Scoundrels](/web/20241207204858//index.php?title=Age_69 "Age 69") (69)  • [The Age of Daunting Judgement](/web/20241207204858//index.php?title=Age_70 "Age 70") (70)  • [The Metamorphosis](/web/20241207204858//index.php?title=Age_71 "Age 71") (71)  • [The Era of Venerated Bastions](/web/20241207204858//index.php?title=Age_72 "Age 72") (72)  • [The Age of Tricksters and Mischief](/web/20241207204858//index.php?title=Age_73 "Age 73") (73)  • [The Age of Affinity](/web/20241207204858//index.php?title=Age_74 "Age 74") (74)  •  **2017 - 2018 :** [The Age of Empowering Enchantments](/web/20241207204858//index.php?title=Age_75 "Age 75") (75)  • [The Age of the Empyrean Advent](/web/20241207204858//index.php?title=Age_76 "Age 76") (76)  • [The Age of Accession and Abrogation](/web/20241207204858//index.php?title=Age_77 "Age 77")  (77)  • [The Age of Insight](/web/20241207204858//index.php?title=Age_78 "Age 78")  (78)  • [The Age of Vanguards Acquiescence](/web/20241207204858//index.php?title=Age_79 "Age 79") (79)  •  **2019 - 2020 :** [The Age of Reconnaissance](/web/20241207204858//index.php?title=Age_80 "Age 80") (80)  • [The Emergence](/web/20241207204858//index.php?title=Age_81 "Age 81") (81)  • [The Grimoires of Glory](/web/20241207204858//index.php?title=Age_82 "Age 82") (82)  • [Age of Adjudication](/web/20241207204858//index.php?title=Age_83 "Age 83") (83)  • [Bethink the Fray](/web/20241207204858//index.php?title=Age_84 "Age 84") (84)  • [Intuition](/web/20241207204858//index.php?title=Age_85 "Age 85") (85)  • [Global Viction](/web/20241207204858//index.php?title=Age_86 "Age 86") (86)  • [Age of the Sword](/web/20241207204858//index.php?title=Age_87 "Age 87") (87)  • [Swift Strife](/web/20241207204858//index.php?title=Age_88 "Age 88") (88)  • [Reformation](/web/20241207204858//index.php?title=Age_89 "Age 89") (89)  **2021 - 2022 :** [Age of Exile](/web/20241207204858//index.php?title=Age_90 "Age 90") 90  • [Age of Remembrance](/web/20241207204858//index.php?title=Age_91 "Age 91") 91  • [Age of Ancestry](/web/20241207204858//index.php?title=Age_92 "Age 92") 92  • [Occult Ordination](/web/20241207204858//index.php?title=Age_93 "Age 93") 93  • [Ascent](/web/20241207204858//index.php?title=Age_94 "Age 94") 94  • [Age of the Omen](/web/20241207204858//index.php?title=Age_95 "Age 95") 95  • [The Eternal Rift](/web/20241207204858//index.php?title=Age_96 "Age 96") 96  • **Dominance** 97  • [Keen Transformation](/web/20241207204858//index.php?title=Age_98 "Age 98") 98  •  **2023 - 2024 :** [Crossing Boundaries](/web/20241207204858//index.php?title=Age_99 "Age 99") 99  • [Equilibrium](/web/20241207204858//index.php?title=Age_100 "Age 100") 100  • [Crusades](/web/20241207204858//index.php?title=Age_101 "Age 101") 101  • [Godsend](/web/20241207204858//index.php?title=Age_102 "Age 102") 102  • [Unbound Dominion](/web/20241207204858//index.php?title=Age_103 "Age 103") 103  • [Renascence](/web/20241207204858//index.php?title=Age_104 "Age 104") 104  • [Devout Fervor](/web/20241207204858//index.php?title=Age_105 "Age 105") 105 |
+| Ages | **1998 - 1999 :** The first generation of Utopia (1)  • The Second Age of Utopia (2)  • The Third Age of Utopia (3)  • The Fourth Age of Utopia (4)  • The Fifth Age of Utopia (5)  • The Sixth Age of Utopia (6)  • **2000 - 2001 :** The Seventh Age of Utopia (7)  • The Age of Chaos (8)  • The Renaissance Age (9)  • The Age of Conflict (10)  • The Age of Nobility (11)  • The Era of Magic (12)  • The Era of Mystery (13)  • The Era of Strife (14)  •  **2002 - 2003 :** The Age of Valour (15)  • The Age of Discovery (16)  • The Age of the People (17)  • The Age of Heroes (18)  • An Era of Hope (19)  • An Age of Dreams (20)  • An Age of Wonders (21)  • An Age of Conquerors (22)  • The Revolution (23)  •  **2004 - 2005 :** An Age of Glory (24)  • An Age of Tranquility (25)  • An Age of Turmoil (26)  • An Age of Courage (27)  • An Age of Intrigue (28)  • An Age of War (29)  • An Age of Unity (30)  •  **2006 - 2007 :** An Age of Reason (31)  • An Age of Kings (32)  • An Age of Prosperity (33)  • The Age of the Dragon (34)  • An Age of Triumph (35)  • An Age of Bravery (36)  • [The Age of Darkness](#) (37)  •  **2008 - 2009 :** [The Age of Angels](/misc/Age_38.md) (38)  • [The Age of the Scholar](#) (39)  • [The Awakening](#) (40)  • [The Age of Renewal](#) (41)  • [The Age of Hope](#) (42)  • [The Age of Rebirth](#) (43)  • [The Age of Change](/misc/Age_44.md) (44)  • [The Age of Light](#) (45)  •  **2010 - 2011 :** [The Age of Distinction](#) (46)  • [The Age of Justice](#) (47)  • [The Age of Peril](/misc/Age_48.md) (48)  • [The Age of Conspiracy](/misc/Age_49.md) (49)  • [The Age of Resurrection](#) (50)  • [The Age of Domination](#) (51)  • [An Era of Supremacy](#) (52)  •  **2012 - 2013 :** [The Age of Havoc](/misc/Age_53.md) (53)  • [A Call to Arms](#) (54)  • [Veil of Shadows](/misc/Age_55.md) (55)  • [Strength in Union](/misc/Age_56.md) (56)  • [Relentless Onslaught](/misc/Age_57.md) (57)  • [Art of War](#) (58)  • [An Honorable Proposition](#) (59)  • [A Battle Joined](#) (60)  •  **2014 - 2015 :** [Age of Destruction](/category/Age_61.md) (61)  • [Books of War](/category/Age_62.md) (62)  • [Iron Walls, Iron Heart](/misc/Age_63.md) (63)  • [The Spoils of War](/category/Age_64.md) (64)  • [The Isles of Legion](/misc/Age_65.md) (65)  • [Thunder and Bedlam](#) (66)  •  **2016 - 2017 :** [The Age of Perception](#) (67)  • [The Age of Heresy](/misc/Age_68.md) (68)  • [The Age of Scholars and Scoundrels](#) (69)  • [The Age of Daunting Judgement](#) (70)  • [The Metamorphosis](/category/Age_71.md) (71)  • [The Era of Venerated Bastions](/misc/Age_72.md) (72)  • [The Age of Tricksters and Mischief](/category/Age_73.md) (73)  • [The Age of Affinity](/misc/Age_74.md) (74)  •  **2017 - 2018 :** [The Age of Empowering Enchantments](/category/Age_75.md) (75)  • [The Age of the Empyrean Advent](/category/Age_76.md) (76)  • [The Age of Accession and Abrogation](/category/Age_77.md)  (77)  • [The Age of Insight](/misc/Age_78.md)  (78)  • [The Age of Vanguards Acquiescence](/category/Age_79.md) (79)  •  **2019 - 2020 :** [The Age of Reconnaissance](/misc/Age_80.md) (80)  • [The Emergence](/category/Age_81.md) (81)  • [The Grimoires of Glory](/misc/Age_82.md) (82)  • [Age of Adjudication](/category/Age_83.md) (83)  • [Bethink the Fray](/category/Age_84.md) (84)  • [Intuition](/category/Age_85.md) (85)  • [Global Viction](/misc/Age_86.md) (86)  • [Age of the Sword](/misc/Age_87.md) (87)  • [Swift Strife](/misc/Age_88.md) (88)  • [Reformation](/category/Age_89.md) (89)  **2021 - 2022 :** [Age of Exile](/category/Age_90.md) 90  • [Age of Remembrance](/misc/Age_91.md) 91  • [Age of Ancestry](/misc/Age_92.md) 92  • [Occult Ordination](/misc/Age_93.md) 93  • [Ascent](/misc/Age_94.md) 94  • [Age of the Omen](/misc/Age_95.md) 95  • [The Eternal Rift](/misc/Age_96.md) 96  • **Dominance** 97  • [Keen Transformation](/misc/Age_98.md) 98  •  **2023 - 2024 :** [Crossing Boundaries](/misc/Age_99.md) 99  • [Equilibrium](/misc/Age_100.md) 100  • [Crusades](/misc/Age_101.md) 101  • [Godsend](/misc/Age_102.md) 102  • [Unbound Dominion](/misc/Age_103.md) 103  • [Renascence](/misc/Age_104.md) 104  • [Devout Fervor](/misc/Age_105.md) 105 |

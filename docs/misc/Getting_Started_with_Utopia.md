@@ -10,15 +10,15 @@ In Utopia, focusing on a clear role helps shape your strategy. The four main rol
 
 ## Race & Personality
 
-Choose [Races and Personalities](/web/20250907033526//index.php?title=Races_and_Personalities "Races and Personalities") that fit your preferred role and playstyle. Small bonuses accumulate into major advantages over time.
+Choose [Races and Personalities](/misc/Races_and_Personalities.md) that fit your preferred role and playstyle. Small bonuses accumulate into major advantages over time.
 
 ## Buildings
 
-Build strong infrastructure to support power and [growth](/web/20250907033526//index.php?title=Growth "Growth"). Peaceful development often complements military strategies.
+Build strong infrastructure to support power and [growth](/guide/Growth.md). Peaceful development often complements military strategies.
 
 ## Arts & Sciences
 
-Invest in [science](/web/20250907033526//index.php?title=Science "Science") for steady, long-term bonuses. Though subtle initially, these benefits grow and provide valuable advantages.
+Invest in [science](/misc/Science.md) for steady, long-term bonuses. Though subtle initially, these benefits grow and provide valuable advantages.
 
 ## Military
 
@@ -26,11 +26,11 @@ Balance troop drafting and wages carefully to maintain a strong defense without 
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Welcome to the Utopia Wiki](/web/20250907033526//index.php?title=Welcome_to_the_Utopia_Wiki "Welcome to the Utopia Wiki")** | Next:  **[Creating a province](/web/20250907033526//index.php?title=Creating_a_province "Creating a province")** » |
+| « Previous:  **[Welcome to the Utopia Wiki](/misc/Welcome_to_the_Utopia_Wiki.md)** | Next:  **[Creating a province](#)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | **Getting Started with Utopia**  • [Creating a province](/web/20250907033526//index.php?title=Creating_a_province "Creating a province")  • [Race](/web/20250907033526//index.php?title=Race "Race") & [Personality](/web/20250907033526//index.php?title=Personality "Personality") |
-| The Menus | [Throne](/web/20250907033526//index.php?title=Throne "Throne")  • [Kingdom](/web/20250907033526//index.php?title=Kingdom "Kingdom")  • [News](/web/20250907033526//index.php?title=The_Paper "The Paper") [Explore](/web/20250907033526//index.php?title=Explore "Explore")  • [Growth](/web/20250907033526//index.php?title=Growth "Growth")  • [Science](/web/20250907033526//index.php?title=Science "Science")  • [Military](/web/20250907033526//index.php?title=Military "Military")  [Mystics](/web/20250907033526//index.php?title=Mystics "Mystics")  • [Thievery](/web/20250907033526//index.php?title=Thievery "Thievery")  • [War Room](/web/20250907033526//index.php?title=War_Room "War Room") • [Aid](/web/20250907033526//index.php?title=Aid "Aid")  • [Dragon](/web/20250907033526//index.php?title=Dragons "Dragons")  • [Ritual](/web/20250907033526//index.php?title=Ritual "Ritual")  • [Stances](/web/20250907033526//index.php?title=Stances "Stances")  [Mail & Forums](/web/20250907033526//index.php?title=Ingame "Ingame")  [Politics](/web/20250907033526//index.php?title=Politics "Politics")  • [Relations](/web/20250907033526//index.php?title=Relations "Relations")  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](/web/20250907033526//index.php?title=Preferences "Preferences") |
-| Advanced | [MunkBot](/web/20250907033526//index.php?title=MunkBot "MunkBot")  • [Invitations](/web/20250907033526//index.php?title=Invitations "Invitations")  • [Reservations](/web/20250907033526//index.php?title=Reservations "Reservations")  • [Utopia](/web/20250907033526//index.php?title=Utopia "Utopia")  • [Province](/web/20250907033526//index.php?title=Province "Province")  • [World of Legends](/web/20250907033526//index.php?title=World_of_Legends "World of Legends")  • [Formulas](/web/20250907033526//index.php?title=Formulas "Formulas") |
-| Rules | [Game Rules](/web/20250907033526//index.php?title=Game_Rules "Game Rules") |
+| Introduction | **Getting Started with Utopia**  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • [Military](/guide/Military.md)  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
+| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md)  • [Formulas](#) |
+| Rules | [Game Rules](/misc/Game_Rules.md) |

@@ -1,6 +1,6 @@
 # Difference between revisions of "Mystics"
 
-| **[Revision as of 16:59, 8 September 2021](/web/20211026115550//index.php?title=Mystics&oldid=9645 "Mystics") ([view source](/web/20211026115550//index.php?title=Mystics&action=edit&oldid=9645 "Mystics"))**[Avenger](/web/20211026115550//index.php?title=User:Avenger "User:Avenger") ([talk](/web/20211026115550//index.php?title=User_talk:Avenger&action=edit&redlink=1 "User talk:Avenger (page does not exist)") | [contribs](/web/20211026115550//index.php?title=Special:Contributions/Avenger "Special:Contributions/Avenger"))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[← Older edit](/web/20211026115550//index.php?title=Mystics&diff=prev&oldid=9645 "Mystics") | | **[Revision as of 17:00, 8 September 2021](/web/20211026115550//index.php?title=Mystics&oldid=9646 "Mystics") ([view source](/web/20211026115550//index.php?title=Mystics&action=edit&oldid=9646 "Mystics"))** [Avenger](/web/20211026115550//index.php?title=User:Avenger "User:Avenger") ([talk](/web/20211026115550//index.php?title=User_talk:Avenger&action=edit&redlink=1 "User talk:Avenger (page does not exist)") | [contribs](/web/20211026115550//index.php?title=Special:Contributions/Avenger "Special:Contributions/Avenger"))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[Newer edit →](/web/20211026115550//index.php?title=Mystics&diff=next&oldid=9646 "Mystics") | |
+| **[Revision as of 16:59, 8 September 2021](#) ([view source](#))**[Avenger](#) ([talk](#) | [contribs](#))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[← Older edit](#) | | **[Revision as of 17:00, 8 September 2021](#) ([view source](#))** [Avenger](#) ([talk](#) | [contribs](#))m ([→](#Restriction_.26_Limits)‎Restriction & Limits)[Newer edit →](#) | |
 | Line 44: | | Line 44: | |
 |  | \*[[Mystics#The\_Spell\_Book:\_the\_self\_spells|Self Spells]] |  | \*[[Mystics#The\_Spell\_Book:\_the\_self\_spells|Self Spells]] |
 |  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [[Magic\_Formulas#The Spell Book|'''here''']]. |  | \*\* Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [[Magic\_Formulas#The Spell Book|'''here''']]. |
@@ -12,15 +12,15 @@
 
 ## Revision as of 17:00, 8 September 2021
 
-Unlike your fabled land of Earth, the citizens of [Utopia](/web/20211026115550//index.php?title=Utopia "Utopia") truly believe in and have witnessed the powers of magic. From the deadly plagues to the amazingly fertile land, so much has happened on this planet that cannot be explained away by science or nature. As ruler of your lands, you have access to some of the most amazing magical spells ever known. Below, I will try to explain to the best of my ability the powers of these spells and how to make magic your friend.
+Unlike your fabled land of Earth, the citizens of [Utopia](/misc/Utopia.md) truly believe in and have witnessed the powers of magic. From the deadly plagues to the amazingly fertile land, so much has happened on this planet that cannot be explained away by science or nature. As ruler of your lands, you have access to some of the most amazing magical spells ever known. Below, I will try to explain to the best of my ability the powers of these spells and how to make magic your friend.
 
 ### Essentials: Runes, Wizards, and Guilds
 
-Spells require [Runes](/web/20211026115550//index.php?title=Runes "Runes"), [Wizards](/web/20211026115550//index.php?title=Units#Units "Units"), and [Guilds](/web/20211026115550//index.php?title=Buildings#Guilds "Buildings") to be cast. [Towers](/web/20211026115550//index.php?title=Buildings#Towers "Buildings") produce runes every hour, which are consumed with each spell. Wizards are naturally trained by your Guilds. Like all of the other individuals across your lands, they come from your [peasantry](/web/20211026115550//index.php?title=Units#Units "Units") and reduce your number of available [workers](/web/20211026115550//index.php?title=Economy#Peasants "Economy"). Be careful not to hold too many Wizards or you may be sacrificing your peasantry, [thieves](/web/20211026115550//index.php?title=Units#Units "Units"), or [military](/web/20211026115550//index.php?title=Military "Military"). At any time, you can release Wizards back into the peasantry or simply shut down additional training. Your Wizards maintain a Mana Rating which determines whether or not they can cast spells. This rating rises automatically each day and drops each time you cast a spell. Your Wizards will not cast spells without at least a 5% Mana Rating. Casting spells is not without risks. Failed attempts can result in explosions and kill a small portion of your wizards.
+Spells require [Runes](#), [Wizards](/misc/Units.md), and [Guilds](/category/Buildings.md) to be cast. [Towers](/category/Buildings.md) produce runes every hour, which are consumed with each spell. Wizards are naturally trained by your Guilds. Like all of the other individuals across your lands, they come from your [peasantry](/misc/Units.md) and reduce your number of available [workers](/category/Economy.md). Be careful not to hold too many Wizards or you may be sacrificing your peasantry, [thieves](/misc/Units.md), or [military](/guide/Military.md). At any time, you can release Wizards back into the peasantry or simply shut down additional training. Your Wizards maintain a Mana Rating which determines whether or not they can cast spells. This rating rises automatically each day and drops each time you cast a spell. Your Wizards will not cast spells without at least a 5% Mana Rating. Casting spells is not without risks. Failed attempts can result in explosions and kill a small portion of your wizards.
 
 ### Determining Success
 
-To cast a spell, you must have [Guilds](/web/20211026115550//index.php?title=Growth#Guilds "Growth"), wizards and mystic [Runes](/web/20211026115550//index.php?title=Runes "Runes"). For spells cast upon yourself, success is based on your Guild percentage and your Building Efficiency - the more guilds you have, the better you will do. For spells cast upon others, the success is based on your relative wizard population, measured as [Wizards Per Acre](/web/20211026115550//index.php?title=Wizards_Per_Acre "Wizards Per Acre") (WPA), modified by the racial bonuses or penalties and your knowledge of Channeling science. The higher your WPA compared to an enemy, the better your success. However, there is always a great deal of chance in every spell. Furthermore, the duration of all spells is greatly impacted by your Guild percentage.
+To cast a spell, you must have [Guilds](/guide/Growth.md), wizards and mystic [Runes](#). For spells cast upon yourself, success is based on your Guild percentage and your Building Efficiency - the more guilds you have, the better you will do. For spells cast upon others, the success is based on your relative wizard population, measured as [Wizards Per Acre](#) (WPA), modified by the racial bonuses or penalties and your knowledge of Channeling science. The higher your WPA compared to an enemy, the better your success. However, there is always a great deal of chance in every spell. Furthermore, the duration of all spells is greatly impacted by your Guild percentage.
 
 For support spells, the formula used to calculate success rate is adjusted to make casting self spells on your allies easier. A WPA vs WPA calculation will still be made which will require the caster to have WPA but the formula will make it so that all Kingdom members have an opportunity to receive the self spell bonuses from their support caster. In other words, although you still need WPA it won't be a very significant part of the formula.
 
@@ -52,19 +52,19 @@ The costs of spells are:
 - Self Spells - 3%
 - Offensive Spells (without relations) - 3%
 - Offensive Spells (Hostile relations) - 2%
-- [Ritual](/web/20211026115550//index.php?title=Ritual "Ritual") Spells - 2%
+- [Ritual](/misc/Ritual.md) Spells - 2%
 - Support Spells on others - 2%
 
 ### Restriction & Limits
 
-Certain spells are designated Unfriendly, Hostile or [War](/web/20211026115550//index.php?title=Relations#War "Relations") Only spells -- Because of the destructive nature of these spells, they can be cast only against provinces which have at least a certain level of relations with your kingdom. In addition, you will find that many of these spells are more effective during heightened relations conditions.
+Certain spells are designated Unfriendly, Hostile or [War](/guide/Relations.md) Only spells -- Because of the destructive nature of these spells, they can be cast only against provinces which have at least a certain level of relations with your kingdom. In addition, you will find that many of these spells are more effective during heightened relations conditions.
 
 Spells are divided into two categories, as listed below:
 
-- [Self Spells](/web/20211026115550//index.php?title=Mystics#The_Spell_Book:_the_self_spells "Mystics")
-  - Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [**here**](/web/20211026115550//index.php?title=Magic_Formulas#The_Spell_Book "Magic Formulas").
+- [Self Spells](/guide/Mystics.md)
+  - Some Self Spells can be cast by Clerics on kingdom members. These spells are known as Support Spells. Success is based on the caster's WPA and relative networth to the target, and the duration of these spells is based on target's guilds. The list can be found [**here**](/guide/Magic_Formulas.md).
   - The caster gains honor from kd mates whom they cast support spells on. Those getting casted on lose honor when having a support spell casted on them, ~0.1%.
-- [Offensive spells](/web/20211026115550//index.php?title=Mystics#The_Spell_Book:_the_offensive_spells "Mystics")
+- [Offensive spells](/guide/Mystics.md)
 
 There are 3 possible outcomes of casting a spell. It can be successful, it can fail, or it can fail and some wizards may die.
 
@@ -72,7 +72,7 @@ There are 3 possible outcomes of casting a spell. It can be successful, it can f
 - Fail message: Your wizards gather their runes and begin casting. The spell consumes X Runes and ... fizzles. Alas, we were not able to fulfill your expectations. Please forgive us.
 - Dying wizards message: "Leader name", something has gone terribly wrong with our spell. X of our wizards were killed in an explosion!
 
-Please note that Duration is in real time, spell messages are in [Utopia Time](/web/20211026115550//index.php?title=Utopia_Time "Utopia Time")
+Please note that Duration is in real time, spell messages are in [Utopia Time](/misc/Utopia_Time.md)
 
 ## The Spell Book: Self Spells
 
@@ -96,7 +96,7 @@ Is Known: Age 14 ... now
 
 The power to raise the dead gives you the power to protect your people. By casting this spell, you can protect your people from the death and destruction of defending your lands. During your next defensive battle, half of your dead army will be restored into basic soldiers to help repopulate your army.
 
-Is Known: Age 1 ... [Age 87](/web/20211026115550//index.php?title=Age_87 "Age 87"), [Age 90](/web/20211026115550//index.php?title=Age_90 "Age 90")
+Is Known: Age 1 ... [Age 87](/misc/Age_87.md), [Age 90](/category/Age_90.md)
 
 ```
  Available to: Undead
@@ -108,7 +108,7 @@ Is Known: Age 1 ... [Age 87](/web/20211026115550//index.php?title=Age_87 "Age 87
 
 ### Anonymity
 
-[War](/web/20211026115550//index.php?title=Relations#War "Relations") is at the heart of the world of Utopia, but the fear of retaliation makes many leaders cringe. This spell casts an aura of mystery around your army. After a successful cast, your forces will remain anonymous during your next attack -- while your kingdom will be revealed, your enemy will not know your province's name.
+[War](/guide/Relations.md) is at the heart of the world of Utopia, but the fear of retaliation makes many leaders cringe. This spell casts an aura of mystery around your army. After a successful cast, your forces will remain anonymous during your next attack -- while your kingdom will be revealed, your enemy will not know your province's name.
 
 Is Known: Age 13 ... now
 
@@ -126,7 +126,7 @@ Is Known: Age 13 ... now
 
 Bloodlust fires the blood of your troops, igniting in them a desire to cause destruction. This fury will increase the carnage among enemy troops at a cost of increased recklessness among your own troops.
 
-Is Known: Age 1 ... Age 22, [Age 49](/web/20211026115550//index.php?title=Age_49 "Age 49") .. [Age 58](/web/20211026115550//index.php?title=Age_58 "Age 58"), [Age 59](/web/20211026115550//index.php?title=Age_59 "Age 59") ... now
+Is Known: Age 1 ... Age 22, [Age 49](/misc/Age_49.md) .. [Age 58](#), [Age 59](#) ... now
 
 ```
  Available to: Faery
@@ -152,9 +152,9 @@ Is Known: Age 15 ... now
 
 ### Cast Ritual
 
-Once your Monarch or Steward has declared what ritual to perform, this spell will increase your progress towards its completion with each cast. This spell has a very high difficulty and cost, and is accessible via the [Ritual](/web/20211026115550//index.php?title=Ritual "Ritual") tab.
+Once your Monarch or Steward has declared what ritual to perform, this spell will increase your progress towards its completion with each cast. This spell has a very high difficulty and cost, and is accessible via the [Ritual](/misc/Ritual.md) tab.
 
-Is Known: [Age 73](/web/20211026115550//index.php?title=Age_73 "Age 73") ... now
+Is Known: [Age 73](/category/Age_73.md) ... now
 
 ```
  Available to: All
@@ -182,7 +182,7 @@ Is Known: Age 1 ... now
 
 The cleric protects his people from the black magics of his enemies, granting them further protection against harmful spells.
 
-Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... [Age 80](/web/20211026115550//index.php?title=Age_80 "Age 80") ... [Age 87](/web/20211026115550//index.php?title=Age_87 "Age 87") ... now
+Is Known: [Age 72](/misc/Age_72.md) ... [Age 80](/misc/Age_80.md) ... [Age 87](/misc/Age_87.md) ... now
 
 ```
  Available to: Cleric
@@ -225,7 +225,7 @@ Is Known: Age 1 ... now
 
 Science is a fundamental building block for any and all of the other parts of your province. While a Fountain of Knowledge spell is active, your students work harder and will learn more than they would otherwise.
 
-Is Known: Age 39 ... [Age 68](/web/20211026115550//index.php?title=Age_68 "Age 68"), [Age 82](/web/20211026115550//index.php?title=Age_82 "Age 82") ... now
+Is Known: Age 39 ... [Age 68](/misc/Age_68.md), [Age 82](/misc/Age_82.md) ... now
 
 ```
  Available to: Elf
@@ -239,7 +239,7 @@ Is Known: Age 39 ... [Age 68](/web/20211026115550//index.php?title=Age_68 "Age 6
 
 Creating ghostly workers to perform the duties of your peasants, this spell reduces reduces the amount of filled jobs for maximum efficiency. This spell is effective for several days until the ghosts disappear.
 
-Is Known: Age 13 ... Age 16 ... [Age 81](/web/20211026115550//index.php?title=Age_81 "Age 81") ... now
+Is Known: Age 13 ... Age 16 ... [Age 81](/category/Age_81.md) ... now
 
 ```
  Available to: Faery
@@ -267,7 +267,7 @@ Is Known: Age 1 ... now
 
 By focusing your mind and employing cunning techniques, you increase the damage of your spells and operations.
 
-Is Known: [Age 90](/web/20211026115550//index.php?title=Age_90 "Age 90")
+Is Known: [Age 90](/category/Age_90.md)
 
 ```
  Available to: Heretic
@@ -281,7 +281,7 @@ Is Known: [Age 90](/web/20211026115550//index.php?title=Age_90 "Age 90")
 
 Shine light across the land, eliminating the cover of darkness and revealing those who would hide within its shadow. Thieves who would enter these lands are discouraged from performing their duties and will thus have a lessened impact.
 
-Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... now
+Is Known: [Age 72](/misc/Age_72.md) ... now
 
 ```
  Available to: Cleric
@@ -295,7 +295,7 @@ Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... now
 
 Inspire Army helps make your military train harder on their own, thus reducing the daily wages you pay your military for several days. This is especially useful in times of limited cash. This spell also increases the intensity of training, allowing your troops to be ready more quickly; provided the spell is cast before the troops are ordered to be trained.
 
-Is Known: Age 7 ... [Age 71](/web/20211026115550//index.php?title=Age_71 "Age 71"), [Age 74](/web/20211026115550//index.php?title=Age_74 "Age 74") ... now
+Is Known: Age 7 ... [Age 71](/category/Age_71.md), [Age 74](/misc/Age_74.md) ... now
 
 ```
  Available to: All
@@ -339,7 +339,7 @@ Is Known: Age 7 ... now
 
 This spell sparks a destructive fervor in your Mages Guild. They increase their efforts to cause damage to their opponents, whilst sacrificing a portion of their own defense temporarily.
 
-Is Known: [Age 49](/web/20211026115550//index.php?title=Age_49 "Age 49") ... now
+Is Known: [Age 49](/misc/Age_49.md) ... now
 
 ```
  Available to: Dark Elf
@@ -384,7 +384,7 @@ Is Known: Age 1 ... now
 
 Casting a sphere of protection over your province, this spell helps protect your province from invasion.
 
-Is Known: [Age 85](/web/20211026115550//index.php?title=Age_85 "Age 85") ... now
+Is Known: [Age 85](/category/Age_85.md) ... now
 
 ```
  Available to: Dwarf
@@ -398,7 +398,7 @@ Is Known: [Age 85](/web/20211026115550//index.php?title=Age_85 "Age 85") ... now
 
 A defense spell, creating a Mystic Aura around your lands will repel the next evil spell cast upon you from abroad. Unfortunately, the effect focuses only on the first spell cast upon you.
 
-Is Known: Age 1 ... [Age 58](/web/20211026115550//index.php?title=Age_58 "Age 58"), [Age 60](/web/20211026115550//index.php?title=Age_60 "Age 60") ... now
+Is Known: Age 1 ... [Age 58](#), [Age 60](#) ... now
 
 ```
  Available to: Elf
@@ -413,7 +413,7 @@ Note that Mystic Aura does not activate on intel spells like Crystal Ball.
 
 ### Nature's Blessing
 
-Nature's Blessing will protect your lands from any droughts and storms the world may see fit to place on you. This spell also has a chance of curing [the Plague](/web/20211026115550//index.php?title=The_Plague "The Plague") if your lands are affected by it.
+Nature's Blessing will protect your lands from any droughts and storms the world may see fit to place on you. This spell also has a chance of curing [the Plague](#) if your lands are affected by it.
 
 Is Known: Age 1 ... now
 
@@ -459,7 +459,7 @@ Is Known: Age 11 ... now
 
 By giving your men magical speed, they can go to battle and return more quickly than usual, leaving your land without defense for a shorter period.
 
-Is Known: Age 1 ... [Age 86](/web/20211026115550//index.php?title=Age_86 "Age 86"), [Age 88](/web/20211026115550//index.php?title=Age_88 "Age 88") ... now
+Is Known: Age 1 ... [Age 86](/misc/Age_86.md), [Age 88](/misc/Age_88.md) ... now
 
 ```
  Available to: Tactician
@@ -487,7 +487,7 @@ Is Known: Age 1 ... now
 
 Science is a fundamental building block for any and all of the other parts of your province. While the Revelation spell is active, it increases the rate of a new scientist emerging.
 
-Is Known: [Age 69](/web/20211026115550//index.php?title=Age_69 "Age 69") ... now
+Is Known: [Age 69](#) ... now
 
 ```
  Available to: Heretic, Mystic, Rogue
@@ -501,7 +501,7 @@ Is Known: [Age 69](/web/20211026115550//index.php?title=Age_69 "Age 69") ... now
 
 This spell clears the minds of your scientists, allowing them to think more clearly and increasing the effectiveness of their research.
 
-Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... now
+Is Known: [Age 72](/misc/Age_72.md) ... now
 
 ```
  Available to: Sage
@@ -527,7 +527,7 @@ Is Known: Age 1 ... now
 
 ### Town Watch
 
-Town Watch will create a peasant watch upon your town for several days. While the Town Watch is active, all of your peasants will help defend your province in combat. Unfortunately, this also means your peasants will be killed during [war](/web/20211026115550//index.php?title=Relations#War "Relations") - and since they are not well-armed, they will suffer heavy losses.
+Town Watch will create a peasant watch upon your town for several days. While the Town Watch is active, all of your peasants will help defend your province in combat. Unfortunately, this also means your peasants will be killed during [war](/guide/Relations.md) - and since they are not well-armed, they will suffer heavy losses.
 
 Is Known: Age 7 ... now
 
@@ -557,7 +557,7 @@ Is Known: Age 1 ... now
 
 Ordinarily, any land captured in attacks require time to take control of and become available for your own use. War Spoils gives you the opportunity to get this land from combat immediately. The spell lasts just a few Utopian Days, but is more than enough to use on a couple of attacks. This allows you to begin the process of expanding much more quickly than otherwise.
 
-Is Known: Age 12 ... [Age 58](/web/20211026115550//index.php?title=Age_58 "Age 58"), [Age 60](/web/20211026115550//index.php?title=Age_60 "Age 60") ... now
+Is Known: Age 12 ... [Age 58](#), [Age 60](#) ... now
 
 ```
  Available to: Tactician
@@ -571,7 +571,7 @@ Is Known: Age 12 ... [Age 58](/web/20211026115550//index.php?title=Age_58 "Age 5
 
 Smite foes who dare to inflict harm upon the target. Enemy attackers suffer increased casualties when attacking lands protected by this spell.
 
-Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... now
+Is Known: [Age 72](/misc/Age_72.md) ... now
 
 ```
  Available to: Cleric
@@ -589,7 +589,7 @@ Listed here is a short reference guide to each of the spells available that can 
 
 Reduces the strength of an enemy kingdom's province and has a high cost/difficulty
 
-Is Known: [Age 73](/web/20211026115550//index.php?title=Age_73 "Age 73") ... now
+Is Known: [Age 73](/category/Age_73.md) ... now
 
 ```
  Available to: All with minimum relationship of Unfriendly.
@@ -618,7 +618,7 @@ Is Known: Age 1 ... now
 
 Reduces the building effectiveness of a province for a short duration.
 
-Is Known: [Age 69](/web/20211026115550//index.php?title=Age_69 "Age 69") ... now
+Is Known: [Age 69](#) ... now
 
 ```
  Available to: Faery
@@ -633,7 +633,7 @@ Is Known: [Age 69](/web/20211026115550//index.php?title=Age_69 "Age 69") ... now
 
 Introducing Chastity amongst the peasants of your opponents is an effective way to grind their population growth to a halt.
 
-Is Known: [Age 47](/web/20211026115550//index.php?title=Age_47 "Age 47") ... now
+Is Known: [Age 47](#) ... now
 
 ```
  Available to: Faery - with a minimum relationship of Unfriendly
@@ -649,7 +649,7 @@ Is Known: [Age 47](/web/20211026115550//index.php?title=Age_47 "Age 47") ... now
 
 Knowing more about your friends and opponents is vital to your success as a leader. This spell gives you insight into the workings of any province of your choice.
 
-Is Known: Age 1 ... [Age 47](/web/20211026115550//index.php?title=Age_47 "Age 47"), [Age 88](/web/20211026115550//index.php?title=Age_88 "Age 88") ... now
+Is Known: Age 1 ... [Age 47](#), [Age 88](/misc/Age_88.md) ... now
 
 ```
  Available to: All
@@ -752,7 +752,7 @@ Is Known: Age 12 ... now
 
 One of the seven deadly sins, your population will consume more food.
 
-Is Known: [Age 68](/web/20211026115550//index.php?title=Age_68 "Age 68") ... now
+Is Known: [Age 68](/misc/Age_68.md) ... now
 
 ```
  Available to: All
@@ -795,7 +795,7 @@ Is Known: Age 15 ... now
 
 Projects a magical ward into the skies above an enemy province, forcing the enemy to pour more resources into their spell casts.
 
-Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... [Age 81](/web/20211026115550//index.php?title=Age_81 "Age 81"), [Age 86](/web/20211026115550//index.php?title=Age_86 "Age 86")... now
+Is Known: [Age 72](/misc/Age_72.md) ... [Age 81](/category/Age_81.md), [Age 86](/misc/Age_86.md)... now
 
 ```
  Available to: Dark_Elf, with minimum relationship of Unfriendly.
@@ -860,7 +860,7 @@ Is Known: Age 1 ... now
 
 ### Pitfalls
 
-Placing magical pitfalls throughout an enemy's lands will cause them to suffer higher defensive losses in combat for several days. This is an effective way to frustrate attackers and strengthen your own position in the midst of [war](/web/20211026115550//index.php?title=Relations#War "Relations").
+Placing magical pitfalls throughout an enemy's lands will cause them to suffer higher defensive losses in combat for several days. This is an effective way to frustrate attackers and strengthen your own position in the midst of [war](/guide/Relations.md).
 
 Is Known: Age 14 ... now
 
@@ -877,7 +877,7 @@ Is Known: Age 14 ... now
 
 Originally called Barrier of Integrity, this spell enchants the enemy's peasantry, calling upon their deep-rooted morals to family and preventing them from signing up for military service.
 
-Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... [Age 81](/web/20211026115550//index.php?title=Age_81 "Age 81"), [Age 87](/web/20211026115550//index.php?title=Age_87 "Age 87") ... now
+Is Known: [Age 72](/misc/Age_72.md) ... [Age 81](/category/Age_81.md), [Age 87](/misc/Age_87.md) ... now
 
 ```
  Available to: Dark Elf, with minimum relationship of Unfriendly.
@@ -923,7 +923,7 @@ Is Known: Age 14 ... now
 
 Sending vermin scurrying into the food supplies of an opponent forces the destruction of a great deal of their reserves.
 
-Is Known: Age 1 ... [Age 67](/web/20211026115550//index.php?title=Age_67 "Age 67"), [Age 82](/web/20211026115550//index.php?title=Age_82 "Age 82") ... [Age 86](/web/20211026115550//index.php?title=Age_86 "Age 86"), [Age 90](/web/20211026115550//index.php?title=Age_90 "Age 90") ... now
+Is Known: Age 1 ... [Age 67](#), [Age 82](/misc/Age_82.md) ... [Age 86](/misc/Age_86.md), [Age 90](/category/Age_90.md) ... now
 
 ```
  Available to: Halfling
@@ -939,7 +939,7 @@ Is Known: Age 1 ... [Age 67](/web/20211026115550//index.php?title=Age_67 "Age 67
 
 Cast on a kingdom instead of an individual province, this option gives a Bird's Eye view of all that has happened across the kingdom of the current and previous months.
 
-Is Known: Age 1 ... [Age 47](/web/20211026115550//index.php?title=Age_47 "Age 47")
+Is Known: Age 1 ... [Age 47](#)
 
 ```
  Available to: All
@@ -953,7 +953,7 @@ Is Known: Age 1 ... [Age 47](/web/20211026115550//index.php?title=Age_47 "Age 47
 
 Casting a sphere of protection over your province, this spell helps protect your province from invasion from others. This spell can last for a couple of days.
 
-Is Known: Age 1 ... [Age 50](/web/20211026115550//index.php?title=Age_50 "Age 50")
+Is Known: Age 1 ... [Age 50](#)
 
 ```
  Available to: Dwarf, Faery
@@ -967,7 +967,7 @@ Is Known: Age 1 ... [Age 50](/web/20211026115550//index.php?title=Age_50 "Age 50
 
 The spell helps make your military train harder on their own, thus reducing the daily wages you pay your military for several days. This is especially useful in times of limited cash. This spell also increases the intensity of training, allowing your troops to be ready more quickly; provided the spell is cast before the troops are ordered to be trained.
 
-Is Known: [Age 72](/web/20211026115550//index.php?title=Age_72 "Age 72") ... [Age 80](/web/20211026115550//index.php?title=Age_80 "Age 80"), [Age 82](/web/20211026115550//index.php?title=Age_82 "Age 82"), [Age 85](/web/20211026115550//index.php?title=Age_85 "Age 85") ... [Age 86](/web/20211026115550//index.php?title=Age_86 "Age 86")
+Is Known: [Age 72](/misc/Age_72.md) ... [Age 80](/misc/Age_80.md), [Age 82](/misc/Age_82.md), [Age 85](/category/Age_85.md) ... [Age 86](/misc/Age_86.md)
 
 ```
  Available to: War Hero
@@ -999,48 +999,48 @@ Is Known: Age 3 ... Age 14
 
 Science is a fundamental building block for any and all of the other parts of your province. While a Mind Focus spell is active, your students work harder and will learn more than they would otherwise.
 
-Was upgraded to [Fountain of Knowledge](/web/20211026115550//index.php?title=Mystics#Fountain_of_Knowledge "Mystics")
+Was upgraded to [Fountain of Knowledge](/guide/Mystics.md)
 
-Is Known: Age 1 ... [Age 38](/web/20211026115550//index.php?title=Age_38 "Age 38")
+Is Known: Age 1 ... [Age 38](/misc/Age_38.md)
 
 ### Barrier of Integrity
 
 Stops all drafting that would normally take place in target province.
 
-Was upgraded to [Sloth](/web/20211026115550//index.php?title=Mystics#Sloth "Mystics")
+Was upgraded to [Sloth](/guide/Mystics.md)
 
-Is Known: Age 72 ... [Age 80](/web/20211026115550//index.php?title=Age_80 "Age 80")
+Is Known: Age 72 ... [Age 80](/misc/Age_80.md)
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Military](/web/20211026115550//index.php?title=Military "Military")** | Next:  **[Thievery](/web/20211026115550//index.php?title=Thievery "Thievery")** » |
+| « Previous:  **[Military](/guide/Military.md)** | Next:  **[Thievery](/misc/Thievery.md)** » |
 
 | **The Spellbook** | | | |
 | --- | --- | --- | --- |
-| Self Spells | Army Spells | Defensive Spells | [Wrathful Smite](/web/20211026115550//index.php?title=Mystics#Wrathful_Smite "Mystics")  • [Minor Protection](/web/20211026115550//index.php?title=Mystics#Minor_Protection "Mystics")  • [Greater Protection](/web/20211026115550//index.php?title=Mystics#Greater_Protection "Mystics")  • [Animate Dead](/web/20211026115550//index.php?title=Mystics#Animate_Dead "Mystics")  • [Town Watch](/web/20211026115550//index.php?title=Mystics#Town_Watch "Mystics")  • †[Fog](/web/20211026115550//index.php?title=Mystics#Fog "Mystics") |
-|  |  | Offensive Spells | [Quick Feet](/web/20211026115550//index.php?title=Mystics#Quick_Feet "Mystics")  • [Anonymity](/web/20211026115550//index.php?title=Mystics#Anonymity "Mystics")  • [War Spoils](/web/20211026115550//index.php?title=Mystics#War_Spoils "Mystics")  • [Fanaticism](/web/20211026115550//index.php?title=Mystics#Fanaticism "Mystics")  • [Aggression](/web/20211026115550//index.php?title=Mystics#Aggression "Mystics")  • [Bloodlust](/web/20211026115550//index.php?title=Mystics#Bloodlust "Mystics") |
-|  |  | Army Spells | [Paladin's Inspiration](/web/20211026115550//index.php?title=Mystics#Paladin.27s_Inspiration "Mystics")  • [Patriotism](/web/20211026115550//index.php?title=Mystics#Patriotism "Mystics")  • †[Inspire Army](/web/20211026115550//index.php?title=Mystics#Inspire_Army "Mystics") |
-|  | Civil Spells | Mystic Security Spells | [Divine Shield](/web/20211026115550//index.php?title=Mystics#Divine_Shield "Mystics")  • [Magic Shield](/web/20211026115550//index.php?title=Mystics#Magic_Shield "Mystics")  • [Mystic Aura](/web/20211026115550//index.php?title=Mystics#Mystic_Aura "Mystics")  • [Nature's Blessing](/web/20211026115550//index.php?title=Mystics#Nature.27s_Blessing "Mystics")  • [Mage's Fury](/web/20211026115550//index.php?title=Mystics#Mage.27s_Fury "Mystics")  • [Reflect Magic](/web/20211026115550//index.php?title=Mystics#Reflect_Magic "Mystics") |
-|  |  | Thievery Spells | [Illuminate Shadows](/web/20211026115550//index.php?title=Mystics#Illuminate_Shadows "Mystics")  • [Invisibility](/web/20211026115550//index.php?title=Mystics#Invisibility "Mystics")  • [Clear Sight](/web/20211026115550//index.php?title=Mystics#Clear_Sight "Mystics")  • [Shadowlight](/web/20211026115550//index.php?title=Mystics#Shadowlight "Mystics")  • [Crystal Ball](/web/20211026115550//index.php?title=Mystics#Crystal_Ball "Mystics")  • †[Crystal Eye](/web/20211026115550//index.php?title=Mystics#Crystal_Eye "Mystics") |
-|  |  | Economy Spells | [Scientific Insights](/web/20211026115550//index.php?title=Mystics#Scientific_Insights "Mystics")  • [Fertile Lands](/web/20211026115550//index.php?title=Mystics#Fertile_Lands "Mystics")  • [Love & Peace](/web/20211026115550//index.php?title=Mystics#Love_.26_Peace "Mystics")  • [Tree of Gold](/web/20211026115550//index.php?title=Mystics#Tree_of_Gold "Mystics")  • [Builders' Boon](/web/20211026115550//index.php?title=Mystics#Builders.27_Boon "Mystics")  • [Revelation](/web/20211026115550//index.php?title=Mystics#Revelation "Mystics")  • [Paradise](/web/20211026115550//index.php?title=Mystics#Paradise "Mystics")  • †[Fountain of Knowledge](/web/20211026115550//index.php?title=Mystics#Fountain_of_Knowledge "Mystics") |
+| Self Spells | Army Spells | Defensive Spells | [Wrathful Smite](/guide/Mystics.md)  • [Minor Protection](/guide/Mystics.md)  • [Greater Protection](/guide/Mystics.md)  • [Animate Dead](/guide/Mystics.md)  • [Town Watch](/guide/Mystics.md)  • †[Fog](/guide/Mystics.md) |
+|  |  | Offensive Spells | [Quick Feet](/guide/Mystics.md)  • [Anonymity](/guide/Mystics.md)  • [War Spoils](/guide/Mystics.md)  • [Fanaticism](/guide/Mystics.md)  • [Aggression](/guide/Mystics.md)  • [Bloodlust](/guide/Mystics.md) |
+|  |  | Army Spells | [Paladin's Inspiration](/guide/Mystics.md)  • [Patriotism](/guide/Mystics.md)  • †[Inspire Army](/guide/Mystics.md) |
+|  | Civil Spells | Mystic Security Spells | [Divine Shield](/guide/Mystics.md)  • [Magic Shield](/guide/Mystics.md)  • [Mystic Aura](/guide/Mystics.md)  • [Nature's Blessing](/guide/Mystics.md)  • [Mage's Fury](/guide/Mystics.md)  • [Reflect Magic](/guide/Mystics.md) |
+|  |  | Thievery Spells | [Illuminate Shadows](/guide/Mystics.md)  • [Invisibility](/guide/Mystics.md)  • [Clear Sight](/guide/Mystics.md)  • [Shadowlight](/guide/Mystics.md)  • [Crystal Ball](/guide/Mystics.md)  • †[Crystal Eye](/guide/Mystics.md) |
+|  |  | Economy Spells | [Scientific Insights](/guide/Mystics.md)  • [Fertile Lands](/guide/Mystics.md)  • [Love & Peace](/guide/Mystics.md)  • [Tree of Gold](/guide/Mystics.md)  • [Builders' Boon](/guide/Mystics.md)  • [Revelation](/guide/Mystics.md)  • [Paradise](/guide/Mystics.md)  • †[Fountain of Knowledge](/guide/Mystics.md) |
 |  |
-| Combat Spells | Economy Damage Spells | Friendly | [Magic Ward](/web/20211026115550//index.php?title=Mystics#Magic_Ward "Mystics") • [Droughts](/web/20211026115550//index.php?title=Mystics#Droughts "Mystics") • [Gluttony](/web/20211026115550//index.php?title=Mystics#Gluttony "Mystics")  • [Greed](/web/20211026115550//index.php?title=Mystics#Greed "Mystics")  • [Fool's Gold](/web/20211026115550//index.php?title=Mystics#Fool.27s_Gold "Mystics")  • [Lightning Strike](/web/20211026115550//index.php?title=Mystics#Lightning_Strike "Mystics")  • [Explosions](/web/20211026115550//index.php?title=Mystics#Explosions "Mystics")  • [Blizzard](/web/20211026115550//index.php?title=Mystics#Blizzard "Mystics")  • †[Vermin](/web/20211026115550//index.php?title=Mystics#Vermin "Mystics") |
-|  |  | Unfriendly | [Magic Ward](/web/20211026115550//index.php?title=Mystics#Magic_Ward "Mystics") • [Barrier of Integrity](/web/20211026115550//index.php?title=Mystics#Barrier_of_Integrity "Mystics") • [Amnesia](/web/20211026115550//index.php?title=Mystics#Amnesia "Mystics")  • [Tornadoes](/web/20211026115550//index.php?title=Mystics#Tornadoes "Mystics")  • [Land Lust](/web/20211026115550//index.php?title=Mystics#Land_Lust "Mystics") |
-|  | Population Damage Spells | Friendly | [Chastity](/web/20211026115550//index.php?title=Mystics#Chastity "Mystics")  • [Storms](/web/20211026115550//index.php?title=Mystics#Storms "Mystics") |
-|  |  | Unfriendly | [Fireball](/web/20211026115550//index.php?title=Mystics#Fireball "Mystics")  • [Nightmares](/web/20211026115550//index.php?title=Mystics#Nightmares "Mystics")  • [Meteor Showers](/web/20211026115550//index.php?title=Mystics#Meteor_Showers "Mystics") |
-|  | Interaction Spells | Friendly | [Expose Thieves](/web/20211026115550//index.php?title=Mystics#Expose_Thieves "Mystics")  • [Pitfalls](/web/20211026115550//index.php?title=Mystics#Pitfalls "Mystics") |
-|  |  | Unfriendly | [Mystic Vortex](/web/20211026115550//index.php?title=Mystics#Mystic_Vortex "Mystics") |
+| Combat Spells | Economy Damage Spells | Friendly | [Magic Ward](/guide/Mystics.md) • [Droughts](/guide/Mystics.md) • [Gluttony](/guide/Mystics.md)  • [Greed](/guide/Mystics.md)  • [Fool's Gold](/guide/Mystics.md)  • [Lightning Strike](/guide/Mystics.md)  • [Explosions](/guide/Mystics.md)  • [Blizzard](/guide/Mystics.md)  • †[Vermin](/guide/Mystics.md) |
+|  |  | Unfriendly | [Magic Ward](/guide/Mystics.md) • [Barrier of Integrity](/guide/Mystics.md) • [Amnesia](/guide/Mystics.md)  • [Tornadoes](/guide/Mystics.md)  • [Land Lust](/guide/Mystics.md) |
+|  | Population Damage Spells | Friendly | [Chastity](/guide/Mystics.md)  • [Storms](/guide/Mystics.md) |
+|  |  | Unfriendly | [Fireball](/guide/Mystics.md)  • [Nightmares](/guide/Mystics.md)  • [Meteor Showers](/guide/Mystics.md) |
+|  | Interaction Spells | Friendly | [Expose Thieves](/guide/Mystics.md)  • [Pitfalls](/guide/Mystics.md) |
+|  |  | Unfriendly | [Mystic Vortex](/guide/Mystics.md) |
 
 | **Races & Personalities** | |
 | --- | --- |
-| Races | [Avians](/web/20211026115550//index.php?title=Race#Avians "Race")  • [Dark Elves](/web/20211026115550//index.php?title=Race#Dark_Elves "Race")  • [Dwarves](/web/20211026115550//index.php?title=Race#Dwarves "Race")  • [Elves](/web/20211026115550//index.php?title=Race#Elves "Race")  • [Faery](/web/20211026115550//index.php?title=Race#Faery "Race")  • [Halflings](/web/20211026115550//index.php?title=Race#Halflings "Race")  • [Humans](/web/20211026115550//index.php?title=Race#Humans "Race")  • [Orcs](/web/20211026115550//index.php?title=Race#Orcs "Race")  • [Undead](/web/20211026115550//index.php?title=Race#Undead "Race") |
-| Extinct Races | [Bocans](/web/20211026115550//index.php?title=Race#Bocans "Race")  • [Dryads](/web/20211026115550//index.php?title=Race#Dryads "Race")  • [Gnomes](/web/20211026115550//index.php?title=Race#Gnomes "Race") |
-| Personalities | [The Cleric](/web/20211026115550//index.php?title=Personality#The_Cleric "Personality")  • [The Heretic](/web/20211026115550//index.php?title=Personality#The_Heretic "Personality")  • [The Mystic](/web/20211026115550//index.php?title=Personality#The_Mystic "Personality")  • [The Artisan](/web/20211026115550//index.php?title=Personality#The_Artisan "Personality")  • [The Rogue](/web/20211026115550//index.php?title=Personality#The_Rogue "Personality")  • [The Tactician](/web/20211026115550//index.php?title=Personality#The_Tactician "Personality")  • [The War Hero](/web/20211026115550//index.php?title=Personality#The_War_Hero "Personality")  • [The Warrior](/web/20211026115550//index.php?title=Personality#The_Warrior "Personality")  • [The Sage](/web/20211026115550//index.php?title=Personality#The_Sage "Personality") |
-| Extinct Personalities | [The Raider](/web/20211026115550//index.php?title=Personality#The_Raider "Personality")  • [The Freak](/web/20211026115550//index.php?title=Personality#The_Freak "Personality")  • [The General](/web/20211026115550//index.php?title=Personality#The_General "Personality")  • [The Merchant](/web/20211026115550//index.php?title=Personality#The_Merchant "Personality")  • [The Paladin](/web/20211026115550//index.php?title=Personality#The_Paladin "Personality")  • [The Shepherd](/web/20211026115550//index.php?title=Personality#The_Shepherd "Personality")  • [The Undead](/web/20211026115550//index.php?title=Personality#The_Undead "Personality") |
+| Races | [Avians](/main/Race.md)  • [Dark Elves](/main/Race.md)  • [Dwarves](/main/Race.md)  • [Elves](/main/Race.md)  • [Faery](/main/Race.md)  • [Halflings](/main/Race.md)  • [Humans](/main/Race.md)  • [Orcs](/main/Race.md)  • [Undead](/main/Race.md) |
+| Extinct Races | [Bocans](/main/Race.md)  • [Dryads](/main/Race.md)  • [Gnomes](/main/Race.md) |
+| Personalities | [The Cleric](/ages/Personality.md)  • [The Heretic](/ages/Personality.md)  • [The Mystic](/ages/Personality.md)  • [The Artisan](/ages/Personality.md)  • [The Rogue](/ages/Personality.md)  • [The Tactician](/ages/Personality.md)  • [The War Hero](/ages/Personality.md)  • [The Warrior](/ages/Personality.md)  • [The Sage](/ages/Personality.md) |
+| Extinct Personalities | [The Raider](/ages/Personality.md)  • [The Freak](/ages/Personality.md)  • [The General](/ages/Personality.md)  • [The Merchant](/ages/Personality.md)  • [The Paladin](/ages/Personality.md)  • [The Shepherd](/ages/Personality.md)  • [The Undead](/ages/Personality.md) |
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/web/20211026115550//index.php?title=Getting_Started_with_Utopia "Getting Started with Utopia")  • [Creating a province](/web/20211026115550//index.php?title=Creating_a_province "Creating a province")  • [Race](/web/20211026115550//index.php?title=Race "Race") & [Personality](/web/20211026115550//index.php?title=Personality "Personality") |
-| The Menus | [Throne](/web/20211026115550//index.php?title=Throne "Throne")  • [Kingdom](/web/20211026115550//index.php?title=Kingdom "Kingdom")  • [News](/web/20211026115550//index.php?title=The_Paper "The Paper") [Explore](/web/20211026115550//index.php?title=Explore "Explore")  • [Growth](/web/20211026115550//index.php?title=Growth "Growth")  • [Science](/web/20211026115550//index.php?title=Science "Science")  • [Military](/web/20211026115550//index.php?title=Military "Military")  **Mystics**  • [Thievery](/web/20211026115550//index.php?title=Thievery "Thievery")  • [War Room](/web/20211026115550//index.php?title=War_Room "War Room") • [Aid](/web/20211026115550//index.php?title=Aid "Aid")  • [Dragon](/web/20211026115550//index.php?title=Dragons "Dragons")  • [Ritual](/web/20211026115550//index.php?title=Ritual "Ritual")  [Mail & Forums](/web/20211026115550//index.php?title=Ingame "Ingame")  [Politics](/web/20211026115550//index.php?title=Politics "Politics")  • [Relations](/web/20211026115550//index.php?title=Relations "Relations")  • Rankings  • [Preferences](/web/20211026115550//index.php?title=Preferences "Preferences") |
-| Advanced | [MunkBot](/web/20211026115550//index.php?title=MunkBot "MunkBot")  • [Invitations](/web/20211026115550//index.php?title=Invitations "Invitations")  • [Reservations](/web/20211026115550//index.php?title=Reservations "Reservations")  • [Utopia](/web/20211026115550//index.php?title=Utopia "Utopia")  • [Province](/web/20211026115550//index.php?title=Province "Province")  • [World of Legends](/web/20211026115550//index.php?title=World_of_Legends "World of Legends") |
-| Rules | [Game Rules](/web/20211026115550//index.php?title=Game_Rules "Game Rules") |
+| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • [Military](/guide/Military.md)  **Mystics**  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md) |
+| Rules | [Game Rules](/misc/Game_Rules.md) |

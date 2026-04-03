@@ -23,8 +23,8 @@ First Age based on [[Brian\_%26\_Sean#New Code|New Code]].
 
 Templates used on this page:
 
-- [Template:Ages](/web/20190718161342//index.php?title=Template:Ages "Template:Ages") ([view source](/web/20190718161342//index.php?title=Template:Ages&action=edit "Template:Ages"))
-- [Template:Infobox Age](/web/20190718161342//index.php?title=Template:Infobox_Age "Template:Infobox Age") ([view source](/web/20190718161342//index.php?title=Template:Infobox_Age&action=edit "Template:Infobox Age"))
-- [Template:•](/web/20190718161342//index.php?title=Template:%E2%80%A2 "Template:•") ([view source](/web/20190718161342//index.php?title=Template:%E2%80%A2&action=edit "Template:•"))
+- [Template:Ages](#) ([view source](#))
+- [Template:Infobox Age](#) ([view source](#))
+- [Template:•](#) ([view source](#))
 
-Return to [Age 44](/web/20190718161342//index.php?title=Age_44 "Age 44").
+Return to [Age 44](/misc/Age_44.md).

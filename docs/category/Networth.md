@@ -1,6 +1,6 @@
 # Networth
 
-**Networth** is a nominal value in gold coins of a [Province](/web/20211026122740//index.php?title=Province "Province")/[Kingdom](/web/20211026122740//index.php?title=Kingdom "Kingdom").
+**Networth** is a nominal value in gold coins of a [Province](/category/Province.md)/[Kingdom](#).
 
 # Formula
 
@@ -22,19 +22,19 @@ Total Networth =  (Peasants * 0.25) + (Soldiers * Soldier NW) + (Off Specs * Off
 | **Item** | **NW Value** |
 | --- | --- |
 | Peasant | 0.25 |
-| [Soldier](/web/20211026122740//index.php?title=Units#Units "Units") | (Off Points + Def Points) \* 0.25 |
+| [Soldier](/misc/Units.md) | (Off Points + Def Points) \* 0.25 |
 | Soldier (in training) | 0 |
 | Offense specialist | Offense Points \* 0.4 |
 | Defense specialist | Defense Points \* 0.5 |
-| Elite | Variable (see [Race](/web/20211026122740//index.php?title=Race "Race") entry) |
+| Elite | Variable (see [Race](/main/Race.md) entry) |
 
 | **Item** | **NW Value** |
 | --- | --- |
-| [Horse](/web/20211026122740//index.php?title=Units#Units "Units") | Offense Points \* 0.3 |
+| [Horse](/misc/Units.md) | Offense Points \* 0.3 |
 | Prisoner | Offense Points \* 0.2 |
 | Thief | 5 |
 | Wizard | 5 |
-| [Gold](/web/20211026122740//index.php?title=Throne#Top_Bar "Throne") | 1/1000 |
+| [Gold](#) | 1/1000 |
 | Food | 0 |
 | Runes | 0 |
-| [Science Book](/web/20211026122740//index.php?title=Science "Science") | Acres \* 0.000007 |
+| [Science Book](/misc/Science.md) | Acres \* 0.000007 |

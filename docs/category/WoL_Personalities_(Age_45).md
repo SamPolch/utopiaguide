@@ -1,6 +1,6 @@
 # WoL Personalities (Age 45)
 
-This is a list of the current bonuses and penalties for the Utopian Personalities on the [WoL](/web/20211020064701//index.php?title=WoL "WoL") server for [Age](/web/20211020064701//index.php?title=Age "Age") 45
+This is a list of the current bonuses and penalties for the Utopian Personalities on the [WoL](/misc/WoL.md) server for [Age](#) 45
 
 ### The Merchant
 
