@@ -31,4 +31,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./site
-          cname: utopiaguide.example.com  # replace with your subdomain
+          cname: utopiaguide.chaos-intel.com  # replace with your subdomain
