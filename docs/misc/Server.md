@@ -2,4 +2,4 @@
 
 Redirect to:
 
-- [Utopian server](/misc/Utopian_server.md)
+- [Utopian server](Utopian_server.md)

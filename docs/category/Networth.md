@@ -1,6 +1,6 @@
 # Networth
 
-**Networth** is a nominal value in gold coins of a [Province](/category/Province.md)/[Kingdom](#).
+**Networth** is a nominal value in gold coins of a [Province](Province.md)/[Kingdom](#).
 
 # Formula
 
@@ -22,19 +22,19 @@ Total Networth =  (Peasants * 0.25) + (Soldiers * Soldier NW) + (Off Specs * Off
 | **Item** | **NW Value** |
 | --- | --- |
 | Peasant | 0.25 |
-| [Soldier](/misc/Units.md) | (Off Points + Def Points) \* 0.25 |
+| [Soldier](../misc/Units.md) | (Off Points + Def Points) \* 0.25 |
 | Soldier (in training) | 0 |
 | Offense specialist | Offense Points \* 0.4 |
 | Defense specialist | Defense Points \* 0.5 |
-| Elite | Variable (see [Race](/main/Race.md) entry) |
+| Elite | Variable (see [Race](../main/Race.md) entry) |
 
 | **Item** | **NW Value** |
 | --- | --- |
-| [Horse](/misc/Units.md) | Offense Points \* 0.3 |
+| [Horse](../misc/Units.md) | Offense Points \* 0.3 |
 | Prisoner | Offense Points \* 0.2 |
 | Thief | 5 |
 | Wizard | 5 |
 | [Gold](#) | 1/1000 |
 | Food | 0 |
 | Runes | 0 |
-| [Science Book](/misc/Science.md) | Acres \* 0.000007 |
+| [Science Book](../misc/Science.md) | Acres \* 0.000007 |

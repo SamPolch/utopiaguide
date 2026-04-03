@@ -55,4 +55,4 @@ Utopian Year Calendar:
 9 10 11 12 13 14 15 16
 17 18 19 20 21 22 23 24
 
-Return to [Utopia Time](/misc/Utopia_Time.md).
+Return to [Utopia Time](Utopia_Time.md).

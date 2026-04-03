@@ -21,8 +21,8 @@ The following 17 pages are in this category, out of 17 total.
 
 ### G
 
-- [Genesis](/misc/Genesis.md)
-- [Genesis Change Log](/category/Genesis_Change_Log.md)
-- [Genesis Mechanics](/category/Genesis_Mechanics.md)
-- [Genesis Personalities](/category/Genesis_Personalities.md)
-- [Genesis Races](/category/Genesis_Races.md)
+- [Genesis](../misc/Genesis.md)
+- [Genesis Change Log](../category/Genesis_Change_Log.md)
+- [Genesis Mechanics](../category/Genesis_Mechanics.md)
+- [Genesis Personalities](../category/Genesis_Personalities.md)
+- [Genesis Races](../category/Genesis_Races.md)

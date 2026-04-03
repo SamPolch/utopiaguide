@@ -119,7 +119,7 @@ Conflict is at the heart and soul of the fine world of Utopia. While peace has i
 
 ## Military Units
 
-To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](/misc/Units.md) for more information.
+To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](../misc/Units.md) for more information.
 
 You can view each races unit strengths through the games Race/Personality details page [[1]](http://utopia-game.com/wol/chooser/age_details/)
 
@@ -145,7 +145,7 @@ You need to send slightly over 4% extra to compensate for the maximum potential 
 
 ### War Horses
 
-War Horses are produced from [stables](/category/Buildings.md) and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers two additional points of offensive strength.
+War Horses are produced from [stables](../category/Buildings.md) and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers two additional points of offensive strength.
 
 ### Mercenaries
 
@@ -153,7 +153,7 @@ In addition to your own troops, you will may also hire mercenaries to help in at
 
 ### Prisoners
 
-Prisoners are taken in addition to enemy killed after an attack, usually a similar number to the number of kills, IF there is room in your [dungeons](/category/Buildings.md) for them. Prisoners have no upkeep, every 2 prisoners fills 1 job, and every prisoner produces 0.5gc per hour. Each prisoner sent in your attack will provide five offensive points. About half the prisoners sent are lost in the fight. They are then again immediately available to your general.
+Prisoners are taken in addition to enemy killed after an attack, usually a similar number to the number of kills, IF there is room in your [dungeons](../category/Buildings.md) for them. Prisoners have no upkeep, every 2 prisoners fills 1 job, and every prisoner produces 0.5gc per hour. Each prisoner sent in your attack will provide five offensive points. About half the prisoners sent are lost in the fight. They are then again immediately available to your general.
 
 ### Specialist Credits
 
@@ -199,16 +199,16 @@ Be sure to check out the [Ambush Guide](#) if you are still unclear.
 
 ## Addition Information
 
-- [Attacking & Defending](/category/Attacking_&_Defending.md)
-- [Units](/misc/Units.md)
+- [Attacking & Defending](../category/Attacking_&_Defending.md)
+- [Units](../misc/Units.md)
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Sciences](#)** | Next:  **[Mystics](/guide/Mystics.md)** » |
+| « Previous:  **[Sciences](#)** | Next:  **[Mystics](Mystics.md)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • **Military**  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md) |
-| Rules | [Game Rules](/misc/Game_Rules.md) |
+| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • [Science](../misc/Science.md)  • **Military**  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md) |
+| Rules | [Game Rules](../misc/Game_Rules.md) |

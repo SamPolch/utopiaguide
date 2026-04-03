@@ -1,6 +1,6 @@
 # WoL Personalities (Age 46)
 
-This is a list of the current bonuses and penalties for the Utopian Personalities on the [WoL](/misc/WoL.md) server for [Age](#) 46
+This is a list of the current bonuses and penalties for the Utopian Personalities on the [WoL](../misc/WoL.md) server for [Age](#) 46
 
 For previous bonuses, see [WoL Personalities (Age 45)](#) "WoL Personalities (Age 45)")
 

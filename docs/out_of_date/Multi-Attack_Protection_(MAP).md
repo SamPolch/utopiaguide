@@ -81,6 +81,6 @@ This confers MAP on the chained province, which can then be aided with as many s
 
 |  |  |
 | --- | --- |
-| **!** | *The information or formula below is not up to date. Please refer to the [Protection (MAP) discussions tab](/index.php/Talk:Multi-Attack) to contribute to ongoing research or start a new topic.* |
+| **!** | *The information or formula below is not up to date. Please refer to the [Protection (MAP) discussions tab](#) to contribute to ongoing research or start a new topic.* |
 
 The tax cap has been used to build up [banks](#) before - what happens is that **Kingdom A** approaches a friendly **Kingdom B** and asks them to mass plunder

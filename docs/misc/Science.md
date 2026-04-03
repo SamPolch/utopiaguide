@@ -2,4 +2,4 @@
 
 Redirect to:
 
-- [Science Formulas](/main/Science_Formulas.md)
+- [Science Formulas](../main/Science_Formulas.md)

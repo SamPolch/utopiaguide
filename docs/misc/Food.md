@@ -51,4 +51,4 @@ Templates used on this page:
 - [Template:Mods](#) ([view source](#))
 - [Template:•](#) ([view source](#))
 
-Return to [Food](/misc/Food.md).
+Return to [Food](Food.md).

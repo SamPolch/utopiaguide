@@ -8,6 +8,7 @@ Run once after the initial scrape if links are broken:
 Safe to re-run; idempotent.
 """
 
+import os
 import re
 import urllib.parse
 from pathlib import Path
@@ -49,16 +50,20 @@ def slugify(title: str) -> str:
     return title[:200]
 
 
-def build_slug_to_path() -> dict[str, str]:
-    """Scan docs/ and build {slug: mkdocs_abs_path} from existing files."""
-    mapping: dict[str, str] = {}
+def build_slug_to_path() -> dict[str, Path]:
+    """Scan docs/ and build {slug: absolute_Path} from existing files."""
+    mapping: dict[str, Path] = {}
     for md_file in DOCS_DIR.rglob("*.md"):
-        rel = md_file.relative_to(DOCS_DIR)
         stem = md_file.stem
-        mapping[stem] = "/" + str(rel).replace("\\", "/")
-        # Also map a slugified version of the display name (for case/space variants)
-        mapping[slugify(stem)] = "/" + str(rel).replace("\\", "/")
+        mapping[stem] = md_file
+        mapping[slugify(stem)] = md_file
     return mapping
+
+
+def relative_link(from_file: Path, to_file: Path) -> str:
+    """Return a relative path from from_file's directory to to_file, usable in Markdown."""
+    rel = os.path.relpath(to_file, from_file.parent)
+    return rel.replace("\\", "/")
 
 
 SKIP_PREFIXES = (
@@ -67,7 +72,7 @@ SKIP_PREFIXES = (
 )
 
 
-def fix_file(path: Path, slug_to_path: dict[str, str]) -> int:
+def fix_file(path: Path, slug_to_path: dict[str, Path]) -> int:
     text = path.read_text(encoding="utf-8")
     original = text
 
@@ -75,14 +80,38 @@ def fix_file(path: Path, slug_to_path: dict[str, str]) -> int:
         wiki_path = m.group(1)  # e.g. /index.php?title=Race
         title = title_from_wiki_path(wiki_path)
         if not title or any(title.startswith(p) for p in SKIP_PREFIXES):
-            # Drop the link href — replace (URL) with nothing, making [text] plain
-            # We keep the bracket text by returning an empty href
             return "(#)"
         slug = slugify(title)
-        target = slug_to_path.get(slug) or slug_to_path.get(title.replace(" ", "_"))
-        if target:
-            return f"({target})"
+        target_file = slug_to_path.get(slug) or slug_to_path.get(title.replace(" ", "_"))
+        if target_file:
+            return f"({relative_link(path, target_file)})"
         return "(#)"
+
+    text = WB_LINK_RE.sub(replace_wb_link, text)
+
+    # Fix bare /index.php?title=Foo or /index.php/Foo links (no Wayback prefix)
+    def fix_bare_wiki_link(m: re.Match) -> str:
+        wiki_path = m.group(1)
+        title = title_from_wiki_path(wiki_path)
+        if not title or any(title.startswith(p) for p in SKIP_PREFIXES):
+            return "(#)"
+        slug = slugify(title)
+        target_file = slug_to_path.get(slug) or slug_to_path.get(title.replace(" ", "_"))
+        if target_file:
+            return f"({relative_link(path, target_file)})"
+        return "(#)"
+
+    text = re.sub(r'\((/index\.php[^\s\)#"]*)\)', fix_bare_wiki_link, text)
+
+    # Fix any already-rewritten absolute /dir/page.md links (from previous run)
+    def fix_absolute_link(m: re.Match) -> str:
+        abs_path = m.group(1)  # e.g. /misc/Race.md
+        target_file = DOCS_DIR / abs_path.lstrip("/")
+        if target_file.exists():
+            return f"({relative_link(path, target_file)})"
+        return m.group(0)  # leave unchanged
+
+    text = re.sub(r'\((/[^\s\)#"]+\.md)\)', fix_absolute_link, text)
 
     text = WB_LINK_RE.sub(replace_wb_link, text)
 

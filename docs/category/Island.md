@@ -4,7 +4,7 @@ The world is divided into islands with an ocean. As the age progresses, more isl
 
 The last island and first one are neighbors. On the World of Legends server, there are currently 20 islands.
 
-[World of Legends](/category/World_of_Legends.md) Islands for the [Current Age](/misc/Age_72.md) are:
+[World of Legends](World_of_Legends.md) Islands for the [Current Age](../misc/Age_72.md) are:
 
 |  |  |
 | --- | --- |

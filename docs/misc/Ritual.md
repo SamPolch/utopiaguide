@@ -1,6 +1,6 @@
 # Ritual
 
-**Kingdom Rituals** (KR) are a new mechanic introduced in [Age 72](/misc/Age_72.md) that serves as a kingdom-wide bonus. The [Monarch](#) or [Steward](#) can being a ritual.
+**Kingdom Rituals** (KR) are a new mechanic introduced in [Age 72](Age_72.md) that serves as a kingdom-wide bonus. The [Monarch](#) or [Steward](#) can being a ritual.
 
 ## Kingdom Ritual Page
 

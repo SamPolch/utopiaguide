@@ -15,7 +15,7 @@ As Honor can be gained, it can also be lost. Because Honor is captured and not c
 
 ## Honor when province is created
 
-If a Province is [created](#) when the [age](#) begins, the Honor value is initialized to 0. Additionally, over a period of 3 days, Honor is raised 20 points per [Tick](/misc/Utopia_Time.md), resulting in a total of 1440 Honor points added.
+If a Province is [created](#) when the [age](#) begins, the Honor value is initialized to 0. Additionally, over a period of 3 days, Honor is raised 20 points per [Tick](../misc/Utopia_Time.md), resulting in a total of 1440 Honor points added.
 
 ## Honor Effects
 
@@ -61,7 +61,7 @@ If you enter vacation mode within the first days of the game you will not gain h
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • [Growth](/guide/Growth.md)  • [Science](/misc/Science.md)  • [Military](/guide/Military.md)  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md)  • [Formulas](#) |
-| Rules | [Game Rules](/misc/Game_Rules.md) |
+| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../misc/Science.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](Province.md)  • [World of Legends](World_of_Legends.md)  • [Formulas](#) |
+| Rules | [Game Rules](../misc/Game_Rules.md) |

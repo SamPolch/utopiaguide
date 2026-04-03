@@ -53,11 +53,11 @@ Dragon HP = ( Receiving Kingdom NW / ~44 ) * Relations Mod
 |  |  |
 | --- | --- |
 | **Condition** | **Modifier** |
-| **Relations: [Ceasefire](/guide/Relations.md)** | 0.25 |
+| **Relations: [Ceasefire](../guide/Relations.md)** | 0.25 |
 | **Relations: None** | 0.5 |
-| **Relations: [Unfriendly](/guide/Relations.md)** | 0.5 |
-| **Relations: [Hostile](/guide/Relations.md)** | 0.75 |
-| **Relations: [War](/guide/Relations.md)** | 1 |
+| **Relations: [Unfriendly](../guide/Relations.md)** | 0.5 |
+| **Relations: [Hostile](../guide/Relations.md)** | 0.75 |
+| **Relations: [War](../guide/Relations.md)** | 1 |
 
 # Aid & Tax
 

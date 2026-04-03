@@ -82,42 +82,42 @@ No Effects
 
 ### Unfriendly
 
-- A [Dragon](/category/Dragons.md) sent to an unfriendly Kingdom will only have 50% health points.
+- A [Dragon](Dragons.md) sent to an unfriendly Kingdom will only have 50% health points.
 
 *Mystics:*
 
-- [Expose Thieves](/guide/Mystics.md)
-- [Fireball](/guide/Mystics.md)
-- [Lightning Strike](/guide/Mystics.md)
-- [Chastity](/guide/Mystics.md)
-- [Fool's Gold](/guide/Mystics.md)
-- [Nightmares](/guide/Mystics.md)
-- [Mystic Vortex](/guide/Mystics.md)
-- [Tornadoes](/guide/Mystics.md)
-- [Land Lust](/guide/Mystics.md)
-- [Abolish Ritual](/guide/Mystics.md)
-- [Magic Ward](/guide/Mystics.md)
-- [Sloth](/guide/Mystics.md)
+- [Expose Thieves](../guide/Mystics.md)
+- [Fireball](../guide/Mystics.md)
+- [Lightning Strike](../guide/Mystics.md)
+- [Chastity](../guide/Mystics.md)
+- [Fool's Gold](../guide/Mystics.md)
+- [Nightmares](../guide/Mystics.md)
+- [Mystic Vortex](../guide/Mystics.md)
+- [Tornadoes](../guide/Mystics.md)
+- [Land Lust](../guide/Mystics.md)
+- [Abolish Ritual](../guide/Mystics.md)
+- [Magic Ward](../guide/Mystics.md)
+- [Sloth](../guide/Mystics.md)
 
 *Thievery:*
 
-- [Night Strike](/misc/Thievery.md)
-- [Assassinate Wizards](/misc/Thievery.md)
-- [Greater Arson](/misc/Thievery.md)
-- [Sabotage Wizards](/misc/Thievery.md)
+- [Night Strike](../misc/Thievery.md)
+- [Assassinate Wizards](../misc/Thievery.md)
+- [Greater Arson](../misc/Thievery.md)
+- [Sabotage Wizards](../misc/Thievery.md)
 
 ### Hostile
 
 - Some Honor gains from Ops and Spells
-- A [Dragon](/category/Dragons.md) sent to a Hostile Kingdom will only have 75% health points.
+- A [Dragon](Dragons.md) sent to a Hostile Kingdom will only have 75% health points.
 - Mana costs of Offensive Spells decreases to 2%
 - Stealth costs of Offensive Operations decreases to 2%
-- Access to [Meteor Showers](/guide/Mystics.md)
+- Access to [Meteor Showers](../guide/Mystics.md)
 
 ### War
 
 - Greatly increased Honor gains from Ops and Spells
-- A [Dragon](/category/Dragons.md) sent in War has full health
+- A [Dragon](Dragons.md) sent in War has full health
 - Dragon Networth Range is removed when targeting a Kingdom you are at War with
 - Greatly reduced [Multi-Attack Protection](#)
 - 80% Protection from hits and spell/op effects from Kingdoms outside the War (phasing in over 24h)
@@ -125,12 +125,12 @@ No Effects
 
 *Mystics:*
 
-- [Amnesia](/guide/Mystics.md)
-- [War Spoils](/guide/Mystics.md)
+- [Amnesia](../guide/Mystics.md)
+- [War Spoils](../guide/Mystics.md)
 
 *Thievery:*
 
-- [Propaganda](/misc/Thievery.md)
+- [Propaganda](../misc/Thievery.md)
 
 ## Changelog
 

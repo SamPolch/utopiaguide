@@ -216,7 +216,7 @@ Prisoners caught in combat are held captive into your dungeons. A dungeon can on
 | Watchtowers |  |  | 2%3% | 50%75% | 25 | 25 | Chance of Catching Enemy ThievesRate of Repelling Individual Enemy Thieves |
 | Universities |  |  | 5.0% | 75% | 25 | 25 | Protection of Scientists from Abducts |
 | Training Grounds |  |  | 1.5% | 37.5% | 25 | 25 | Increases [Offensive Military Efficiency](#) |
-| Mills |  |  | 4%3%2% | 99%75%?% | 25 | 25 | Decreases [Build Costs](/misc/Exploring,_Construction_&_Building_Formulas.md) (Max of 99%)Decreases [Gold Exploration Costs](/misc/Exploring,_Construction_&_Building_Formulas.md)Decreases [Soldier Exploration Costs](/misc/Exploring,_Construction_&_Building_Formulas.md) |
+| Mills |  |  | 4%3%2% | 99%75%?% | 25 | 25 | Decreases [Build Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) (Max of 99%)Decreases [Gold Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md)Decreases [Soldier Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) |
 | Banks |  | 25gc | 1.25% | 31.25% | 25 | 25 | Produces 25gc per dayIncrease in Income |
 | Armouries |  |  | 2%2%1.5% | 50%50%37.5% | 25 | 25 | Decreases Draft CostsReduction of WagesDecreases Training Costs |
 | Towers |  | 12 Runes |  |  | 25 | 25 | Produces 12 runes per day |
@@ -225,11 +225,11 @@ Prisoners caught in combat are held captive into your dungeons. A dungeon can on
 
 ## Addition Information
 
-- [Growth](/guide/Growth.md)
-- [Building Formulas](/misc/Exploring,_Construction_&_Building_Formulas.md)
+- [Growth](../guide/Growth.md)
+- [Building Formulas](../misc/Exploring,_Construction_&_Building_Formulas.md)
 
 | **Buildings** | |
 | --- | --- |
-| Military Buildings | [Training Grounds](/category/Buildings.md)  • [Armouries](/category/Buildings.md)  • [Barracks](/category/Buildings.md)  • [Forts](/category/Buildings.md)  • [Guard Stations](/category/Buildings.md)  • [Hospitals](/category/Buildings.md)  • [Stables](/category/Buildings.md)  • [Dungeons](/category/Buildings.md) |
-| Thievery and Mystic Buildings | [Guilds](/category/Buildings.md)  • [Towers](/category/Buildings.md)  • [Thieves' Dens](/category/Buildings.md)  • [Watchtowers](/category/Buildings.md) |
-| Civil Buildings | [Barren Lands](/category/Buildings.md)  • [Homes](/category/Buildings.md)  • [Farms](/category/Buildings.md)  • [Mills](/category/Buildings.md)  • [Banks](/category/Buildings.md)  • [Libraries](/category/Buildings.md)  • [Schools](/category/Buildings.md) |
+| Military Buildings | [Training Grounds](Buildings.md)  • [Armouries](Buildings.md)  • [Barracks](Buildings.md)  • [Forts](Buildings.md)  • [Guard Stations](Buildings.md)  • [Hospitals](Buildings.md)  • [Stables](Buildings.md)  • [Dungeons](Buildings.md) |
+| Thievery and Mystic Buildings | [Guilds](Buildings.md)  • [Towers](Buildings.md)  • [Thieves' Dens](Buildings.md)  • [Watchtowers](Buildings.md) |
+| Civil Buildings | [Barren Lands](Buildings.md)  • [Homes](Buildings.md)  • [Farms](Buildings.md)  • [Mills](Buildings.md)  • [Banks](Buildings.md)  • [Libraries](Buildings.md)  • [Schools](Buildings.md) |

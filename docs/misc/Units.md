@@ -1,6 +1,6 @@
 # Units
 
-Here are the unit types that are available in [Utopia](/misc/Utopia.md)
+Here are the unit types that are available in [Utopia](Utopia.md)
 
 ### Peasants
 

@@ -10,4 +10,4 @@ You can view and copy the source of this page.
 
 This page is reserved for future rankings.
 
-Return to [Rankings](/misc/Rankings.md).
+Return to [Rankings](Rankings.md).

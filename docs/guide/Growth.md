@@ -1,14 +1,14 @@
 # Growth
 
-Your growth page lets you build up your acres with a variety of buildings. The [Build Table](/guide/Growth.md) below can help provide details on the benefits of the different buildings for your Province.
+Your growth page lets you build up your acres with a variety of buildings. The [Build Table](Growth.md) below can help provide details on the benefits of the different buildings for your Province.
 
 In Utopia, your **Growth** page provides information on:
 
 - Total Land
 - Total Undeveloped Land
-- [Construction Time](/misc/Exploring,_Construction_&_Building_Formulas.md)
+- [Construction Time](../misc/Exploring,_Construction_&_Building_Formulas.md)
 - Free Building Credits
-- [Construction Costs](/misc/Exploring,_Construction_&_Building_Formulas.md)
+- [Construction Costs](../misc/Exploring,_Construction_&_Building_Formulas.md)
 - Maximum Buildable Now
 - Raze Cost
 - Maximum Razeable Now
@@ -28,10 +28,10 @@ The **Growth** page also gives you the option to:
 
 | **Buildings** | |
 | --- | --- |
-| Civil Buildings | [Barren Lands](/category/Buildings.md)  • [Homes](/category/Buildings.md)  • [Farms](/category/Buildings.md)  • [Mills](/category/Buildings.md)  • [Banks](/category/Buildings.md) |
-| Military Buildings | [Training Grounds](/category/Buildings.md)  • [Armouries](/category/Buildings.md)  • [Barracks](/category/Buildings.md)  • [Forts](/category/Buildings.md)  • [Guard Stations](/category/Buildings.md)  • [Hospitals](/category/Buildings.md)  • [Stables](/category/Buildings.md)  • [Dungeons](/category/Buildings.md) |
-| Thievery and Mystic Buildings | [Guilds](/category/Buildings.md)  • [Towers](/category/Buildings.md)  • [Thieves' Dens](/category/Buildings.md)  • [Watchtowers](/category/Buildings.md) |
-| Science Buildings | [Universities](/category/Buildings.md)  • [Libraries](/category/Buildings.md) |
+| Civil Buildings | [Barren Lands](../category/Buildings.md)  • [Homes](../category/Buildings.md)  • [Farms](../category/Buildings.md)  • [Mills](../category/Buildings.md)  • [Banks](../category/Buildings.md) |
+| Military Buildings | [Training Grounds](../category/Buildings.md)  • [Armouries](../category/Buildings.md)  • [Barracks](../category/Buildings.md)  • [Forts](../category/Buildings.md)  • [Guard Stations](../category/Buildings.md)  • [Hospitals](../category/Buildings.md)  • [Stables](../category/Buildings.md)  • [Dungeons](../category/Buildings.md) |
+| Thievery and Mystic Buildings | [Guilds](../category/Buildings.md)  • [Towers](../category/Buildings.md)  • [Thieves' Dens](../category/Buildings.md)  • [Watchtowers](../category/Buildings.md) |
+| Science Buildings | [Universities](../category/Buildings.md)  • [Libraries](../category/Buildings.md) |
 
 ## Build Table
 
@@ -42,13 +42,13 @@ Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes,
 | Barren Land | 15 People | 2 Bushels |  |  | 15 | 0 | Houses 15 people and Produces 2 bushels per hour (Unaffected by BE) |
 | Homes | 10 People |  | 4% | 100% | 35 | 0 | Houses 10 people and Increases Birth Rate |
 | Farms |  | 70 Bushels |  |  | 25 | 25 | Produces 70 bushels per day |
-| Mills |  |  | 4%3%2% | 100%75%50% | 25 | 25 | Decreases [Build Costs](/misc/Exploring,_Construction_&_Building_Formulas.md) Decreases [Gold Exploration Costs](/misc/Exploring,_Construction_&_Building_Formulas.md)Decreases [Soldier Exploration Costs](/misc/Exploring,_Construction_&_Building_Formulas.md) |
+| Mills |  |  | 4%3%2% | 100%75%50% | 25 | 25 | Decreases [Build Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) Decreases [Gold Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md)Decreases [Soldier Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) |
 | Banks |  | 25gc | 1.25% | 31.25% | 25 | 25 | Produces 25gc per dayIncrease in Income |
 | Training Grounds |  |  | 1.5% | 37.5% | 25 | 25 | Increases [Offensive Military Efficiency](#) |
 | Armouries |  |  | 2%2%1.5% | 50%50%37.5% | 25 | 25 | Decreases Draft CostsReduction of WagesDecreases Training Costs |
 | Military Barracks |  |  | 1.5% | 37.5% | 25 | 25 | Lowers Attack Time |
 | Forts |  |  | 1.5% | 37.5% | 25 | 25 | Increases Defensive Military Efficiency |
-| Guard Stations |  |  | 2%2% | 50%50% | 25 | 25 | Decrease Land and resource Losses when AttackedGrants protection against [Learn](/category/Attacking_&_Defending.md) |
+| Guard Stations |  |  | 2%2% | 50%50% | 25 | 25 | Decrease Land and resource Losses when AttackedGrants protection against [Learn](../category/Attacking_&_Defending.md) |
 | Hospitals |  |  | 3%3% | 75%75% | 25 | 25 | Daily Chance of Curing [the Plague](#)Decreases Military Losses |
 | Guilds |  | 2% Wizards |  |  | 25 | 25 | Wizards Trained per day (Unaffected by BE)Guilds also increase [spell](#) duration (Unaffected by BE) |
 | Towers |  | 12 Runes |  |  | 25 | 25 | Produces 12 runes per day |
@@ -220,7 +220,7 @@ Stables are the buildings where your peasants breed your war horses, strong hors
 
 Prisoners caught in combat are held captive in your dungeons. A dungeon can only hold a limited number of prisoners.
 
-While imprisoned, prisoners will be assigned to province duties, providing you some extra gold. For more detailed information on how much gold they generate, please go to [Economy](/category/Economy.md) for the income formula or go to [Military](/guide/Military.md) for an additional definition of Prisoners.
+While imprisoned, prisoners will be assigned to province duties, providing you some extra gold. For more detailed information on how much gold they generate, please go to [Economy](../category/Economy.md) for the income formula or go to [Military](Military.md) for an additional definition of Prisoners.
 
 - Houses 40 Prisoners of War
 
@@ -245,11 +245,11 @@ Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double S
 |  |  |  |
 | --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
-| **[Builders Boon](/guide/Mystics.md)** | 0.75 | 1 |
+| **[Builders Boon](Mystics.md)** | 0.75 | 1 |
 | **Double Speed** | 0.5 | 1 |
 | **Double Speed in Protection** | 0.75 | 1 |
 | **War** | 0.75 | 1 |
-| **[Expedient Ritual](/misc/Ritual.md)** | 0.8 (if at 100% efficiency) | 1 |
+| **[Expedient Ritual](../misc/Ritual.md)** | 0.8 (if at 100% efficiency) | 1 |
 
 Note that construction speed is rounded at .5 That means if the build time is 15.49, then it is rounded down to 15. If it is 15.5, it will be rounded up to 16. For a double speed build, assuming normal construction is 15.49, the speed build time will be 15.49/2 = 7.745 = rounded up to 8 hours. For 14.9 though, it will be 14.9/2 = 7.45 = rounded down to 7 hours.
 
@@ -264,7 +264,7 @@ Construction Costs = 2/31 * (land + 11600) * Race Mod * Mills Mod * Double Speed
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Double Speed** | 2 | 1 |
 | **Race: Dwarf** | 0.5 | 1 |
-| **[Expedient Ritual](/misc/Ritual.md)** | 0.75 (if at 100% efficiency) | 1 |
+| **[Expedient Ritual](../misc/Ritual.md)** | 0.75 (if at 100% efficiency) | 1 |
 
 ### Raze Costs
 
@@ -287,7 +287,7 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 ```
 
 - The "Current Available Workers" value, provided by the Internal Affairs Adviser page, already takes prisoners into account.
-- Building Efficiency affects **ALL** [Flat Rate](/category/Buildings.md) and [Percentage-Based](/category/Buildings.md) buildings.
+- Building Efficiency affects **ALL** [Flat Rate](../category/Buildings.md) and [Percentage-Based](../category/Buildings.md) buildings.
 - Building Efficiency has **NO** effect on Capacity component of Capacity Buildings.
 
 - Changes in Building Efficiency take effect gradually.
@@ -296,8 +296,8 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 | --- | --- | --- |
 | **Modifier Type** | **Active** | **Otherwise** |
 | **Race: Dwarf** | 1.2 | 1 |
-| **Dragon: [Topaz](/category/Dragons.md)** | 0.75 | 1 |
-| **Spell: [Blizzard](/guide/Mystics.md)** | 0.9 | 1 |
+| **Dragon: [Topaz](../category/Dragons.md)** | 0.75 | 1 |
+| **Spell: [Blizzard](Mystics.md)** | 0.9 | 1 |
 
 ### Building Effects
 
@@ -312,18 +312,18 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Explore](/misc/Explore.md)** | Next:  **[Sciences](/main/Science_Formulas.md)** » |
+| « Previous:  **[Explore](../misc/Explore.md)** | Next:  **[Sciences](../main/Science_Formulas.md)** » |
 
 | **Buildings** | |
 | --- | --- |
-| Civil Buildings | [Barren Lands](/category/Buildings.md)  • [Homes](/category/Buildings.md)  • [Farms](/category/Buildings.md)  • [Mills](/category/Buildings.md)  • [Banks](/category/Buildings.md) |
-| Military Buildings | [Training Grounds](/category/Buildings.md)  • [Armouries](/category/Buildings.md)  • [Barracks](/category/Buildings.md)  • [Forts](/category/Buildings.md)  • [Guard Stations](/category/Buildings.md)  • [Hospitals](/category/Buildings.md)  • [Stables](/category/Buildings.md)  • [Dungeons](/category/Buildings.md) |
-| Thievery and Mystic Buildings | [Guilds](/category/Buildings.md)  • [Towers](/category/Buildings.md)  • [Thieves' Dens](/category/Buildings.md)  • [Watchtowers](/category/Buildings.md) |
-| Science Buildings | [Universities](/category/Buildings.md)  • [Libraries](/category/Buildings.md) |
+| Civil Buildings | [Barren Lands](../category/Buildings.md)  • [Homes](../category/Buildings.md)  • [Farms](../category/Buildings.md)  • [Mills](../category/Buildings.md)  • [Banks](../category/Buildings.md) |
+| Military Buildings | [Training Grounds](../category/Buildings.md)  • [Armouries](../category/Buildings.md)  • [Barracks](../category/Buildings.md)  • [Forts](../category/Buildings.md)  • [Guard Stations](../category/Buildings.md)  • [Hospitals](../category/Buildings.md)  • [Stables](../category/Buildings.md)  • [Dungeons](../category/Buildings.md) |
+| Thievery and Mystic Buildings | [Guilds](../category/Buildings.md)  • [Towers](../category/Buildings.md)  • [Thieves' Dens](../category/Buildings.md)  • [Watchtowers](../category/Buildings.md) |
+| Science Buildings | [Universities](../category/Buildings.md)  • [Libraries](../category/Buildings.md) |
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](/misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](/main/Race.md) & [Personality](/ages/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](/misc/Explore.md)  • **Growth**  • [Science](/misc/Science.md)  • [Military](/guide/Military.md)  [Mystics](/guide/Mystics.md)  • [Thievery](/misc/Thievery.md)  • [War Room](/guide/War_Room.md) • [Aid](#)  • [Dragon](/category/Dragons.md)  • [Ritual](/misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](/guide/Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](/misc/MunkBot.md)  • [Invitations](#)  • [Reservations](/misc/Reservations.md)  • [Utopia](/misc/Utopia.md)  • [Province](/category/Province.md)  • [World of Legends](/category/World_of_Legends.md) |
-| Rules | [Game Rules](/misc/Game_Rules.md) |
+| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • **Growth**  • [Science](../misc/Science.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../category/Dragons.md)  • [Ritual](../misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](Relations.md)  • Rankings  • [Preferences](#) |
+| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../category/Province.md)  • [World of Legends](../category/World_of_Legends.md) |
+| Rules | [Game Rules](../misc/Game_Rules.md) |

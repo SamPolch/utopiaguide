@@ -61,4 +61,4 @@ Template used on this page:
 
 - [Template:Infobox Age](#) ([view source](#))
 
-Return to [Age 93](/misc/Age_93.md).
+Return to [Age 93](Age_93.md).

@@ -74,7 +74,7 @@ After you have chosen which race you would like to play, you will also need to c
 
 **The Warrior**: The warrior benefits from an increase in offensive efficiency and additional prisoner and mercenary strength. The Warrior also gets a significant on mercenaries. The Warrior is a good choice an Attacker, especially one paired with money to leverage the mercenaries.
 
-For more numbers on each race and personality, see these links: [Race](/main/Race.md) & [Personality](/ages/Personality.md)
+For more numbers on each race and personality, see these links: [Race](../main/Race.md) & [Personality](../ages/Personality.md)
 
 Now that you know the basic function of each race and personality, begin by deciding what play style you want to play, then choose races and personalities that you believe make the best combination for your chosen play style. After that, create your province and see what kingdom you joined!
 
@@ -190,7 +190,7 @@ And finally, here is one for a **Mage**:
 - 10% Forts (Increased defense)
 - 15% Libraries (Increased science=more efficient with the acres you have)
 
-Now these are some basic strategies and I would encourage you to come up with your own. Look at the numbers of each building, found here: [Growth](/guide/Growth.md). From there, create your own building strategy and take the time to do the math to stick to it.
+Now these are some basic strategies and I would encourage you to come up with your own. Look at the numbers of each building, found here: [Growth](../guide/Growth.md). From there, create your own building strategy and take the time to do the math to stick to it.
 
 ### Part B) Get your military going!
 
@@ -213,7 +213,7 @@ Offensive specialists are useful only for offensive endeavors and do not partici
 
 Defensive specialists are useful only for defensive purposes and cannot be sent out on attacks. They costs the same as offensive specialists and typically have 10 defensive points and 0 offensive points.
 
-Elites troops are more costly than specialists but can participate in both offensive and defensive endeavors. Elite troops also add more networth to your province than specialists. Elites have different offensive and defensive points and costs different amounts depending on what [Race](/main/Race.md) and [Personality](/ages/Personality.md) you play.
+Elites troops are more costly than specialists but can participate in both offensive and defensive endeavors. Elite troops also add more networth to your province than specialists. Elites have different offensive and defensive points and costs different amounts depending on what [Race](../main/Race.md) and [Personality](../ages/Personality.md) you play.
 
 When you first start a province, you will be given a set amount of soldiers. If you have constructed armories, do not train these soldiers yet; instead, wait for the armories to be constructed to benefit from the decreased costs of training troops. Also, you may wish to use those soldiers to explore instead of training them up right away. The choice is yours, just make sure you set your draft rate to draft new soldiers into your army!
 
@@ -221,15 +221,15 @@ When you first start a province, you will be given a set amount of soldiers. If 
 
 You've finished building and inspecting the troops and it's time to see how your scientific research is being handled. You'll notice a similar screen to the "Military" screen with some similar functions.
 
-Scientists generate books that can then be allocated to a specific Science Type. At the top of the page, you can see **Current scientist generation**. This is automatic and can speed up by building more [Laboratories](/guide/Growth.md).
+Scientists generate books that can then be allocated to a specific Science Type. At the top of the page, you can see **Current scientist generation**. This is automatic and can speed up by building more [Laboratories](../guide/Growth.md).
 
-You can then choose the **Category for Next Scientist** to determine where the scientist generated will go when it is at 100%. [Universities](/guide/Growth.md) can help increase the rate of books production in a Science Category: **Economy**, **Military**, or **Arcane Arts**.
+You can then choose the **Category for Next Scientist** to determine where the scientist generated will go when it is at 100%. [Universities](../guide/Growth.md) can help increase the rate of books production in a Science Category: **Economy**, **Military**, or **Arcane Arts**.
 
 Under **Current Effects of Science**, just spend the number of books available into the science that you want to spend on. Each Science Type will have the bonuses listed next to it.
 
 You should think about what type of province you are playing and assign your research as such; there is no point in someone who will never attack researching Tactics and Siege, as both of them are only useful during attacks.
 
-For more information on the sciences, check out [Science Formulas](/main/Science_Formulas.md).
+For more information on the sciences, check out [Science Formulas](../main/Science_Formulas.md).
 
 ### Part D) Columbus discovered what?
 
@@ -243,7 +243,7 @@ During protection, the only way to add acres is through exploration, which is al
 
 After protection ends, exploring is still usually the most cost effective way to grow. You can explore for as much as you have soldiers and GC to fund, provided your province has more unexplored acres. Every province has a "Pool" of acres that can be explored. This pool grows a bit every day.
 
-Because Protection is only 24 hours, the recommendation is to explore no more than 50 acres and instead, focus on getting everything ready in [Growth](/guide/Growth.md) and [Military](/guide/Military.md). If you so happen to land in a Kingdom during war, your protection period will be 72 hours instead. In this case, exploring a little more is fine, but the focus should be to build out your military so that you are ready to help attack, cast spells, or steal.
+Because Protection is only 24 hours, the recommendation is to explore no more than 50 acres and instead, focus on getting everything ready in [Growth](../guide/Growth.md) and [Military](../guide/Military.md). If you so happen to land in a Kingdom during war, your protection period will be 72 hours instead. In this case, exploring a little more is fine, but the focus should be to build out your military so that you are ready to help attack, cast spells, or steal.
 
 ### Part E) You're Not Alone
 

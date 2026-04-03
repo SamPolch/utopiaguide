@@ -365,4 +365,4 @@ Templates used on this page:
 - [Template:Rtt sub C](#) ([view source](#))
 - [Template:•](#) ([view source](#))
 
-Return to [Age 48](/misc/Age_48.md).
+Return to [Age 48](Age_48.md).

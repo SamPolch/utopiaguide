@@ -31,4 +31,4 @@ There are several notable differences between the Genesis and [[WoL]] servers:
 [http://thedragonportal.125mb.com/History.html '''The Dragon Portal: Utopian History''']
 [[Category:Genesis]]
 
-Return to [Genesis](/misc/Genesis.md).
+Return to [Genesis](Genesis.md).

@@ -13,12 +13,12 @@ Skill points = Number of Novices + 1.5 * Number of Graduates + 2 * Number of Pro
 |  |  |  |
 | --- | --- | --- |
 | **Modifier Type** | **Multiplier** | **Science Category** |
-| Personality: [Heretic](/ages/Personality.md) | 1.3 | Crime |
-| Personality: [Heretic](/ages/Personality.md) | 1.3 | Channeling |
-| Personality: [Rogue](/ages/Personality.md) | 1.5 | Crime |
-| Personality: [Mystic](/ages/Personality.md) | 1.75 | Channeling |
-| Personality: [Sage](/ages/Personality.md) | 1.3 | All |
-| Spell: [Scientific Insights](/guide/Mystics.md) | 1.1 | All |
+| Personality: [Heretic](../ages/Personality.md) | 1.3 | Crime |
+| Personality: [Heretic](../ages/Personality.md) | 1.3 | Channeling |
+| Personality: [Rogue](../ages/Personality.md) | 1.5 | Crime |
+| Personality: [Mystic](../ages/Personality.md) | 1.75 | Channeling |
+| Personality: [Sage](../ages/Personality.md) | 1.3 | All |
+| Spell: [Scientific Insights](../guide/Mystics.md) | 1.1 | All |
 
 **\*NOTE\* Starting Age 73: Science no longer has a hard maximum for all categories. Science will scale in a linear fashion up to stated maximums (Cap) as normal. Once this point is reached, additional scientists will yield diminishing returns.**
 
@@ -33,7 +33,7 @@ Skill points = Number of Novices + 1.5 * Number of Graduates + 2 * Number of Pro
 | **Crime** | Thievery Effectiveness | 1.667% | 100% | 30 |
 | **Channeling** | Magic Effectiveness | 2.084% | 125% | 30 |
 
-- As of Age 77, Universities protect a province from [Amnesia](/guide/Mystics.md).
+- As of Age 77, Universities protect a province from [Amnesia](../guide/Mystics.md).
 - Starting Age 77, the number of scientists required for (soft) cap will be the same number for all categories: 30.
 - Abduct attack has been removed in Age 77.
 
@@ -55,8 +55,8 @@ Scientists Spawn Rate = 9.5 * Race Mod * Laboratories Effect * Revelation Mod
 |  |  |
 | --- | --- |
 | **Modifier Type** | **Multiplier** |
-| Race: [Human](/main/Race.md) | 1.25 |
-| Spell: [Revelation](/guide/Mystics.md) | 1.3 |
+| Race: [Human](../main/Race.md) | 1.25 |
+| Spell: [Revelation](../guide/Mystics.md) | 1.3 |
 
 **Scientist Networth**
 

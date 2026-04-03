@@ -478,4 +478,4 @@ Templates used on this page:
 - [Template:Rtt sub C](#) ([view source](#))
 - [Template:•](#) ([view source](#))
 
-Return to [Age 68](/misc/Age_68.md).
+Return to [Age 68](Age_68.md).

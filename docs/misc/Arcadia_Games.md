@@ -2,4 +2,4 @@
 
 Redirect to:
 
-- [Brian & Sean](/misc/Brian_&_Sean.md)
+- [Brian & Sean](Brian_&_Sean.md)

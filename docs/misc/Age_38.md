@@ -27,4 +27,4 @@ Templates used on this page:
 - [Template:Infobox Age](#) ([view source](#))
 - [Template:•](#) ([view source](#))
 
-Return to [Age 38](/misc/Age_38.md).
+Return to [Age 38](Age_38.md).

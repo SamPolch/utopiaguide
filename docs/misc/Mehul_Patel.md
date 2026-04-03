@@ -27,4 +27,4 @@ Utopia was his next project, and was essentially a clone of Falcon's Eye with ma
 At July 2008 Mehul sold Swirve.com to [[Brian\_%26\_Sean|OMAC]] under the stewardship of Brian & Sean.
 [[Category:Guide]]
 
-Return to [Mehul Patel](/misc/Mehul_Patel.md).
+Return to [Mehul Patel](Mehul_Patel.md).

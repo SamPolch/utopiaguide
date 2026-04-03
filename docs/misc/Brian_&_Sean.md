@@ -40,4 +40,4 @@ Templates used on this page:
 - [Template:Guide navigation](#) ([view source](#))
 - [Template:•](#) ([view source](#))
 
-Return to [Brian & Sean](/misc/Brian_&_Sean.md).
+Return to [Brian & Sean](Brian_&_Sean.md).

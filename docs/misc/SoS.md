@@ -2,4 +2,4 @@
 
 Redirect to:
 
-- [Thievery#Spy on Sciences](/misc/Thievery.md)
+- [Thievery#Spy on Sciences](Thievery.md)

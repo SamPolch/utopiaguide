@@ -10,4 +10,4 @@ You can view and copy the source of this page.
 
 #REDIRECT [[Units#Wizards]]
 
-Return to [Wizards](/misc/Wizards.md).
+Return to [Wizards](Wizards.md).

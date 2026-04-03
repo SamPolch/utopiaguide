@@ -87,4 +87,4 @@ Templates used on this page:
 - [Template:Mods](#) ([view source](#))
 - [Template:•](#) ([view source](#))
 
-Return to [Exploring, Construction & Building Formulas](/misc/Exploring,_Construction_&_Building_Formulas.md).
+Return to [Exploring, Construction & Building Formulas](Exploring,_Construction_&_Building_Formulas.md).

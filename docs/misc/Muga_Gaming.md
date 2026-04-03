@@ -2,7 +2,7 @@
 
 # MUGA Gaming
 
-**David Cannata & Jeff Terkowitz** purchased Utopia in February 2017 from [Brian\_&\_Sean](/misc/Brian_&_Sean.md) during [Age\_70](#).
+**David Cannata & Jeff Terkowitz** purchased Utopia in February 2017 from [Brian\_&\_Sean](Brian_&_Sean.md) during [Age\_70](#).
 
 Here is the official announcement from the Utopia Blog:
 

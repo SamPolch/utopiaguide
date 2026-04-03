@@ -10,7 +10,7 @@
 
 ## Latest revision as of 20:13, 14 August 2019
 
-A hallmark of the game is the community feel you get, both of your kingdom and with other players in the game. [Utopia](/misc/Utopia.md) is very much a 24/7 game, in that it never stops. For the casual players, this may translate as you suffering attacks when you are logged out. If you choose to play competitively, this may require you to get online soon in response to this. As such, communication is essential in the game, whether it be to deal with circumstances such as those mentioned above, or whether it be about rebuilding your kingdom.
+A hallmark of the game is the community feel you get, both of your kingdom and with other players in the game. [Utopia](../misc/Utopia.md) is very much a 24/7 game, in that it never stops. For the casual players, this may translate as you suffering attacks when you are logged out. If you choose to play competitively, this may require you to get online soon in response to this. As such, communication is essential in the game, whether it be to deal with circumstances such as those mentioned above, or whether it be about rebuilding your kingdom.
 
 ## Discord
 
