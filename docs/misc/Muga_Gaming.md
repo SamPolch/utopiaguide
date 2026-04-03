@@ -1,0 +1,19 @@
+# Muga Gaming
+
+# MUGA Gaming
+
+**David Cannata & Jeff Terkowitz** purchased Utopia in February 2017 from [Brian\_&\_Sean](/web/20200805082056//index.php?title=Brian_%26_Sean "Brian & Sean") during [Age\_70](/web/20200805082056//index.php?title=Age_70 "Age 70").
+
+Here is the official announcement from the Utopia Blog:
+
+"Today marks the beginning of a new era as we complete a transaction to purchase Utopia. The process of moving all the various pieces under our control may cause some downtime over the next couple weeks as we transition to our servers. As players, we understand the effects of this and will use our best efforts to ensure downtimes are limited and as much notice as possible can be provided.
+
+We want to thank Sean and Brian for taking the time to listen to our offer to purchase request and understand our seriousness and sincerity from the start. The closing of this transaction concludes a nearly 10 month process that began with a simple e-mail. Sean and Brian have devoted quite a lot more to the game than can readily be seen as a player in the community and we offer our sincerest thanks for their passion to see Utopia as a staple that must not be entrusted carelessly. They provide us with a great opportunity to usher in new life to the game that we all love. Without their passion and vision none of this would be possible. Thank you Sean. Thank you Brian.
+
+We are very excited by this acquisition. The two of us have been involved in this game for many years and we are thrilled with this opportunity to bring a lot of what we feel the community has been asking for to the game. Some of our early plans include: official support for mobile apps, the return of a test / genesis server, recruitment efforts to bring in new players, and adding some basic tour and explanatory features to the game.
+
+We look forward to working closely with all of you, the community, which makes this game great. We hope that you are as excited as we are and will support us through this transition as we work diligently to make Utopia great again!
+
+We are also excited to announce that we will join Benjamin on his next #Triggered podcast. We welcome everyone to share your questions or discussion topics with Benjamin and we will get to as many as we can.
+
+Dave & Jeff"
