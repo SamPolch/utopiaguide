@@ -35,7 +35,7 @@ def is_bad_page(soup: BeautifulSoup) -> bool:
     heading = soup.select_one("#firstHeading")
     if heading:
         h = heading.get_text()
-        if "View source" in h or "Difference between revisions" in h:
+        if "View source" in h or "Difference between revisions" in h or "Revision history" in h:
             return True
     if soup.select_one("textarea#wpTextbox1"):
         return True
@@ -125,6 +125,7 @@ def rescrape_page(md_file: Path, page_title_to_path: dict) -> bool:
     # Strip MediaWiki page-variant prefixes
     raw_title = re.sub(r'^View source for\s+', '', raw_title, flags=re.IGNORECASE)
     raw_title = re.sub(r'^Difference between revisions of\s+"?', '', raw_title, flags=re.IGNORECASE)
+    raw_title = re.sub(r'^Revision history of\s+"?', '', raw_title, flags=re.IGNORECASE)
     raw_title = raw_title.rstrip('"')
     title = raw_title
 
@@ -164,7 +165,7 @@ def main():
     broken = [
         f for f in sorted(DOCS_DIR.rglob("*.md"))
         if re.search(
-            r"View source for|You do not have permission to edit|^# Difference between revisions",
+            r"View source for|You do not have permission to edit|^# Difference between revisions|^# Revision history of",
             f.read_text(),
             re.MULTILINE,
         )

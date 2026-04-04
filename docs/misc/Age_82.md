@@ -1,23 +1,150 @@
-# Revision history of "Age 82"
+# Age 82
 
-Browse history
+|  |  |
+| --- | --- |
+| **Age 82** | |
+| Name: | **The Grimoires of Glory** |
+| Number: | 82 |
+| **Official Information** | |
+| Server: | [World of Legends](../category/World_of_Legends.md) |
+| Status: | Finished |
+| Owner: | [Muga Gaming](Muga_Gaming.md) |
+| **Dates** | |
+| Start: | 24 Jul 2019 |
+| End: | 28 Sep 2019 |
+| Duration (in days): | 11 weeks |
+|  | |
 
-From year (and earlier):  From month (and earlier): all
-January
-February
-March
-April
-May
-June
-July
-August
-September
-October
-November
-December [Tag](#) filter:  
+**The Grimoires of Glory** - completed Age on [World of Legends](../category/World_of_Legends.md) server.
 
-Diff selection: Mark the radio boxes of the revisions to compare and hit enter or the button at the bottom.
-Legend: **(cur)** = difference with latest revision, **(prev)** = difference with preceding revision, **m** = minor edit.
+# Mechanics Changes
 
-- (cur | [prev](#)) [04:04, 4 March 2020](#)‎ [Crystopher](#) ([talk](#) | [contribs](#))‎ . . (12,023 bytes) **(-939)**‎ . . (Added Age 82 changes)
-- ([cur](#) | prev) [16:45, 2 March 2020](#)‎ [Crystopher](#) ([talk](#) | [contribs](#))‎ . . (12,962 bytes) **(+12,962)**‎ . . (Added page for age 82, further updates pending)
+### Attacks, Relations, & Economy
+
+- Military Wages
+  - Military Wages minimum will be 10% (down from 50%), the low end of Military Efficiency will scale similarly
+- War
+  - War declare range is now: (X \* .85) to (X / .85)
+  - War win acre minimum bonus will be reduced to 2500 acres (from 4000)
+- Force Cease-Fire
+  - Only kingdoms under 85% size can force CF with an aggressor (same requirements for time and attacks remain)
+  - Aggressor kingdoms can force CF after 24 hours of no attacks in kingdom news
+- Buildings
+  - Laboratories max effect will be 100%
+
+### Spells
+
+- New (or revised) Spells:
+  - Love and Peace - Increase War Horses production by 40% (in addition to existing spell effects)
+  - Ghost Workers - Duration will be increased slightly
+  - Bloodlust - Effects will be +10% offense, +10% kills to enemy during combat, +15% own losses during combat
+- Spells Categories (restated):
+  - Currently there are:
+    - Fading (duration)
+    - Instant (one time effect)
+  - Support Category will include only the spells that are castable onto Kingdom Mates
+  - Support Spells will include (only available if your race/personality has access to them, i.e. having the ability to cast Support spells on Kingdom mates will not grant access to all of these spells)
+    - Minor Protection
+    - Greater Protection
+    - Fertile Lands
+    - Magic Shield
+    - Nature's Blessing
+    - Love and Peace
+    - Builder's Boon
+    - Inspire Army
+    - Patriotism
+    - Paladin's Inspiration
+    - Scientific Insight
+    - Illuminate Shadows
+    - Wrathful Smite
+
+### Game Administration Kingdom
+
+- Kingdom 1:1 will be dedicated to Game Administration and News Reporters. The provinces in this Kingdom will remain in protection for the duration of the age. These provinces should not be messaged to replace the use of the Utopia Support e-mail or for reporting violations of the Game Rules.
+
+### Miscellaneous
+
+- Addition of a MAX button or Ratio allocation to your science page to allow for easier allocation
+- You can now see how many ticks you have been logged in with regards to Daily Bonuses by looking at the State Council page
+
+### Gold Status
+
+- Benefits of a Gold Account (15 credits for 1 month or 35 credits for 3 months)
+- Ad-Block Active
+- Hostile Meter Active
+- Free Sitting Credits (3 for 1 month and 9 for 3 months)
+- Ability to mentor another Province for 4 hours with a 24-hour cooldown (in the same Kingdom and can't be combined with regular sitting)
+
+### Bug Fixes
+
+- Kingdom page will update more frequently
+- Kingdom page will update immediately after a War ends
+- Kingdoms were having build and spec credits removed a second time if leaving EoWCF early, this has been fixed
+- Grammar errors corrected (Blizzards "for for")
+- Lobby page showing mentor sitting time incorrectly
+- UtoBot build tool inaccurate for races that can't use certain buildings
+
+### Rituals
+
+Stats listed here considered 'base effectiveness'
+
+- Affluent: Income +20% & Draft Speed +25%
+- Barrier: +10% DME & -20% Spell/Thief damage & +15% Defensive TPA & +15% Defensive WPA
+- Expedient: -20% Military Train time & -25% Training Costs (including Thieves) & -20% Construction Time & -25% Construction Costs
+- Expropriation: +10% Combat Gains & +20% Honor Gains on Attacks
+- Godspeed: -10% Attack Time & -15% Offensive Military Casualties
+- Havoc: +30% Offensive TPA & +30% Offensive WPA & +10% Spell/Thief damage
+- Onslaught: +10% OME & +15% enemy casualties on attacks
+
+# Races
+
+| Avian | Dwarf | Elf | Faery |
+| --- | --- | --- | --- |
+| - +20% Birth Rate - -20% Attack Time - -50% Ambush Protection | - +20% Building Efficiency - -40% Build Time - +25% Building Credits Gained in Combat | - +1 Mana Recovery per Tick - +1 Defensive Specialist Strength - Can Cast Support Spells on Others (2% mana cost when casting on others - A complete list of all Support Spells can be found below) - +10% Military Efficiency | - Access to All Racial Spells - +20% Magic Effectiveness (WPA) - +25% Self Spell Duration |
+| Greater Protection, Bloodlust | Greater Protection, Inspire Army, Reflect Magic, Fanaticism | Inspire Army, Mage's Fury, Mystic Aura, Chastity | All Racial Spells, Tree of Gold |
+| - -10% Combat Gains - Cannot Use War Horses/Stables - +10% Military Casualties | - +100% Food consumption | - +15% Explore Costs | - -1 General - -10% Maximum Population |
+| Elite: 9/2, 800gc, 10.5 NW | Elite: 7/5, 975, 9.0 NW | Elite: 7/3, 900gc, 10.0 NW | Elite: 3/8, 1200gc, 9.5 NW |
+| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+
+| Halfling | Human | Orc | Undead |
+| --- | --- | --- | --- |
+| - Homes hold 20 population - +20% Thievery Effectiveness (TPA) - -50% Thief Losses - Mercenaries and Prisoners fight with 10 strength - Can use Specialist credits to train Thieves - +1/+1 Soldier Strength | - +15% Science Effectiveness - +25% Military Wages - +15% Defensive TPA | - +15% Combat Gains - +30% Draftees - -50% Draft Costs | - +10% Maximum Population - -30% Military Casualties - No food required - Spreads and is Immune to the Plague - Converts some Specialists to Elites on successful Traditional Marches |
+| Aggression, Town Watch and Gluttony | Greater Protection, Ghost Workers, Quick Feet, Fountain of Knowledge, Fanaticism | Inspire Army | Animate Dead, Chastity, Vermin |
+| - Cannot use Hospitals | - -1 Mana Recovery per Tick | - +15% Damage taken from Instant Spells & Sabotage Operations - 20% of Spells Fail - 20% of Thievery Operations Fail | - -25% Science Effectiveness - Cannot train Elites - Only Basic Thievery Intel Operations Available - -1 Defensive Specialist Strength - -1 Offensive Specialist Strength - Cannot Use Dungeons |
+| Elite: 6/6, 700gc, 8.5 NW | Elite: 5/7, 1150gc, 10.25 NW | Elite: 10/3, 1100gc, 10.5 NW | Elite: 12/4, -gc, 12.0 NW |
+| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+
+# Personalities
+
+| Artisan | Cleric | Heretic | Mystic |
+| --- | --- | --- | --- |
+| - Immune to all Income Penalties - -20% Income - -25% Build Time - -25% Build Cost - Access to Ghost Workers, Fountain of Knowledge   Starts with +800 soldiers and +800 specialist credits | - Immune to The Plague - +15% Valor Science Effectiveness - -35% Military Casualties - Can Cast Support Spells on Kingdom Mates (2% mana cost when casting on others - A complete list of all Support Spells can be found below) - Access to Fountain of Knowledge, Greater Protection, Scientific Insight, Illuminate Shadows and Animate Dead   Starts with +600 soldiers, +600 specialist credits and +200 wizards | - +50% Guilds Effectiveness - -75% Thieves lost on Failed Thievery Operations - +20% Magic Effectiveness (WPA) - +20% Thievery Effectiveness (TPA) - +30% Cunning Science Effectiveness - Access to Blizzard, Fool's Gold, Nightmare, and Revelation   Starts with +400 wizards and +400 thieves | - +150% Guilds Effectiveness - +60% Channeling Science Effectiveness - +25% Rune Production - Access to Expose Thieves, Mage's Fury, Meteor Showers, and Revelation   Starts with +800 wizards |
+
+| Rogue | Tactician | War Hero | Warrior |
+| --- | --- | --- | --- |
+| - +50% Guilds Effectiveness - +50% Thieves' Dens Effectiveness - +60% Crime Science Effectiveness - +1 Stealth Recovery per Tick - Access to all Thievery Operations - Access to Expose Thieves, Invisibility, and Revelation   Starts with +800 thieves | - -15% Attack Time - +20% Building Credits gained in Combat - +25% Siege Science Effectiveness - Accurate Espionage - Access to Clear Sight, Fanaticism   Starts with +800 soldiers and +800 specialist credits | - +100% Honor Bonuses - +10% Offensive Military Efficiency in War - +15% Specialist Credits Gained - Immune to Dragons - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md) - Access to Pitfalls and War Spoils   Starts with 800 elites | - Prisoners will convert into Elites over time (3% per tick) - -25% Military Train Time - +30% Tactics Science Effectiveness - +10% Siege Science Effectiveness - Full Conquest Access - Access to Paladin's Inspiration, Wrathful Smite, Aggression   Starts with +800 soldiers and +800 specialist credits |
+
+# Rituals
+
+| Kingdom Rituals | |
+| --- | --- |
+| Ritual | Description |
+| Affluent | - +20% Income, +25% Draft Speed |
+| Barrier | - +10% Defensive Military Efficiency, -20% Enemy Spell/Op Damage, +15% Defensive WPA/TPA |
+| Expedient | - -20% Military Training Time, -25% Training Costs (includes Thieves), -20% Construction Times, -25% Construction Costs |
+| Expropriation | - +10% Combat Gains, +20% Honor Gains on Attacks |
+| Godspeed | - -10% Attack Time, -15% Offensive Military Casualties |
+| Havoc | - +30% Offensive WPA/TPA, +10% Spell/Op Damage |
+| Onslaught | - +10% Offensive Military Efficiency, +15% Offensive Enemy Casualties |
+
+# Dragons
+
+| Dragon Type | | | |
+| --- | --- | --- | --- |
+| Emerald | Sapphire\* | Gold | Ruby |
+| +20% Military losses in combat & -15% Attack gains | -25% Thievery & Magic Effectiveness | -25% from Building Efficiency | -10% from Military Efficiency |
+| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+
+| **Ages** | |
+| --- | --- |
+| Ages | **1998 - 1999 :** The first generation of Utopia (1)  • The Second Age of Utopia (2)  • The Third Age of Utopia (3)  • The Fourth Age of Utopia (4)  • The Fifth Age of Utopia (5)  • The Sixth Age of Utopia (6)  • **2000 - 2001 :** The Seventh Age of Utopia (7)  • The Age of Chaos (8)  • The Renaissance Age (9)  • The Age of Conflict (10)  • The Age of Nobility (11)  • The Era of Magic (12)  • The Era of Mystery (13)  • The Era of Strife (14)  •  **2002 - 2003 :** The Age of Valour (15)  • The Age of Discovery (16)  • The Age of the People (17)  • The Age of Heroes (18)  • An Era of Hope (19)  • An Age of Dreams (20)  • An Age of Wonders (21)  • An Age of Conquerors (22)  • The Revolution (23)  •  **2004 - 2005 :** An Age of Glory (24)  • An Age of Tranquility (25)  • An Age of Turmoil (26)  • An Age of Courage (27)  • An Age of Intrigue (28)  • An Age of War (29)  • An Age of Unity (30)  •  **2006 - 2007 :** An Age of Reason (31)  • An Age of Kings (32)  • An Age of Prosperity (33)  • The Age of the Dragon (34)  • An Age of Triumph (35)  • An Age of Bravery (36)  • The Age of Darkness (37)  •  **2008 - 2009 :** [The Age of Angels](Age_38.md) (38)  • The Age of the Scholar (39)  • The Awakening (40)  • The Age of Renewal (41)  • The Age of Hope (42)  • The Age of Rebirth (43)  • [The Age of Change](Age_44.md) (44)  • The Age of Light (45)  •  **2010 - 2011 :** The Age of Distinction (46)  • The Age of Justice (47)  • [The Age of Peril](Age_48.md) (48)  • [The Age of Conspiracy](Age_49.md) (49)  • The Age of Resurrection (50)  • The Age of Domination (51)  • An Era of Supremacy (52)  •  **2012 - 2013 :** [The Age of Havoc](Age_53.md) (53)  • A Call to Arms (54)  • [Veil of Shadows](Age_55.md) (55)  • [Strength in Union](Age_56.md) (56)  • [Relentless Onslaught](Age_57.md) (57)  • Art of War (58)  • An Honorable Proposition (59)  • A Battle Joined (60)  •  **2014 - 2015 :** [Age of Destruction](../category/Age_61.md) (61)  • [Books of War](../category/Age_62.md) (62)  • [Iron Walls, Iron Heart](Age_63.md) (63)  • [The Spoils of War](../category/Age_64.md) (64)  • [The Isles of Legion](Age_65.md) (65)  • Thunder and Bedlam (66)  •  **2016 - 2017 :** The Age of Perception (67)  • [The Age of Heresy](Age_68.md) (68)  • The Age of Scholars and Scoundrels (69)  • The Age of Daunting Judgement (70)  • [The Metamorphosis](../category/Age_71.md) (71)  • [The Era of Venerated Bastions](Age_72.md) (72)  • [The Age of Tricksters and Mischief](../category/Age_73.md) (73)  • [The Age of Affinity](Age_74.md) (74)  •  **2017 - 2018 :** [The Age of Empowering Enchantments](../category/Age_75.md) (75)  • [The Age of the Empyrean Advent](../category/Age_76.md) (76)  • [The Age of Accession and Abrogation](../category/Age_77.md)  (77)  • [The Age of Insight](Age_78.md)  (78)  • [The Age of Vanguards Acquiescence](../category/Age_79.md) (79)  •  **2019 - 2020 :** [The Age of Reconnaissance](Age_80.md) (80)  • [The Emergence](../category/Age_81.md) (81)  • **The Grimoires of Glory** (82)  • [Age of Adjudication](../category/Age_83.md) (83)  • [Bethink the Fray](../category/Age_84.md) (84)  • [Intuition](../category/Age_85.md) (85)  • [Global Viction](Age_86.md) (86)  • [Age of the Sword](Age_87.md) (87)  • [Swift Strife](Age_88.md) (88)  • [Reformation](../category/Age_89.md) (89)  **2021 - 2022 :** [Age of Exile](../category/Age_90.md) 90  • [Age of Remembrance](Age_91.md) 91  • [Age of Ancestry](Age_92.md) 92  • [Occult Ordination](Age_93.md) 93  • [Ascent](Age_94.md) 94  • [Age of the Omen](Age_95.md) 95  • [The Eternal Rift](Age_96.md) 96  • [Dominance](Age_97.md) 97  • [Keen Transformation](Age_98.md) 98  •  **2023 - 2024 :** [Crossing Boundaries](Age_99.md) 99  • [Equilibrium](Age_100.md) 100  • [Crusades](Age_101.md) 101  • [Godsend](Age_102.md) 102  • [Unbound Dominion](Age_103.md) 103  • [Renascence](Age_104.md) 104  • [Devout Fervor](Age_105.md) 105 |
