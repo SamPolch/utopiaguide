@@ -1,22 +1,13 @@
 # Mozilla Firefox
 
-| |  | | --- | | **THIS PAGE** describes the Mozilla Firefox tool/addon for Utopia. If you have any queries with regards to the tool, direct your enquiries to the specific developer (refer below). | |
+Mozilla Firefox is a web browser particularly favored by many Utopia players due to the number of add-ons available that modify and improve the Utopia experience.
 
-## What is Mozilla Firefox?
-
-Mozilla Firefox, also known as Firefox for short, is a web browser which is particularly favored by many Utopian players due to the number of add ons available for Firefox which modifies (and improves) the utopian experience.
-
-## Add Ons for Mozilla Firefox for Utopia
+## Add-ons for Utopia
 
 - [Pimp Agent](../tools/Pimp_Agent.md)
-- Pimp Agent 2
 - [Metatron Plus](Metatron_Plus.md)
-- Seraphiel
+- [UTools](UTools.md)
 
-## Where May I get Mozilla Firefox?
+## Download
 
-For the latest version, check out their web site at http://www.mozilla.com/en-US/
-
-## External Links
-
-1. **Mozilla Firefox Website** http://www.mozilla.com/en-US/
+https://www.mozilla.org/firefox/
