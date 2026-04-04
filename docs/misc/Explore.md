@@ -42,7 +42,6 @@ The following penalties apply during war:
 
 |  |  |
 | --- | --- |
-| « Previous:  **[News](#The_Paper)** | Next:  **[Growth](../guide/Growth.md)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |

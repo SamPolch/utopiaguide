@@ -100,7 +100,6 @@ Historical information on science systems and formulas can be found here: **[Sci
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Growth](../guide/Growth.md)** | Next:  **[Military](../guide/Military.md)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |

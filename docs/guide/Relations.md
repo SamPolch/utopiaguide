@@ -266,7 +266,6 @@ Provinces are expected to interact respectfully and obey the Code of Conduct. An
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Politics](#)** | Next:  **[Preferences](#)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |

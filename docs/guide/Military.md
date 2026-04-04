@@ -92,7 +92,6 @@ Be sure to check out the Ambush Guide if you are still unclear.
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Sciences](../main/Science_Formulas.md)** | Next:  **[Mystics](Mystics.md)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |

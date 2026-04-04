@@ -40,5 +40,3 @@
 ## Page properties
 
 |  |  |
-| --- | --- |
-| Transcluded templates (2) | Templates used on this page:   - [Template:Playerguide](#) ([view source](#)) - [Template:Table](#) ([view source](#)) |

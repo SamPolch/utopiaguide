@@ -40,5 +40,3 @@
 ## Page properties
 
 |  |  |
-| --- | --- |
-| Transcluded templates (3) | Templates used on this page:   - [Template:Guide navigation](#) ([view source](#)) - [Template:PreviousNext](#) ([view source](#)) - [Template:•](#) ([view source](#)) |

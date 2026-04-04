@@ -1086,7 +1086,6 @@ Causes death among the peasants of an enemy, turning some into the caster's sold
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Military](../guide/Military.md)** | Next:  **[Thievery](../misc/Thievery.md)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |

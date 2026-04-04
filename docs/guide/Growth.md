@@ -312,7 +312,6 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Explore](../misc/Explore.md)** | Next:  **[Sciences](../main/Science_Formulas.md)** » |
 
 | **Buildings** | |
 | --- | --- |

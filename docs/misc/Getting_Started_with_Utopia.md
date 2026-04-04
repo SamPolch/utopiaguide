@@ -26,7 +26,6 @@ Balance troop drafting and wages carefully to maintain a strong defense without 
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Welcome to the Utopia Wiki](Welcome_to_the_Utopia_Wiki.md)** | Next:  **[Creating a province](#)** » |
 
 | **The Utopia Guide** | |
 | --- | --- |

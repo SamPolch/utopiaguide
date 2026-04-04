@@ -20,7 +20,6 @@
 
 |  |  |
 | --- | --- |
-| « Previous:  **[Thievery](../misc/Thievery.md)** | Next:  **Aid** » |
 
 | **The Utopia Guide** | |
 | --- | --- |

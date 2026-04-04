@@ -40,5 +40,3 @@
 ## Page properties
 
 |  |  |
-| --- | --- |
-| Transcluded templates (5) | Templates used on this page:   - [Template:Guide navigation](#) ([view source](#)) - [Template:PreviousNext](#) ([view source](#)) - [Template:Races](#) ([view source](#)) - [Template:Thieves](#) ([view source](#)) - [Template:•](#) ([view source](#)) |
