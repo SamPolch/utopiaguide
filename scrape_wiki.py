@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S /home/alex/src/utopiaguide/.venv/bin/python
 """
 scrape_wiki.py — Scrape wiki.utopia-game.com from the Wayback Machine
 and convert pages to Markdown for a MkDocs Material site.

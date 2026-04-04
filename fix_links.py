@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S /home/alex/src/utopiaguide/.venv/bin/python
 """
 fix_links.py — Post-process already-scraped docs/ to fix Wayback Machine links.
 

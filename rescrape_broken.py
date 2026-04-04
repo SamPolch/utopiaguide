@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S /home/alex/src/utopiaguide/.venv/bin/python
 """
 rescrape_broken.py — Re-fetch pages that were saved as wikitext source views
 instead of rendered HTML, by trying multiple Wayback Machine snapshots.
