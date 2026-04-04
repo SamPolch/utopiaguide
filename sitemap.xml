@@ -337,6 +337,10 @@
          <lastmod>2026-04-04</lastmod>
     </url>
     <url>
+         <loc>https://utopiaguide.chaos-intel.com/main/Island/</loc>
+         <lastmod>2026-04-04</lastmod>
+    </url>
+    <url>
          <loc>https://utopiaguide.chaos-intel.com/main/Networth/</loc>
          <lastmod>2026-04-04</lastmod>
     </url>
@@ -377,10 +381,6 @@
          <lastmod>2026-04-04</lastmod>
     </url>
     <url>
-         <loc>https://utopiaguide.chaos-intel.com/misc/Cyclops/</loc>
-         <lastmod>2026-04-04</lastmod>
-    </url>
-    <url>
          <loc>https://utopiaguide.chaos-intel.com/misc/Dual_Monarch/</loc>
          <lastmod>2026-04-04</lastmod>
     </url>
@@ -414,10 +414,6 @@
     </url>
     <url>
          <loc>https://utopiaguide.chaos-intel.com/misc/Gold_Status/</loc>
-         <lastmod>2026-04-04</lastmod>
-    </url>
-    <url>
-         <loc>https://utopiaguide.chaos-intel.com/misc/Island/</loc>
          <lastmod>2026-04-04</lastmod>
     </url>
     <url>
@@ -462,10 +458,6 @@
     </url>
     <url>
          <loc>https://utopiaguide.chaos-intel.com/misc/NewFAQ/</loc>
-         <lastmod>2026-04-04</lastmod>
-    </url>
-    <url>
-         <loc>https://utopiaguide.chaos-intel.com/misc/Northy/</loc>
          <lastmod>2026-04-04</lastmod>
     </url>
     <url>
@@ -529,15 +521,23 @@
          <lastmod>2026-04-04</lastmod>
     </url>
     <url>
+         <loc>https://utopiaguide.chaos-intel.com/players/Cyclops/</loc>
+         <lastmod>2026-04-04</lastmod>
+    </url>
+    <url>
+         <loc>https://utopiaguide.chaos-intel.com/players/Flogger/</loc>
+         <lastmod>2026-04-04</lastmod>
+    </url>
+    <url>
+         <loc>https://utopiaguide.chaos-intel.com/players/Northy/</loc>
+         <lastmod>2026-04-04</lastmod>
+    </url>
+    <url>
          <loc>https://utopiaguide.chaos-intel.com/tools/Externals/</loc>
          <lastmod>2026-04-04</lastmod>
     </url>
     <url>
          <loc>https://utopiaguide.chaos-intel.com/tools/Firefox/</loc>
-         <lastmod>2026-04-04</lastmod>
-    </url>
-    <url>
-         <loc>https://utopiaguide.chaos-intel.com/tools/Flogger/</loc>
          <lastmod>2026-04-04</lastmod>
     </url>
     <url>
