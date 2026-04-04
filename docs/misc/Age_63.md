@@ -1,6 +1,7 @@
 # Age 63
 
 | **Age 63** | |
+| --- | --- |
 | Name: | **Iron Walls Iron Heart** |
 | Number: | 63 |
 | **Official Information** | |

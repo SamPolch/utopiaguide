@@ -1,6 +1,7 @@
 # Age 48
 
 | **Age 48** | |
+| --- | --- |
 | Name: | **The Age of Peril** |
 | Number: | 48 |
 | **Official Information** | |

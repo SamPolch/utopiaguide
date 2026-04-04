@@ -1,6 +1,7 @@
 # Age 44
 
 | **Age 44** | |
+| --- | --- |
 | Name: | **The Age of Change** |
 | Number: | 44 |
 | **Official Information** | |

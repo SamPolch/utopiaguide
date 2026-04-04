@@ -1,6 +1,7 @@
 # Age 99
 
 | **Age 99** | |
+| --- | --- |
 | Name: | **Crossing Boundaries** |
 | Number: | 99 |
 | **Official Information** | |

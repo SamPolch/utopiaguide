@@ -1,6 +1,7 @@
 # Age 65
 
 | **Age 65** | |
+| --- | --- |
 | Name: | **Isles of Legion** |
 | Number: | 65 |
 | **Official Information** | |

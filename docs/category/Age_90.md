@@ -1,6 +1,7 @@
 # Age 90
 
 | **Age 90** | |
+| --- | --- |
 | Name: | **Age of Exile** |
 | Number: | 90 |
 | **Official Information** | |

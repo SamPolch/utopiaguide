@@ -11,6 +11,7 @@ Details on the benefits of different sciences can be found below.
 Check out the Guide for descriptions: [https://utopia-game.com/guide/](https://utopia-game.com/guide/), then go to Science in the navigation menu.
 
 | **Science Category** | **Type** | **Effect** | **Multiplier** |
+| --- | --- | --- | --- |
 | **Economy** | Alchemy | Income | ~0.0724 |
 |  | Tools | Building Effectiveness | ~0.0524 |
 |  | Housing | Population Limits | ~0.0262 |
@@ -58,6 +59,7 @@ Scientists Spawn Rate = 2 * Race Mod * Universities Effect * Revelation Mod
 ### Scientist Ranks and Production
 
 | **Rank** | **Experience** | **Book Production** |
+| --- | --- | --- |
 | **Recruit** | 0-1439 | 60 |
 | **Novice** | 1440-5279 | 80 |
 | **Graduate** | 5280-12479 | 100 |
@@ -72,6 +74,7 @@ Re-assigning scientists drops them back to a recruit. Refer to this forum post f
 Some Races and Personalities gain or lose Science Efficiency, as follows:
 
 | **Race/Pers** | **Category** | **Efficiency** |
+| --- | --- | --- |
 | Human | All | 1.1 |
 | Artisan | Artisan | 1.25 |
 | Cleric | Resilience | 1.25 |

@@ -7,6 +7,7 @@ The last island and first one are neighbors. On the World of Legends server, the
 [World of Legends](World_of_Legends.md) Islands for the [Current Age](../misc/Age_72.md) are:
 
 | **Number** | **Name** |
+| --- | --- |
 | 1 | Astel |
 | 2 | Corsov |
 | 3 | Escania |

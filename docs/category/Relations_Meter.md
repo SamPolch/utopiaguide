@@ -31,6 +31,7 @@ Dragons sent add 30 points to the Hostility Meter.
 ### Spells and Thievery Operations
 
 | **Spell** | **Relations Required** | **Value** |
+| --- | --- | --- |
 | **Storms** | Normal | 0.06 |
 | **Drought** | Normal | 0.06 |
 | **Gluttony** | Normal | 0.09 |
@@ -54,6 +55,7 @@ Dragons sent add 30 points to the Hostility Meter.
 | **Meteor Showers** | Hostile | 0.75 |
 
 | **Thievery Operation** | **Relations Required** | **Value** |
+| --- | --- | --- |
 | **Free Prisoners** | Normal | 0.03 |
 | **Rob the Granaries** | Normal | 0.06 |
 | **Bribe Generals** | Normal | 0.09 |

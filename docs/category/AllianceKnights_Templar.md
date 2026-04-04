@@ -5,6 +5,7 @@
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
 | **Alliance:Knights Templar** | |
+| --- | --- |
 | Name: | Knights Templar |
 | Tag: | KT |
 | **Contact** | |

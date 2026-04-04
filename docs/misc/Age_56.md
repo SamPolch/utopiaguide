@@ -1,6 +1,7 @@
 # Age 56
 
 | **Age 56** | |
+| --- | --- |
 | Name: | **Strength in Union** |
 | Number: | 56 |
 | **Official Information** | |

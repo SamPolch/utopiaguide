@@ -1,6 +1,7 @@
 # Age 78
 
 | **Age 78** | |
+| --- | --- |
 | Name: | **The Age of Insight** |
 | Number: | 78 |
 | **Official Information** | |

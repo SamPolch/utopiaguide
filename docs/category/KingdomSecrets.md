@@ -5,6 +5,7 @@
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
 | **Kingdom:Secrets** | |
+| --- | --- |
 | Alliance Affliations: | None |
 | **Contact** | |
 | Founder: | Versace, NaDa |

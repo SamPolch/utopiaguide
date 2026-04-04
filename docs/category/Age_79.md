@@ -1,6 +1,7 @@
 # Age 79
 
 | **Age 79** | |
+| --- | --- |
 | Name: | **Vanguards Acquiescence** |
 | Number: | 79 |
 | **Official Information** | |

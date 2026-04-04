@@ -1,6 +1,7 @@
 # Age 81
 
 | **Age 81** | |
+| --- | --- |
 | Name: | **The Emergence** |
 | Number: | 81 |
 | **Official Information** | |

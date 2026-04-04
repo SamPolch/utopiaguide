@@ -15,6 +15,7 @@ Multi-Attack Protection (**MAP**) (formerly known as Gangbang Protection **GBP**
 - MAP is almost negligible in War.
 
 | **MAP Status** | **MAP rating** | **Gains Out of War** | **Gains in War** | **Increase in ME** | **MAP Decay** |
+| --- | --- | --- | --- | --- | --- |
 | **Not Hit** | 0% | 100% | 100% | N/A | 0 |
 | **Couple** | 1-20% | 80-99% | 80-99% | +0.13-2.67% | 1 |
 | **Moderately Hit** | 21-40% | 60-79% | 70-79% | +2.80-5.33% | 1 |

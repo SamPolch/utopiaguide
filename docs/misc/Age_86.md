@@ -1,6 +1,7 @@
 # Age 86
 
 | **Age 86** | |
+| --- | --- |
 | Name: | **Global Viction** |
 | Number: | 86 |
 | **Official Information** | |

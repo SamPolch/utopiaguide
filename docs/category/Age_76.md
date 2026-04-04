@@ -1,6 +1,7 @@
 # Age 76
 
 | **Age 76** | |
+| --- | --- |
 | Name: | **The Age of the Empyrean Advent** |
 | Number: | 76 |
 | **Official Information** | |

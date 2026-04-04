@@ -1,6 +1,7 @@
 # Age 98
 
 | **Age 98** | |
+| --- | --- |
 | Name: | **Keen Transformation** |
 | Number: | 98 |
 | **Official Information** | |

@@ -1,6 +1,7 @@
 # Flogger
 
 |  | |
+| --- | --- |
 | **Player Information** | |
 | **Name** Tom |  |
 | **Nationality** United States |  |

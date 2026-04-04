@@ -9,6 +9,7 @@ Cost Metric = Target Kingdom NW * 0.656
 ```
 
 | **Dragon Type** | **Cost Mod** |
+| --- | --- |
 | **Sapphire** | 2 |
 | **Topaz** | 2 |
 | **Amethyst** | 2.4 |
@@ -24,6 +25,7 @@ Dragon HP = Dragon Type HP Mod * Relations Modifier * (Receiving Kingdom NW / 13
 ```
 
 | **Dragon Type** | **HP Mod** |
+| --- | --- |
 | **Sapphire** | 3.1875 |
 | **Topaz** | 3.1875 |
 | **Amethyst** | 3.825 |
@@ -31,6 +33,7 @@ Dragon HP = Dragon Type HP Mod * Relations Modifier * (Receiving Kingdom NW / 13
 | **Emerald** | 4.78125 |
 
 | **Relations** | **Relations Modifier** |
+| --- | --- |
 | **Relations: None** | 0.5 |
 | **Relations: [Unfriendly](../guide/Relations.md)** | 0.5 |
 | **Relations: [Hostile](../guide/Relations.md)** | 0.75 |

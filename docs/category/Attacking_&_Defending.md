@@ -47,6 +47,7 @@ Mod Off = Raw Offense * (OME + General Bonus)
 ```
 
 | **Condition** | **Modifier** |
+| --- | --- |
 | **OME** | *check your Military Advisor* |
 | **General Bonus** | +5% per additional general over 1 |
 
@@ -64,6 +65,7 @@ Attack Time = Base Attack Time * Race Bonus * Personality Bonus * Barracks Bonus
 The base attack time is 14 hours. This is the value all calculations are based upon.
 
 | **Location** | ***Intra KD*** | ***Different KD*** |
+| --- | --- | --- |
 | **Attack Time** | 7 | 14 |
 
 #### Minimum Offense to Win
@@ -117,6 +119,7 @@ For Attacks that target and capture Resources (Traditional March, Conquest, Plun
 Adding or subtracting hours modifies the Gains (based on your Attack Time), as follows:
 
 | **Hours** | **Gains Modifier %** |
+| --- | --- |
 | **-2** | (-2 / base attack time) \* 160% |
 | **-1** | (-1 / base attack time) \* 150% |
 | **+1** | (1 / base attack time) \* 80% |
@@ -168,6 +171,7 @@ Mod Defense = MAX ( Raw Defense * Defensive Military Efficiency , Land )
 ```
 
 | **Modifier Type** | **Active** | **Otherwise** |
+| --- | --- | --- |
 | **Def Spec Points** | *Variable* | 10 |
 | **Elite Defense** | *Variable* |
 | **[Town Watch](../guide/Mystics.md)** | Peasants / 5 | 0 |
@@ -184,6 +188,7 @@ This **does not apply** to Intra-Kingdom attacks.
 Base Military Casualties are 6.5%-8.5% on Offense, 5%-6.5% on Defense.
 
 | **Modifier** | **Type** | **Effect** |
+| --- | --- | --- |
 | **Building: Hospitals** | All Military Casualties | Varies |
 | **Science: Resilience** | All Military Casualties | Varies |
 | **Multi-Attack Protection** | Military Casualties | Varies |

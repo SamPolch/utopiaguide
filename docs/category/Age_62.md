@@ -1,6 +1,7 @@
 # Age 62
 
 | **Age 62** | |
+| --- | --- |
 | Name: | **not named yet** |
 | Number: | 62 |
 | **Official Information** | |

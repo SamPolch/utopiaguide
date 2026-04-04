@@ -22,6 +22,7 @@ An Add-on for [Mozilla Firefox](../misc/Mozilla_Firefox.md) which makes it which
 ## Features of Pimp Agent
 
 | **Features List** |
+| --- |
 | Send all ops (attack, thief, mage) straight to Utopiapimp with a single mouse click |
 | Send all self-intelligence and enemy-intelligence, including kingdom pages and CE/kingdom news |
 | Automatically send self-intelligence on a schedule to keep your data up to date in Utopiapimp. |

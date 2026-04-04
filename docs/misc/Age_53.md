@@ -1,6 +1,7 @@
 # Age 53
 
 | **Age 53** | |
+| --- | --- |
 | Name: | **The Age of Havoc** |
 | Number: | 53 |
 | **Official Information** | |

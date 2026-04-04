@@ -5,6 +5,7 @@
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
 | **Kingdom:Copy Cats** | |
+| --- | --- |
 | Alliance Affliations: | None |
 | **Contact** | |
 | Founder: | Catwalk |

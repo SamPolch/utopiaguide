@@ -1,6 +1,7 @@
 # Age 94
 
 | **Age 94** | |
+| --- | --- |
 | Name: | ' |
 | Number: | 94 |
 | **Official Information** | |

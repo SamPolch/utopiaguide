@@ -13,6 +13,7 @@ Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double S
 ```
 
 | **Modifier Type** | **Active** | **Otherwise** |
+| --- | --- | --- |
 | **[Builders Boon](../guide/Mystics.md)** | 0.75 | 1 |
 | **Double Speed** | 0.5 | 1 |
 | **Double Speed in Protection** | 0.75 | 1 |
@@ -26,6 +27,7 @@ Construction Costs = 0.05*(land+10000) * Race Mod * Mills Mod * Double Speed * E
 ```
 
 | **Modifier Type** | **Active** | **Otherwise** |
+| --- | --- | --- |
 | **Double Speed** | 2 | 1 |
 | **Race: Dwarf** | 0.5 | 1 |
 | **[Expedient Ritual](Ritual.md)** | 0.75 (if at 100% efficiency) | 1 |
@@ -57,6 +59,7 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 - Changes in Building Efficiency take effect gradually.
 
 | **Modifier Type** | **Active** | **Otherwise** |
+| --- | --- | --- |
 | **Race: Dwarf** | 1.25 | 1 |
 | **Dragon: [Topaz](../category/Dragons.md)** | 0.75 | 1 |
 | **Spell: [Blizzard](../guide/Mystics.md)** | 0.9 | 1 |

@@ -1,6 +1,7 @@
 # Age 55
 
 | **Age 55** | |
+| --- | --- |
 | Name: | **Veil of Shadows** |
 | Number: | 55 |
 | **Official Information** | |

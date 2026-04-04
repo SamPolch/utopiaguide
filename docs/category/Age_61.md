@@ -1,6 +1,7 @@
 # Age 61
 
 | **Age 61** | |
+| --- | --- |
 | Name: | **Age of Destruction** |
 | Number: | 61 |
 | **Official Information** | |

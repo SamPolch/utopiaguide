@@ -1,6 +1,7 @@
 # Age 83
 
 | **Age 83** | |
+| --- | --- |
 | Name: | **Age of Adjudication** |
 | Number: | 83 |
 | **Official Information** | |

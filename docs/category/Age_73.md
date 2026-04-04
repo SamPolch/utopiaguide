@@ -1,6 +1,7 @@
 # Age 73
 
 | **Age 73** | |
+| --- | --- |
 | Name: | **The Age of Tricksters and Mischief** |
 | Number: | 73 |
 | **Official Information** | |

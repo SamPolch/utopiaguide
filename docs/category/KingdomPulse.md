@@ -5,6 +5,7 @@
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
 | **Kingdom:Pulse** | |
+| --- | --- |
 | Alliance Affliations: | TCL |
 | **Contact** | |
 | Founder: | Shanamaj |

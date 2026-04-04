@@ -1,6 +1,7 @@
 # Age 84
 
 | **Age 84** | |
+| --- | --- |
 | Name: | **Bethink the Fray** |
 | Number: | 84 |
 | **Official Information** | |

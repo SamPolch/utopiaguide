@@ -1,6 +1,7 @@
 # Age 82
 
 | **Age 82** | |
+| --- | --- |
 | Name: | **The Grimoires of Glory** |
 | Number: | 82 |
 | **Official Information** | |

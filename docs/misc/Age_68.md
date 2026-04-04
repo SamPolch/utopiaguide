@@ -1,6 +1,7 @@
 # Age 68
 
 | **Age 68** | |
+| --- | --- |
 | Name: | **Heresy** |
 | Number: | 68 |
 | **Official Information** | |

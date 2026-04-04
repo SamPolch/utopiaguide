@@ -1,6 +1,7 @@
 # Age 64
 
 | **Age 64** | |
+| --- | --- |
 | Name: | **The Spoils of War** |
 | Number: | 64 |
 | **Official Information** | |

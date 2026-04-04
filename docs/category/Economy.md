@@ -66,6 +66,7 @@ Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love & Peace) * Race
 ```
 
 | **Modifier Type** | **Active** | **Otherwise** |
+| --- | --- | --- |
 | **Love & Peace** | 0.85% | 0 |
 | **Storms** | 1.5% | 0 |
 | **Chastity** | 0.5 | 1 |

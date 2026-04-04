@@ -1,6 +1,7 @@
 # Age 77
 
 | **Age 77** | |
+| --- | --- |
 | Name: | **The Age of Accession and Abrogation** |
 | Number: | 77 |
 | **Official Information** | |

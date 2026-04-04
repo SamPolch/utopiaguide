@@ -1,6 +1,7 @@
 # Age 85
 
 | **Age 85** | |
+| --- | --- |
 | Name: | **Intuition** |
 | Number: | 85 |
 | **Official Information** | |

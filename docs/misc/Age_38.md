@@ -1,6 +1,7 @@
 # Age 38
 
 | **Age 38** | |
+| --- | --- |
 | Name: | **The Age of Angels** |
 | Number: | 38 |
 | **Official Information** | |

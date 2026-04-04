@@ -1,6 +1,7 @@
 # Age 71
 
 | **Age 71** | |
+| --- | --- |
 | Name: | **The Metamorphosis** |
 | Number: | 71 |
 | **Official Information** | |

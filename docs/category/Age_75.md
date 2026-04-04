@@ -1,6 +1,7 @@
 # Age 75
 
 | **Age 75** | |
+| --- | --- |
 | Name: | **The Age of Empowering Enchantments** |
 | Number: | 75 |
 | **Official Information** | |

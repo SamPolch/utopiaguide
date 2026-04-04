@@ -1,6 +1,7 @@
 # Age 80
 
 | **Age 80** | |
+| --- | --- |
 | Name: | **Age of Reconnaissance** |
 | Number: | 80 |
 | **Official Information** | |

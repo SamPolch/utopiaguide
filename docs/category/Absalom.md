@@ -5,6 +5,7 @@
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
 | **Alliance:Absalom** | |
+| --- | --- |
 | Name: | Absalom |
 | Tag: | ABS |
 | **Contact** | |

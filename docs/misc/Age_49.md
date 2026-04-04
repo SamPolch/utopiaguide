@@ -1,6 +1,7 @@
 # Age 49
 
 | **Age 49** | |
+| --- | --- |
 | Name: | **The Age of Conspiracy** |
 | Number: | 49 |
 | **Official Information** | |

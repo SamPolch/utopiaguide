@@ -1,6 +1,7 @@
 # Age 89
 
 | **Age 89** | |
+| --- | --- |
 | Name: | **Reformation** |
 | Number: | 89 |
 | **Official Information** | |

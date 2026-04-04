@@ -1,6 +1,7 @@
 # Age 97
 
 | **Age 97** | |
+| --- | --- |
 | Name: | **Dominance** |
 | Number: | 97 |
 | **Official Information** | |

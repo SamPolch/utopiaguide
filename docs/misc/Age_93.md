@@ -1,6 +1,7 @@
 # Age 93
 
 | **Age 93** | |
+| --- | --- |
 | Name: | **Occult Ordination** |
 | Number: | 93 |
 | **Official Information** | |

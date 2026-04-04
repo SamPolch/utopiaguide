@@ -1,6 +1,7 @@
 # Cyclops
 
 |  | |
+| --- | --- |
 | **Player Information** | |
 | **Name** |  |
 | **Nationality** |  |

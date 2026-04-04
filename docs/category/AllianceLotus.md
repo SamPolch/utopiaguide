@@ -5,6 +5,7 @@
 | [Alliance Listings](#) **·** [Kingdoms Listings](#) |
 
 | **Alliance:Lotus** | |
+| --- | --- |
 | Name: | Lotus |
 | Tag: | Lotus |
 | **Contact** | |
