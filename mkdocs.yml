@@ -167,12 +167,10 @@ nav:
   - Pimp Agent: tools/Pimp_Agent.md
   - Mozilla Firefox: misc/Mozilla_Firefox.md
   - Players:
-    - Cyclops: players/Cyclops.md
     - Flogger: players/Flogger.md
     - Northy: players/Northy.md
   - Alliances:
-    - Absalom (ABS): alliances/ABS.md
-    - Absalom: alliances/Absalom.md
+    - Absalom (ABS): alliances/Absalom.md
     - Knights Templar: alliances/AllianceKnights_Templar.md
     - Lotus: alliances/AllianceLotus.md
   - Kingdoms:
