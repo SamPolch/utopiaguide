@@ -39,6 +39,7 @@ nav:
   - Unique Abilities: misc/Unique_Abilities.md
   - Wizards: misc/Wizards.md
   - Food: misc/Food.md
+  - Island: main/Island.md
   - Utopia Time: misc/Utopia_Time.md
 - Guides:
   - Getting Started with Utopia: misc/Getting_Started_with_Utopia.md
@@ -145,7 +146,6 @@ nav:
   - UtopiaPimp: tools/UtopiaPimp.md
   - UtopiaPimp V2: tools/UtopiaPimp_V2.md
   - Pimp Agent: tools/Pimp_Agent.md
-  - Flogger: tools/Flogger.md
   - Mozilla Firefox: tools/Firefox.md
 - About:
   - Utopia: misc/Utopia.md
@@ -155,6 +155,10 @@ nav:
   - Utopian server: misc/Utopian_server.md
   - Reservations: misc/Reservations.md
   - SpecialThanks: misc/SpecialThanks.md
+  - Players:
+    - Cyclops: players/Cyclops.md
+    - Flogger: players/Flogger.md
+    - Northy: players/Northy.md
   - Alliances:
     - Absalom (ABS): alliances/ABS.md
     - Absalom: alliances/Absalom.md
@@ -168,11 +172,8 @@ nav:
   - Misc:
     - Ad: main/Ad.md
     - Brian & Sean: misc/Brian_&_Sean.md
-    - Cyclops: misc/Cyclops.md
-    - Island: misc/Island.md
     - Mehul Patel: misc/Mehul_Patel.md
     - Muga Gaming: misc/Muga_Gaming.md
     - NewFAQ: misc/NewFAQ.md
-    - Northy: misc/Northy.md
     - Rules: misc/Rules.md
     - Theme: misc/Theme.md
