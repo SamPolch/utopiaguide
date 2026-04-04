@@ -69,6 +69,7 @@ nav:
   - Hostile Meter: main/Hostile_Meter.md
   - Relations Meter: main/Relations_Meter.md
   - Overpopulation: formulas/Overpopulation.md
+  - Multi-Attack Protection (MAP): misc/Multi-Attack_Protection_(MAP).md
   - Game Rules: misc/Game_Rules.md
   - Gold Status: misc/Gold_Status.md
   - Kingdom Recognition: misc/Kingdom_Recognition.md
@@ -154,8 +155,6 @@ nav:
   - Utopian server: misc/Utopian_server.md
   - Reservations: misc/Reservations.md
   - SpecialThanks: misc/SpecialThanks.md
-  - Out Of Date:
-    - Multi-Attack Protection (MAP): out_of_date/Multi-Attack_Protection_(MAP).md
   - Alliances:
     - Absalom (ABS): alliances/ABS.md
     - Absalom: alliances/Absalom.md
