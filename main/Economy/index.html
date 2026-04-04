@@ -5010,34 +5010,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../misc/Welcome_to_the_Utopia_Wiki/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Welcome to the Utopia Wiki
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../misc/Activation_Code/" class="md-nav__link">
         
   
@@ -5135,15 +5107,15 @@
 <p>Banks and population produce money, wizards could cast it from <a href="../../guide/Mystics/">Tree of Gold</a>.</p>
 <p>Spend money on Exploration, Building, Training, Wages, Dragons or aid your teammates.</p>
 <h3 id="raw-income">Raw Income</h3>
-<pre><code>Raw Income = (3 * Employed Peasants) + (1 * Unemployed Peasants) + (0.75 * Prisoners) + Racial Gold Generation + (Banks * 25 * BE) + Miner's Mystique Gold Generation
-</code></pre>
+<div class="highlight"><pre><span></span><code>Raw Income = (3 * Employed Peasants) + (1 * Unemployed Peasants) + (0.75 * Prisoners) + Racial Gold Generation + (Banks * 25 * BE) + Miner&#39;s Mystique Gold Generation
+</code></pre></div>
 <h3 id="modified-total-income">Modified Total Income</h3>
-<pre><code>Modified Income = Raw Income * Plague * Riots * Bank % Bonus * Income Sci * Honor Income Mod 
+<div class="highlight"><pre><span></span><code>Modified Income = Raw Income * Plague * Riots * Bank % Bonus * Income Sci * Honor Income Mod 
                   * Race Mod * Personality Mod * Dragon * Ritual
-</code></pre>
+</code></pre></div>
 <h3 id="military-expenses-wages">Military Expenses / Wages</h3>
-<pre><code>Military Expenses = (((Def specs + Off specs ) * 0.5) + Elites * 0.75) * Wage Rate * Armouries Bonus * Race Mod * Personality Mod * max(Inspire Army , Hero's Inspiration) * Greed * Ritual * Dragon * Bookkeeping Science Effect
-</code></pre>
+<div class="highlight"><pre><span></span><code>Military Expenses = (((Def specs + Off specs ) * 0.5) + Elites * 0.75) * Wage Rate * Armouries Bonus * Race Mod * Personality Mod * max(Inspire Army , Hero&#39;s Inspiration) * Greed * Ritual * Dragon * Bookkeeping Science Effect
+</code></pre></div>
 <p><strong>Note</strong></p>
 <ul>
 <li>Wages are not paid to basic soldiers</li>
@@ -5151,26 +5123,26 @@
 </ul>
 <h1 id="population">Population</h1>
 <h3 id="total-population">Total Population</h3>
-<pre><code>Raw Living Space = ((Built Land + Land in progress) * 25) + (Barren Land * 15) + (Homes * Homes Capacity)  
+<div class="highlight"><pre><span></span><code>Raw Living Space = ((Built Land + Land in progress) * 25) + (Barren Land * 15) + (Homes * Homes Capacity)  
 
 Mod Living Space = Raw Living Space * Race Bonus * Population Science * Honor Population Bonus
-</code></pre>
+</code></pre></div>
 <p><strong>Note</strong></p>
 <ul>
 <li>Honor Bonuses are calculated as 1 + (Personality Mod * Honor Bonus)</li>
 </ul>
 <h3 id="current-population">Current Population</h3>
-<pre><code>Current Population = Peasants + Soldiers + Off Specs + Off Specs in Training + Def Specs + Def Specs in Training 
+<div class="highlight"><pre><span></span><code>Current Population = Peasants + Soldiers + Off Specs + Off Specs in Training + Def Specs + Def Specs in Training 
                      + Elites + Elites in Training + Thieves + Thieves in Training + Wizards
-</code></pre>
+</code></pre></div>
 <p><strong>Note</strong></p>
 <ul>
 <li>Prisoners do not add to the population</li>
 </ul>
 <h2 id="peasants">Peasants</h2>
 <h3 id="hourly-change">Hourly Change</h3>
-<pre><code>Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love &amp; Peace) * Race Bonus * Hospitals Bonus * EOWCF * Chastity - Storms)) + (Homes bonus * Chastity) - Drafted Soldiers - Wizards Trained
-</code></pre>
+<div class="highlight"><pre><span></span><code>Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love &amp; Peace) * Race Bonus * Hospitals Bonus * EOWCF * Chastity - Storms)) + (Homes bonus * Chastity) - Drafted Soldiers - Wizards Trained
+</code></pre></div>
 <table>
 <thead>
 <tr>
@@ -5206,24 +5178,24 @@ Mod Living Space = Raw Living Space * Race Bonus * Population Science * Honor Po
 </ul>
 <h2 id="employment">Employment</h2>
 <h3 id="available-jobs">Available Jobs</h3>
-<pre><code>Available Jobs = (Completed Buildings - Homes) * 25
-</code></pre>
+<div class="highlight"><pre><span></span><code>Available Jobs = (Completed Buildings - Homes) * 25
+</code></pre></div>
 <h3 id="unfilled-jobs">Unfilled Jobs</h3>
-<pre><code>Unfilled Jobs = MAX ( Available Jobs - Peasants - ROUNDDOWN( Prisoners / 2 ) , 0 )
-</code></pre>
+<div class="highlight"><pre><span></span><code>Unfilled Jobs = MAX ( Available Jobs - Peasants - ROUNDDOWN( Prisoners / 2 ) , 0 )
+</code></pre></div>
 <h3 id="employed-peasants">Employed Peasants</h3>
-<pre><code>Employed Peasants = MIN ( Peasants , Available Jobs - (ROUNDDOWN ( Prisoners* / 2 )) )
-</code></pre>
+<div class="highlight"><pre><span></span><code>Employed Peasants = MIN ( Peasants , Available Jobs - (ROUNDDOWN ( Prisoners* / 2 )) )
+</code></pre></div>
 <p><strong>Note</strong></p>
 <ul>
 <li>Prisoners are included in the Employed Peasants calculation for Building Efficiency. Prisoners are not considered actual peasants, as they do not generate the same amount of gold as employed or unemployed peasants (they only generate 0.75 gold regardless of employment)</li>
 </ul>
 <h3 id="unemployed-peasants">Unemployed Peasants</h3>
-<pre><code>Unemployed Peasants = MIN(Peasants - Employed Peasants)
-</code></pre>
+<div class="highlight"><pre><span></span><code>Unemployed Peasants = MIN(Peasants - Employed Peasants)
+</code></pre></div>
 <h3 id="employment-rate">Employment Rate</h3>
-<pre><code>Employment Rate = (Employed Peasants / Peasants) * 100
-</code></pre>
+<div class="highlight"><pre><span></span><code>Employment Rate = (Employed Peasants / Peasants) * 100
+</code></pre></div>
 <table>
 <thead>
 <tr>

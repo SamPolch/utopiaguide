@@ -5358,34 +5358,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../misc/Welcome_to_the_Utopia_Wiki/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Welcome to the Utopia Wiki
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../misc/Activation_Code/" class="md-nav__link">
         
   
@@ -5799,8 +5771,8 @@
 <h1 id="attacking-defending">Attacking &amp; Defending</h1>
 <h2 id="military-efficiency">Military Efficiency</h2>
 <h3 id="base-military-efficiency">Base Military Efficiency</h3>
-<pre><code>Base Military Efficiency = ( 33 + 67 * ( Effective Wage Rate / 100 ) 0.25 ) * Ruby Dragon * Multi-Attack Protection Bonus
-</code></pre>
+<div class="highlight"><pre><span></span><code>Base Military Efficiency = ( 33 + 67 * ( Effective Wage Rate / 100 ) 0.25 ) * Ruby Dragon * Multi-Attack Protection Bonus
+</code></pre></div>
 <ul>
 <li>Rounded to one decimal point, it should return the most accurate values. Effective Wage Rate lies between 20% (77.8% Efficiency) to 200% (112.7% Efficiency).</li>
 <li>While wages can be changed instantly, the effective wage rate used for base military efficiency changes slowly per tick. It takes approximately 96hrs to go from 20% wages to max at 200% wages.</li>
@@ -5811,24 +5783,24 @@
 <p><strong>96 Hour Wage Rate Chart</strong>: <a href="https://upload.wikimedia.org/wikipedia/commons/c/cb/ME_Chart.png">ME Chart</a></p>
 </li>
 </ul>
-<pre><code>Change in Effective Wage Rate =  0.05 * (Wage Rate Paid - Effective Wage Rate)
-</code></pre>
+<div class="highlight"><pre><span></span><code>Change in Effective Wage Rate =  0.05 * (Wage Rate Paid - Effective Wage Rate)
+</code></pre></div>
 <ul>
 <li>If wages were not fully paid in the previous tick, Wage Rate Paid will be set at minimum regardless of the amount of wages actually paid.</li>
 </ul>
 <h3 id="offensive-military-efficiency">Offensive Military Efficiency</h3>
-<pre><code>OME = (Base Military Efficiency + Training Grounds Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Fanaticism * Bloodlust * Ritual
-</code></pre>
+<div class="highlight"><pre><span></span><code>OME = (Base Military Efficiency + Training Grounds Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Fanaticism * Bloodlust * Ritual
+</code></pre></div>
 <h3 id="defensive-military-efficiency">Defensive Military Efficiency</h3>
-<pre><code>DME = (Base Military Efficiency + Forts Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Minor Protection * Greater Protection * Fanaticism * Plague * Ritual
-</code></pre>
+<div class="highlight"><pre><span></span><code>DME = (Base Military Efficiency + Forts Bonus + Honor Bonus) * Science Bonus * Race Bonus * Personality Bonus * Minor Protection * Greater Protection * Fanaticism * Plague * Ritual
+</code></pre></div>
 <h2 id="attacking">Attacking</h2>
 <h3 id="raw-offense">Raw Offense</h3>
-<pre><code>Raw Off = (Soldiers * (Soldier Off value + Aggression)) + (Offensive Specs * Off Spec Attack value) + (Elites * Elite Attack value) + (Horses * War Horse Attack value) + [(Mercs * Attack Value + Prisoners * Attack Value)]
-</code></pre>
+<div class="highlight"><pre><span></span><code>Raw Off = (Soldiers * (Soldier Off value + Aggression)) + (Offensive Specs * Off Spec Attack value) + (Elites * Elite Attack value) + (Horses * War Horse Attack value) + [(Mercs * Attack Value + Prisoners * Attack Value)]
+</code></pre></div>
 <h3 id="modified-offense">Modified Offense</h3>
-<pre><code>Mod Off = Raw Offense * (OME + General Bonus)
-</code></pre>
+<div class="highlight"><pre><span></span><code>Mod Off = Raw Offense * (OME + General Bonus)
+</code></pre></div>
 <table>
 <thead>
 <tr>
@@ -5848,8 +5820,8 @@
 </tbody>
 </table>
 <h3 id="attack-times">Attack Times</h3>
-<pre><code>Attack Time = Base Attack Time * Race Bonus * Personality Bonus * Barracks Bonus * Quick Feet * Attack Type * War * NW Mod * Ritual Bonus
-</code></pre>
+<div class="highlight"><pre><span></span><code>Attack Time = Base Attack Time * Race Bonus * Personality Bonus * Barracks Bonus * Quick Feet * Attack Type * War * NW Mod * Ritual Bonus
+</code></pre></div>
 <ul>
 <li>Note: War Attack Speed phases in to -15%, after 12 hours of War have passed.</li>
 <li>There is a net worth value adjustment for attack times. This adjustment compares your net worth to the net worth of the province you are planning to attack. If these are close to each other the base attack times as given below are used. If the net worth differs, then the base attack time is multiplied, so your attack time is longer. This does not affect intra-KD attacks or in War.</li>
@@ -5877,8 +5849,8 @@
 <p>On Conquest attacks, the minimum Offense to win is 51% of the opponents Defense.</p>
 <h2 id="attack-gains">Attack Gains</h2>
 <p>For Attacks that target and capture Resources (Traditional March, Conquest, Plunder, Learn), the Gains are calculated as follows:</p>
-<pre><code> Gains = Target Resource * Attack Type * RPNW * RKNW * Multi-Attack Protection * Race Modifier * Personality Modifier * Castles Protection * Relations Modifier * Stance Modifier * Siege Science * Emerald Dragon * Attack Time Adjustment Factor * Ritual Bonus * Anonymity * Mist
-</code></pre>
+<div class="highlight"><pre><span></span><code> Gains = Target Resource * Attack Type * RPNW * RKNW * Multi-Attack Protection * Race Modifier * Personality Modifier * Castles Protection * Relations Modifier * Stance Modifier * Siege Science * Emerald Dragon * Attack Time Adjustment Factor * Ritual Bonus * Anonymity * Mist
+</code></pre></div>
 <ul>
 <li>Resources are defined as: Land, Gold Coins, Food, Runes, Science Books</li>
 <li>Land attacks (except Ambush) also reward Military Credits (target's Defense Points *.008 * relative NW * Military Credits mod) and Building Credits (Acres captured * 0.4 * relative NW * Building Credits mod).</li>
@@ -5887,7 +5859,7 @@
 <li>Ambush ignores all modifiers except increased/decreased Ambush Battle Losses mod.</li>
 </ul>
 <h3 id="province-networth-factor">Province Networth Factor</h3>
-<pre><code> Relative Province Networth (rpnw) = Targets Networth / Self Networth
+<div class="highlight"><pre><span></span><code> Relative Province Networth (rpnw) = Targets Networth / Self Networth
 
  Province Networth Factor = DEPEND ( rpnw ) :
                                      rpnw &lt; 0.567   = 0
@@ -5895,15 +5867,15 @@
                              0.9   &lt; rpnw &lt; 1.1     = 1
                              1.1   &lt; rpnw &lt; 1.6     = -2 * rpnw + 3.2
                                      rpnw &gt; 1.6     = 0
-</code></pre>
+</code></pre></div>
 <h3 id="kingdom-networth-factor">Kingdom Networth Factor</h3>
-<pre><code> Relative Kingdom Networth (rknw) = Target Kingdom Average Prov. Networth / Self Kingdom Average Prov. Networth
+<div class="highlight"><pre><span></span><code> Relative Kingdom Networth (rknw) = Target Kingdom Average Prov. Networth / Self Kingdom Average Prov. Networth
 
  Kingdom Networth Factor = DEPEND ( rknw ) :
                                     rknw &lt; 0.5      = 0.8
                               0.5 &lt; rknw &lt; 0.9      = rknw / 2 + 0.55
                                     rknw &gt; 0.9      = 1
-</code></pre>
+</code></pre></div>
 <p><strong>NOTE</strong>: RKNW is based on the Average Province size of the Kingdom.</p>
 <h3 id="attack-time-adjustment-factor">Attack Time Adjustment Factor</h3>
 <p>Adding or subtracting hours modifies the Gains (based on your Attack Time), as follows:</p>
@@ -5960,10 +5932,10 @@ During War, Learn temporarily removes ~30% of total allocated Science Books, the
 <h4 id="massacre">Massacre</h4>
 <p>Base gains are 9.5% peasants, 7.5% Thieves and 5% Wizards. Efficiency increased roughly 3x during War.</p>
 <h2 id="defending">Defending</h2>
-<pre><code>Raw Defense = (Defense Specs * Def Spec Points) + (Elites at Home * Elite's Defense) + (Soldiers *  Sold Def Points * Aggression) + Townwatch
-</code></pre>
-<pre><code>Mod Defense = MAX ( Raw Defense * Defensive Military Efficiency , Land )
-</code></pre>
+<div class="highlight"><pre><span></span><code>Raw Defense = (Defense Specs * Def Spec Points) + (Elites at Home * Elite&#39;s Defense) + (Soldiers *  Sold Def Points * Aggression) + Townwatch
+</code></pre></div>
+<div class="highlight"><pre><span></span><code>Mod Defense = MAX ( Raw Defense * Defensive Military Efficiency , Land )
+</code></pre></div>
 <table>
 <thead>
 <tr>

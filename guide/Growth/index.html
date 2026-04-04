@@ -5395,34 +5395,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../misc/Welcome_to_the_Utopia_Wiki/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Welcome to the Utopia Wiki
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../misc/Activation_Code/" class="md-nav__link">
         
   
@@ -6141,14 +6113,14 @@
 </table>
 <h2 id="classes-of-buildings">Classes of Buildings</h2>
 <p>There are three classes of building effects, and each functions differently. While this may be difficult to follow, you will quickly understand it with some experience within the game. The three classes are:</p>
-<pre><code> Capacity Buildings - These buildings simply create space for you, and are not impacted by efficiency 
+<div class="highlight"><pre><span></span><code> Capacity Buildings - These buildings simply create space for you, and are not impacted by efficiency 
  issues. Homes, for example, provide additional space for peasants.
-</code></pre>
-<pre><code> Flat Rate Buildings - This type of building provides a set amount of a particular resource. These 
+</code></pre></div>
+<div class="highlight"><pre><span></span><code> Flat Rate Buildings - This type of building provides a set amount of a particular resource. These 
  buildings need many employees to be fully effective. These buildings are impacted by building efficiency. An example is a Tower which creates a set
  number of runes each day.
-</code></pre>
-<pre><code> Percentage-based Buildings - The majority of Utopian buildings are percentage-based. These buildings 
+</code></pre></div>
+<div class="highlight"><pre><span></span><code> Percentage-based Buildings - The majority of Utopian buildings are percentage-based. These buildings 
  provide an effect based on the portion of your land covered by it. For example, having 10% of your
  land as Banks will increase your income by a certain percentage. Like flat-rate buildings, these
  also require employees to provide full effects. In addition, each additional building you construct
@@ -6157,7 +6129,7 @@
  Unless otherwise specified, these buildings have a maximum effect of 25 times the number listed
  below. With normal building efficiency, this maximum is reached by dedicating 50% of your land to
  that building.
-</code></pre>
+</code></pre></div>
 <h2 id="the-buildings">The Buildings</h2>
 <h3 id="barren-land">Barren Land</h3>
 <p>Barren lands are not an actual building. These are simply available acres - gained by exploration, the Paradise spell or attacks - in your province that can be built up with real buildings as described below. Nevertheless, barren lands can still hold a few people and produce a very small amount of food every day.</p>
@@ -6285,8 +6257,8 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 </ul>
 <h2 id="construction">Construction</h2>
 <h3 id="construction-time">Construction Time</h3>
-<pre><code>Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double Speed * Expedient Ritual Mod * Artisan Science Mod
-</code></pre>
+<div class="highlight"><pre><span></span><code>Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double Speed * Expedient Ritual Mod * Artisan Science Mod
+</code></pre></div>
 <table>
 <thead>
 <tr>
@@ -6325,8 +6297,8 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 </table>
 <p>Note that construction speed is rounded at .5 That means if the build time is 15.49, then it is rounded down to 15. If it is 15.5, it will be rounded up to 16. For a double speed build, assuming normal construction is 15.49, the speed build time will be 15.49/2 = 7.745 = rounded up to 8 hours. For 14.9 though, it will be 14.9/2 = 7.45 = rounded down to 7 hours.</p>
 <h3 id="construction-costs">Construction Costs</h3>
-<pre><code>Construction Costs = 2/31 * (land + 11600) * Race Mod * Mills Mod * Double Speed * Expedient Ritual Mod * Artisan Science Mod
-</code></pre>
+<div class="highlight"><pre><span></span><code>Construction Costs = 2/31 * (land + 11600) * Race Mod * Mills Mod * Double Speed * Expedient Ritual Mod * Artisan Science Mod
+</code></pre></div>
 <table>
 <thead>
 <tr>
@@ -6354,18 +6326,18 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 </tbody>
 </table>
 <h3 id="raze-costs">Raze Costs</h3>
-<pre><code>Raze Costs = (350 + (0.0625 * Total land)) * Artisan Science Mod
-</code></pre>
+<div class="highlight"><pre><span></span><code>Raze Costs = (350 + (0.0625 * Total land)) * Artisan Science Mod
+</code></pre></div>
 <h2 id="buildings">Buildings</h2>
 <h3 id="building-efficiency">Building Efficiency</h3>
-<pre><code>Available Workers         =  Peasants + ROUNDDOWN ( Prisoners / 2 )
+<div class="highlight"><pre><span></span><code>Available Workers         =  Peasants + ROUNDDOWN ( Prisoners / 2 )
 
 Optimal Workers           =  ROUNDDOWN ( Total Jobs * 0.67 )
 
 % Jobs Performed          =  MIN ( Available Workers / Optimal Workers , 1 )
 
 Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personality * Tools Science * Dragon * Blizzard
-</code></pre>
+</code></pre></div>
 <ul>
 <li>The "Current Available Workers" value, provided by the Internal Affairs Adviser page, already takes prisoners into account.</li>
 <li>Building Efficiency affects <strong>ALL</strong> <a href="../../main/Buildings/">Flat Rate</a> and <a href="../../main/Buildings/">Percentage-Based</a> buildings.</li>
@@ -6403,9 +6375,9 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 </tbody>
 </table>
 <h3 id="building-effects">Building Effects</h3>
-<pre><code>Percentage Based Buildings = Base Effect * BE * MIN(50%, % of building) * (100% - MIN(50%, % of building))
+<div class="highlight"><pre><span></span><code>Percentage Based Buildings = Base Effect * BE * MIN(50%, % of building) * (100% - MIN(50%, % of building))
 Flat Rate Buildings = Base Effect * Number of Buildings * BE
-</code></pre>
+</code></pre></div>
 <ul>
 <li>In general, the Max Effect of a %-Based Building is 25 x Base Effect (exceptions apply, refer to table)</li>
 <li>If your BE is less than 100%, the effect you would have with 50% of that building is the maximum.</li>

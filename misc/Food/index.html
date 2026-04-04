@@ -5080,34 +5080,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../Welcome_to_the_Utopia_Wiki/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Welcome to the Utopia Wiki
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../Activation_Code/" class="md-nav__link">
         
   
@@ -5243,8 +5215,8 @@
 <h1 id="food">Food</h1>
 <p><strong>Food</strong> is a resource, and it is needed to keep population of a <a href="../../main/Province/">Province</a> alive. It's measured in <strong>bushels</strong>.</p>
 <h2 id="food-consumed">Food Consumed</h2>
-<pre><code>Bushels Eaten = Total Population * 0.25 * Race Mod * Gluttony Mod
-</code></pre>
+<div class="highlight"><pre><span></span><code>Bushels Eaten = Total Population * 0.25 * Race Mod * Gluttony Mod
+</code></pre></div>
 <table>
 <thead>
 <tr>
@@ -5275,10 +5247,10 @@
 <li>If a province has zero food, it will enter into a state of starvation. While a province is starving, its population (peasants, military units and thieves) will die off at a rate proportional to the food deficit (this also includes armies away from home). Wizards are not affected. This rate is capped at 5% and will continue until the province has a value for food greater than 0.</li>
 </ul>
 <h2 id="food-produced">Food Produced</h2>
-<pre><code>Base Food Production     = ((Farms * 60) * Building Efficiency) + (Barren Land * 2) + (Race Mod * Acres) + (Personality Mod * Acres)
+<div class="highlight"><pre><span></span><code>Base Food Production     = ((Farms * 60) * Building Efficiency) + (Barren Land * 2) + (Race Mod * Acres) + (Personality Mod * Acres)
 
 Modified Food Production = Base Food Production * Production Science Mod * Fertile Lands Mod * Drought Mod * Honor Mod
-</code></pre>
+</code></pre></div>
 <table>
 <thead>
 <tr>
@@ -5298,8 +5270,8 @@ Modified Food Production = Base Food Production * Production Science Mod * Ferti
 </tbody>
 </table>
 <h2 id="food-decayed">Food Decayed</h2>
-<pre><code>Food Remaining = Food Stock * 0.99 + Modified Food Production - Bushels Eaten
-</code></pre>
+<div class="highlight"><pre><span></span><code>Food Remaining = Food Stock * 0.99 + Modified Food Production - Bushels Eaten
+</code></pre></div>
 <p>0.99 or about 1% of the total food stock decays in normal conditions. The exact amount depends on the modifiers in the formula as provided above and it is calculated on the total food stored in the province. So if a province has 300,000 bushels of food in stock under normal conditions, then the expected decay is slightly less or more than 3000 bushels per tick / Utopia day. There may be scenarios where the total food decayed, is higher than what remains after food needed by the population is consumed from the food grown. This may lead to depletion of the stock in the province especially after a war when the people are much lesser compared to the maximum population limit and the stored food may be much higher or when a new player has built a lot of farms / received aid as food. This will normalize once the population reaches back to expected levels and the province only needs to ensure that the food grown is more than the food needed by the population at all times so as to avoid starvation.</p>
 <table>
 <thead>
