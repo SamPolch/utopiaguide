@@ -1,14 +1,133 @@
 # Genesis
 
-Age 155
-> **Genesis** Name: **Age of Hegemony** Number: 155 **Official Information** Server: Genesis Status: Owner: [Muga Gaming](../misc/Muga_Gaming.md) **Dates** Start: Fri, 9 Aug at 12:00 GMT+00:00 End: Tue, 17 Sep at 12:00 GMT+00:00 Duration (in days): **General**   - 15 minute ticks   The following effects are double their WoL values in Genesis:   - Birth Rate, Wizard Generation, Mana Generation per tick, Stealth regeneration per tick, Stable Production   Science:   - Scientist generation rate is 5% / tick - Scientists generate 400 books / tick   Rituals:   - 16 casts are needed for 100% effectiveness - 20 casts required to abolish - 10 tick minimum duration - 36 tick standard duration  - Overcasting is significantly more potent in Genesis than WoL - Ritual Options mirror WoL for this round  Bravery This mechanic is designed to reward provinces that attack in range and stronger provinces while penalizing bottom feeding. The effects of Bravery are as follows:   - Increase your Birthrate by 75% of your Bravery - Increase your Dragon Slaying strength of all troops by 75% of your Bravery - Increase your honor gains on attacks by 50% of your Bravery - Increase your scientist generation per tick by 35% of your Bravery   Example: Bravery = 20; Birthrate adjustment is 75% therefore Birthrate increase is: 20 x 75% = 15%; thus your increased birthrate is "(Current Birthrate) x (1.15)"   - Bravery will increase differently based on the attack type - Bravery over 10 will decay per tick while not in war - Bravery will not decay for 10 ticks following your most recent bravery gain - Bravery gain is affected by the composition of your army and the attacks you make (Trad March/Plunder/etc)   Support Spells:   - Builder's Boon, Divine Shield, Fanaticism, Fertile Lands, Ghost Workers, Greater Protection, Hero's Inspiration, Illuminate Shadows, Inspire Army, Love and Peace, Magic Shield, Minor Protection, Nature's Blessing, Patriotism, Scientific Insight, Wrath
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Relations**   - War Proposal is Enabled - War range is NW only (You / 0.85 - You \* 0.85) - War minimum duration is 14 ticks - War Auto-WD can occur at 10 ticks - War Auto-WD phases in over time up to 75% NW at 48 tick duration - EOW is 48 ticks - Subdue Wizards exists in place of Assassinate Wizards - Meter Maximum is 25 points, Unfriendly relations begin at 7.0 points, Hostile Relations begin at 12.0 points - War may be declared by the lesser relations kingdom until the meter is 14 for both kingdoms when both may declare |
-> **Dragons** **Dragon Type** **HP Mod** **Cost Mod** **Amethyst** 3.5 3.5 **Emerald** 3.5 3.2 **Onyx** 2.5 2.3 **Ruby** 3 2.7 **Sapphire** 3 2 **Topaz** 2 2
-> **Economy** **Acres** **Scientists** **Peasants** **Wizards & Thieves** **Soldiers** **Gold/Runes** **Credits** 1200 15 20000 400 ea 8000 2.5m/5k 8000 - Population is doubled across the board: - Built land holds 50 people, gives 30 jobs. BE should function as we expect it to with the population numbers adjusted. - Homes function with doubled efficacy as population has doubled. WoL = 25 space + 10 home bonus. Genesis = 50 space + 20 home bonus - Base income is 4gc/peasant - Stable capacity is doubled
-| **Military**   - Specialists now cost 750gc - Elite costs greatly increased (see chooser) - Soldiers are 3/3 unless modified by a race - Spec value is 10 - Intra-Kingdom Attacks are significantly stronger - Multi Attack Protection is lessened - Attacks generate land at a rate of an additional 20% outside of war, and 5% in war - Ambush will only gain land that was taken, and not generated - The maximum gains cap is 25% of the target province's land - Military Upkeep is the same as WoL  - Undeads have a Conversion Pipeline: - Each tick, 2% of soldiers will be converted to specs. Each tick specs are converted to elites with (sum of ospec + dspec) x 2% = total converted. These will be, if able, taken equally from ospec and dspec troops. |
-> Dark Elf Dryad Dwarf Elf - +90% Runes Refunded on Spell Success - +5% Extra Mana Per Tick - +5% Extra Mana Per Tick (in war) - Runes do not decay - +8 War Horse Capacity Per Acre - +6 Food Bushels Created Every 2 Acres - +6 GC Created Every 2 Acres - +4 Runes Created Every 2 Acres - +1 War Horses generated every 10 acres - Drought Immunity - Immune to Steal War Horses - Storms Immunity - Dragon Immunity - +40% Building Efficiency - -100% Building Construction Cost - -75% Building Construction Time - Train Elites with Credits - Train Thieves with Credits - +100% Combat Instant Spell Damage - +50% Wizards Per Acre (WPA) - -50% Self Spell Rune Cost - Self Spell Mana Cost Reduced by 1 Mage's Fury, Mind Focus, Nightmare and Blizzard Wrath, Quick Feet and Divine Shield [Miner's Mystique](../guide/Mystics.md) and Quick Feet Pitfalls, Chastity and Meteor Showers - -10% Building Efficiency - -25% Offensive Spell Duration - -75% Combat Instant Spell Damage - No Access to Homes - -50% Building Credits - +200% Food Consumption - -15% Max Population - -50% Specialist Training Credits - Can't Accelerate Construction - +25% Explore Cost (Gold) - +25% Explore Cost (Men) - +25% Military Wages - +100% Rune Cost (excluding Ritual) - -1% Extra Mana Per Tick - Soldier - 3/3 - Offensive Specialist - 10/0 - Defensive Specialist - 0/14 - Elite Unit - 13/7, 2350gc 7.75nw - Mercenary - 8/0 - Prisoner - 8/0 - War Horse - 2/0 - Soldier - 3/3 - Offensive Specialist - 10/0 - Defensive Specialist - 0/10 - Elite Unit - 16/4, 2800gc, 7.5nw - Mercenary - 8/0 - Prisoner - 8/0 - War Horse - 2/0 - Soldier - 3/3 - Offensive Specialist - 10/0 - Defensive Specialist - 0/10 - Elite Unit - 15/5, 2700gc, 7.75nw - Mercenary - 8/0 - Prisoner - 8/0 - War Horse - 2/0 - Soldier - 3/3 - Offensive Specialist - 10/0 - Defensive Specialist - 0/10 - Elite Unit - 8/12, 2500gc, 8.25nw - Mercenary - 8/0 - Prisoner - 8/0 - War Horse - 2/0 Halfling Human Orc Undead - +20% Max Population - +100% Sabotage Damage - +50% Thievery Per Acre (TPA) - +25% Flat Rate Capacity - +25% Science Effectiveness - +5 Starting Scientists - +25% Battle Gains - -100% Draft Cost - +25% Military Efficiency - +50% Birth Rate - -100% Building Construction Cost, Draft Cost, Food Consumption - +12000 Starting Soldiers - +200% Max Population - -95% Military Wages - +5000 Starting Peasants - +50% Battle casualties convert to soldiers - Prisoners convert into Thieves over time, Soldiers convert into Specialists over time - Convert Specialists into Elites - Specialists convert into Elites over time - Always Carries and is Immune to the Plague Guile and Invisibility [Fountain of Knowledge](../guide/Mystics.md) and Salvation Heroes Inspiration and Reflect Magic [Ghost Workers](../guide/Mystics.md) and Town Watch - -1% Extra Stealth Per Tick - Can't use Forts - Can't use Hospitals - +25% Draft Cost - +50% Military Training Time - Can't Train Elites - +50% Combat Instant Spell Damage Received - -50% Wizards Per Acre (WPA) - -20% Science Effectiveness - +50% Sabotage Damage Received - -50% Thievery Per Acre (TPA) - Can't Use Watchtowers - -90% Income - Espionage Thief Operations Only - Can't Accelerate Construction - Can't Train Elites - Soldier - 3/3 - Offensive Specialist - 10/0 - Defensive Specialist - 0/10 - Elite Unit - 8/8, 1900gc, 6.5nw - Mercenary - 8/0 - Prisoner - 8/0 - War Horse - 2/0 - Soldier - 3/3 - Offensive Specialist - 10/0 - Defensive Specialist - 0/10 - Elite Unit - 10/10, 8.0nw - Mercenary - 8/0 - Prisoner - 8/0 - War Horse - 4/0 - Soldier - 3/3 - Offensive Specialist - 10/0 - Defensive Specialist - 0/10 - Elite Unit - 18/2, 2200gc, 7.5nw - Mercenary - 8/0 - Prisoner - 8/0 - War Horse - 2/0 - Soldier - 1/1 - Offensive Specialist - 3/0 - Defensive Specialist - 0/3 - Elite Unit - 4/4, 3.25nw - Mercenary - 0/0 - Prisoner - 1/0 - War Horse - 1/0
-> Heretic Mystic Protector Rogue - +100% Science Effectiveness - Cunning - +100% Science Effectiveness - Sorcery - -50% Thief cost - +200% Increased Wizard Production - No thieves lost on failed ops - Convert Specialists into Elites - No wizards killed from failed spells - Spell Book: Nightmare, Fools Gold, Pitfalls, Gluttony and Vermin - Allowed Thief Operations: GREATER\_ARSON and PROPAGANDA - +25% Offensive Spell Duration - +200% Land Effect - Guilds - +25% Combat Instant Spell Damage - +6 Runes Produced each acre of Guilds - +25% Self-Spell Duration - +100% Science Effectiveness - Channeling - Convert Specialists into Elites - Spell Book: Meteor Showers, Mind Focus, Mage's Fury, Amnesia and [Soul Blight](../guide/Mystics.md) - +50% Hospital Effectiveness - -50% Own casualities when attacking - -50% Own casualities when defending - +50% Science Effectiveness - Shielding - -25% Sabotage Damage Received - Convert Specialists into Elites - Defensive specialist gets +1 strength - Can cast Support spells on Kingdom mates - Spell Book: Divine Shield, Fanaticism, Ghost Workers, Greater Protection, Heroes Inspiration, Illuminate Shadows, Scientific Insight and Wrath - +100% Science Effectiveness - Crime - +100% Thieves' Den Effectiveness - Access all Thievery Operations - Convert Specialists into Elites - Train Thieves with Credits - Spell Book: Invisibility, Pitfalls and Guile Sage Tactician War Hero Warrior - +50% Science Book Production - Train Elites with Credits - Convert Specialists into Elites - Spell Book: Mystic Aura and Greater Protection - -10% Attack Travel Time - +50% Barracks Effectiveness - +50% Training Grounds Effectiveness - Convert Specialists into Elites - Access Conquest regardless of Net Worth - Prisoners convert into Elites over time - Spell Book: Illuminate Shadows and Clear Sight - -50% Battle Losses - Ambush - +100% Honor Bonus - -50% Reduce Honor Losses in Combat - +50% Science Effectiveness - Valor - Convert Specialists into Elites - Offensive specialist gets +2 strength - Spell Book: Heroes Inspiration and Salvation - +20% Enemy casualities when attacking - +20% Enemy casualities when defending - -25% Military Training Cost - +1 Army generals - +10% Offensive Military Efficiency - Convert Specialists into Elites - Prisoners fight at double strength - Spell Book: Wrath and Bloodlust
-> Kingdom Rituals Ritual Description Barrier - -20% Instant Spell damage and Thief Sabotage damage from enemies and +20% Defensive WPA/TPA Expedient - -30% Training Time (including Thieves), -30% Construction Time, & -30% Build costs & 20% faster wizard training Haste - -10% Attack Time, -25% Training Time, -25% Construction Time Havoc - Increases offensive Thieves per acre (TPA) and Wizards per acre (WPA) by 15% & Instant Spell damage and Sabotage Damage by 15% Onslaught - Increases Offensive Military Efficiency (OME) by 10%, Enemy Military Casualties when Attacking by 15% Stalwart - +10% Defensive Military Efficiency (DME) & -20% Own Military Casualties
-> Stances Normal Aggressive Peaceful - No Effects - +10% Battle (Resource) Gains - +30% Credits gained in Combat - +15% Self Offensive Military Casualties - +10% Instant Spell damage and Sabotage Operation damage - +20% Military Wages - +15% Income - +20% Food & Rune Production - +20% Birth Rate - -15% Offensive Military Efficiency - -20% Instant Spell Damage - -20% Sabotage Operation Damage
-> Dragon Type Amethyst Emerald Onyx Ruby Sapphire Topaz -15% science effectiveness and effects as if 2 cast of Amnesia were successful on each province instantly and every 6 ticks - +20% Military Losses in Combat - -15% Combat Gains - -50% Building and Specialist Credits Gained in Combat - 1% less mana & stealth regeneration, -25% honor gained - Reduces Military Effectiveness by 10% - Increase Military Wages by 25% - Lose 25% of new draftees - -25% Lower Magic (WPA) and Thievery (TPA) Effectiveness - +10% Instant Spell and Sabotage Damage Taken - -10% Instant and Sabotage Damage Dealt - -25% Building Efficiency - -20% Income - Destroys 3% of Buildings Instantly and Every 6 Ticks Thereafter
+Genesis is a secondary Utopia server running shorter, faster-paced ages alongside the main World of Legends server. Players may have one account on each server.
+
+See also: [Genesis Mechanics](Genesis_Mechanics.md) · [Genesis Races](Genesis_Races.md) · [Genesis Personalities](Genesis_Personalities.md) · [Genesis Change Log](Genesis_Change_Log.md)
+
+---
+
+## Age 155 — Age of Hegemony
+
+**Server:** Genesis | **Owner:** [Muga Gaming](../misc/Muga_Gaming.md)
+**Start:** Fri, 9 Aug at 12:00 GMT | **End:** Tue, 17 Sep at 12:00 GMT
+
+### General Rules
+
+- 15-minute ticks
+- The following effects are **double** their WoL values in Genesis: Birth Rate, Wizard Generation, Mana Generation per tick, Stealth regeneration per tick, Stable Production
+
+**Science:**
+
+- Scientist generation rate: 5% / tick
+- Scientists generate 400 books / tick
+
+**Rituals:**
+
+- 16 casts needed for 100% effectiveness
+- 20 casts required to abolish
+- 10 tick minimum duration, 36 tick standard duration
+- Overcasting is significantly more potent in Genesis than WoL
+- Ritual options mirror WoL for this round
+
+**Support Spells:** Builder's Boon, Divine Shield, Fanaticism, Fertile Lands, Ghost Workers, Greater Protection, Hero's Inspiration, Illuminate Shadows, Inspire Army, Love and Peace, Magic Shield, Minor Protection, Nature's Blessing, Patriotism, Scientific Insight, Wrath
+
+### Bravery
+
+A mechanic designed to reward provinces that attack in range and stronger provinces while penalizing bottom feeding.
+
+**Effects of Bravery:**
+
+- +75% of Bravery → Birthrate
+- +75% of Bravery → Dragon Slaying strength
+- +50% of Bravery → Honor gains on attacks
+- +35% of Bravery → Scientist generation per tick
+
+*Example: Bravery = 20 → Birthrate increase = 20 × 75% = 15%*
+
+- Bravery increases differently based on attack type
+- Bravery over 10 decays per tick while not in war
+- Bravery will not decay for 10 ticks after your most recent gain
+- Bravery gain is affected by army composition and attack type (Trad March/Plunder/etc)
+
+### Economy
+
+**Starting Values:**
+
+| Acres | Scientists | Peasants | Wizards & Thieves | Soldiers | Gold / Runes | Credits |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1200 | 15 | 20,000 | 400 each | 8,000 | 2.5m / 5k | 8,000 |
+
+- Population is doubled across the board
+- Built land holds 50 people, gives 30 jobs
+- Homes: WoL = 25 space + 10 home bonus; Genesis = 50 space + 20 home bonus
+- Base income: 4gc / peasant
+- Stable capacity is doubled
+
+### Military
+
+- Specialists cost 750gc
+- Elite costs greatly increased (see chooser)
+- Soldiers are 3/3 unless modified by race
+- Spec value is 10
+- Intra-Kingdom Attacks are significantly stronger
+- Multi-Attack Protection is lessened
+- Attacks generate land at an additional 20% outside of war, 5% in war
+- Ambush only gains land that was taken, not generated
+- Maximum gains cap: 25% of target's land
+- Military Upkeep same as WoL
+- **Undead Conversion Pipeline:** Each tick, 2% of soldiers convert to specs; each tick specs convert to elites at (ospec + dspec) × 2%
+
+### Relations & War
+
+- War Proposal is enabled
+- War range: NW only (You ÷ 0.85 to You × 0.85)
+- War minimum duration: 14 ticks
+- War Auto-WD can occur at 10 ticks, phases in up to 75% NW at 48 tick duration
+- End of War: 48 ticks
+- Subdue Wizards replaces Assassinate Wizards
+- Relations meter maximum: 25 points
+- Unfriendly begins at 7.0 points; Hostile begins at 12.0 points
+- War may be declared by the lesser-relations kingdom until meter reaches 14, after which both kingdoms may declare
+
+### Kingdom Rituals
+
+| Ritual | Effect |
+| --- | --- |
+| Barrier | -20% Instant Spell and Thief Sabotage damage from enemies; +20% Defensive WPA/TPA |
+| Expedient | -30% Training Time (incl. Thieves), -30% Construction Time, -30% Build costs, 20% faster wizard training |
+| Haste | -10% Attack Time, -25% Training Time, -25% Construction Time |
+| Havoc | +15% offensive TPA and WPA; +15% Instant Spell and Sabotage Damage |
+| Onslaught | +10% Offensive Military Efficiency; +15% Enemy Military Casualties when Attacking |
+| Stalwart | +10% Defensive Military Efficiency; -20% Own Military Casualties |
+
+### Stances
+
+| Stance | Effects |
+| --- | --- |
+| Normal | No effects |
+| Aggressive | +10% Battle Gains, +30% Credits in Combat, +15% Self Offensive Casualties, +10% Instant Spell/Sabotage damage, +20% Military Wages |
+| Peaceful | +15% Income, +20% Food & Rune Production, +20% Birth Rate, -15% Offensive Military Efficiency, -20% Instant Spell Damage, -20% Sabotage Damage |
+
+### Dragons
+
+**Stats (HP and Cost modifiers vs WoL):**
+
+| Dragon | HP Mod | Cost Mod |
+| --- | --- | --- |
+| Amethyst | 3.5× | 3.5× |
+| Emerald | 3.5× | 3.2× |
+| Onyx | 2.5× | 2.3× |
+| Ruby | 3× | 2.7× |
+| Sapphire | 3× | 2× |
+| Topaz | 2× | 2× |
+
+**Dragon Attack Effects:**
+
+| Dragon | Effect on Kingdom |
+| --- | --- |
+| Amethyst | -15% science effectiveness; Amnesia effect (×2 casts) on each province instantly and every 6 ticks |
+| Emerald | +20% Military Losses in Combat; -15% Combat Gains |
+| Onyx | -50% Building and Specialist Credits Gained in Combat |
+| Ruby | -1% mana & stealth regen per tick; -25% honor gained; -10% Military Effectiveness; +25% Military Wages; -25% new draftees |
+| Sapphire | -25% WPA and TPA effectiveness; +10% Instant Spell/Sabotage Damage taken; -10% Instant/Sabotage Damage dealt |
+| Topaz | -25% Building Efficiency; -20% Income; destroys 3% of buildings instantly and every 6 ticks |
