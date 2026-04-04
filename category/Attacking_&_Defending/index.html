@@ -6020,9 +6020,24 @@
 <h3 id="modified-offense">Modified Offense</h3>
 <pre><code>Mod Off = Raw Offense * (OME + General Bonus)
 </code></pre>
-<p>| <strong>Condition</strong> | <strong>Modifier</strong> |
-| <strong>OME</strong> | <em>check your Military Advisor</em> |
-| <strong>General Bonus</strong> | +5% per additional general over 1 |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Condition</strong></th>
+<th><strong>Modifier</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>OME</strong></td>
+<td><em>check your Military Advisor</em></td>
+</tr>
+<tr>
+<td><strong>General Bonus</strong></td>
+<td>+5% per additional general over 1</td>
+</tr>
+</tbody>
+</table>
 <h3 id="attack-times">Attack Times</h3>
 <pre><code>Attack Time = Base Attack Time * Race Bonus * Personality Bonus * Barracks Bonus * Quick Feet * Attack Type * War * NW Mod * Ritual Bonus
 </code></pre>
@@ -6032,8 +6047,22 @@
 </ul>
 <h4 id="base-attack-time">Base Attack Time</h4>
 <p>The base attack time is 14 hours. This is the value all calculations are based upon.</p>
-<p>| <strong>Location</strong> | <strong><em>Intra KD</em></strong> | <strong><em>Different KD</em></strong> |
-| <strong>Attack Time</strong> | 7 | 14 |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Location</strong></th>
+<th><strong><em>Intra KD</em></strong></th>
+<th><strong><em>Different KD</em></strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Attack Time</strong></td>
+<td>7</td>
+<td>14</td>
+</tr>
+</tbody>
+</table>
 <h4 id="minimum-offense-to-win">Minimum Offense to Win</h4>
 <p>To guarantee a win, you must send Mod Offense that is at least 1 greater than the defender's Mod Defense.</p>
 <p>On Conquest attacks, the minimum Offense to win is 51% of the opponents Defense.</p>
@@ -6069,13 +6098,40 @@
 <p><strong>NOTE</strong>: RKNW is based on the Average Province size of the Kingdom.</p>
 <h3 id="attack-time-adjustment-factor">Attack Time Adjustment Factor</h3>
 <p>Adding or subtracting hours modifies the Gains (based on your Attack Time), as follows:</p>
-<p>| <strong>Hours</strong> | <strong>Gains Modifier %</strong> |
-| <strong>-2</strong> | (-2 / base attack time) * 160% |
-| <strong>-1</strong> | (-1 / base attack time) * 150% |
-| <strong>+1</strong> | (1 / base attack time) * 80% |
-| <strong>+2</strong> | (2 / base attack time) * 70% |
-| <strong>+3</strong> | (3 / base attack time) * 60% |
-| <strong>+4</strong> | (4 / base attack time) * 50% |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Hours</strong></th>
+<th><strong>Gains Modifier %</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>-2</strong></td>
+<td>(-2 / base attack time) * 160%</td>
+</tr>
+<tr>
+<td><strong>-1</strong></td>
+<td>(-1 / base attack time) * 150%</td>
+</tr>
+<tr>
+<td><strong>+1</strong></td>
+<td>(1 / base attack time) * 80%</td>
+</tr>
+<tr>
+<td><strong>+2</strong></td>
+<td>(2 / base attack time) * 70%</td>
+</tr>
+<tr>
+<td><strong>+3</strong></td>
+<td>(3 / base attack time) * 60%</td>
+</tr>
+<tr>
+<td><strong>+4</strong></td>
+<td>(4 / base attack time) * 50%</td>
+</tr>
+</tbody>
+</table>
 <h3 id="attack-type">Attack Type</h3>
 <h4 id="traditional-march">Traditional March</h4>
 <p>Base gains are 12% and are capped at 20% of your Acres or your opponent's Acres, whichever is smaller.</p>
@@ -6099,10 +6155,32 @@ During War, Learn temporarily removes ~30% of total allocated Science Books, the
 </code></pre>
 <pre><code>Mod Defense = MAX ( Raw Defense * Defensive Military Efficiency , Land )
 </code></pre>
-<p>| <strong>Modifier Type</strong> | <strong>Active</strong> | <strong>Otherwise</strong> |
-| <strong>Def Spec Points</strong> | <em>Variable</em> | 10 |
-| <strong>Elite Defense</strong> | <em>Variable</em> |
-| <strong><a href="../../guide/Mystics/">Town Watch</a></strong> | Peasants / 5 | 0 |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Modifier Type</strong></th>
+<th><strong>Active</strong></th>
+<th><strong>Otherwise</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Def Spec Points</strong></td>
+<td><em>Variable</em></td>
+<td>10</td>
+</tr>
+<tr>
+<td><strong>Elite Defense</strong></td>
+<td><em>Variable</em></td>
+<td></td>
+</tr>
+<tr>
+<td><strong><a href="../../guide/Mystics/">Town Watch</a></strong></td>
+<td>Peasants / 5</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
 <h3 id="minimum-defense">Minimum Defense</h3>
 <ul>
 <li>All land is protected by a minimum of 1 defense per Acre.</li>
@@ -6111,21 +6189,87 @@ During War, Learn temporarily removes ~30% of total allocated Science Books, the
 This <strong>does not apply</strong> to Intra-Kingdom attacks.</p>
 <h2 id="military-casualties">Military Casualties</h2>
 <p>Base Military Casualties are 6.5%-8.5% on Offense, 5%-6.5% on Defense.</p>
-<p>| <strong>Modifier</strong> | <strong>Type</strong> | <strong>Effect</strong> |
-| <strong>Building: Hospitals</strong> | All Military Casualties | Varies |
-| <strong>Science: Resilience</strong> | All Military Casualties | Varies |
-| <strong>Multi-Attack Protection</strong> | Military Casualties | Varies |
-| <strong>Attack: Learn</strong> | Defensive Military Casualties | -50% |
-| <strong>Attack: Plunder</strong> | Defensive Military Casualties | -50% |
-| <strong>Race: Orc</strong> | All Military Casualties | +15% |
-| <strong>Ritual: Stalwart</strong> | All Military Casualties | -20% |
-| <strong>Ritual: Onslaught</strong> | Offensive Military Casualties inflicted | +15% |
-| <strong>Spell: Pitfalls</strong> | Defensive Military Casualties | +15% |
-| <strong>Spell: Bloodlust</strong> | Offensive Military Casualties inflicted, Self Military Casualties | +15% |
-| <strong>Spell: Salvation</strong> | All Military Casualties | -15% |
-| <strong>Spell: Wrath</strong> | Enemy Military Casualties | +20% |
-| <strong>Operation: Bribe Generals</strong> | All Military Casualties | 20% chance for +15% |
-| <strong>Emerald Dragon</strong> | All Military Casualties | +20% |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Modifier</strong></th>
+<th><strong>Type</strong></th>
+<th><strong>Effect</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Building: Hospitals</strong></td>
+<td>All Military Casualties</td>
+<td>Varies</td>
+</tr>
+<tr>
+<td><strong>Science: Resilience</strong></td>
+<td>All Military Casualties</td>
+<td>Varies</td>
+</tr>
+<tr>
+<td><strong>Multi-Attack Protection</strong></td>
+<td>Military Casualties</td>
+<td>Varies</td>
+</tr>
+<tr>
+<td><strong>Attack: Learn</strong></td>
+<td>Defensive Military Casualties</td>
+<td>-50%</td>
+</tr>
+<tr>
+<td><strong>Attack: Plunder</strong></td>
+<td>Defensive Military Casualties</td>
+<td>-50%</td>
+</tr>
+<tr>
+<td><strong>Race: Orc</strong></td>
+<td>All Military Casualties</td>
+<td>+15%</td>
+</tr>
+<tr>
+<td><strong>Ritual: Stalwart</strong></td>
+<td>All Military Casualties</td>
+<td>-20%</td>
+</tr>
+<tr>
+<td><strong>Ritual: Onslaught</strong></td>
+<td>Offensive Military Casualties inflicted</td>
+<td>+15%</td>
+</tr>
+<tr>
+<td><strong>Spell: Pitfalls</strong></td>
+<td>Defensive Military Casualties</td>
+<td>+15%</td>
+</tr>
+<tr>
+<td><strong>Spell: Bloodlust</strong></td>
+<td>Offensive Military Casualties inflicted, Self Military Casualties</td>
+<td>+15%</td>
+</tr>
+<tr>
+<td><strong>Spell: Salvation</strong></td>
+<td>All Military Casualties</td>
+<td>-15%</td>
+</tr>
+<tr>
+<td><strong>Spell: Wrath</strong></td>
+<td>Enemy Military Casualties</td>
+<td>+20%</td>
+</tr>
+<tr>
+<td><strong>Operation: Bribe Generals</strong></td>
+<td>All Military Casualties</td>
+<td>20% chance for +15%</td>
+</tr>
+<tr>
+<td><strong>Emerald Dragon</strong></td>
+<td>All Military Casualties</td>
+<td>+20%</td>
+</tr>
+</tbody>
+</table>
 <table>
 <thead>
 <tr>

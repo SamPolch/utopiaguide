@@ -5572,19 +5572,71 @@
 <h3 id="construction-time">Construction Time</h3>
 <pre><code>Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double Speed * Expedient Ritual Mod * Artisan Science Mod
 </code></pre>
-<p>| <strong>Modifier Type</strong> | <strong>Active</strong> | <strong>Otherwise</strong> |
-| <strong><a href="../../guide/Mystics/">Builders Boon</a></strong> | 0.75 | 1 |
-| <strong>Double Speed</strong> | 0.5 | 1 |
-| <strong>Double Speed in Protection</strong> | 0.75 | 1 |
-| <strong>War</strong> | 0.75 | 1 |
-| <strong><a href="../Ritual/">Expedient Ritual</a></strong> | 0.8 (if at 100% efficiency) | 1 |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Modifier Type</strong></th>
+<th><strong>Active</strong></th>
+<th><strong>Otherwise</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="../../guide/Mystics/">Builders Boon</a></strong></td>
+<td>0.75</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Double Speed</strong></td>
+<td>0.5</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Double Speed in Protection</strong></td>
+<td>0.75</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>War</strong></td>
+<td>0.75</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong><a href="../Ritual/">Expedient Ritual</a></strong></td>
+<td>0.8 (if at 100% efficiency)</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 <h3 id="construction-costs">Construction Costs</h3>
 <pre><code>Construction Costs = 0.05*(land+10000) * Race Mod * Mills Mod * Double Speed * Expedient Ritual Mod * Artisan Science Mod
 </code></pre>
-<p>| <strong>Modifier Type</strong> | <strong>Active</strong> | <strong>Otherwise</strong> |
-| <strong>Double Speed</strong> | 2 | 1 |
-| <strong>Race: Dwarf</strong> | 0.5 | 1 |
-| <strong><a href="../Ritual/">Expedient Ritual</a></strong> | 0.75 (if at 100% efficiency) | 1 |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Modifier Type</strong></th>
+<th><strong>Active</strong></th>
+<th><strong>Otherwise</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Double Speed</strong></td>
+<td>2</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Race: Dwarf</strong></td>
+<td>0.5</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong><a href="../Ritual/">Expedient Ritual</a></strong></td>
+<td>0.75 (if at 100% efficiency)</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 <h3 id="raze-costs">Raze Costs</h3>
 <pre><code>Raze Costs = (300+(0.05*land) * Artisan Science Mod
 </code></pre>
@@ -5608,10 +5660,32 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 <p>Changes in Building Efficiency take effect gradually.</p>
 </li>
 </ul>
-<p>| <strong>Modifier Type</strong> | <strong>Active</strong> | <strong>Otherwise</strong> |
-| <strong>Race: Dwarf</strong> | 1.25 | 1 |
-| <strong>Dragon: <a href="../../category/Dragons/">Topaz</a></strong> | 0.75 | 1 |
-| <strong>Spell: <a href="../../guide/Mystics/">Blizzard</a></strong> | 0.9 | 1 |</p>
+<table>
+<thead>
+<tr>
+<th><strong>Modifier Type</strong></th>
+<th><strong>Active</strong></th>
+<th><strong>Otherwise</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Race: Dwarf</strong></td>
+<td>1.25</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Dragon: <a href="../../category/Dragons/">Topaz</a></strong></td>
+<td>0.75</td>
+<td>1</td>
+</tr>
+<tr>
+<td><strong>Spell: <a href="../../guide/Mystics/">Blizzard</a></strong></td>
+<td>0.9</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 <h3 id="building-effects">Building Effects</h3>
 <pre><code>Percentage Based Buildings = Base Effect * BE * MIN(50%, % of building * (1 + Race)) * (100% - MIN(50%, % of building * (1 + Race)))
 Flat Rate Buildings = Base Effect * (Number of Buildings * (1 + Race)) * BE
