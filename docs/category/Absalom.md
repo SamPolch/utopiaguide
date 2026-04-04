@@ -1,9 +1,5 @@
 # Alliance:Absalom
 
-| |  | | --- | |  |  **Alliance:Absalom Alliance** |
-
-| [Alliance Listings](#) **·** [Kingdoms Listings](#) |
-
 | **Alliance:Absalom** | |
 | --- | --- |
 | Name: | Absalom |

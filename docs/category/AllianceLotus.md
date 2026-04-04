@@ -1,9 +1,5 @@
 # Alliance:Lotus
 
-| |  | | --- | |  |  **Alliance:Lotus Alliance** |
-
-| [Alliance Listings](#) **·** [Kingdoms Listings](#) |
-
 | **Alliance:Lotus** | |
 | --- | --- |
 | Name: | Lotus |

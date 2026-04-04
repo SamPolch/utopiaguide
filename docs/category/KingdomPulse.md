@@ -1,9 +1,5 @@
 # Kingdom:Pulse
 
-| |  | | --- | |  |  **Kingdom - Kingdom:Pulse** |
-
-| [Alliance Listings](#) **·** [Kingdoms Listings](#) |
-
 | **Kingdom:Pulse** | |
 | --- | --- |
 | Alliance Affliations: | TCL |

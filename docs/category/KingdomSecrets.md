@@ -1,9 +1,5 @@
 # Kingdom:Secrets
 
-| |  | | --- | |  |  **Kingdom - Kingdom:Secrets** |
-
-| [Alliance Listings](#) **·** [Kingdoms Listings](#) |
-
 | **Kingdom:Secrets** | |
 | --- | --- |
 | Alliance Affliations: | None |

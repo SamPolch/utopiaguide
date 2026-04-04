@@ -34,7 +34,6 @@ Total Networth =  (Peasants * 0.25) + (Soldiers * Soldier NW) + (Off Specs * Off
 | Prisoner | Offense Points \* 0.2 |
 | Thief | 5 |
 | Wizard | 5 |
-| [Gold](#) | 1/1000 |
 | Food | 0 |
 | Runes | 0 |
 | [Science Book](../main/Science_Formulas.md) | Acres \* 0.000007 |

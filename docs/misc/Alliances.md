@@ -1,3 +1,1 @@
 # Category:Alliances
-
-| |  | | --- | | **CONTENTS: Alliances** | |

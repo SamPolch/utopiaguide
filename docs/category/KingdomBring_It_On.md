@@ -1,9 +1,5 @@
 # Kingdom:Bring It On
 
-| |  | | --- | |  |  **Kingdom - Kingdom:Bring It On** |
-
-| [Alliance Listings](#) **·** [Kingdoms Listings](#) |
-
 | **Kingdom:Bring It On** | |
 | --- | --- |
 | Alliance Affliations: | None, never will be. |

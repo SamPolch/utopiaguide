@@ -1,9 +1,5 @@
 # Kingdom:Copy Cats
 
-| |  | | --- | |  |  **Kingdom - Kingdom:Copy Cats** |
-
-| [Alliance Listings](#) **·** [Kingdoms Listings](#) |
-
 | **Kingdom:Copy Cats** | |
 | --- | --- |
 | Alliance Affliations: | None |
