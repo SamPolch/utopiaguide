@@ -27,6 +27,10 @@ theme:
       name: Switch to dark mode
 extra_css:
 - stylesheets/extra.css
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
 plugins:
 - search
 nav:
