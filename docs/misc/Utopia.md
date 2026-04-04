@@ -4,7 +4,7 @@ Welcome to Utopia, a world where reality and dreams come together, a world where
 
 Are you ready to be a Lord or Lady here in Utopia? If so, continue onwards...
 
-As Lord or Lady of your lands, you will afterwards make the decisions that affect your people's daily lives. You will draft them into your service, send them off to [war](../guide/Relations.md), decide when and what spells to cast, what to build, and how your population will live. As you enter the world, you will become more familiar with its workings. This will take time - do not be discouraged if you feel confused or overwhelmed. The [Utopia Wiki](Welcome_to_the_Utopia_Wiki.md) will help you make your original decisions, and will be perfect for new players willing to discover the Utopian background. Read it as you wish, or learn as you go. Much of this information will be provided as necessary by your scribes, squires, and advisors within Utopia.
+As Lord or Lady of your lands, you will afterwards make the decisions that affect your people's daily lives. You will draft them into your service, send them off to [war](../guide/Relations.md), decide when and what spells to cast, what to build, and how your population will live. As you enter the world, you will become more familiar with its workings. This will take time - do not be discouraged if you feel confused or overwhelmed. The [Utopia Guide](../index.md) will help you make your original decisions, and will be perfect for new players willing to discover the Utopian background. Read it as you wish, or learn as you go. Much of this information will be provided as necessary by your scribes, squires, and advisors within Utopia.
 
 # History
 
