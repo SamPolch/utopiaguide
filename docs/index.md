@@ -2,7 +2,7 @@
 
 Welcome to **Utopia**, a world like no other, full of war, intrigue, strategy and diplomacy!
 
-This site is a community wiki for [Utopia](https://utopia-game.com), converted from the original wiki at wiki.utopia-game.com. For additional questions, join the [**Discord**](https://utopia-game.com/discord)!
+This site is a community-maintained guide for [Utopia](https://utopia-game.com), converted from the original wiki at wiki.utopia-game.com. Content is kept up to date by the community — pull requests are welcome on [GitHub](https://github.com/alexbudgh/utopiaguide)! For additional questions, join the [**Discord**](https://utopia-game.com/discord).
 
 ---
 
