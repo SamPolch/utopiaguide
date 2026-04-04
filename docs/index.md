@@ -18,7 +18,7 @@ This site is a community-maintained guide for [Utopia](https://utopia-game.com),
 !!! info "Guides by In-game Menus"
     **Province Information** — [Economy](main/Economy.md), [Food](misc/Food.md), [Honor](main/Honor.md), [Networth](main/Networth.md)
 
-    **Internal Management** — [Explore](misc/Explore.md), [Growth](guide/Growth.md), [Science](main/Science_Formulas.md), [Military](guide/Military.md), [Wizards](misc/Wizards.md)
+    **Internal Management** — [Explore](misc/Explore.md), [Growth](guide/Growth.md), [Science](main/Science_Formulas.md), [Military](guide/Military.md), [Wizards](misc/Units.md#wizards)
 
     **External Actions** — [Mystics](guide/Mystics.md) ([Magic Formulas](guide/Magic_Formulas.md)), [Thievery](misc/Thievery.md), [War Room](guide/War_Room.md) ([Attacking & Defending](main/Attacking_&_Defending.md), [Hostile Meter](main/Hostile_Meter.md), [Relations](guide/Relations.md), [Overpopulation](formulas/Overpopulation.md)), [Dragons](main/Dragons.md), [Rituals](misc/Ritual.md)
 
