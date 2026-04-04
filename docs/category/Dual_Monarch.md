@@ -2,8 +2,6 @@
 
 | **This is part of the Utopia WIKI Player written guides.** |
 
-> **THIS PAGE** is a guide aimed to cover Dual Monarch. It comprises of tips and tricks written by other players, for regular utopians. Please be civil in your [discussions](#) if you disagree with a point made on the page.
-
 Dual monarchy is a system employed by some kingdoms, whereby votes are split between two provinces. Normally, these provinces are trusted players and/or leaders of the kingdom that can be counted on to be active.
 
 The way this system works is that if **Province A** and **Province B** are meant to be sharing votes with **Province A** being the main monarch, then each province would vote for the other, and **Province A** would ensure that he gathers enough votes on himself to be the monarch. When **Province B** requires monarchy however, he will switch his vote from **Province A** to himself and thus gain the monarchy.
