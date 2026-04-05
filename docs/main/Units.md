@@ -15,7 +15,7 @@ Unit types available in Utopia. Racial and personality bonuses are not included 
 | **Prisoners** | 8† | — | — |
 | **Mercenaries** | 8† | — | 300gc |
 
-† [Racial](../main/Race.md) and [Personality](../ages/Personality.md) modifiers can increase or decrease this value.
+† [Racial](../main/Race.md) and [Personality](Personality.md) modifiers can increase or decrease this value.
 
 ---
 
@@ -53,7 +53,7 @@ Required to cast spells. Do not count toward military size. See the [Mystics Gui
 
 ## Thieves
 
-Conduct [thievery operations](Thievery.md). See also [Thievery](Thievery.md) for formulas.
+Conduct [thievery operations](../misc/Thievery.md). See also [Thievery](../misc/Thievery.md) for formulas.
 
 ## Horses
 

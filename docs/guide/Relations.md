@@ -29,8 +29,8 @@ Also known as a **Non Aggression Pact** (as seen on the opposing kingdom page an
 
 - Prohibits any [Attacks](War_Room.md), Spells, or Ops between opposing kingdoms
 - Annuls [Hostility Meter](../main/Hostile_Meter.md)
-- Minimum duration of 1  [Utopian Month](../misc/Utopia_Time.md)
-- Can be enforced for a max of 3 [Utopian Years](../misc/Utopia_Time.md)
+- Minimum duration of 1  [Utopian Month](../main/Utopia_Time.md)
+- Can be enforced for a max of 3 [Utopian Years](../main/Utopia_Time.md)
 
 Both Monarchs and Stewards can send, accept, and break Ceasefires. Once accepted, the Ceasefire agreement cannot be broken for the next 24 hours, though the Monarch or Steward can choose to extend this date no further than 3 weeks. While a Ceasefire is in effect, no hostile actions will be allowed between the two Kingdoms.
 
@@ -94,7 +94,7 @@ In order to declare War, a Kingdom must:
 
 *If 180 points are reached by both Kingdoms, War automatically starts.*
 
-Wars last a minimum of 2 [Utopian Months](../misc/Utopia_Time.md) (48 hours) after declaration.
+Wars last a minimum of 2 [Utopian Months](../main/Utopia_Time.md) (48 hours) after declaration.
 
 A Kingdom can only War one other Kingdom at a time.
 
@@ -160,7 +160,7 @@ Once the **Hostile** relation status has been reached by one kingdom, the Monarc
 | Inter-Kingdoms' Relations | | | | |
 | --- | --- | --- | --- | --- |
 | Ceasefire | Normal (0-14.99) | Unfriendly (15-29.99) | Hostile (30-180) | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**   - Min 24 U-Days - Max 96 U-Days - +1000% birth rate (minimum 500) for the first 24 U-Days - Explore penalty reduced to 300% for provinces below Kingdom Median (including incoming explored Acres) - Combined with War Relations - Separate annul the Relations (War and CF) - All Land currently out with armies at War end returns home immediately - All Military Units currently out on Attacks against the War opponent return home immediately - Negative Spell effects and Riots removed - Dragon project is automatically canceled - Instant Population growth of 20% of your max population if you are under 50% of your max Population | - No Effects | To opposing Kingdom:   - Unlocks Unfriendly Spells - Unlocks Unfriendly Thievery Operations | To opposing Kingdom:   - Unlocks Hostile Spells - Unlocks Hostile Thievery Operations - Mana cost for Offensive Spells reduced to 2% - Stealth cost for Offensive Ops reduced to 2% | **Immediate Effects**   - Annul Hostility Meter with everyone  ---   *Benefits*   - +10% Combat Gains - Unlocks [Propaganda](../misc/Thievery.md) thievery operation - Unlocks [Amnesia](Mystics.md) spell - Mana costs for Offensive Spells reduced to 2% - Stealth costs for Offensive Ops reduced to 2%  ---   *Penalties*   - 600% Exploration Costs - [Paradise](Mystics.md) unavailable     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -15% Attack Time     **After 24 Hours (1 [Utopian Month](../misc/Utopia_Time.md))**  *Benefits*   - -80% Gains and Effectiveness for operations to and from other Kingdoms (this phases in from War start) |
+| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**   - Min 24 U-Days - Max 96 U-Days - +1000% birth rate (minimum 500) for the first 24 U-Days - Explore penalty reduced to 300% for provinces below Kingdom Median (including incoming explored Acres) - Combined with War Relations - Separate annul the Relations (War and CF) - All Land currently out with armies at War end returns home immediately - All Military Units currently out on Attacks against the War opponent return home immediately - Negative Spell effects and Riots removed - Dragon project is automatically canceled - Instant Population growth of 20% of your max population if you are under 50% of your max Population | - No Effects | To opposing Kingdom:   - Unlocks Unfriendly Spells - Unlocks Unfriendly Thievery Operations | To opposing Kingdom:   - Unlocks Hostile Spells - Unlocks Hostile Thievery Operations - Mana cost for Offensive Spells reduced to 2% - Stealth cost for Offensive Ops reduced to 2% | **Immediate Effects**   - Annul Hostility Meter with everyone  ---   *Benefits*   - +10% Combat Gains - Unlocks [Propaganda](../misc/Thievery.md) thievery operation - Unlocks [Amnesia](Mystics.md) spell - Mana costs for Offensive Spells reduced to 2% - Stealth costs for Offensive Ops reduced to 2%  ---   *Penalties*   - 600% Exploration Costs - [Paradise](Mystics.md) unavailable     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -15% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -80% Gains and Effectiveness for operations to and from other Kingdoms (this phases in from War start) |
 
 # Ending a War
 
@@ -230,7 +230,7 @@ A Kingdom is victorious when its opponent withdraws from War. This is also calle
 
 ### End-of-War Ceasefire
 
-After a War ends, neither Kingdom may have any Relations for an [Utopian Month](../misc/Utopia_Time.md) and are automatically placed in a 24 hour End-of-War Ceasefire. During the ceasefire both Kingdoms remain in War relations, thus retaining the protection benefits while rebuilding. After 24 hours, the Kingdoms have the choice either to end the Ceasefire or to wait up to an additional 72 hours (96 hours total). This choice is independent of the other Kingdom.
+After a War ends, neither Kingdom may have any Relations for an [Utopian Month](../main/Utopia_Time.md) and are automatically placed in a 24 hour End-of-War Ceasefire. During the ceasefire both Kingdoms remain in War relations, thus retaining the protection benefits while rebuilding. After 24 hours, the Kingdoms have the choice either to end the Ceasefire or to wait up to an additional 72 hours (96 hours total). This choice is independent of the other Kingdom.
 
 *During this ceasefire, both sides benefit from:*
 
@@ -266,7 +266,7 @@ Provinces are expected to interact respectfully and obey the Code of Conduct. An
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
 | The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • **Relations**  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
 | Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • [Formulas](#) |
 | Rules | [Game Rules](../misc/Game_Rules.md) |

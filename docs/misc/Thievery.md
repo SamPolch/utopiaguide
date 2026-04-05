@@ -349,7 +349,7 @@ Attempts to convince enemy peasants, military, or wizards to revolt and join you
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| Introduction | [Getting Started with Utopia](../guide/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
 | The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • Science  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • **Thievery**  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
 | Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](Game_Rules.md) |
@@ -358,8 +358,8 @@ Attempts to convince enemy peasants, military, or wizards to revolt and join you
 | --- | --- |
 | Races | [Avians](../main/Race.md)  • [Dark Elves](../main/Race.md)  • [Dryads](../main/Race.md)  • [Dwarves](../main/Race.md)  • [Elves](../main/Race.md)  • [Faeries](../main/Race.md)  • [Halflings](../main/Race.md)  • [Humans](../main/Race.md)  • [Orcs](../main/Race.md)  • [Undead](../main/Race.md) |
 | Extinct Races | [Bocans](../main/Race.md)  • [Gnomes](../main/Race.md) |
-| Personalities | [The Artisan](../ages/Personality.md)  • [The Cleric](../ages/Personality.md)  • [The General](../ages/Personality.md)  • [The Heretic](../ages/Personality.md)  • [The Mystic](../ages/Personality.md)  • [The Rogue](../ages/Personality.md)  • [The Tactician](../ages/Personality.md)  • [The Warrior](../ages/Personality.md) |
-| Extinct Personalities | [The Freak](../ages/Personality.md)  • [The Paladin](../ages/Personality.md)  • [The Raider](../ages/Personality.md)  • [The Undead](../ages/Personality.md)  • [The Necromancer](../ages/Personality.md)  • [The Merchant](../ages/Personality.md)  • [The Sage](../ages/Personality.md)  • [The Shepherd](../ages/Personality.md)  • [The War Hero](../ages/Personality.md) |
+| Personalities | [The Artisan](../main/Personality.md)  • [The Cleric](../main/Personality.md)  • [The General](../main/Personality.md)  • [The Heretic](../main/Personality.md)  • [The Mystic](../main/Personality.md)  • [The Rogue](../main/Personality.md)  • [The Tactician](../main/Personality.md)  • [The Warrior](../main/Personality.md) |
+| Extinct Personalities | [The Freak](../main/Personality.md)  • [The Paladin](../main/Personality.md)  • [The Raider](../main/Personality.md)  • [The Undead](../main/Personality.md)  • [The Necromancer](../main/Personality.md)  • [The Merchant](../main/Personality.md)  • [The Sage](../main/Personality.md)  • [The Shepherd](../main/Personality.md)  • [The War Hero](../main/Personality.md) |
 
 | **The Thieves' Toolbox** | |
 | --- | --- |

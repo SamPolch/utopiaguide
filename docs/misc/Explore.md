@@ -1,6 +1,6 @@
 # Explore
 
-Exploration is one of the main ways of growing your Province. Via the Explore page, a province may send out [soldiers](Units.md), at the cost of gc, to acquire additional acres.
+Exploration is one of the main ways of growing your Province. Via the Explore page, a province may send out [soldiers](../main/Units.md), at the cost of gc, to acquire additional acres.
 
 On this page you will have the following information:
 
@@ -42,7 +42,7 @@ The following penalties apply during war:
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| Introduction | [Getting Started with Utopia](../guide/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
 | The Menus | Throne  • Kingdom  • News **Explore**  • [Growth](../guide/Growth.md)  • Science  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
 | Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](Game_Rules.md) |

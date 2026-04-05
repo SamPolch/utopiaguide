@@ -19,7 +19,7 @@
 
 ### New Features
 
-- Force Cease-Fire (overhauled) - An aggressor KD in a conflict can force both parties into an unbreakable 7 [Utopian-month](../misc/Utopia_Time.md) (RL = 7 days) cease-fire.
+- Force Cease-Fire (overhauled) - An aggressor KD in a conflict can force both parties into an unbreakable 7 [Utopian-month](../main/Utopia_Time.md) (RL = 7 days) cease-fire.
   - The aggressor must have at least 100 more meter than the defending KD on the 1st of each Month for 3 consecutive Months
   - The 'Force Cease-Fire" button will become available to the aggressor on the 12th of the 3rd Month
   - The defending KD can halt the forced cease-fire in several ways:
@@ -71,7 +71,7 @@
 
 - Aiding Explorable Acres - Acres lost reduced from 75% to 50%
 - The Dragon page will now be available at all times and will display the stats of each dragon (similar to how the Rituals page works)
-- Merging of Kingdoms - Kingdoms will merge weekly after [Utopian Year 1](../misc/Utopia_Time.md). Eligible Kingdoms to merge will be in the lowest 1/3 of the server and will merge similarly as is performed during the end of age reset such that Kingdoms with very few provinces will have a chance to play with other active players in a normal size Kingdom. Kingdoms that will be merged will be handled on a case by case basis and contacted directly via Game Administration.
+- Merging of Kingdoms - Kingdoms will merge weekly after [Utopian Year 1](../main/Utopia_Time.md). Eligible Kingdoms to merge will be in the lowest 1/3 of the server and will merge similarly as is performed during the end of age reset such that Kingdoms with very few provinces will have a chance to play with other active players in a normal size Kingdom. Kingdoms that will be merged will be handled on a case by case basis and contacted directly via Game Administration.
 - Game Admin Kingdom (restated) - Kingdom 1:1 will be dedicated to Game Administration and Utopia News Reporters. The provinces in this Kingdom will remain in protection for the duration of the age. These provinces should not be messaged to replace the use of Utopia Support e-mail or for reporting violations of the Game Rules. Utopia News Reporters will have a dedicated province in this Kingdom to enable them a safe and secure place to message Kingdoms with privacy for their in-game accounts and Forum accounts. Kingdoms or players that receive messages from these Reporter accounts can be assured the person they are speaking with is who they say they are and not some random person scamming for information.
 
 # Races

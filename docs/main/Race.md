@@ -1,6 +1,6 @@
 # Race
 
-The population of Utopia is made up of 9 Races. Choose carefully — many kingdoms coordinate Race and [Personality](../ages/Personality.md) picks as a team to develop a shared strategy.
+The population of Utopia is made up of 9 Races. Choose carefully — many kingdoms coordinate Race and [Personality](Personality.md) picks as a team to develop a shared strategy.
 
 *Last updated: Age 114 — The Age of Convergence*
 

@@ -43,28 +43,28 @@ Runes cost = ROUNDDOWN ( (0.68 * Size + 680) * Spell Cost Multiplier )
 | Spell | Spell-Bonus | Cost Multiplier | Avian | Dark Elf | Dwarf | Elf | Faery | Halfling | Human | Orc | Undead | Duration (Average) | Support Spell | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Minor Protection | 105% | 0.35 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 12 | Yes | Increases Defensive Military Efficiency by 5% (multiplicative). Stacks with Greater Protection. |
-| Greater Protection | 105% | 0.45 | No | No | No | No | No | No | No | No | No | 24 | Yes | Increases Defensive Military Efficiency by 5% (multiplicative). Stacks with Minor Protection. Only available to [Cleric](../ages/Personality.md). |
+| Greater Protection | 105% | 0.45 | No | No | No | No | No | No | No | No | No | 24 | Yes | Increases Defensive Military Efficiency by 5% (multiplicative). Stacks with Minor Protection. Only available to [Cleric](../main/Personality.md). |
 | Magic Shield | 120% | 0.5 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 14 | Yes | Increases defensive Magic Effectiveness by 20% |
-| Divine Shield | 80% | 0.5 | No | No | No | No | No | No | No | No | No | 14 | Yes | Decreases Instant Spell Damage by 20%. Only available to [Cleric](../ages/Personality.md). |
+| Divine Shield | 80% | 0.5 | No | No | No | No | No | No | No | No | No | 14 | Yes | Decreases Instant Spell Damage by 20%. Only available to [Cleric](../main/Personality.md). |
 | Mystic Aura |  | 0.5 | No | No | No | Yes | No | No | No | No | No | N/A | No | Makes the next spell cast on you fail automatically. |
 | Fertile Lands | 125% | 0.5 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 16 | Yes | Increases Food production by 25% |
 | Nature's Blessing | 100% | 0.6 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 16 | Yes | Grants immunity to Storms and Droughts. Has a 33% chance to cure the Plague on a successful cast. |
 | Love & Peace | +0.85% | 0.7 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 14 | Yes | Increases base population growth by +0.85% and war horse production rate by 40%. |
-| Quick Feet | 85% | 0.8 | No | No | No | No | No | Yes | No | No | No | 2 | No | Decreases attack time by 15%. Only available to [Tactician](../ages/Personality.md). |
+| Quick Feet | 85% | 0.8 | No | No | No | No | No | Yes | No | No | No | 2 | No | Decreases attack time by 15%. Only available to [Tactician](../main/Personality.md). |
 | Tree of Gold |  | 0.8 | No | No | No | No | Yes | No | No | No | No | N/A | No | Gives 26.66 to 53.33% of daily income. |
 | Builder's Boon | 75% | 1 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 12 | Yes | Reduces construction time by 25%. |
 | Inspire Army | 85% / 80% | 1.1 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 12 | Yes | Reduces wages by 15% and decreases training time by 20%. |
-| Scientific Insights | 110% | 1.25 | No | No | No | No | No | No | No | No | No | 9 | No | Increases science effectiveness by 10%. Only available to [Sage](../ages/Personality.md). |
+| Scientific Insights | 110% | 1.25 | No | No | No | No | No | No | No | No | No | 9 | No | Increases science effectiveness by 10%. Only available to [Sage](../main/Personality.md). |
 | Anonymity |  | 1.3 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | No | Hides province name in the next attack, but reveals kingdom location. No honor gains when active. Reduces attack gains by 15%. Grants Ambush Immunity for this attack. |
-| Illuminate Shadows | 80% | 1.3 | No | No | No | No | No | No | No | No | No | 8 | Yes | Reduces damage from thievery operations by 20%. Only available to [Cleric](../ages/Personality.md). |
-| Wrathful Smite | 120% | 1.35 | No | No | No | No | No | No | No | No | No | 8 | Yes | Increases the enemy casualties of attacking provinces. Only available to [Cleric](../ages/Personality.md). |
-| Invisibility | 120%/80% | 1.35 | No | No | No | No | No | No | No | No | No | 12 | No | Increases offensive thievery offense (offensive TPA) by 20%. Reduce thieves lost during thievery operations by 20%. Only available to [Rogue](../ages/Personality.md). |
+| Illuminate Shadows | 80% | 1.3 | No | No | No | No | No | No | No | No | No | 8 | Yes | Reduces damage from thievery operations by 20%. Only available to [Cleric](../main/Personality.md). |
+| Wrathful Smite | 120% | 1.35 | No | No | No | No | No | No | No | No | No | 8 | Yes | Increases the enemy casualties of attacking provinces. Only available to [Cleric](../main/Personality.md). |
+| Invisibility | 120%/80% | 1.35 | No | No | No | No | No | No | No | No | No | 12 | No | Increases offensive thievery offense (offensive TPA) by 20%. Reduce thieves lost during thievery operations by 20%. Only available to [Rogue](../main/Personality.md). |
 | Clear Sight | 75% | 1.4 | Yes | No | No | No | No | No | No | No | No | 16 | No | Gives a 25% chance to catch enemy thieves. |
-| Fanaticism | 105% / 95% | 1.5 | No | No | No | No | No | No | No | No | No | 8 | Yes | Increases Offensive Military Efficiency by 5%. Decreases Defensive Military Efficiency by 5%. Only available to [Cleric](../ages/Personality.md). |
+| Fanaticism | 105% / 95% | 1.5 | No | No | No | No | No | No | No | No | No | 8 | Yes | Increases Offensive Military Efficiency by 5%. Decreases Defensive Military Efficiency by 5%. Only available to [Cleric](../main/Personality.md). |
 | Mage's Fury | 125% / 75% | 1.4 | No | Yes | No | No | No | No | No | No | No | 6 | No | Magic effectiveness 25% higher for offense, 25% lower for defense. |
-| War Spoils |  | 1.45 | No | No | No | No | No | No | No | No | No | 4 | No | While the spell is active, land gained in attacks are taken control of immediately. Only available to [Tactician](../ages/Personality.md). |
-| Guile | 120% | 1.5 | No | No | No | No | No | No | No | No | No | 8 | No | Increases Instant Spell Damage and Sabotage Operation Damage by 20% for the duration. Only available to [Heretic](../ages/Personality.md) |
-| Revelation | 130% | 1.55 | No | No | No | No | No | No | No | No | No | 8 | No | Increases the spawn rate of new scientists by 30% while the spell is active. Available to [Heretic](../ages/Personality.md), [Mystic](../ages/Personality.md) and [Rogue](../ages/Personality.md). |
+| War Spoils |  | 1.45 | No | No | No | No | No | No | No | No | No | 4 | No | While the spell is active, land gained in attacks are taken control of immediately. Only available to [Tactician](../main/Personality.md). |
+| Guile | 120% | 1.5 | No | No | No | No | No | No | No | No | No | 8 | No | Increases Instant Spell Damage and Sabotage Operation Damage by 20% for the duration. Only available to [Heretic](../main/Personality.md) |
+| Revelation | 130% | 1.55 | No | No | No | No | No | No | No | No | No | 8 | No | Increases the spawn rate of new scientists by 30% while the spell is active. Available to [Heretic](../main/Personality.md), [Mystic](../main/Personality.md) and [Rogue](../main/Personality.md). |
 | Fountain of Knowledge | 110% | 1.55 | No | No | No | Yes | No | No | No | No | No | 10 | No | Increases the Science book production by 10% while the spell is active. |
 | Town Watch |  | 1.6 | No | No | No | No | No | Yes | No | No | No | 10 | No | Every 5 peasants defend with 1 strength but suffer high casualties. |
 | Ghost Workers | 80% | 1.65 | No | No | No | No | Yes | No | No | No | No | 14 | No | Lowers jobs required for maximum efficiency by 20%. |
@@ -91,19 +91,19 @@ Runes cost = ROUNDDOWN ( (0.68 * Size + 680) * Spell Cost Multiplier )
 | Magic Ward | 150% | 1.2 | No | Yes | No | No | No | No | No | No | No | 6 | *Unfriendly + Hostile + War*: Increases the rune costs of target province by 50%. |
 | Greed | 125% | 1.3 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 12 | Increases military wages and draft costs of target province by 25%. |
 | Vermin | 50% | 1.2 | No | No | No | No | No | Yes | No | No | No | 12 | Destroys on average about 50% of target's food. |
-| Fool's Gold | 75% | 1.4 | No | No | No | No | No | No | No | No | No | N/A | *Unfriendly + Hostile + War*: Destroys up to 25% of target's gold. Only available to [Heretic](../ages/Personality.md). |
+| Fool's Gold | 75% | 1.4 | No | No | No | No | No | No | No | No | No | N/A | *Unfriendly + Hostile + War*: Destroys up to 25% of target's gold. Only available to [Heretic](../main/Personality.md). |
 | Chastity | 0% | 1.4 | No | No | No | No | Yes | No | No | No | No | 4 | Reduces Population Growth to 0. |
 | Sloth | 50% | 1.4 | No | Yes | No | No | No | No | No | No | No | 6 | *Unfriendly + Hostile + War*: Reduces drafting within a target province by 50%. |
-| Pitfalls | 125% | 1.5 | No | No | No | No | No | No | No | No | No | 12 | Causes opponent to suffer 25% higher defensive military casualties. Only available to [Mystic](../ages/Personality.md). |
+| Pitfalls | 125% | 1.5 | No | No | No | No | No | No | No | No | No | 12 | Causes opponent to suffer 25% higher defensive military casualties. Only available to [Mystic](../main/Personality.md). |
 | Fireball | 95% | 1.5 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | *Unfriendly + Hostile + War*: Kills 4-7% of equal sized opponent's peasants. |
 | Lightning Strike |  | 1.55 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | *Unfriendly + Hostile + War*: Destroys up to 65% of opponent's runes. |
 | Explosions |  | 1.8 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 12 | When sending aid if either the donor or the receiver are under the explosions spell, there is a 50% chance that the shipment will be reduced to 55%-80% of what it would have been otherwise. |
 | Blizzard | 90% | 1.8 | No | No | No | No | Yes | No | No | No | No | 6 | Reduces the building effectiveness of target province by 10%. |
 | Amnesia |  | 1.9 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | *War*: Reduces the effectiveness of target's science by ~2%. Effect removed upon entering End of War Cease-Fire. |
-| Nightmares | 98.5% | 2.2 | No | No | No | No | No | No | No | No | No | N/A | *Unfriendly + Hostile + War*: Roughly 1.5% of target's troops are put back in training over 8 hours. Soldiers will turn to peasants instead. Only available to [Heretic](../ages/Personality.md). |
+| Nightmares | 98.5% | 2.2 | No | No | No | No | No | No | No | No | No | N/A | *Unfriendly + Hostile + War*: Roughly 1.5% of target's troops are put back in training over 8 hours. Soldiers will turn to peasants instead. Only available to [Heretic](../main/Personality.md). |
 | Tornadoes |  | 2.5 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | *Unfriendly + Hostile + War*: Destroys several of your opponent's buildings. |
 | Mystic Vortex | 50% | 2.8 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | *Unfriendly + Hostile + War*: For each active spell your opponent has, there's a 50% chance it's removed. |
-| Meteor Showers |  | 2.8 | No | No | No | No | No | No | No | No | No | 8 | *Unfriendly + Hostile + War*: Kills some peasants and troops. Only available to [Mystic](../ages/Personality.md). |
+| Meteor Showers |  | 2.8 | No | No | No | No | No | No | No | No | No | 8 | *Unfriendly + Hostile + War*: Kills some peasants and troops. Only available to [Mystic](../main/Personality.md). |
 | Land Lust |  | 3.5 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | *Unfriendly + Hostile + War*: Captures between 1 acre and 1.35% of opponents land. |
 | Abolish Ritual |  | 3.5 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | N/A | *Unfriendly + Hostile + War*: Reduces enemy ritual strength by 2%. Limited to 10 casts on a single enemy province; see [Ritual](../misc/Ritual.md) tab for more details. |
 | Spell | Spell-Bonus | Cost Multiplier | Avian | Dark Elf | Dwarf | Elf | Faery | Halfling | Human | Orc | Undead | Duration (Average) | Description |
@@ -112,7 +112,7 @@ Runes cost = ROUNDDOWN ( (0.68 * Size + 680) * Spell Cost Multiplier )
 
 | Spell | Spell-Bonus | Cost Multiplier | Avian | Dark Elf | Dwarf | Elf | Faery | Halfling | Human | Orc | Undead | Duration (Average) | Support Spell | Description |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Hero's Inspiration | 70% / 75% | 1.1 | No | No | No | No | No | No | No | No | No | 14 | No | Reduces wages by 30% and training time by 25%. Only available to [War Hero](../ages/Personality.md). |
+| Hero's Inspiration | 70% / 75% | 1.1 | No | No | No | No | No | No | No | No | No | 14 | No | Reduces wages by 30% and training time by 25%. Only available to [War Hero](../main/Personality.md). |
 | Spell | Spell-Bonus | Cost Multiplier | Avian | Dark Elf | Dwarf | Elf | Faery | Halfling | Human | Orc | Undead | Duration (Average) | Support Spell | Description |
 
 ## Additional Information
@@ -141,7 +141,7 @@ Runes cost = ROUNDDOWN ( (0.68 * Size + 680) * Spell Cost Multiplier )
 | --- | --- |
 | Races | [Avians](../main/Race.md)  • [Dark Elves](../main/Race.md)  • [Dwarves](../main/Race.md)  • [Elves](../main/Race.md)  • [Faery](../main/Race.md)  • [Halflings](../main/Race.md)  • [Humans](../main/Race.md)  • [Orcs](../main/Race.md)  • [Undead](../main/Race.md) |
 | Extinct Races | [Bocans](../main/Race.md)  • [Dryads](../main/Race.md)  • [Gnomes](../main/Race.md) |
-| Personalities | [The Cleric](../ages/Personality.md)  • [The Heretic](../ages/Personality.md)  • [The Mystic](../ages/Personality.md)  • [The Artisan](../ages/Personality.md)  • [The Rogue](../ages/Personality.md)  • [The Tactician](../ages/Personality.md)  • [The War Hero](../ages/Personality.md)  • [The Warrior](../ages/Personality.md)  • [The Sage](../ages/Personality.md) |
-| Extinct Personalities | [The Raider](../ages/Personality.md)  • [The Freak](../ages/Personality.md)  • [The General](../ages/Personality.md)  • [The Merchant](../ages/Personality.md)  • [The Paladin](../ages/Personality.md)  • [The Shepherd](../ages/Personality.md)  • [The Undead](../ages/Personality.md) |
+| Personalities | [The Cleric](../main/Personality.md)  • [The Heretic](../main/Personality.md)  • [The Mystic](../main/Personality.md)  • [The Artisan](../main/Personality.md)  • [The Rogue](../main/Personality.md)  • [The Tactician](../main/Personality.md)  • [The War Hero](../main/Personality.md)  • [The Warrior](../main/Personality.md)  • [The Sage](../main/Personality.md) |
+| Extinct Personalities | [The Raider](../main/Personality.md)  • [The Freak](../main/Personality.md)  • [The General](../main/Personality.md)  • [The Merchant](../main/Personality.md)  • [The Paladin](../main/Personality.md)  • [The Shepherd](../main/Personality.md)  • [The Undead](../main/Personality.md) |
 
 | align=

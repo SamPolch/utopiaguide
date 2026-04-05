@@ -12,11 +12,11 @@ Skill points = Number of Novices + 1.5 * Number of Graduates + 2 * Number of Pro
 
 | **Modifier Type** | **Multiplier** | **Science Category** |
 | --- | --- | --- |
-| Personality: [Heretic](../ages/Personality.md) | 1.3 | Crime |
-| Personality: [Heretic](../ages/Personality.md) | 1.3 | Channeling |
-| Personality: [Rogue](../ages/Personality.md) | 1.5 | Crime |
-| Personality: [Mystic](../ages/Personality.md) | 1.75 | Channeling |
-| Personality: [Sage](../ages/Personality.md) | 1.3 | All |
+| Personality: [Heretic](../main/Personality.md) | 1.3 | Crime |
+| Personality: [Heretic](../main/Personality.md) | 1.3 | Channeling |
+| Personality: [Rogue](../main/Personality.md) | 1.5 | Crime |
+| Personality: [Mystic](../main/Personality.md) | 1.75 | Channeling |
+| Personality: [Sage](../main/Personality.md) | 1.3 | All |
 | Spell: [Scientific Insights](../guide/Mystics.md) | 1.1 | All |
 
 **\*NOTE\* Starting Age 73: Science no longer has a hard maximum for all categories. Science will scale in a linear fashion up to stated maximums (Cap) as normal. Once this point is reached, additional scientists will yield diminishing returns.**

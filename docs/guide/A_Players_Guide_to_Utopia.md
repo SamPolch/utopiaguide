@@ -74,7 +74,7 @@ After you have chosen which race you would like to play, you will also need to c
 
 **The Warrior**: The warrior benefits from an increase in offensive efficiency and additional prisoner and mercenary strength. The Warrior also gets a significant on mercenaries. The Warrior is a good choice an Attacker, especially one paired with money to leverage the mercenaries.
 
-For more numbers on each race and personality, see these links: [Race](../main/Race.md) & [Personality](../ages/Personality.md)
+For more numbers on each race and personality, see these links: [Race](../main/Race.md) & [Personality](../main/Personality.md)
 
 Now that you know the basic function of each race and personality, begin by deciding what play style you want to play, then choose races and personalities that you believe make the best combination for your chosen play style. After that, create your province and see what kingdom you joined!
 
@@ -213,7 +213,7 @@ Offensive specialists are useful only for offensive endeavors and do not partici
 
 Defensive specialists are useful only for defensive purposes and cannot be sent out on attacks. They costs the same as offensive specialists and typically have 10 defensive points and 0 offensive points.
 
-Elites troops are more costly than specialists but can participate in both offensive and defensive endeavors. Elite troops also add more networth to your province than specialists. Elites have different offensive and defensive points and costs different amounts depending on what [Race](../main/Race.md) and [Personality](../ages/Personality.md) you play.
+Elites troops are more costly than specialists but can participate in both offensive and defensive endeavors. Elite troops also add more networth to your province than specialists. Elites have different offensive and defensive points and costs different amounts depending on what [Race](../main/Race.md) and [Personality](../main/Personality.md) you play.
 
 When you first start a province, you will be given a set amount of soldiers. If you have constructed armories, do not train these soldiers yet; instead, wait for the armories to be constructed to benefit from the decreased costs of training troops. Also, you may wish to use those soldiers to explore instead of training them up right away. The choice is yours, just make sure you set your draft rate to draft new soldiers into your army!
 

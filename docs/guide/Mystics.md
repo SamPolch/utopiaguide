@@ -4,7 +4,7 @@ Unlike your fabled land of Earth, the citizens of [Utopia](../misc/Utopia.md) tr
 
 ### Essentials: Runes, Wizards, and Guilds
 
-Spells require Runes, [Wizards](../misc/Units.md), and [Guilds](../main/Buildings.md) to be cast. [Towers](../main/Buildings.md) produce runes every hour, which are consumed with each spell. Wizards are naturally trained by your Guilds. Like all of the other individuals across your lands, they come from your [peasantry](../misc/Units.md) and reduce your number of available [workers](../main/Economy.md). Be careful not to hold too many Wizards or you may be sacrificing your peasantry, [Thieves](../misc/Units.md), or [Military](Military.md). At any time, you can release Wizards back into the peasantry or simply shut down additional training. Your Wizards maintain a Mana level which determines whether or not they can cast Spells. This rating rises automatically each day and drops each time you cast a Spell. Your Wizards will not cast Spells without at least a 5% Mana level. Casting Spells is not without risks. Failed attempts can result in explosions and kill a small portion of your Wizards.
+Spells require Runes, [Wizards](../main/Units.md), and [Guilds](../main/Buildings.md) to be cast. [Towers](../main/Buildings.md) produce runes every hour, which are consumed with each spell. Wizards are naturally trained by your Guilds. Like all of the other individuals across your lands, they come from your [peasantry](../main/Units.md) and reduce your number of available [workers](../main/Economy.md). Be careful not to hold too many Wizards or you may be sacrificing your peasantry, [Thieves](../main/Units.md), or [Military](Military.md). At any time, you can release Wizards back into the peasantry or simply shut down additional training. Your Wizards maintain a Mana level which determines whether or not they can cast Spells. This rating rises automatically each day and drops each time you cast a Spell. Your Wizards will not cast Spells without at least a 5% Mana level. Casting Spells is not without risks. Failed attempts can result in explosions and kill a small portion of your Wizards.
 
 ### Rune Generation
 
@@ -69,7 +69,7 @@ There are 3 possible outcomes of casting a spell. It can be successful, it can f
 - Fail message: Your wizards gather their runes and begin casting. The spell consumes X Runes and ... fizzles. Alas, we were not able to fulfill your expectations. Please forgive us.
 - Dying wizards message: "Leader name", something has gone terribly wrong with our spell. X of our wizards were killed in an explosion!
 
-Please note that Duration is in real time, spell messages are in [Utopia Time](../misc/Utopia_Time.md).
+Please note that Duration is in real time, spell messages are in [Utopia Time](../main/Utopia_Time.md).
 
 ## The Spell Book: Self Spells
 
@@ -1097,7 +1097,7 @@ Causes death among the peasants of an enemy, turning some into the caster's sold
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
 | The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • [Military](Military.md)  **Mystics**  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
 | Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](../misc/Game_Rules.md) |
@@ -1106,8 +1106,8 @@ Causes death among the peasants of an enemy, turning some into the caster's sold
 | --- | --- |
 | Races | [Avians](../main/Race.md)  • [Dark Elves](../main/Race.md)  • [Dryads](../main/Race.md)  • [Dwarves](../main/Race.md)  • [Elves](../main/Race.md)  • [Faeries](../main/Race.md)  • [Halflings](../main/Race.md)  • [Humans](../main/Race.md)  • [Orcs](../main/Race.md)  • [Undead](../main/Race.md) |
 | Extinct Races | [Bocans](../main/Race.md)  • [Gnomes](../main/Race.md) |
-| Personalities | [The Artisan](../ages/Personality.md)  • [The Cleric](../ages/Personality.md)  • [The General](../ages/Personality.md)  • [The Heretic](../ages/Personality.md)  • [The Mystic](../ages/Personality.md)  • [The Rogue](../ages/Personality.md)  • [The Tactician](../ages/Personality.md)  • [The Warrior](../ages/Personality.md) |
-| Extinct Personalities | [The Freak](../ages/Personality.md)  • [The Paladin](../ages/Personality.md)  • [The Raider](../ages/Personality.md)  • [The Undead](../ages/Personality.md)  • [The Necromancer](../ages/Personality.md)  • [The Merchant](../ages/Personality.md)  • [The Sage](../ages/Personality.md)  • [The Shepherd](../ages/Personality.md)  • [The War Hero](../ages/Personality.md) |
+| Personalities | [The Artisan](../main/Personality.md)  • [The Cleric](../main/Personality.md)  • [The General](../main/Personality.md)  • [The Heretic](../main/Personality.md)  • [The Mystic](../main/Personality.md)  • [The Rogue](../main/Personality.md)  • [The Tactician](../main/Personality.md)  • [The Warrior](../main/Personality.md) |
+| Extinct Personalities | [The Freak](../main/Personality.md)  • [The Paladin](../main/Personality.md)  • [The Raider](../main/Personality.md)  • [The Undead](../main/Personality.md)  • [The Necromancer](../main/Personality.md)  • [The Merchant](../main/Personality.md)  • [The Sage](../main/Personality.md)  • [The Shepherd](../main/Personality.md)  • [The War Hero](../main/Personality.md) |
 
 | **The Spellbook** | | | |
 | --- | --- | --- | --- |

@@ -48,7 +48,7 @@ Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes,
 | Armouries |  |  | 2%2%1.5% | 50%50%37.5% | 25 | 25 | Decreases Draft CostsReduction of WagesDecreases Training Costs |
 | Military Barracks |  |  | 1.5% | 37.5% | 25 | 25 | Lowers Attack Time |
 | Forts |  |  | 1.5% | 37.5% | 25 | 25 | Increases Defensive Military Efficiency |
-| Guard Stations |  |  | 2%2% | 50%50% | 25 | 25 | Decrease Land and resource Losses when AttackedGrants protection against [Learn](../main/Attacking_&_Defending.md) |
+| Guard Stations |  |  | 2%2% | 50%50% | 25 | 25 | Decrease Land and resource Losses when AttackedGrants protection against [Learn](Attacking_&_Defending.md) |
 | Hospitals |  |  | 3%3% | 75%75% | 25 | 25 | Daily Chance of Curing [the Plague](#)Decreases Military Losses |
 | Guilds |  | 2% Wizards |  |  | 25 | 25 | Wizards Trained per day (Unaffected by BE)Guilds also increase [spell](#) duration (Unaffected by BE) |
 | Towers |  | 12 Runes |  |  | 25 | 25 | Produces 12 runes per day |
@@ -316,7 +316,7 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
 | The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • **Growth**  • [Science](../main/Science_Formulas.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](Relations.md)  • Rankings  • [Preferences](#) |
 | Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md) |
 | Rules | [Game Rules](../misc/Game_Rules.md) |

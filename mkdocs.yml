@@ -37,39 +37,39 @@ nav:
 - Home: index.md
 - Game Reference:
   - Race: main/Race.md
-  - Personality: ages/Personality.md
+  - Personality: main/Personality.md
   - Science Formulas: main/Science_Formulas.md
   - Buildings: main/Buildings.md
   - Economy: main/Economy.md
   - Honor: main/Honor.md
   - Networth: main/Networth.md
   - Province: main/Province.md
-  - Units: misc/Units.md
-  - Unique Abilities: misc/Unique_Abilities.md
-  - Food: misc/Food.md
+  - Units: main/Units.md
+  - Unique Abilities: main/Unique_Abilities.md
+  - Food: main/Food.md
   - Island: main/Island.md
-  - Utopia Time: misc/Utopia_Time.md
+  - Utopia Time: main/Utopia_Time.md
 - Guides:
-  - Getting Started with Utopia: misc/Getting_Started_with_Utopia.md
+  - Getting Started with Utopia: guide/Getting_Started_with_Utopia.md
   - Growth: guide/Growth.md
   - Military: guide/Military.md
   - Mystics: guide/Mystics.md
   - Magic Formulas: guide/Magic_Formulas.md
   - War Room: guide/War_Room.md
   - Relations: guide/Relations.md
-  - Attacking & Defending: main/Attacking_&_Defending.md
+  - Attacking & Defending: guide/Attacking_&_Defending.md
 - Player Guides:
-  - A Players Guide to Utopia: misc/A_Players_Guide_to_Utopia.md
-  - Combo Selection: misc/Combo_Selection.md
-  - Attacking & Calculating an Attack: misc/Attacking_&_Calculating_an_Attack.md
-  - Ambush: misc/Ambush.md
-  - Chaining: misc/Chaining.md
-  - Spells on Myself (SoM): misc/Spells_on_Myself_SoM.md
-  - Warleader Guide to Attrition: misc/Warleader_Guide_to_Attrition.md
-  - Ethics of Waving and War: misc/Ethics_of_Waving_and_War.md
-  - Land Whoring Tips & Tricks: misc/Land_Whoring_Tips_&_Tricks.md
-  - Leadership Logic: misc/Leadership_Logic.md
-  - Dual Monarch: misc/Dual_Monarch.md
+  - A Players Guide to Utopia: guide/A_Players_Guide_to_Utopia.md
+  - Combo Selection: guide/Combo_Selection.md
+  - Attacking & Calculating an Attack: guide/Attacking_&_Calculating_an_Attack.md
+  - Ambush: guide/Ambush.md
+  - Chaining: guide/Chaining.md
+  - Spells on Myself (SoM): guide/Spells_on_Myself_SoM.md
+  - Warleader Guide to Attrition: guide/Warleader_Guide_to_Attrition.md
+  - Ethics of Waving and War: guide/Ethics_of_Waving_and_War.md
+  - Land Whoring Tips & Tricks: guide/Land_Whoring_Tips_&_Tricks.md
+  - Leadership Logic: guide/Leadership_Logic.md
+  - Dual Monarch: guide/Dual_Monarch.md
 - Mechanics:
   - Explore: misc/Explore.md
   - Explore Pool: misc/Explore_Pool.md

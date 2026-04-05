@@ -32,4 +32,4 @@ Total Networth = (Peasants * 0.25) + (Soldiers * Soldier NW) + (Off Specs * Offs
 | Building (complete) | 60 |
 | Building (under construction) | 50 |
 
-See [Units](../misc/Units.md) for full unit descriptions and draft/training formulas.
+See [Units](Units.md) for full unit descriptions and draft/training formulas.

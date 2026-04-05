@@ -4,7 +4,7 @@ Conflict is at the heart and soul of the fine world of Utopia. While peace has i
 
 ## Military Units
 
-To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](../misc/Units.md) for more information.
+To attack other provinces you must deploy armies comprised of different kinds of military units (Horses, Prisoners, Mercenaries , Solders, Offensive Specialists, Defensive Specialists, Elites, Generals). You must have sufficient units of each type drafted and/or trained. See [Units](../main/Units.md) for more information.
 
 You can view each races unit strengths through the games Race & Personality details page.
 
@@ -43,12 +43,12 @@ About one third of the prisoners sent are lost in the fight. They are then again
 ### Specialist Credits
 
 On successful Traditional March attacks you earn credits allowing for specialist units to be trained at no gc cost. The amount of credits gained is directly related to the amount of defense you break. Defense \*.008 \* Relative Networth is the base formula.
-These will decay while out of war at a rate of 20% at the dawn of each [Utopian Month](../misc/Utopia_Time.md). Upon leaving End-of-War Ceasefire, all credits will be lost. You also have the option to not use credits when training units.
+These will decay while out of war at a rate of 20% at the dawn of each [Utopian Month](../main/Utopia_Time.md). Upon leaving End-of-War Ceasefire, all credits will be lost. You also have the option to not use credits when training units.
 
 ### Building Credits
 
 On successful Traditional March attacks you earn credits allowing for buildings to be built or razed with no gc cost. The amount of credits is tied to nw but the exact formula is currently unknown. It is estimated to have a base of approximately: acres taken \* 0.4 \* rel nw.
-These will decay at a rate of 20% at the dawn of each [Utopian Month](../misc/Utopia_Time.md) **IF** your total credits are greater than 15% of your total land (Credits > Acres \* 0.15). Upon leaving End-of-War Ceasefire, all credits will be lost. You also have the option of not using credits when building.
+These will decay at a rate of 20% at the dawn of each [Utopian Month](../main/Utopia_Time.md) **IF** your total credits are greater than 15% of your total land (Credits > Acres \* 0.15). Upon leaving End-of-War Ceasefire, all credits will be lost. You also have the option of not using credits when building.
 
 ## Your Attack Options
 
@@ -87,12 +87,12 @@ Be sure to check out the Ambush Guide if you are still unclear.
 
 ## Addition Information
 
-- [Attacking & Defending](../main/Attacking_&_Defending.md)
-- [Units](../misc/Units.md)
+- [Attacking & Defending](Attacking_&_Defending.md)
+- [Units](../main/Units.md)
 
 | **The Utopia Guide** | |
 | --- | --- |
-| Introduction | [Getting Started with Utopia](../misc/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../ages/Personality.md) |
+| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
 | The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • **Military**  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
 | Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
 | Rules | [Game Rules](../misc/Game_Rules.md) |
