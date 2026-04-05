@@ -1,6 +1,6 @@
 # Growth
 
-Your growth page lets you build up your acres with a variety of buildings. The [Build Table](Growth.md) below can help provide details on the benefits of the different buildings for your Province.
+Your growth page lets you build up your acres with a variety of buildings. The build table below can help provide details on the benefits of the different buildings for your Province.
 
 In Utopia, your **Growth** page provides information on:
 
@@ -37,13 +37,13 @@ Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes,
 | Farms |  | 70 Bushels |  |  | 25 | 25 | Produces 70 bushels per day |
 | Mills |  |  | 4%3%2% | 100%75%50% | 25 | 25 | Decreases [Build Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) Decreases [Gold Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md)Decreases [Soldier Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) |
 | Banks |  | 25gc | 1.25% | 31.25% | 25 | 25 | Produces 25gc per dayIncrease in Income |
-| Training Grounds |  |  | 1.5% | 37.5% | 25 | 25 | Increases [Offensive Military Efficiency](#) |
+| Training Grounds |  |  | 1.5% | 37.5% | 25 | 25 | Increases Offensive Military Efficiency |
 | Armouries |  |  | 2%2%1.5% | 50%50%37.5% | 25 | 25 | Decreases Draft CostsReduction of WagesDecreases Training Costs |
 | Military Barracks |  |  | 1.5% | 37.5% | 25 | 25 | Lowers Attack Time |
 | Forts |  |  | 1.5% | 37.5% | 25 | 25 | Increases Defensive Military Efficiency |
 | Guard Stations |  |  | 2%2% | 50%50% | 25 | 25 | Decrease Land and resource Losses when AttackedGrants protection against [Learn](Attacking_&_Defending.md) |
-| Hospitals |  |  | 3%3% | 75%75% | 25 | 25 | Daily Chance of Curing [the Plague](#)Decreases Military Losses |
-| Guilds |  | 2% Wizards |  |  | 25 | 25 | Wizards Trained per day (Unaffected by BE)Guilds also increase [spell](#) duration (Unaffected by BE) |
+| Hospitals |  |  | 3%3% | 75%75% | 25 | 25 | Daily Chance of Curing the PlagueDecreases Military Losses |
+| Guilds |  | 2% Wizards |  |  | 25 | 25 | Wizards Trained per day (Unaffected by BE)Guilds also increase [spell](Mystics.md) duration (Unaffected by BE) |
 | Towers |  | 12 Runes |  |  | 25 | 25 | Produces 12 runes per day |
 | Thieves Dens |  |  | 4%3% | 95%75% | 25 | 25 | Lowers losses in Thievery OperationsBonus to TPA |
 | Watch Towers |  |  | 2%3% | 50%75% | 25 | 25 | Chance of Catching Enemy ThievesReduced damage caused by Enemy Thieves |
@@ -153,9 +153,9 @@ Unlike Forts, Guard Stations will not make you less vulnerable to attacks. Never
 
 ### Hospitals
 
-Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the [Plague](#) if your province ever catches it.
+Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the Plague if your province ever catches it.
 
-- % \* 3 Daily Chance of Curing the [Plague](#)
+- % \* 3 Daily Chance of Curing the Plague
 - Decreases Military Losses by % \* 3
 
 ### Guilds

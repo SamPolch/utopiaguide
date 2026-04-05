@@ -84,8 +84,8 @@ For Attacks that target and capture Resources (Traditional March, Conquest, Plun
 
 - Resources are defined as: Land, Gold Coins, Food, Runes, Science Books
 - Land attacks (except Ambush) also reward Military Credits (target's Defense Points \*.008 \* relative NW \* Military Credits mod) and Building Credits (Acres captured \* 0.4 \* relative NW \* Building Credits mod).
-- Raze ignores all modifiers except Relations, [Multi-Attack Protection](#) "Multi-Attack Protection (MAP)") and the Attack Time Adjustment Factor.
-- Massacre ignores most Resource Gains modifiers, except RPNW, RKNW, Relations, [Multi-Attack Protection](#) "Multi-Attack Protection (MAP)") and the Attack Time Adjustment Factor; Massacre is affected by Massacre Damage mod.
+- Raze ignores all modifiers except Relations, [Multi-Attack Protection](../misc/Multi-Attack_Protection_(MAP).md) and the Attack Time Adjustment Factor.
+- Massacre ignores most Resource Gains modifiers, except RPNW, RKNW, Relations, [Multi-Attack Protection](../misc/Multi-Attack_Protection_(MAP).md) and the Attack Time Adjustment Factor; Massacre is affected by Massacre Damage mod.
 - Ambush ignores all modifiers except increased/decreased Ambush Battle Losses mod.
 
 ### Province Networth Factor

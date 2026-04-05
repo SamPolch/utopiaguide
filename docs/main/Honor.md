@@ -22,7 +22,7 @@ As Honor can be gained, it can also be lost. Because Honor is captured and not c
 
 ## Honor when province is created
 
-If a Province is [created](#) when the [age](#) begins, the Honor value is initialized to 0. Additionally, over a period of 3 days, Honor is raised 20 points per [Tick](Utopia_Time.md), resulting in a total of 1440 Honor points added.
+If a Province is created when the age begins, the Honor value is initialized to 0. Additionally, over a period of 3 days, Honor is raised 20 points per [Tick](Utopia_Time.md), resulting in a total of 1440 Honor points added.
 
 ## Honor Effects
 

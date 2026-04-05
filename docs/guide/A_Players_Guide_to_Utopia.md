@@ -78,7 +78,7 @@ For more numbers on each race and personality, see these links: [Race](../main/R
 
 Now that you know the basic function of each race and personality, begin by deciding what play style you want to play, then choose races and personalities that you believe make the best combination for your chosen play style. After that, create your province and see what kingdom you joined!
 
-For additional ideas on choosing a play style, check out this guide for more considerations: [Beginner's Guide to Choosing Race and Personalities](#).
+For additional ideas on choosing a play style, check out this guide for more considerations: [Beginner's Guide to Choosing Race and Personalities](Getting_Started_with_Utopia.md).
 
 ## Section III) My province is created, what do I do now?
 

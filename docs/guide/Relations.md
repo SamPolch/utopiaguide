@@ -8,7 +8,7 @@ There are five relation types, each of which have various benefits and penalties
 
 # Relation Types
 
-Each kingdom will have differing relations amongst one another in the world of Utopia. How these relations evolve (or fall apart) will be dependent on the history, conflict level, and diplomatic abilities of the Monarchs and their Stewards. You can see your relation with any given kingdom by viewing their respective [Kingdom](#) page. It is indicated as such:
+Each kingdom will have differing relations amongst one another in the world of Utopia. How these relations evolve (or fall apart) will be dependent on the history, conflict level, and diplomatic abilities of the Monarchs and their Stewards. You can see your relation with any given kingdom by viewing their respective kingdom page. It is indicated as such:
 
 ```
  Their Attitude Towards Us : XX
@@ -19,7 +19,7 @@ Each kingdom will have differing relations amongst one another in the world of U
 
 - No effects
 
-This is the default relation between all kingdoms from the start of the [Age](#). **Normal** relations will resume after a **War** or **Ceasefire** ends.
+This is the default relation between all kingdoms from the start of the age. **Normal** relations will resume after a **War** or **Ceasefire** ends.
 
 ## Ceasefire
 
@@ -90,7 +90,7 @@ In order to declare War, a Kingdom must:
 - be in Range (more than 85% and less than 117.64% of its Net Worth or Land)
 - be *at least* **Unfriendly** with the opposing Kingdom, **AND** that Kingdom must be **Hostile** with your Kingdom
 
-*In instances where both kingdoms are **Hostile**, the Kingdom with fewer meter points will receive the ["button"](Relations.md) and be able to declare while. When 60 points are reached by both Kingdoms, either one can declare*
+*In instances where both kingdoms are **Hostile**, the Kingdom with fewer meter points will receive the war button and be able to declare war. When 60 points are reached by both Kingdoms, either one can declare*
 
 *If 180 points are reached by both Kingdoms, War automatically starts.*
 
@@ -102,7 +102,7 @@ Honor and Land gains are higher in War than out of War.
 
 ### Immediate Effects
 
-- War overrides relations with all other kingdoms. Upon leaving War, **Normal** relations will resume. While in War, there is a decay of two hostility points per [Utopian Month](#) or 1/5th of the Meter, whichever is greater.
+- War overrides relations with all other kingdoms. Upon leaving War, **Normal** relations will resume. While in War, there is a decay of two hostility points per [Utopian Month](../main/Utopia_Time.md) or 1/5th of the Meter, whichever is greater.
 
 Benefits
 

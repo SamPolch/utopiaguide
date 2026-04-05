@@ -117,7 +117,7 @@ No Effects
 - Greatly increased Honor gains from Ops and Spells
 - A [Dragon](Dragons.md) sent in War has full health
 - Dragon Networth Range is removed when targeting a Kingdom you are at War with
-- Greatly reduced [Multi-Attack Protection](#)
+- Greatly reduced [Multi-Attack Protection](../misc/Multi-Attack_Protection_(MAP).md)
 - 80% Protection from hits and spell/op effects from Kingdoms outside the War (phasing in over 24h)
 - Decreased Attack Time (phasing in) by 15% after 12 Ticks
 
