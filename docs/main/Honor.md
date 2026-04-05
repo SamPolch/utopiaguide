@@ -65,10 +65,3 @@ One additional vote for your Kingdom's Monarchy
 ## Honor & Vacation Mode
 
 If you enter vacation mode within the first days of the game you will not gain honor while in vacation mode. In addition, once you exit vacation mode your honor will not receive hourly increases unless it is still within the first days of the age. This can leave your province far below the normal for honor points.
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](../guide/Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](Province.md)  • [World of Legends](../history/World_of_Legends.md)  • [Formulas](#) |
-| Rules | [Game Rules](../misc/Game_Rules.md) |

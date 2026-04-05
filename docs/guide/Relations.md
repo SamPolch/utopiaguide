@@ -263,10 +263,3 @@ Shortly after declaring War, a temporary Forum is created. This is known as the 
 In the War Forum Provinces from either Kingdom can interact by starting new threads or posting in existing ones.
 
 Provinces are expected to interact respectfully and obey the Code of Conduct. Any offending material can be removed by either Kingdom's Monarch or Steward.
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • **Relations**  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • [Formulas](#) |
-| Rules | [Game Rules](../misc/Game_Rules.md) |

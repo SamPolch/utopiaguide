@@ -33,10 +33,3 @@ This mistake was at Old Code, but now is absent in [New](Brian_&_Sean.md) one.
 Utopia was his next project, and was essentially a clone of Falcon's Eye with many teamwork-type enhancements taken from BRE that weren't implemented in Earth. Utopia came online in November 9, 1998 after a series of betas (referred to by players as "First Beta", "Long Beta" and "Short Beta") and was even more popular than it's predecessor. Utopia was originally created under the company Solaria Games, which had its roots as early as 1996. In 1999 Solaria Games was renamed to Echelon Entertainment, then renamed in July 2000 to Swirve.com.
 
 At July 2008 Mehul sold Swirve.com to [OMAC](Brian_&_Sean.md) under the stewardship of Brian & Sean.
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](../guide/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
-| Rules | [Game Rules](Game_Rules.md) |

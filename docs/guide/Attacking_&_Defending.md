@@ -203,10 +203,3 @@ Base Military Casualties are 6.5%-8.5% on Offense, 5%-6.5% on Defense.
 | **Spell: Wrath** | Enemy Military Casualties | +20% |
 | **Operation: Bribe Generals** | All Military Casualties | 20% chance for +15% |
 | **Emerald Dragon** | All Military Casualties | +20% |
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • [Formulas](#) |
-| Rules | [Game Rules](../misc/Game_Rules.md) |

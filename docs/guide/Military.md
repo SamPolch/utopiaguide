@@ -89,10 +89,3 @@ Be sure to check out the Ambush Guide if you are still unclear.
 
 - [Attacking & Defending](Attacking_&_Defending.md)
 - [Units](../main/Units.md)
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](../misc/Explore.md)  • [Growth](Growth.md)  • Science  • **Military**  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • Invitations  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
-| Rules | [Game Rules](../misc/Game_Rules.md) |

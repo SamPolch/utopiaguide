@@ -23,10 +23,3 @@ Invest in [science](../main/Science_Formulas.md) for steady, long-term bonuses. 
 ## Military
 
 Balance troop drafting and wages carefully to maintain a strong defense without harming your economy. Collaborate with kingdom allies to improve your military strength.
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | **Getting Started with Utopia**  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](../guide/War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  • [Stances](#)  [Mail & Forums](#)  [Politics](#)  • [Relations](../guide/Relations.md)  • [Rankings](https://utopia-game.com/shared/common/ranking_history)  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • [Formulas](#) |
-| Rules | [Game Rules](../misc/Game_Rules.md) |

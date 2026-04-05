@@ -76,17 +76,3 @@ Flat Rate Buildings = Base Effect * (Number of Buildings * (1 + Race)) * BE
 - If you have less than 100% BE, additional buildings past 50% will have no effect.
 
 ## Related Links:
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](../guide/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • [Science](../main/Science_Formulas.md)  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](MunkBot.md)  • Invitations  • [Reservations](Reservations.md)  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
-| Rules | [Game Rules](Game_Rules.md) |
-
-| **Buildings** | |
-| --- | --- |
-| Civil Buildings | [Barren Lands](../main/Buildings.md)  • [Homes](../main/Buildings.md)  • [Farms](../main/Buildings.md)  • [Mills](../main/Buildings.md)  • [Banks](../main/Buildings.md) |
-| Military Buildings | [Training Grounds](../main/Buildings.md)  • [Armouries](../main/Buildings.md)  • [Barracks](../main/Buildings.md)  • [Forts](../main/Buildings.md)  • [Castles](../main/Buildings.md)  • [Hospitals](../main/Buildings.md)  • [Stables](../main/Buildings.md)  • [Dungeons](../main/Buildings.md) |
-| Thievery and Mystic Buildings | [Guilds](../main/Buildings.md)  • [Towers](../main/Buildings.md)  • [Thieves' Dens](../main/Buildings.md)  • [Watchtowers](../main/Buildings.md) |
-| Science Buildings | [Universities](../main/Buildings.md)  • [Libraries](../main/Buildings.md) |

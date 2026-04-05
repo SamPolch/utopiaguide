@@ -313,10 +313,3 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 | Military Buildings | [Training Grounds](../main/Buildings.md)  • [Armouries](../main/Buildings.md)  • [Barracks](../main/Buildings.md)  • [Forts](../main/Buildings.md)  • [Guard Stations](../main/Buildings.md)  • [Hospitals](../main/Buildings.md)  • [Stables](../main/Buildings.md)  • [Dungeons](../main/Buildings.md) |
 | Thievery and Mystic Buildings | [Guilds](../main/Buildings.md)  • [Towers](../main/Buildings.md)  • [Thieves' Dens](../main/Buildings.md)  • [Watchtowers](../main/Buildings.md) |
 | Science Buildings | [Universities](../main/Buildings.md)  • [Libraries](../main/Buildings.md) |
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](Getting_Started_with_Utopia.md)  • [Creating a province](#)  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | [Throne](#)  • [Kingdom](#)  • [News](#) [Explore](../misc/Explore.md)  • **Growth**  • [Science](../main/Science_Formulas.md)  • [Military](Military.md)  [Mystics](Mystics.md)  • [Thievery](../misc/Thievery.md)  • [War Room](War_Room.md) • [Aid](#)  • [Dragon](../main/Dragons.md)  • [Ritual](../misc/Ritual.md)  [Mail & Forums](#)  [Politics](#)  • [Relations](Relations.md)  • Rankings  • [Preferences](#) |
-| Advanced | [MunkBot](../misc/MunkBot.md)  • [Invitations](#)  • [Reservations](../misc/Reservations.md)  • [Utopia](../misc/Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md) |
-| Rules | [Game Rules](../misc/Game_Rules.md) |

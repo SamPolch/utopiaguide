@@ -29,10 +29,3 @@ If a killed province had endured multiple attacks from within its own kingdom it
 ## Reservation Expiry
 
 Reservations typically only last for two days. After two days the reservation will be deleted from the system. It cannot be recovered. This is to avoid spaces in kingdoms being reserved but unused for long periods of time.
-
-| **The Utopia Guide** | |
-| --- | --- |
-| Introduction | [Getting Started with Utopia](../guide/Getting_Started_with_Utopia.md)  • Creating a province  • [Race](../main/Race.md) & [Personality](../main/Personality.md) |
-| The Menus | Throne  • Kingdom  • News [Explore](Explore.md)  • [Growth](../guide/Growth.md)  • Science  • [Military](../guide/Military.md)  [Mystics](../guide/Mystics.md)  • [Thievery](Thievery.md)  • [War Room](../guide/War_Room.md) • Aid  • [Dragon](../main/Dragons.md)  • [Ritual](Ritual.md)  • Stances  Mail & Forums  Politics  • [Relations](../guide/Relations.md)  • Rankings  • Preferences |
-| Advanced | [MunkBot](MunkBot.md)  • Invitations  • **Reservations**  • [Utopia](Utopia.md)  • [Province](../main/Province.md)  • [World of Legends](../history/World_of_Legends.md)  • Formulas |
-| Rules | [Game Rules](Game_Rules.md) |
