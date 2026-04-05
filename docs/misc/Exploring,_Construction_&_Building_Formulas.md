@@ -53,8 +53,8 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 ```
 
 - The "Current Available Workers" value, provided by the Internal Affairs Adviser page, already takes prisoners into account.
-- Building Efficiency affects all [Flat Rate](../main/Buildings.md) and [Percentage-Based](../main/Buildings.md) buildings.
-- Building Efficiency has **NO** effect on Capacity component of Capacity Buildings as well as [Universities](../main/Buildings.md).
+- Building Efficiency affects all [Flat Rate](../guide/Growth.md) and [Percentage-Based](../guide/Growth.md) buildings.
+- Building Efficiency has **NO** effect on Capacity component of Capacity Buildings as well as [Universities](../guide/Growth.md).
 
 - Changes in Building Efficiency take effect gradually.
 

@@ -26,7 +26,7 @@ As of age 103, the random factor has been removed. Attacks will now always succe
 
 ### War Horses
 
-War Horses are produced from [stables](../main/Buildings.md) and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers 2 additional point of offensive strength.
+War Horses are produced from [stables](Growth.md) and allow your military to fight with more power. You may include up to one horse per military unit sent in combat, and each offers 2 additional point of offensive strength.
 
 ### Mercenaries
 

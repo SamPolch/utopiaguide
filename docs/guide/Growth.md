@@ -28,10 +28,10 @@ The **Growth** page also gives you the option to:
 
 | **Buildings** | |
 | --- | --- |
-| Civil Buildings | [Barren Lands](../main/Buildings.md)  • [Homes](../main/Buildings.md)  • [Farms](../main/Buildings.md)  • [Mills](../main/Buildings.md)  • [Banks](../main/Buildings.md) |
-| Military Buildings | [Training Grounds](../main/Buildings.md)  • [Armouries](../main/Buildings.md)  • [Barracks](../main/Buildings.md)  • [Forts](../main/Buildings.md)  • [Guard Stations](../main/Buildings.md)  • [Hospitals](../main/Buildings.md)  • [Stables](../main/Buildings.md)  • [Dungeons](../main/Buildings.md) |
-| Thievery and Mystic Buildings | [Guilds](../main/Buildings.md)  • [Towers](../main/Buildings.md)  • [Thieves' Dens](../main/Buildings.md)  • [Watchtowers](../main/Buildings.md) |
-| Science Buildings | [Universities](../main/Buildings.md)  • [Libraries](../main/Buildings.md) |
+| Civil Buildings | [Barren Lands](Growth.md)  • [Homes](Growth.md)  • [Farms](Growth.md)  • [Mills](Growth.md)  • [Banks](Growth.md) |
+| Military Buildings | [Training Grounds](Growth.md)  • [Armouries](Growth.md)  • [Barracks](Growth.md)  • [Forts](Growth.md)  • [Guard Stations](Growth.md)  • [Hospitals](Growth.md)  • [Stables](Growth.md)  • [Dungeons](Growth.md) |
+| Thievery and Mystic Buildings | [Guilds](Growth.md)  • [Towers](Growth.md)  • [Thieves' Dens](Growth.md)  • [Watchtowers](Growth.md) |
+| Science Buildings | [Universities](Growth.md)  • [Libraries](Growth.md) |
 
 ## Build Table
 
@@ -285,7 +285,7 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 ```
 
 - The "Current Available Workers" value, provided by the Internal Affairs Adviser page, already takes prisoners into account.
-- Building Efficiency affects **ALL** [Flat Rate](../main/Buildings.md) and [Percentage-Based](../main/Buildings.md) buildings.
+- Building Efficiency affects **ALL** [Flat Rate](Growth.md) and [Percentage-Based](Growth.md) buildings.
 - Building Efficiency has **NO** effect on Capacity component of Capacity Buildings.
 
 - Changes in Building Efficiency take effect gradually.
@@ -309,7 +309,7 @@ Flat Rate Buildings = Base Effect * Number of Buildings * BE
 
 | **Buildings** | |
 | --- | --- |
-| Civil Buildings | [Barren Lands](../main/Buildings.md)  • [Homes](../main/Buildings.md)  • [Farms](../main/Buildings.md)  • [Mills](../main/Buildings.md)  • [Banks](../main/Buildings.md) |
-| Military Buildings | [Training Grounds](../main/Buildings.md)  • [Armouries](../main/Buildings.md)  • [Barracks](../main/Buildings.md)  • [Forts](../main/Buildings.md)  • [Guard Stations](../main/Buildings.md)  • [Hospitals](../main/Buildings.md)  • [Stables](../main/Buildings.md)  • [Dungeons](../main/Buildings.md) |
-| Thievery and Mystic Buildings | [Guilds](../main/Buildings.md)  • [Towers](../main/Buildings.md)  • [Thieves' Dens](../main/Buildings.md)  • [Watchtowers](../main/Buildings.md) |
-| Science Buildings | [Universities](../main/Buildings.md)  • [Libraries](../main/Buildings.md) |
+| Civil Buildings | [Barren Lands](Growth.md)  • [Homes](Growth.md)  • [Farms](Growth.md)  • [Mills](Growth.md)  • [Banks](Growth.md) |
+| Military Buildings | [Training Grounds](Growth.md)  • [Armouries](Growth.md)  • [Barracks](Growth.md)  • [Forts](Growth.md)  • [Guard Stations](Growth.md)  • [Hospitals](Growth.md)  • [Stables](Growth.md)  • [Dungeons](Growth.md) |
+| Thievery and Mystic Buildings | [Guilds](Growth.md)  • [Towers](Growth.md)  • [Thieves' Dens](Growth.md)  • [Watchtowers](Growth.md) |
+| Science Buildings | [Universities](Growth.md)  • [Libraries](Growth.md) |
