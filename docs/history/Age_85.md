@@ -80,171 +80,361 @@ Stats listed here considered 'base effectiveness'
 
 ### Avian
 
+**Bonuses:**
+
 - -15% Attack Time
 - +40% Birth Rate
 - -25% Military Train Time
-- **Spells:** Greater Protection, Fanaticism
+
+**Penalties:**
+
 - Can't use Stables
+
+**Spell Book:**
+
+- Greater Protection
+- Fanaticism
+
+**Units:**
+
 - Elite: 16/6, 975gc, 8.5 NW
 
 ### Dark Elf
 
+**Bonuses:**
+
 - +2 Offensive Specialist Strength
 - +50% Runes Refunded on Spell Success
 - +20% Sabotage Damage
-- **Spells:** Pitfalls, Reflect Magic
+
+**Penalties:**
+
 - -10 Building Efficiency
+
+**Spell Book:**
+
+- Pitfalls
+- Reflect Magic
+
+**Units:**
+
 - Elite: 9/12, 1100gc, 8.75 NW
 
 ### Dwarf
 
+**Bonuses:**
+
 - +30% Building Efficiency
 - -75% Construction Cost
 - +5% Military Efficiency
-- **Spells:** Gluttony
+
+**Penalties:**
+
 - +100% Food consumption
+
+**Spell Book:**
+
+- Gluttony
+
+**Units:**
+
 - Elite: 12/8, 1050gc, 8.0 NW
 
 ### Elf
 
+**Bonuses:**
+
 - +2 Defensive Specialist Strength
 - +20% Combat Instant Spell Damage
 - -1 Mana Self Spell Cost
-- **Spells:** Mystic Aura, Chastity
+
+**Penalties:**
+
 - +20% Explore Costs
 - Can't use Dungeons
+
+**Spell Book:**
+
+- Mystic Aura
+- Chastity
+
+**Units:**
+
 - Elite: 13/7, 1000gc, 7.75 NW
 
 ### Faery
+
+**Bonuses:**
 
 - +25% Magic Effectiveness (WPA)
 - +50% Self-Spell Duration
 - +20% Rune Production
 - Access to All Racial Spells
+
+**Penalties:**
+
 - -10% Maximum Population
+
+**Units:**
+
 - Elite: 6/13, 1200gc, 8.0 NW
 
 ### Halfling
 
+**Bonuses:**
+
 - Homes hold 20 population
 - +25% Thievery Effectiveness (TPA)
 - -20% Military Training Cost
-- **Spells:** Town Watch, Vermin
+
+**Spell Book:**
+
+- Town Watch
+- Vermin
+
+**Units:**
+
 - Elite: 10/8, 850gc, 7.25 NW
 
 ### Human
 
+**Bonuses:**
+
 - +25% Income
 - +20% Science Effectiveness
 - +2 War Horse Strength
-- **Spells:** Quick Feet, Fountain of Knowledge
+
+**Penalties:**
+
 - -20% Magic Effectiveness (WPA)
 - +25% Rune Cost
+
+**Spell Book:**
+
+- Quick Feet
+- Fountain of Knowledge
+
+**Units:**
+
 - Elite: 8/12, 1250gc, 8.25 NW
 
 ### Orc
 
+**Bonuses:**
+
 - +20% Combat Gains
 - +2/+2 Soldier Strength
 - -50% Draft Costs
-- **Spells:** Aggression, Bloodlust
+
+**Penalties:**
+
 - +15% Damage taken from Instant Spells & Sabotage Operations
 - -50% Honor Bonus
+
+**Spell Book:**
+
+- Aggression
+- Bloodlust
+
+**Units:**
+
 - Elite: 14/6, 1000gc, 7.75 NW
 
 ### Undead
+
+**Bonuses:**
 
 - +10% Population
 - -50% Offensive Military Casualties
 - No Food required
 - Spreads and is immune to the Plague
 - Converts some Specialists to Elites on Successful Traditional Marches
-- **Spells:** Animate Dead, Chastity
+
+**Penalties:**
+
 - -35% Science Effectiveness
 - Cannot train Elites
 - No Access to Hospitals
+
+**Spell Book:**
+
+- Animate Dead
+- Chastity
+
+**Units:**
+
 - Elite: 16/7, -gc, 9.0 NW
 
 ## Personalities
 
 ### Artisan
 
+**Bonuses:**
+
 - +25% Economy book production
 - -50% Build Time
 - +30% Flat Rate Building Production (Farms/Towers/Banks/Stables)
 - +50% Building Credits gained in Combat
 - Immune to all Income Penalties
-- Access to Ghost Workers
+
+**Spell Book:**
+
+- Ghost Workers
+
+**Starting Bonuses:**
+
 - Starts with +600 soldiers and +600 specialist credits and +200 building credits
 
 ### Cleric
 
+**Bonuses:**
+
 - +25% Economy book production
 - -30% Military Casualties in Combat
 - Immune to The Plague
+
+**Spell Book:**
+
+- Greater Protection
+- Fanaticism
+- Illuminate Shadows
+- Scientific Insight
+- Wrathful Smite
+
+**Special Access:**
+
 - Can Cast Support Spells on Kingdom Members
-- Access to Greater Protection, Fanaticism, Illuminate Shadows, Scientific Insight and Wrathful Smite
+
+**Starting Bonuses:**
+
 - Starts with +600 soldiers, +600 specialist credits and +200 wizards
 
 ### Heretic
+
+**Bonuses:**
 
 - +25% Arcane book production
 - +100% Wizard Production
 - -75% Thieves lost on failed Ops
 - No Wizards lost on failed spell casts
-- Access to Blizzard, Fool's Gold, Gluttony, Nightmare and Revelation
+
+**Spell Book:**
+
+- Blizzard
+- Fool's Gold
+- Gluttony
+- Nightmare
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +400 wizards and +400 thieves
 
 ### Mystic
 
+**Bonuses:**
+
 - +25% Arcane book production
 - +150% Guilds Effectiveness
 - +1 Mana Recovery per Tick
-- Access to Expose Thieves, Mage's Fury, Meteor Showers and Revelation
+
+**Spell Book:**
+
+- Expose Thieves
+- Mage's Fury
+- Meteor Showers
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +800 wizards
 
 ### Rogue
 
+**Bonuses:**
+
 - +25% Arcane book production
 - +100% Thieves' Dens Effectiveness
 - +1 Stealth Recovery per Tick
+
+**Spell Book:**
+
+- Expose Thieves
+- Invisibility
+- Revelation
+
+**Operation Access:**
+
 - Access to all thievery operations, including 4 unique to Rogues: Assassinate Wizards, Greater Arson, Propaganda and Steal War Horses
-- Access to Expose Thieves, Invisibility and Revelation
+
+**Starting Bonuses:**
+
 - Starts with +800 thieves
 
 ### Sage
+
+**Bonuses:**
 
 - +25% Economy book production
 - +25% Science Book Production
 - -50% Book Losses on Learn Attacks
 - +25% Land Effect from Laboratories
-- Access to Amnesia
+
+**Spell Book:**
+
+- Amnesia
+
+**Starting Bonuses:**
+
 - Starts with 5000 science books in each category
 
 ### Tactician
+
+**Bonuses:**
 
 - +25% Warfare book production
 - -15% Attack Time
 - +50% Ambush Protection
 - Accurate Espionage
-- Access to Clear Sight, Sacred Mist
+
+**Spell Book:**
+
+- Clear Sight
+- Sacred Mist
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### War Hero
+
+**Bonuses:**
 
 - +25% Warfare book production
 - +100% Honor Bonuses
 - +1 Strength to Offensive Specialists
 - Immune to Dragons
-- Access to Paladin's Inspiration and War Spoils
+
+**Spell Book:**
+
+- Paladin's Inspiration
+- War Spoils
+
+**Starting Bonuses:**
+
 - Starts with 800 elites
 
 ### Warrior
+
+**Bonuses:**
 
 - +25% Warfare book production
 - +10% Offensive Military Efficiency
 - +15% Enemy Military Casualties in Combat
 - -75% Mercenary Costs
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ## Rituals

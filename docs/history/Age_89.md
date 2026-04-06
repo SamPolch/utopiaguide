@@ -12,10 +12,21 @@ In progress.
 
 ### Avian
 
+**Bonuses:**
+
 - -15% Attack Time
 - -25% Train Time
-- **Spells:** Town Watch
+
+**Penalties:**
+
 - No Access to Stables and War Horses
+
+**Spell Book:**
+
+- Town Watch
+
+**Units:**
+
 - Soldier: 3/3, 1.5nw
 - Offensive Specialist: 12/0, 4.8nw
 - Defensive Specialist: 0/11, 5.5nw
@@ -25,11 +36,24 @@ In progress.
 
 ### Dark Elf
 
+**Bonuses:**
+
 - -100% Offensive Spell Rune Cost
 - -75% Self Spell Rune Cost (excluding Ritual)
 - Wizards do not die on Failed Spell Casts
-- **Spells:** Bloodlust, Mage's Fury, Reflect Magic
+
+**Penalties:**
+
 - -5% Building Efficiency
+
+**Spell Book:**
+
+- Bloodlust
+- Mage's Fury
+- Reflect Magic
+
+**Units:**
+
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw
 - Defensive Specialist: 0/10, 5.0nw
@@ -39,10 +63,21 @@ In progress.
 
 ### Dwarf
 
+**Bonuses:**
+
 - +25% Building Efficiency
 - -50% Building Construction and Raze Cost
-- **Spells:** Mist
+
+**Penalties:**
+
 - -20% Birth Rate
+
+**Spell Book:**
+
+- Mist
+
+**Units:**
+
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw
 - Defensive Specialist: 0/10, 5.0nw
@@ -52,11 +87,25 @@ In progress.
 
 ### Elf
 
+**Bonuses:**
+
 - +25% Magic Effectiveness (WPA)
 - +100% Rune Production
 - -1 Self Spell Mana Cost
-- **Spells:** Magic Ward, Mystic Aura, Pitfalls, Sloth
+
+**Penalties:**
+
 - +20% Military Wages
+
+**Spell Book:**
+
+- Magic Ward
+- Mystic Aura
+- Pitfalls
+- Sloth
+
+**Units:**
+
 - Soldier: 2/3, 1.25nw
 - Offensive Specialist: 10/0, 4.0nw
 - Defensive Specialist: 0/12, 6.0nw
@@ -66,9 +115,17 @@ In progress.
 
 ### Faery
 
+**Bonuses:**
+
 - +30% Thievery Effectiveness (TPA)
 - -30% Defensive Military Casualties
+
+**Penalties:**
+
 - -10% Population
+
+**Units:**
+
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw
 - Defensive Specialist: 0/10, 5.0nw
@@ -78,10 +135,22 @@ In progress.
 
 ### Gnome
 
+**Bonuses:**
+
 - +15% Population
 - +40% Birth Rate
+
+**Penalties:**
+
 - -50% Food Consumption
-- **Spells:** Chastity, Gluttony
+
+**Spell Book:**
+
+- Chastity
+- Gluttony
+
+**Units:**
+
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 8/0, 3.2nw
 - Defensive Specialist: 0/10, 5.0nw
@@ -91,10 +160,23 @@ In progress.
 
 ### Human
 
+**Bonuses:**
+
 - +25% Income
 - +30% Credits Gained in Combat
-- **Spells:** Fountain of Knowledge, Quick Feet, Scientific Insights
+
+**Penalties:**
+
 - +20% Spell Rune Cost
+
+**Spell Book:**
+
+- Fountain of Knowledge
+- Quick Feet
+- Scientific Insights
+
+**Units:**
+
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw
 - Defensive Specialist: 0/10, 5.0nw
@@ -104,11 +186,22 @@ In progress.
 
 ### Orc
 
+**Bonuses:**
+
 - +15% Enemy Military Casualties
 - +10% Dragon Slaying Strength
-- **Spells:** Aggression
+
+**Penalties:**
+
 - +15% Damage Taken from Instant Spells
 - +15% Damage Taken from Sabotage Operations
+
+**Spell Book:**
+
+- Aggression
+
+**Units:**
+
 - Soldier: 3/2, 1.25nw
 - Offensive Specialist: 10/0, 4.0nw
 - Defensive Specialist: 0/10, 5.0nw
@@ -118,14 +211,25 @@ In progress.
 
 ### Undead
 
+**Bonuses:**
+
 - -30% Offensive Military Casualties
 - 50% of Military Casualties are Revived as Soldiers
 - Prisoners Covert to Elites over time (3% per Tick)
 - Spreads and is Immune to the Plague
 - No Food Needed
-- **Spells:** Ghost Workers
+
+**Penalties:**
+
 - No Access to Homes
 - No Access to Hospitals
+
+**Spell Book:**
+
+- Ghost Workers
+
+**Units:**
+
 - Soldier: 1/1, 0.5nw
 - Offensive Specialist: 11/0, 4.4nw
 - Defensive Specialist: 0/9, 4.5nw
@@ -137,80 +241,179 @@ In progress.
 
 ### The Cleric
 
+**Bonuses:**
+
 - -30% Military Casualties
 - Immune to the Plague
-- Can Cast Support Spells on Kingdom Members
-- Access to Divine Shield, Fanaticism, Greater Protection, Illuminate Shadows and Wrathful Smite
 - +25% Economy Book Production
+
+**Spell Book:**
+
+- Divine Shield
+- Fanaticism
+- Greater Protection
+- Illuminate Shadows
+- Wrathful Smite
+
+**Special Access:**
+
+- Can Cast Support Spells on Kingdom Members
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +1 Offensive Strength and +1 Defensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### The Heretic
+
+**Bonuses:**
 
 - +75% Wizard Production
 - -75% Thieves Lost on Operations
 - +20% Instant Spell Damage
 - +20% Sabotage Operation Damage
-- Access to Amnesia, Fool's Gold, Nightmare and Revelation
 - +25% Arcane Arts Science Book Production
+
+**Spell Book:**
+
+- Amnesia
+- Fool's Gold
+- Nightmare
+- Revelation
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +2 Defensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +400 wizards and +400 thieves
 
 ### The Mystic
+
+**Bonuses:**
 
 - +100% Guilds Effectiveness
 - +1 Mana Recovery per Tick
 - +50% Self Spell Duration
 - +25% Arcane Science Book Production
-- Access to Blizzard, Meteor Showers and Revelation
+
+**Spell Book:**
+
+- Blizzard
+- Meteor Showers
+- Revelation
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +2 Defensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +800 Wizards
 
 ### The Raider
 
+**Bonuses:**
+
 - +40% Plunder Gains
 - Each Acre can house 6 War Horses and 2 Prisoners
 - Can use Specialist Credits to Train Thieves
-- Access to Steal War Horses
 - +25% Economy Science Book Production
+
+**Operation Access:**
+
+- Steal War Horses
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +1 Offensive Strength and +1 Defensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +600 soldiers, +600 specialist credits and +200 thieves
 
 ### The Rogue
 
+**Bonuses:**
+
 - +100% Thieves' Dens Effectiveness
 - +1 Stealth Recovery per Tick
 - -30% Thief Cost
-- Access to All Thievery Operations
-- Access to Invisibility and Revelation
 - +25% Arcane Arts Science Book Production
+
+**Spell Book:**
+
+- Invisibility
+- Revelation
+
+**Operation Access:**
+
+- Access to All Thievery Operations
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +2 Defensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +800 thieves
 
 ### The Tactician
 
+**Bonuses:**
+
 - -15% Attack Time
 - +50% Ambush Protection
 - Accurate Espionage
-- Access to Clear Sight and War Spoils
 - +25% Military Science Book Production
+
+**Spell Book:**
+
+- Clear Sight
+- War Spoils
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +2 Offensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### The War Hero
+
+**Bonuses:**
 
 - +10% Combat Gains
 - +50% Elite Conversions in Combat
 - -50% Honor Loss in Combat
 - +25% Military Science Book Production
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +2 Offensive Strength and +1 Defensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +800 Soldiers and +800 Specialist Credits
 
 ### The Warrior
+
+**Bonuses:**
 
 - +15% Offensive Military Efficiency
 - +2 Prisoner and Mercenary Strength
 - -75% Mercenary Cost
 - +25% Military Science Book Production
+
+**Elite Unit Bonus:**
+
 - Elite unit gains +2 Offensive Strength
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits

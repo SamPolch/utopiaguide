@@ -93,160 +93,335 @@ Stats listed here considered 'base effectiveness'
 
 ### Avian
 
+**Bonuses:**
+
 - -15% Attack Time
 - -20% Military Train Time
 - +40% Birth Rate
-- **Spells:** Fanaticism, Town Watch
+
+**Penalties:**
+
 - -5% Building Efficiency
 - Cannot Use War Horses/Stables
+
+**Spell Book:**
+
+- Fanaticism
+- Town Watch
+
+**Units:**
+
 - Elite: 15/6, 875gc, 8.0 NW
 
 ### Dwarf
+
+**Bonuses:**
 
 - +25% Building Efficiency
 - -50% Construction Cost
 - +1 Offensive Specialist Strength
 - +1 Defensive Specialist Strength
-- **Spells:** Gluttony, Mystic Aura
+
+**Penalties:**
+
 - +100% Food consumption
 - +20% Military Wages
+
+**Spell Book:**
+
+- Gluttony
+- Mystic Aura
+
+**Units:**
+
 - Elite: 13/8, 950gc, 8.25 NW
 
 ### Elf
 
+**Bonuses:**
+
 - +1 Mana Recovery per Tick
 - +2 Defensive Specialist Strength
+
+**Spell Book:**
+
+- Chastity
+- Inspire Army
+- Mystic Aura
+
+**Special Access:**
+
 - Can Cast Support Spells on Kingdom Members
-- **Spells:** Chastity, Inspire Army, Mystic Aura
+
+**Units:**
+
 - Elite: 12/8, 850gc, 8.0 NW
 
 ### Faery
 
+**Bonuses:**
+
 - +30% Magic Effectiveness (WPA)
 - +30% Self Spell Duration
 - Access to All Racial Spells
+
+**Penalties:**
+
 - -1 General
 - -10% Maximum Population
+
+**Units:**
+
 - Elite: 6/13, 1100gc, 8.0 NW
 
 ### Halfling
+
+**Bonuses:**
 
 - +30% Thievery Effectiveness (TPA)
 - Can use Specialist credits to train Thieves
 - Homes increase maximum Population by 20
 - -20% Military Train Costs
-- **Spells:** Town Watch, Vermin
+
+**Penalties:**
+
 - -10% Combat Gains
+
+**Spell Book:**
+
+- Town Watch
+- Vermin
+
+**Units:**
+
 - Elite: 10/10, 875gc, 8.0 NW
 
 ### Human
 
+**Bonuses:**
+
 - +20% Income
 - +20% Science Effectiveness
 - +2 Offensive Specialist Strength
-- **Spells:** Fountain of Knowledge, Quick Feet
+
+**Penalties:**
+
 - -1 Mana Recovery per Tick
 - +20% Spell Rune Cost
+
+**Spell Book:**
+
+- Fountain of Knowledge
+- Quick Feet
+
+**Units:**
+
 - Elite: 8/12, 1100gc, 8.25 NW
 
 ### Orc
 
+**Bonuses:**
+
 - +20% Combat Gains
 - +2/+2 Soldier Strength
 - -50% Draft Costs
-- **Spells:** Aggression, Bloodlust
+
+**Penalties:**
+
 - +15% Damage taken from Instant Spells & Sabotage Operations
 - -50% Building Credits gained in Combat
 - -50% Bonuses from Honor
+
+**Spell Book:**
+
+- Aggression
+- Bloodlust
+
+**Units:**
+
 - Elite: 14/6, 975gc, 7.75 NW
 
 ### Undead
+
+**Bonuses:**
 
 - +10% Population
 - No food required
 - Spreads and is Immune to the Plague
 - Converts some Specialists to Elites on successful Traditional Marches
 - Prisoners Convert to Elites over time
-- **Spells:** Animate Dead, Chastity
+
+**Penalties:**
+
 - -35% Science Effectiveness
 - Cannot train Elites
 - No Access to Sabotage Thievery Options
+
+**Spell Book:**
+
+- Animate Dead
+- Chastity
+
+**Units:**
+
 - Elite: 16/4, -gc, 7.5 NW
 
 ## Personalities
 
 ### Artisan
 
+**Bonuses:**
+
 - Immune to all Income Penalties
 - -50% Build Time
 - +25% Flat Rate Building Production (Farms/Towers/Banks/Stables)
 - +25% Tools Science Effectiveness
 - +30% Building Credits gained in Combat
-- Access to Ghost Workers
+
+**Spell Book:**
+
+- Ghost Workers
+
+**Starting Bonuses:**
+
 - Starts with +600 soldiers and +600 specialist credits and +200 building credits
 
 ### Cleric
 
+**Bonuses:**
+
 - -30% Military Casualties in Combat
-- Can Cast Support Spells on Kingdom Members
 - Immune to The Plague
-- Access to Animate Dead, Greater Protection, Illuminate Shadows, Inspire Army, Scientific Insight and Wrathful Smite
+
+**Spell Book:**
+
+- Animate Dead
+- Greater Protection
+- Illuminate Shadows
+- Inspire Army
+- Scientific Insight
+- Wrathful Smite
+
+**Special Access:**
+
+- Can Cast Support Spells on Kingdom Members
+
+**Starting Bonuses:**
+
 - Starts with +600 soldiers, +600 specialist credits and +200 wizards
 
 ### Heretic
+
+**Bonuses:**
 
 - +100% Guilds Effectiveness
 - -75% Thieves lost on Failed Thievery Operations
 - +30% Channeling Science Effectiveness
 - +30% Crime Science Effectiveness
 - +30% Cunning Science Effectiveness
-- Access to Blizzard, Fool's Gold, Nightmare, and Revelation
+
+**Spell Book:**
+
+- Blizzard
+- Fool's Gold
+- Nightmare
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +400 wizards and +400 thieves
 
 ### Mystic
+
+**Bonuses:**
 
 - +150% Guilds Effectiveness
 - +50% Channeling Science Effectiveness
 - +15% Instant Spell Damage
 - +1 Mana Recovery per Tick
-- Access to Expose Thieves, Mage's Fury, Meteor Showers, and Revelation
+
+**Spell Book:**
+
+- Expose Thieves
+- Mage's Fury
+- Meteor Showers
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +800 wizards
 
 ### Rogue
+
+**Bonuses:**
 
 - +75% Thieves' Dens Effectiveness
 - +50% Crime Science Effectiveness
 - +1 Stealth Recovery per Tick
 - -30% Thief Cost
+
+**Spell Book:**
+
+- Expose Thieves
+- Invisibility
+- Revelation
+
+**Operation Access:**
+
 - Access to all Thievery Operations
-- Access to Expose Thieves, Invisibility, and Revelation
+
+**Starting Bonuses:**
+
 - Starts with +800 thieves
 
 ### Tactician
+
+**Bonuses:**
 
 - -15% Attack Time
 - +30% Specialist Credits gained in Combat
 - +33% Ambush Protection
 - Accurate Espionage
-- Access to Clear Sight, Pitfalls
+
+**Spell Book:**
+
+- Clear Sight
+- Pitfalls
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### War Hero
+
+**Bonuses:**
 
 - +100% Honor Bonuses
 - +5% Military Efficiency in War
 - +20% Draft Speed
 - Immune to Dragons
 - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md)
-- Access to Inspire Army, War Spoils
+
+**Spell Book:**
+
+- Inspire Army
+- War Spoils
+
+**Starting Bonuses:**
+
 - Starts with 800 elites
 
 ### Warrior
+
+**Bonuses:**
 
 - +10% Offensive Military Efficiency
 - +15% Enemy Military Casualties in Combat
 - +2 Mercenary and Prisoner Strength
 - -75% Mercenary Costs
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ## Rituals
