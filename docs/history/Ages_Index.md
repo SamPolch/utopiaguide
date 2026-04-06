@@ -107,12 +107,12 @@ A complete list of all Utopia ages on the World of Legends server.
 | 89 | Reformation | [Age 89](Age_89.md) |
 | **2021–2022** | | |
 | 90 | Age of Exile | [Age 90](Age_90.md) |
-| 91 | Age of Remembrance | Age 91 |
+| 91 | Age of Remembrance | [Age 91](Age_91.md) |
 | 92 | Age of Ancestry | [Age 92](Age_92.md) |
 | 93 | Occult Ordination | [Age 93](Age_93.md) |
 | 94 | Ascent | [Age 94](Age_94.md) |
-| 95 | Age of the Omen | Age 95 |
-| 96 | The Eternal Rift | Age 96 |
+| 95 | Age of the Omen | [Age 95](Age_95.md) |
+| 96 | The Eternal Rift | [Age 96](Age_96.md) |
 | 97 | Dominance | [Age 97](Age_97.md) |
 | 98 | Keen Transformation | [Age 98](Age_98.md) |
 | **2023–2024** | | |
@@ -123,5 +123,13 @@ A complete list of all Utopia ages on the World of Legends server.
 | 103 | Unbound Dominion | [Age 103](Age_103.md) |
 | 104 | Renascence | [Age 104](Age_104.md) |
 | 105 | Devout Fervor | [Age 105](Age_105.md) |
+| 106 | Age 106 | [Age 106](Age_106.md) |
+| 107 | Age 107 | [Age 107](Age_107.md) |
+| 108 | Age 108 | [Age 108](Age_108.md) |
 | **2025–present** | | |
+| 109 | Age of Ember and Frost | [Age 109](Age_109.md) |
+| 110 | Age of Ash and Ice | [Age 110](Age_110.md) |
+| 111 | Age of Champions | [Age 111](Age_111.md) |
+| 112 | Age of First Strike | [Age 112](Age_112.md) |
+| 113 | Age of Merry Mayhems | [Age 113](Age_113.md) |
 | 114 | The Age of Convergence | [Age 114](Age_114.md) |
