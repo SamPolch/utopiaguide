@@ -2,9 +2,9 @@
 
 **Forum Source:** [Age 91 Final Changes](https://forums.utopia-game.com/showthread.php?640136-Age-91-FINAL-Changes)
 
-## Archived Forum Post
-
-Age 91 Final Changes are here!
+**WoL Age 91 Open:** Saturday April 10, 2021 @ 13:00 GMT
+**WoL Age 91 Start:** Monday April 12, 2021 @ 18:00 GMT
+**WoL Age 91 End:** Saturday June 19, 2021 @ 00:00 GMT
 
 We are planning some major race/personality changes for Age 92 so enjoy these balanced stats while you can
 
@@ -14,7 +14,7 @@ Please let us know if you encounter any issues so they can be addressed.
 
 Thank you to everyone who provided feedback and helped shape these changes. We hope you enjoy the age!
 
-Oh, by the way, Age 91 will see a new list of possible scientist names which will increase each age with input from each Kingdom crown winner. The Monarch of each Kingdom in good standing that has attained the #1 spot in a ranking (Land/Networth/Honor/War Wins) will be able to provide a name of their choice to the list.  A Kingdom that attains the #1 spot in multiple rankings will have a choice for each #1 rank they hold.  Congratulations to the Kingdoms of Age 90 that are the first of many to nominate additions to the new scientist list!
+Oh, by the way, Age 91 will see a new list of possible scientist names which will increase each age with input from each Kingdom crown winner. The Monarch of each Kingdom in good standing that has attained the #1 spot in a ranking (Land/Networth/Honor/War Wins) will be able to provide a name of their choice to the list. A Kingdom that attains the #1 spot in multiple rankings will have a choice for each #1 rank they hold. Congratulations to the Kingdoms of Age 90 that are the first of many to nominate additions to the new scientist list!
 
 Age 90 End Schedule
 
@@ -26,59 +26,53 @@ Age 91 Final Changes: April 10, 2021
 
 Age 90 End: Saturday April 10, 2021 @ 00:00 GMT
 
-WoL Age 91 Open: Saturday April 10, 2021 @ 13:00 GMT
-
-WoL Age 91 Start: Monday April 12, 2021 @ 18:00 GMT
-
-WoL Age 91 End: Saturday June 19, 2021 @ 00:00 GMT
-
 Age 91 Final Changes:
 
 Mechanics
 
-Exploration & Buildings
+## Exploration & Buildings
 
--  Universities Scientist Generation rate base effect lowered to 3% (75% max)
+- Universities Scientist Generation rate base effect lowered to 3% (75% max)
 
-Science
+## Science
 
--  New Science Type under Military Category: Resilience - lowers all Military Casualties (scaling as Siege)
+- New Science Type under Military Category: Resilience - lowers all Military Casualties (scaling as Siege)
 
--  Starting number of Scientists adjusted for late start provinces
+- Starting number of Scientists adjusted for late start provinces
 
-Military, Attacking & Defending
+## Military, Attacking & Defending
 
--  Specialist Unit cost reduced to 300gc
+- Specialist Unit cost reduced to 300gc
 
--  Being unable to pay full Military Wages will adjust down Military Efficiency at a faster rate
+- Being unable to pay full Military Wages will adjust down Military Efficiency at a faster rate
 
--  Relative-Kingdom Networth factor (RKNW) removed
+- Relative-Kingdom Networth factor (RKNW) removed
 
-Relations
+## Relations
 
--  Riots removed upon entering End of War Ceasefire (EoWCF)
+- Riots removed upon entering End of War Ceasefire (EoWCF)
 
--  All troops currently away on attacks against the War opponent return home immediately upon entering EoWCF (Generals are still unavailable for the Attack duration)
+- All troops currently away on attacks against the War opponent return home immediately upon entering EoWCF (Generals are still unavailable for the Attack duration)
 
--  EoWCF maximum duration reduced to 72 ticks
+- EoWCF maximum duration reduced to 72 ticks
 
--  Explore time up to Median reduced by 50% during EoWCF
+- Explore time up to Median reduced by 50% during EoWCF
 
-Spells
+## Spells
 
--  Gluttony - availability changed to All
+- Gluttony - availability changed to All
 
--  Guile - effect increased to 20%
+- Guile - effect increased to 20%
 
--  Quick Feet - type changed to Duration Spell (extremely short), effect increased to 15%
+- Quick Feet - type changed to Duration Spell (extremely short), effect increased to 15%
 
--  Vermin - effect increased to 50%
+- Vermin - effect increased to 50%
 
-Dragons
+## Dragons
 
--  Only Monarchs and Stewards may launch a dragon
+- Only Monarchs and Stewards may launch a dragon
 
-Miscellaneous
+## Miscellaneous
 
 - Draft calculator will show soldiers expected to be drafted for both aggressive and emergency without needing to change your actual draft rate
 
@@ -86,827 +80,717 @@ Miscellaneous
 
 - The build tool will show up on the growth RAZE page for convenience
 
--
+- 
 
 Bug fixes
 
--  Crystal Ball will be available thru Non-Aggression-Pact Relations
+- Crystal Ball will be available thru Non-Aggression-Pact Relations
 
+## Races
 
+### Avian
 
-Races
+#### Bonuses
 
-Avian
+- -15% Attack Time
 
+- +40% Birth Rate
 
+#### Penalties
 
-Bonuses
+- -10% Building Efficiency
 
--15% Attack Time
+- No Access to Stables and War Horses
 
-+40% Birth Rate
+- Spellbook: Clear Sight
 
+- Soldier - 1/1, 1.0nw
 
+- Offensive Specialist - 5/0, 4.0nw
 
-Penalties
+- Defensive Specialist - 0/5, 5.0nw
 
--10% Building Efficiency
+- Elite Unit - 8/3, 1000gc, 8.5nw
 
-No Access to Stables and War Horses
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
+- War Horse - n/a, 0.0nw
 
+#### Age 90
 
-Spellbook: Clear Sight
+#### Bonuses
 
-Soldier - 1/1, 1.0nw
+- -15% Attack Time
 
-Offensive Specialist - 5/0, 4.0nw
+- +40% Birth Rate
 
-Defensive Specialist - 0/5, 5.0nw
+#### Penalties
 
-Elite Unit - 8/3, 1000gc, 8.5nw
+- +15% Military Casualties
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- No Access to Stables and War Horses
 
-War Horse - n/a, 0.0nw
+- Spellbook: Clear Sight
 
-Age 90
+- Soldier - 1/1, 1.0nw
 
-Bonuses
+- Offensive Specialist - 5/0, 4.0nw
 
--15% Attack Time
+- Defensive Specialist - 0/5, 5.0nw
 
-+40% Birth Rate
+- Elite Unit - 7/3, 1100gc, 7.75nw
 
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
+- War Horse - n/a, 0.0nw
 
-Penalties
+### Dark Elf
 
-+15% Military Casualties
+#### Bonuses
 
-No Access to Stables and War Horses
+- +20% Sabotage Operation Damage
 
+- Successful Spell Casts refund 100% Runes (excluding Ritual)
 
+#### Penalties
 
-Spellbook: Clear Sight
+- +20% Explore Costs
 
-Soldier - 1/1, 1.0nw
+- Spellbook: Mage's Fury, Magic Ward, Sloth
 
-Offensive Specialist - 5/0, 4.0nw
+- Soldier - 1/1, 1.0nw
 
-Defensive Specialist - 0/5, 5.0nw
+- Offensive Specialist - 6/0, 4.8nw
 
-Elite Unit - 7/3, 1100gc, 7.75nw
+- Defensive Specialist - 0/5, 5.0nw
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- Elite Unit - 4/6, 950gc, 8.25nw
 
-War Horse - n/a, 0.0nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Dark Elf
+- War Horse - 1/0, 0.8nw
 
+#### Age 90
 
+#### Bonuses
 
-Bonuses
+- Successful Spell Casts refund 100% Runes (excluding Ritual)
 
-+20% Sabotage Operation Damage
+#### Penalties
 
-Successful Spell Casts refund 100% Runes (excluding Ritual)
+- +50% Explore Costs
 
+- Spellbook: Mage's Fury, Sloth
 
+- Soldier - 1/1, 1.0nw
 
-Penalties
+- Offensive Specialist - 6/0, 4.8nw
 
-+20% Explore Costs
+- Defensive Specialist - 0/5, 5.0nw
 
+- Elite Unit - 4/6, 1300gc, 8.25nw
 
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Spellbook: Mage's Fury, Magic Ward, Sloth
+- War Horse - 1/0, 0.8nw
 
-Soldier - 1/1, 1.0nw
+### Dwarf
 
-Offensive Specialist - 6/0, 4.8nw
+#### Bonuses
 
-Defensive Specialist - 0/5, 5.0nw
+- +25% Building Efficiency
 
-Elite Unit - 4/6, 950gc, 8.25nw
+- -50% Building Construction and Raze Cost
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+#### Penalties
 
-War Horse - 1/0, 0.8nw
+- +100% Food Consumption
 
-Age 90
+- Spellbook: Mist
 
-Bonuses
+- Soldier - 1/1, 1.0nw
 
-Successful Spell Casts refund 100% Runes (excluding Ritual)
+- Offensive Specialist - 5/0, 4.0nw
 
+- Defensive Specialist - 0/5, 5.0nw
 
+- Elite Unit - 6/5, 1150gc, 8.75nw
 
-Penalties
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-+50% Explore Costs
+- War Horse - 1/0, 0.8nw
 
+#### Age 90
 
+#### Bonuses
 
-Spellbook: Mage's Fury, Sloth
+- +25% Building Efficiency
 
-Soldier - 1/1, 1.0nw
+- -50% Building Construction and Raze Cost
 
-Offensive Specialist - 6/0, 4.8nw
+#### Penalties
 
-Defensive Specialist - 0/5, 5.0nw
+- +50% Food Consumption
 
-Elite Unit - 4/6, 1300gc, 8.25nw
+- Spellbook: Gluttony, Mist
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- Soldier - 1/1, 1.0nw
 
-War Horse - 1/0, 0.8nw
+- Offensive Specialist - 5/0, 4.0nw
 
-Dwarf
+- Defensive Specialist - 0/5, 5.0nw
 
+- Elite Unit - 6/5, 1375gc, 8.75nw
 
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Bonuses
+- War Horse - 1/0, 0.8nw
 
-+25% Building Efficiency
+### Elf
 
--50% Building Construction and Raze Cost
+#### Bonuses
 
+- +20% Instant Spell Damage
 
+- +50% Bonuses from Honor
 
-Penalties
+#### Penalties
 
-+100% Food Consumption
+- +15% Military Train Cost
 
+- No Access to Dungeons
 
+- Spellbook: Fountain of Knowledge, Mystic Aura
 
-Spellbook: Mist
+- Soldier - 1/1, 1.0nw
 
-Soldier - 1/1, 1.0nw
+- Offensive Specialist - 5/0, 4.0nw
 
-Offensive Specialist - 5/0, 4.0nw
+- Defensive Specialist - 0/6, 6.0nw
 
-Defensive Specialist - 0/5, 5.0nw
+- Elite Unit - 6/3, 800gc, 7.0nw
 
-Elite Unit - 6/5, 1150gc, 8.75nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- War Horse - 1/0, 0.8nw
 
-War Horse - 1/0, 0.8nw
+#### Age 90
 
-Age 90
+#### Bonuses
 
-Bonuses
+- +50% Bonuses from Honor
 
-+25% Building Efficiency
+- +25% Rune Production
 
--50% Building Construction and Raze Cost
+#### Penalties
 
+- No Access to Dungeons
 
+- Spellbook: Fountain of Knowledge, Magic Ward, Mystic Aura
 
-Penalties
+- Soldier - 1/1, 1.0nw
 
-+50% Food Consumption
+- Offensive Specialist - 5/0, 4.0nw
 
+- Defensive Specialist - 0/6, 6.0nw
 
+- Elite Unit - 6/3, 1100gc, 7.0nw
 
-Spellbook: Gluttony, Mist
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Soldier - 1/1, 1.0nw
+- War Horse - 1/0, 0.8nw
 
-Offensive Specialist - 5/0, 4.0nw
+### Faery
 
-Defensive Specialist - 0/5, 5.0nw
+#### Bonuses
 
-Elite Unit - 6/5, 1375gc, 8.75nw
+- +30% Magic Effectiveness (WPA)
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- Accurate Espionage
 
-War Horse - 1/0, 0.8nw
+#### Penalties
 
+- -20% Birth Rate
 
+- Spellbook: Blizzard, Bloodlust, Chastity, Ghost Workers, Tree of Gold
 
-Elf
+- Soldier - 1/1, 1.0nw
 
+- Offensive Specialist - 5/0, 4.0nw
 
+- Defensive Specialist - 0/5, 5.0nw
 
-Bonuses
+- Elite Unit - 3/6, 1250gc, 7.5nw
 
-+20% Instant Spell Damage
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-+50% Bonuses from Honor
+- War Horse - 1/0, 0.8nw
 
-Penalties
+#### Age 90
 
-+15% Military Train Cost
+#### Bonuses
 
-No Access to Dungeons
+- +25% Magic Effectiveness (WPA)
 
+#### Penalties
 
+- -30% Birth Rate
 
-Spellbook: Fountain of Knowledge, Mystic Aura
+- Spellbook: Blizzard, Chastity, Ghost Workers, Tree of Gold
 
-Soldier - 1/1, 1.0nw
+- Soldier - 1/1, 1.0nw
 
-Offensive Specialist - 5/0, 4.0nw
+- Offensive Specialist - 5/0, 4.0nw
 
-Defensive Specialist - 0/6, 6.0nw
+- Defensive Specialist - 0/5, 5.0nw
 
-Elite Unit - 6/3, 800gc, 7.0nw
+- Elite Unit - 3/6, 1650gc, 7.5nw
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-War Horse - 1/0, 0.8nw
+- War Horse - 1/0, 0.8nw
 
-Age 90
+### Halfling
 
+#### Bonuses
 
+- +30% Thievery Effectiveness (TPA)
 
-Bonuses
+- +10% Population
 
-+50% Bonuses from Honor
+- Can Train Thieves with Specialist Credits
 
-+25% Rune Production
+#### Penalties
 
-Penalties
+- - Spellbook: Town Watch, Vermin
 
-No Access to Dungeons
+- Soldier - 1/1, 1.0nw
 
+- Offensive Specialist - 5/0, 4.0nw
 
+- Defensive Specialist - 0/5, 5.0nw
 
-Spellbook: Fountain of Knowledge, Magic Ward, Mystic Aura
+- Elite Unit - 5/4, 850gc, 7.25nw
 
-Soldier - 1/1, 1.0nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Offensive Specialist - 5/0, 4.0nw
+- War Horse - 1/0, 0.8nw
 
-Defensive Specialist - 0/6, 6.0nw
+#### Age 90
 
-Elite Unit - 6/3, 1100gc, 7.0nw
+#### Bonuses
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- +25% Thievery Effectiveness (TPA)
 
-War Horse - 1/0, 0.8nw
+- +10% Population
 
+#### Penalties
 
+- 10% Combat Gains
 
+- Spellbook: Quick Feet, Town Watch, War Spoils
 
+- Soldier - 1/1, 1.0nw
 
-Faery
+- Offensive Specialist - 5/0, 4.0nw
 
+- Defensive Specialist - 0/5, 5.0nw
 
+- Elite Unit - 5/4, 1000gc, 7.25nw
 
-Bonuses
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-+30% Magic Effectiveness (WPA)
+- War Horse - 1/0, 0.8nw
 
-Accurate Espionage
+### Human
 
+#### Bonuses
 
+- +30% Income
 
-Penalties
+- +15% Science Efficiency
 
--20% Birth Rate
+- Immune to all Income penalties
 
+#### Penalties
 
+- -15% Magic Effectiveness (WPA)
 
-Spellbook:  Blizzard, Bloodlust, Chastity, Ghost Workers, Tree of Gold
+- Spellbook: Reflect Magic
 
-Soldier - 1/1, 1.0nw
+- Soldier - 1/1, 1.0nw
 
-Offensive Specialist - 5/0, 4.0nw
+- Offensive Specialist - 5/0, 4.0nw
 
-Defensive Specialist - 0/5, 5.0nw
+- Defensive Specialist - 0/5, 5.0nw
 
-Elite Unit - 3/6, 1250gc, 7.5nw
+- Elite Unit - 6/4, 1200gc, 8.0nw
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-War Horse - 1/0, 0.8nw
+- War Horse - 1/0, 0.8nw
 
-Age 90
+#### Age 90
 
-Bonuses
+#### Bonuses
 
-+25% Magic Effectiveness (WPA)
+- +25% Income
 
+- +10% Science Efficiency
 
+#### Penalties
 
-Penalties
+- -10% Magic Effectiveness (WPA)
 
--30% Birth Rate
+- 1% Mana Recovery per Tick
 
+- Spellbook: Reflect Magic
 
+- Soldier - 1/1, 1.0nw
 
-Spellbook: Blizzard, Chastity, Ghost Workers, Tree of Gold
+- Offensive Specialist - 5/0, 4.0nw
 
-Soldier - 1/1, 1.0nw
+- Defensive Specialist - 0/5, 5.0nw
 
-Offensive Specialist - 5/0, 4.0nw
+- Elite Unit - 6/4, 1550gc, 8.0nw
 
-Defensive Specialist - 0/5, 5.0nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Elite Unit - 3/6, 1650gc, 7.5nw
+- War Horse - 1/0, 0.8nw
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+### Orc
 
-War Horse - 1/0, 0.8nw
+#### Bonuses
 
+- +20% Combat Gains
 
+- +15% Enemy Military Casualties
 
-Halfling
+#### Penalties
 
+- +15% Military Casualties
 
+- 50% Bonuses from Honor
 
-Bonuses
+- Spellbook: Aggression
 
-+30% Thievery Effectiveness (TPA)
+- Soldier - 1/1, 1.0nw
 
-+10% Population
+- Offensive Specialist - 5/0, 4.0nw
 
-Can Train Thieves with Specialist Credits
+- Defensive Specialist - 0/5, 5.0nw
 
+- Elite Unit - 8/2, 900gc, 7.5nw
 
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Penalties
+- War Horse - 1/0, 0.8nw
 
--
+#### Age 90
 
+#### Bonuses
 
+- +20% Combat Gains
 
-Spellbook: Town Watch, Vermin
+- +15% Enemy Military Casualties
 
-Soldier - 1/1, 1.0nw
+#### Penalties
 
-Offensive Specialist - 5/0, 4.0nw
+- -10% Building Efficiency
 
-Defensive Specialist - 0/5, 5.0nw
+- No Bonuses from Honor
 
-Elite Unit - 5/4, 850gc, 7.25nw
+- Spellbook: Aggression
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- Soldier - 1/1, 1.0nw
 
-War Horse - 1/0, 0.8nw
+- Offensive Specialist - 5/0, 4.0nw
 
-Age 90
+- Defensive Specialist - 0/5, 5.0nw
 
-Bonuses
+- Elite Unit - 8/2, 1200gc, 7.5nw
 
-+25% Thievery Effectiveness (TPA)
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-+10% Population
+- War Horse - 1/0, 0.8nw
 
+### Undead
 
+#### Bonuses
 
-Penalties
+- -30% Offensive Military Casualties
 
--10% Combat Gains
+- Spreads and is Immune to the Plague
 
+- No Food Needed
 
+#### Penalties
 
-Spellbook: Quick Feet, Town Watch, War Spoils
+- No Access to Hospitals
 
-Soldier - 1/1, 1.0nw
+- Spellbook: Animate Dead
 
-Offensive Specialist - 5/0, 4.0nw
+- Soldier - 1/1, 1.0nw
 
-Defensive Specialist - 0/5, 5.0nw
+- Offensive Specialist - 5/0, 4.0nw
 
-Elite Unit - 5/4, 1000gc, 7.25nw
+- Defensive Specialist - 0/5, 5.0nw
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
+- Elite Unit - 7/3, 900, 7.75nw
 
-War Horse - 1/0, 0.8nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
+- War Horse - 1/0, 0.8nw
 
+#### Age 90
 
-Human
+#### Bonuses
 
+- -50% Offensive Military Casualties
 
+- Spreads and is Immune to the Plague
 
-Bonuses
+- No Food Needed
 
-+30% Income
+#### Penalties
 
-+15% Science Efficiency
+- No Access to Hospitals
 
-Immune to all Income penalties
+- Cannot Train Elite Units
 
-Penalties
+- Spellbook: Animate Dead, Bloodlust
 
--15% Magic Effectiveness (WPA)
+- Soldier - 1/1, 1.0nw
 
-Spellbook: Reflect Magic
+- Offensive Specialist - 5/0, 4.0nw
 
-Soldier - 1/1, 1.0nw
+- Defensive Specialist - 0/5, 5.0nw
 
-Offensive Specialist - 5/0, 4.0nw
+- Elite Unit - 7/4, n/a, 8.75nw
 
-Defensive Specialist - 0/5, 5.0nw
+- Prisoner/Mercenary - 3/0, 0.6nw/0nw
 
-Elite Unit - 6/4, 1200gc, 8.0nw
+- War Horse - 1/0, 0.8nw
 
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
-
-War Horse - 1/0, 0.8nw
-
-Age 90
-
-Bonuses
-
-+25% Income
-
-+10% Science Efficiency
-
-Penalties
-
--10% Magic Effectiveness (WPA)
-
--1% Mana Recovery per Tick
-
-Spellbook: Reflect Magic
-
-Soldier - 1/1, 1.0nw
-
-Offensive Specialist - 5/0, 4.0nw
-
-Defensive Specialist - 0/5, 5.0nw
-
-Elite Unit - 6/4, 1550gc, 8.0nw
-
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
-
-War Horse - 1/0, 0.8nw
-
-
-
-Orc
-
-
-
-Bonuses
-
-+20% Combat Gains
-
-+15% Enemy Military Casualties
-
-Penalties
-
-+15% Military Casualties
-
--50% Bonuses from Honor
-
-Spellbook: Aggression
-
-Soldier - 1/1, 1.0nw
-
-Offensive Specialist - 5/0, 4.0nw
-
-Defensive Specialist - 0/5, 5.0nw
-
-Elite Unit - 8/2, 900gc, 7.5nw
-
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
-
-War Horse - 1/0, 0.8nw
-
-Age 90
-
-Bonuses
-
-+20% Combat Gains
-
-+15% Enemy Military Casualties
-
-Penalties
-
--10% Building Efficiency
-
-No Bonuses from Honor
-
-Spellbook: Aggression
-
-Soldier - 1/1, 1.0nw
-
-Offensive Specialist - 5/0, 4.0nw
-
-Defensive Specialist - 0/5, 5.0nw
-
-Elite Unit - 8/2, 1200gc, 7.5nw
-
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
-
-War Horse - 1/0, 0.8nw
-
-Undead
-
-
-
-Bonuses
-
--30% Offensive Military Casualties
-
-Spreads and is Immune to the Plague
-
-No Food Needed
-
-Penalties
-
-No Access to Hospitals
-
-Spellbook: Animate Dead
-
-Soldier - 1/1, 1.0nw
-
-Offensive Specialist - 5/0, 4.0nw
-
-Defensive Specialist - 0/5, 5.0nw
-
-Elite Unit - 7/3, 900, 7.75nw
-
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
-
-War Horse - 1/0, 0.8nw
-
-Age 90
-
-Bonuses
-
--50% Offensive Military Casualties
-
-Spreads and is Immune to the Plague
-
-No Food Needed
-
-Penalties
-
-No Access to Hospitals
-
-Cannot Train Elite Units
-
-Spellbook: Animate Dead, Bloodlust
-
-Soldier - 1/1, 1.0nw
-
-Offensive Specialist - 5/0, 4.0nw
-
-Defensive Specialist - 0/5, 5.0nw
-
-Elite Unit - 7/4, n/a, 8.75nw
-
-Prisoner/Mercenary - 3/0, 0.6nw/0nw
-
-War Horse - 1/0, 0.8nw
-
-
-
-Personalities
+## Personalities
 
 The Artisan
 
 +50% Building Capacity and Production (Homes, Banks, Farms, Stables, Towers, Dungeons)
 
--25% Build Time
+- 25% Build Time
 
--33% Building Damage taken from Arson, Greater Arson, Tornadoes and Raze Attacks
-
-+25% Economy Science Book Production
-
-Starts with +300 Soldiers, +300 Specialist Credits and +100 Building Credits
-
-Age 90
-
-+50% Building Capacity and Production (Homes, Banks, Farms, Stables, Towers, Dungeons)
-
--25% Build Time
-
--33% Building Damage taken from Arson, Greater Arson, Tornadoes and Raze Attacks
+- -33% Building Damage taken from Arson, Greater Arson, Tornadoes and Raze Attacks
 
 +25% Economy Science Book Production
 
 Starts with +300 Soldiers, +300 Specialist Credits and +100 Building Credits
 
+#### Age 90
 
+- +50% Building Capacity and Production (Homes, Banks, Farms, Stables, Towers, Dungeons)
 
+- 25% Build Time
 
+- -33% Building Damage taken from Arson, Greater Arson, Tornadoes and Raze Attacks
 
-The Cleric
+- +25% Economy Science Book Production
 
+- Starts with +300 Soldiers, +300 Specialist Credits and +100 Building Credits
 
+- The Cleric
 
--30% Military Casualties
+- -30% Military Casualties
 
-Can Cast Support Spells on Kingdom Members
+- Can Cast Support Spells on Kingdom Members
 
-Access to Divine Shield, Fanaticism, Greater Protection, Illuminate Shadows and Wrathful Smite
+- Access to Divine Shield, Fanaticism, Greater Protection, Illuminate Shadows and Wrathful Smite
 
-+25% Economy Science Book Production
+- +25% Economy Science Book Production
 
-Starts with +400 Soldiers and +400 Specialist Credits
+- Starts with +400 Soldiers and +400 Specialist Credits
 
-Age 90
+#### Age 90
 
--30% Military Casualties
+- -30% Military Casualties
 
-Can Cast Support Spells on Kingdom Members
+- Can Cast Support Spells on Kingdom Members
 
-Access to Divine Shield, Fanaticism, Greater Protection, Illuminate Shadows and Wrathful Smite
+- Access to Divine Shield, Fanaticism, Greater Protection, Illuminate Shadows and Wrathful Smite
 
-+25% Economy Science Book Production
+- +25% Economy Science Book Production
 
-Starts with +400 Soldiers and +400 Specialist Credits
+- Starts with +400 Soldiers and +400 Specialist Credits
 
+- The Heretic
 
+- +75% Wizard Production
 
-The Heretic
+- 75% Thieves Lost on Thievery Operations
 
+- Access to Fool's Gold, Guile, Nightmare and Revelation
 
+- +25% Arcane Arts Science Book Production
 
-+75% Wizard Production
+- Starts with +200 Thieves and +200 Wizards
 
--75% Thieves Lost on Thievery Operations
+#### Age 90
 
-Access to Fool's Gold, Guile, Nightmare and Revelation
+- +75% Wizard Production
 
-+25% Arcane Arts Science Book Production
+- 75% Thieves Lost on Thievery Operations
 
-Starts with +200 Thieves and +200 Wizards
+- Access to Fool's Gold, Guile, Nightmare and Revelation
 
-Age 90
+- +25% Arcane Arts Science Book Production
 
-+75% Wizard Production
+- Starts with +200 Thieves and +200 Wizards
 
--75% Thieves Lost on Thievery Operations
+- The Mystic
 
-Access to Fool's Gold, Guile, Nightmare and Revelation
+- +100% Guilds Effectiveness
 
-+25% Arcane Arts Science Book Production
+- +1 Mana Recovery per Tick
 
-Starts with +200 Thieves and +200 Wizards
+- Access to Meteor Showers, Pitfalls and Revelation
 
-The Mystic
+- +25% Arcane Arts Science Book Production
 
+- Starts with +400 Wizards
 
+#### Age 90
 
-+100% Guilds Effectiveness
+- +100% Guilds Effectiveness
 
-+1 Mana Recovery per Tick
+- +1 Mana Recovery per Tick
 
-Access to Meteor Showers, Pitfalls and Revelation
+- Access to Meteor Showers, Pitfalls and Revelation
 
-+25% Arcane Arts Science Book Production
+- +25% Arcane Arts Science Book Production
 
-Starts with +400 Wizards
+- Starts with +400 Wizards
 
-Age 90
+- The Rogue
 
-+100% Guilds Effectiveness
+- +100% Thieves' Dens Effectiveness
 
-+1 Mana Recovery per Tick
+- +1 Stealth Recovery per Tick
 
-Access to Meteor Showers, Pitfalls and Revelation
+- Access to Assassinate Wizards, Greater Arson, Invisibility, Propaganda, Revelation and Steal War Horses
 
-+25% Arcane Arts Science Book Production
+- +25% Arcane Arts Science Book Production
 
-Starts with +400 Wizards
+- Starts with +400 thieves
 
-The Rogue
+#### Age 90
 
+- +100% Thieves' Dens Effectiveness
 
+- +1 Stealth Recovery per Tick
 
-+100% Thieves' Dens Effectiveness
+- Access to Assassinate Wizards, Greater Arson, Invisibility, Propaganda, Revelation and Steal War Horses
 
-+1 Stealth Recovery per Tick
+- +25% Arcane Arts Science Book Production
 
-Access to Assassinate Wizards, Greater Arson, Invisibility, Propaganda, Revelation and Steal War Horses
+- Starts with +400 thieves
 
-+25% Arcane Arts Science Book Production
+- The Sage
 
-Starts with +400 thieves
+- -50% Science Book Losses on Learn Attacks
 
-Age 90
+- Immune to Amnesia
 
-+100% Thieves' Dens Effectiveness
+- Access to Scientific Insights
 
-+1 Stealth Recovery per Tick
+- +25% Science Book Production
 
-Access to Assassinate Wizards, Greater Arson, Invisibility, Propaganda, Revelation and Steal War Horses
+- Starts with 5000 Science Books in each Category
 
-+25% Arcane Arts Science Book Production
+#### Age 90
 
-Starts with +400 thieves
+- +25% Science Book Production
 
-The Sage
+- -50% Science Book Losses on Learn Attacks
 
+- Access to Scientific Insights
 
+- +25% Economy Science Book Production
 
--50% Science Book Losses on Learn Attacks
+- Starts with 5000 Science Books in each Category
 
-Immune to Amnesia
+- The Tactician
 
-Access to Scientific Insights
+- +50% Ambush Protection
 
-+25% Science Book Production
+- +50% Credits Gained in Combat
 
-Starts with 5000 Science Books in each Category
+- Access to Quick Feet and War Spoils
 
-Age 90
+- +25% Military Science Book Production
 
-+25% Science Book Production
+- Starts with +400 soldiers and +400 specialist credits
 
--50% Science Book Losses on Learn Attacks
+#### Age 90
 
-Access to Scientific Insights
+- -15% Attack Time
 
-+25% Economy Science Book Production
+- +50% Ambush Protection
 
-Starts with 5000 Science Books in each Category
+- +25% Credits Gained in Combat
 
-The Tactician
+- +25% Military Science Book Production
 
+- Starts with +400 soldiers and +400 specialist credits
 
+- The War Hero
 
-+50% Ambush Protection
+- Elite Unit gains +1 Offensive Strength
 
-+50% Credits Gained in Combat
+- +50% Elite Conversions in Combat
 
-Access to Quick Feet and War Spoils
+- -30% Honor Loss in Combat
 
-+25% Military Science Book Production
+- +25% Military Science Book Production
 
-Starts with +400 soldiers and +400 specialist credits
+- Starts with +200 Soldiers, +200 Specialist Credits and 200 Elites
 
-Age 90
+#### Age 90
 
--15% Attack Time
+- Elite Unit gains +1 Offensive Strength
 
-+50% Ambush Protection
+- +50% Elite Conversions in Combat
 
-+25% Credits Gained in Combat
+- -50% Honor Loss in Combat
 
-+25% Military Science Book Production
+- +25% Military Science Book Production
 
-Starts with +400 soldiers and +400 specialist credits
+- Starts with +200 Soldiers, +200 Specialist Credits and 200 Elites
 
+- The Warrior
 
+- +15% Offensive Military Efficiency
 
-The War Hero
+- -25% Military Train Time
 
+- 75% Mercenary Cost
 
+- +25% Military Science Book Production
 
-Elite Unit gains +1 Offensive Strength
+- Starts with +400 soldiers and +400 specialist credits
 
-+50% Elite Conversions in Combat
+#### Age 90
 
--30% Honor Loss in Combat
+- +15% Offensive Military Efficiency
 
-+25% Military Science Book Production
+- -25% Military Train Time
 
-Starts with +200 Soldiers, +200 Specialist Credits and 200 Elites
+- 75% Mercenary Cost
 
-Age 90
+- +25% Military Science Book Production
 
-Elite Unit gains +1 Offensive Strength
+- Starts with +400 soldiers and +400 specialist credits
 
-+50% Elite Conversions in Combat
-
--50% Honor Loss in Combat
-
-+25% Military Science Book Production
-
-Starts with +200 Soldiers, +200 Specialist Credits and 200 Elites
-
-
-
-The Warrior
-
-
-
-+15% Offensive Military Efficiency
-
--25% Military Train Time
-
--75% Mercenary Cost
-
-+25% Military Science Book Production
-
-Starts with +400 soldiers and +400 specialist credits
-
-Age 90
-
-+15% Offensive Military Efficiency
-
--25% Military Train Time
-
--75% Mercenary Cost
-
-+25% Military Science Book Production
-
-Starts with +400 soldiers and +400 specialist credits
-
-
-
-Changelog:
+- Changelog:
 
 - Fix typo in schedule for Age 91 Open Date (April 10 @ 8:51)
 

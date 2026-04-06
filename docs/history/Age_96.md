@@ -2,10 +2,6 @@
 
 **Forum Source:** [Age 96 Final Changes](https://forums.utopia-game.com/showthread.php?640253-Age-96-Final-Changes)
 
-## Archived Forum Post
-
-Welcome to the Revised Changes for Age 96!
-
 Tentative Timeline:
 
 April 6th - Revised Changes
@@ -16,13 +12,13 @@ April 9th - Age End
 
 The Half Blood population has been infected with a vicious virus that turned them into the living dead replenishing the Undead forces. All Half Bloods have been exterminated by the virus leaving behind only the True Blood population. The races have come together to specialize and brought back Personalities to fill the void left by the Half Bloods extinction to fend off the Undead invasion. Unfortunately, the Halfling race bore the brunt of the invasion and were the first to be forced to retreat from Utopia leaving behind their Gnome brethren. In addition unable to put up a fight the Dryad race has fled into the forests disappearing within the trees.
 
-General Mechanics
+## General Mechanics
 
-- Base Attack time reduce to 14 hours  (note the change to in war attack times)
+- Base Attack time reduce to 14 hours (note the change to in war attack times)
 - Offense Specialists converting into Elites on successful Traditional Marches is being removed as a general mechanic to all Races.
 - Guard Stations will now also protect against Learn attacks (Universities will no longer protect against Learn attacks)
 
-Military, Attacking & Defending
+## Military, Attacking & Defending
 
 - Force Ceasefire is now 4 Utopian Months
 - Starting War Win points for all Kingdoms will be increased significantly
@@ -32,28 +28,28 @@ Military, Attacking & Defending
 - Defensive FCF can now be used irrespective of war range
 - When FCF is used while in war range while outside war the following two penalties occur:
 
-- If Defensive FCF is used in war range, the defender will pay (to the Aggressor) up to 3% of the defender’s total kingdom honor based on relative kingdom networth, and  the aggressor will receive war win points (the defender will not lose any War Win points)
+- If Defensive FCF is used in war range, the defender will pay (to the Aggressor) up to 3% of the defender’s total kingdom honor based on relative kingdom networth, and the aggressor will receive war win points (the defender will not lose any War Win points)
 - If Aggressive FCF is used in while the defender is in war range, the aggressor will receive war win points.
-- FCF will award war win points based on a percentage of a war win by the aggressor against the defender.  If the two kingdoms are equal in networth and war win points, the aggressor would receive 10% of what they would receive from a war win.  This will scale as high as 40% against a kingdom at max relative NW and significantly higher war win points, or as low as 0% against a kingdom that is below 50% of the aggressor’s war win points.  We would expect a kingdom waving smaller kingdoms for CF with identical war win points to need between 20 and 40 FCFs to equal a single war win against one of those kingdoms.
+- FCF will award war win points based on a percentage of a war win by the aggressor against the defender. If the two kingdoms are equal in networth and war win points, the aggressor would receive 10% of what they would receive from a war win. This will scale as high as 40% against a kingdom at max relative NW and significantly higher war win points, or as low as 0% against a kingdom that is below 50% of the aggressor’s war win points. We would expect a kingdom waving smaller kingdoms for CF with identical war win points to need between 20 and 40 FCFs to equal a single war win against one of those kingdoms.
 
 - Mercenary & Prisoners offense increased to 8
 - Dungeon Capacity reduction to 30
 - Soldiers changed to 3/3, 1.5 networth
 
-War
+## War
 
 - War: Will no longer have draft speed bonus, training time reduction and build time reduction (This includes End of War Ceasefire)
 - +25% Draft Speed is being removed
-- -25% Build Time is being removed
-- -25% Train Time is being removed
+- 25% Build Time is being removed
+- 25% Train Time is being removed
 - 12 Hour Phase In -25% Attack Time reduce to -15% Attack Time
 
-Intel
+## Intel
 
 - Significantly reduce the difficulty to gather Intel inside EOWCF to outside Kingdoms
 - Crystal Ball reduced to 1 Mana cost
 
-Rituals
+## Rituals
 
 - Onslaught: Increases Offensive Military Efficiency (OME) by 10% and -20% Military Wages
 - Godspeed: -10% Attack Time and +10% Combat Gains
@@ -62,9 +58,9 @@ Rituals
 - Barrier: -20% received Instant Spell Damage and Sabotage Damage
 - Havoc: Increases Offensive Thieves per acre (TPA) and Wizards per acre (WPA) by 20%
 - Affluent: Income +20% and +25% Birth Rate (+25% Draft Speed removed)
-- Expedient: -25% Training Costs , -20% Construction Time and -25% Construction Costs  (-20% Military Training Time removed)
+- Expedient: -25% Training Costs , -20% Construction Time and -25% Construction Costs (-20% Military Training Time removed)
 
-Spells
+## Spells
 
 - Amnesia - Accessible by all Races
 - Tree of Gold - Rune Cost increased by 100%
@@ -99,265 +95,265 @@ Spells
 
 - Fanaticism
 
-Races
+## Races
 
-Avian
+### Avian
 
-Bonuses
+#### Bonuses
 
--20% Attack Time
+- -20% Attack Time
 
-+20% Birth Rate
+- +20% Birth Rate
 
-Access to Clear Sight
+- Access to Clear Sight
 
-Penalty
+- Penalty
 
-No Access to Stables and Horses
+- No Access to Stables and Horses
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 11/0, 4.4nw
+- Offensive Specialist - 11/0, 4.4nw
 
-Defensive Specialist - 0/11, 5.5nw
+- Defensive Specialist - 0/11, 5.5nw
 
-Elite Unit - 15/4, 1325gc 7.25 nw
+- Elite Unit - 15/4, 1325gc 7.25 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-Dark Elf
+### Dark Elf
 
-Bonuses
+#### Bonuses
 
-+15% Spell Damage
+- +15% Spell Damage
 
-+15% Thievery Effectiveness (TPA)
+- +15% Thievery Effectiveness (TPA)
 
-Access to Chastity, Fool's Gold, Gluttony, Sloth
+- Access to Chastity, Fool's Gold, Gluttony, Sloth
 
-Penalty
+- Penalty
 
--15% Birth Rate
+- -15% Birth Rate
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 10/0, 4.0nw
+- Offensive Specialist - 10/0, 4.0nw
 
-Defensive Specialist - 0/10, 5.0nw
+- Defensive Specialist - 0/10, 5.0nw
 
-Elite Unit – 13/4 1200gc 6.5 nw
+- Elite Unit – 13/4 1200gc 6.5 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Dwarf
+### Dwarf
 
-Bonuses
+#### Bonuses
 
-+20% Building Efficiency
+- +20% Building Efficiency
 
--50% Construction Cost
+- -50% Construction Cost
 
-Access To Mist
+- Access To Mist
 
-Penalty
+- Penalty
 
-+100% Food Consumption
+- +100% Food Consumption
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 10/0, 4.0nw
+- Offensive Specialist - 10/0, 4.0nw
 
-Defensive Specialist - 0/10, 5.0nw
+- Defensive Specialist - 0/10, 5.0nw
 
-Elite Unit - 13/6, 1400gc 7.5 nw
+- Elite Unit - 13/6, 1400gc 7.5 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Elf
+### Elf
 
-Bonuses
+#### Bonuses
 
-+1 Mana Recovery per Tick
+- +1 Mana Recovery per Tick
 
-+20% Spell Duration
+- +20% Spell Duration
 
-Access to Mage’s Fury, Greater Protection, Fountain of Knowledge
+- Access to Mage’s Fury, Greater Protection, Fountain of Knowledge
 
-Penalty
+- Penalty
 
--15% Sabotage Damage
+- 15% Sabotage Damage
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 10/0, 4.0nw
+- Offensive Specialist - 10/0, 4.0nw
 
-Defensive Specialist - 0/11, 5.5nw
+- Defensive Specialist - 0/11, 5.5nw
 
-Elite Unit - 12/6, 1250gc 7.0 nw
+- Elite Unit - 12/6, 1250gc 7.0 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Faery
+### Faery
 
-Bonuses
+#### Bonuses
 
-+15% Arcane Science Effectiveness
+- +15% Arcane Science Effectiveness
 
--50% Wizard Losses on Failed Spell Cast
+- 50% Wizard Losses on Failed Spell Cast
 
--50% Thief Losses on Operations
+- 50% Thief Losses on Operations
 
-Access to Mystic Aura, Blizzard, Quick Feet
+- Access to Mystic Aura, Blizzard, Quick Feet
 
-Penalty
+- Penalty
 
--5% Population
+- 5% Population
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 9/0, 3.6 nw
+- Offensive Specialist - 9/0, 3.6 nw
 
-Defensive Specialist - 0/10, 5.0nw
+- Defensive Specialist - 0/10, 5.0nw
 
-Elite Unit - 5/13, 1300gc 7.75 nw
+- Elite Unit - 5/13, 1300gc 7.75 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Gnome
+### Gnome
 
-Bonuses
+#### Bonuses
 
-+15% Population
+- +15% Population
 
-Can Train Thieves with Specialist Credits
+- Can Train Thieves with Specialist Credits
 
-Access to Town Watch
+- Access to Town Watch
 
-Penalty
+- Penalty
 
-No Access to Hospitals
+- No Access to Hospitals
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 10/0, 4.0nw
+- Offensive Specialist - 10/0, 4.0nw
 
-Defensive Specialist - 0/10, 5.0nw
+- Defensive Specialist - 0/10, 5.0nw
 
-Elite Unit - 8/8, 1100gc 6.5 nw
+- Elite Unit - 8/8, 1100gc 6.5 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Human
+### Human
 
-Bonuses
+#### Bonuses
 
-+10% Science Efficiency
+- +10% Science Efficiency
 
-+10% Dragon Slaying Strength
+- +10% Dragon Slaying Strength
 
-Immune to Income Penalties
+- Immune to Income Penalties
 
-Access to Ghost Workers
+- Access to Ghost Workers
 
-Penalty
+- Penalty
 
-+20% Military Wages
+- +20% Military Wages
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 10/0, 4.0nw
+- Offensive Specialist - 10/0, 4.0nw
 
-Defensive Specialist - 0/10, 5.0nw
+- Defensive Specialist - 0/10, 5.0nw
 
-Elite Unit - 13/5, 1350gc 7.0 nw
+- Elite Unit - 13/5, 1350gc 7.0 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Orc
+### Orc
 
-Bonuses
+#### Bonuses
 
-+15% Enemy Military Casualties
+- +15% Enemy Military Casualties
 
--20% Military Wages
+- -20% Military Wages
 
-Access to Bloodlust
+- Access to Bloodlust
 
-Penalty
+- Penalty
 
-No Bonuses from Honor
+- No Bonuses from Honor
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 10/0, 4.0nw
+- Offensive Specialist - 10/0, 4.0nw
 
-Defensive Specialist - 0/10, 5.0nw
+- Defensive Specialist - 0/10, 5.0nw
 
-Elite Unit - 15/2, 1300gc 6.25 nw
+- Elite Unit - 15/2, 1300gc 6.25 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Undead
+### Undead
 
-Bonuses
+#### Bonuses
 
-Spreads and is Immune to the Plague
+- Spreads and is Immune to the Plague
 
-Elite Conversion on Traditional Marches & Conquest
+- Elite Conversion on Traditional Marches & Conquest
 
-Access to Animate Dead
+- Access to Animate Dead
 
-Penalty
+- Penalty
 
-Cannot Train Elite Units
+- Cannot Train Elite Units
 
--15% Income
+- -15% Income
 
-Soldier - 3/3, 1.5nw
+- Soldier - 3/3, 1.5nw
 
-Offensive Specialist - 11/0, 4.4nw
+- Offensive Specialist - 11/0, 4.4nw
 
-Defensive Specialist - 0/10, 5.0nw
+- Defensive Specialist - 0/10, 5.0nw
 
-Elite Unit - 15/5, 7.75 nw
+- Elite Unit - 15/5, 7.75 nw
 
-Mercenary - 8/0, 0.0nw
+- Mercenary - 8/0, 0.0nw
 
-Prisoner - 8/0, 1.6nw
+- Prisoner - 8/0, 1.6nw
 
-War Horse - 2/0, 0.6nw
+- War Horse - 2/0, 0.6nw
 
-Personalities
+## Personalities
 
 The Artisan
 
@@ -371,7 +367,7 @@ Starts with +600 soldiers, +600 specialist credits and +200 building credits
 
 The Paladin
 
--30% Military Casualties in Combat
+- -30% Military Casualties in Combat
 
 +20% Watchtowers Land Effect
 
@@ -381,7 +377,7 @@ Can cast Support Spells on Kingdom Members
 
 Access to all Support Spells
 
--1 Self Spell Mana Cost
+- -1 Self Spell Mana Cost
 
 Starts with +600 soldiers, +600 specialist credits and +200 wizards
 
@@ -401,7 +397,7 @@ The Heretic
 
 +75% Wizard Production
 
--50% Thief Losses on Operations
+- 50% Thief Losses on Operations
 
 50% Rune Refund on Successful Spell Casts (excluding Ritual)
 
@@ -425,7 +421,7 @@ The Sage
 
 +100% Universities Land Effect
 
--30% Books Losses on Learn Attacks
+- -30% Books Losses on Learn Attacks
 
 Access to Scientific Insight
 
@@ -433,7 +429,7 @@ Start with 1 extra scientist and 6000 books in every category (Economy, Military
 
 The Tactician
 
--15% Attack Time
+- -15% Attack Time
 
 +20% Guard Stations Land Effect
 
@@ -465,7 +461,7 @@ The Warrior
 
 +15% Offensive Military Efficiency
 
--75% Mercenary Cost
+- 75% Mercenary Cost
 
 +10% Tactics Science Effectiveness
 
