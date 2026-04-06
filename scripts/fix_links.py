@@ -3,7 +3,7 @@
 fix_links.py — Post-process already-scraped docs/ to fix Wayback Machine links.
 
 Run once after the initial scrape if links are broken:
-    .venv/bin/python fix_links.py
+    .venv/bin/python scripts/fix_links.py
 
 Safe to re-run; idempotent.
 """

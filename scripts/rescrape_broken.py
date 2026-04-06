@@ -4,7 +4,7 @@ rescrape_broken.py — Re-fetch pages that were saved as wikitext source views
 instead of rendered HTML, by trying multiple Wayback Machine snapshots.
 
 Usage:
-    .venv/bin/python rescrape_broken.py
+    .venv/bin/python scripts/rescrape_broken.py
 """
 
 import re
@@ -192,7 +192,7 @@ def main():
 
     print(f"\nDone. Successfully re-scraped {ok}/{len(broken)} pages.")
     if ok < len(broken):
-        print("Run fix_links.py afterwards to clean up any new links.")
+        print("Run scripts/fix_links.py afterwards to clean up any new links.")
 
 
 if __name__ == "__main__":

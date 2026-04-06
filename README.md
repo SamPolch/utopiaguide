@@ -16,9 +16,9 @@ A community-maintained guide for [Utopia](https://utopia-game.com), built with [
 The original wiki at `wiki.utopia-game.com` is currently inaccessible (expired SSL). The included scraper pulls archived snapshots from the Wayback Machine and converts them to Markdown.
 
 ```bash
-./scrape_wiki.py        # initial scrape
-./rescrape_broken.py    # re-fetch pages that came out garbled
-./fix_links.py          # fix internal links after scraping
+./scripts/scrape_wiki.py        # initial scrape
+./scripts/rescrape_broken.py    # re-fetch pages that came out garbled
+./scripts/fix_links.py          # fix internal links after scraping
 ```
 
 Already-downloaded pages are skipped, so the scraper is safe to re-run if interrupted.
@@ -71,9 +71,9 @@ Current MkDocs nav groupings:
 Repo files of note:
 
 ```text
-scrape_wiki.py            # Wayback Machine scraper
-rescrape_broken.py        # Re-scrape garbled pages
-fix_links.py              # Fix internal links
+scripts/scrape_wiki.py    # Wayback Machine scraper
+scripts/rescrape_broken.py # Re-scrape garbled pages
+scripts/fix_links.py      # Fix internal links
 mkdocs.yml                # Site configuration and navigation
 requirements.txt          # Python dependencies
 .github/workflows/
