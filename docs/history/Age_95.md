@@ -14,9 +14,9 @@
 - War Horses reduced to 2/0 base 0.6nw
 - Undead, Dark Elf and Gnomes removed. Undeads have been purified by New Year’s Blessing and will be retreating from Utopia for this age. Gnomes allied Halflings and merged the fortunes of their race. Dark Elves have made peace with their Elven brothers and rejoined the Elven Race.
 
-Mechanics
+## Mechanics
 
-## Races
+## Race System
 
 - Primary Race pick determines the Military Units, racial bonus and penalties, and Spell Lists
 
@@ -161,7 +161,7 @@ Thievery
 
 - Watchtowers: Effect of preventing enemy thief operations base effect down to 1.5% with max effect of 37.5%. Watchtowers still mitigate sabotage damage at the same rate
 
-## Races
+## Race Details
 
 ### Avian
 
@@ -175,7 +175,7 @@ Thievery
 
 - Starts with an additional 800 Elites
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - No Access to Stables and War Horses
 
@@ -197,13 +197,13 @@ Thievery
 
 - War Horse - n/a
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - +1 General
 
 - Access to War Spoils
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - -10% Attack Time
 
@@ -225,7 +225,7 @@ Thievery
 
 - Starts with an additional 800 Soldiers and Specialist Credits
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - 10% Combat Gains
 
@@ -245,7 +245,7 @@ Thievery
 
 - War Horse - 2/0, 0.6nw
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - 1 Mana Cost on Self Spells
 
@@ -253,7 +253,7 @@ Thievery
 
 - Access to Fanaticism and Hero’s Inspiration
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - -10% Military Casualties
 
@@ -271,7 +271,7 @@ Thievery
 
 - Starts with an additional 800 Soldiers and Specialist Credits
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - No Accelerated Construction
 
@@ -293,7 +293,7 @@ Thievery
 
 - War Horse - 2/0, 0.6nw
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - +20% Capacity bonus on Buildings (Homes, Stables, Dungeons)
 
@@ -301,7 +301,7 @@ Thievery
 
 - Access to Ghost Workers
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - -25% Construction Time
 
@@ -321,7 +321,7 @@ Thievery
 
 - Starts with an additional 800 Wizards
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - 15% Sabotage Damage
 
@@ -343,13 +343,13 @@ Thievery
 
 - War Horse - 2/0, 0.6nw
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - +1 Mana Recovery per Tick
 
 - +25% Spell Duration (offensive and self spells)
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - +15% Rune Production
 
@@ -371,7 +371,7 @@ Thievery
 
 - Starts with an additional 400 Thieves and 400 Wizards
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - 10% Population
 
@@ -391,7 +391,7 @@ Thievery
 
 - War Horse - 2/0, 0.6nw
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - Access to Mage’s Fury and Tree of Gold
 
@@ -399,7 +399,7 @@ Thievery
 
 - +15% Sabotage Damage
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - Access to Fool’s Gold, Nightmares and Vermin
 
@@ -425,7 +425,7 @@ Thievery
 
 - Starts with an additional 800 Thieves
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - No Access to Hospitals
 
@@ -447,13 +447,13 @@ Thievery
 
 - War Horse - 2/0, 0.6nw
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - 50% Thief Cost
 
 - +10% Population
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - +50% Thieves' Dens Land Effects
 
@@ -471,7 +471,7 @@ Thievery
 
 - 2500 unallocated starting books in each Science Category (Economy/Military/Arcane Arts)
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - -20% WPA
 
@@ -493,7 +493,7 @@ Thievery
 
 - War Horse - 3/0, 0.9nw
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - Immune to all Income Penalties
 
@@ -501,7 +501,7 @@ Thievery
 
 - +25% Universities Land Effects
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - +15% Income Bonus
 
@@ -519,7 +519,7 @@ Thievery
 
 - Starts with an additional 800 Soldiers and Specialist Credits
 
-- Penalties (Primary pick only)
+#### Penalties
 
 - -15% Science Efficiency
 
@@ -539,13 +539,13 @@ Thievery
 
 - War Horse - 2/0, 0.6nw
 
-- True Blood Bonuses
+#### True Blood Bonuses
 
 - Free Draft
 
 - Access to Bloodlust
 
-- Half Blood Bonuses
+#### Half Blood Bonuses
 
 - +10% Enemy Military Casualties
 

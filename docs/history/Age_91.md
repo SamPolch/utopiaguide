@@ -16,7 +16,7 @@ Thank you to everyone who provided feedback and helped shape these changes. We h
 
 Oh, by the way, Age 91 will see a new list of possible scientist names which will increase each age with input from each Kingdom crown winner. The Monarch of each Kingdom in good standing that has attained the #1 spot in a ranking (Land/Networth/Honor/War Wins) will be able to provide a name of their choice to the list. A Kingdom that attains the #1 spot in multiple rankings will have a choice for each #1 rank they hold. Congratulations to the Kingdoms of Age 90 that are the first of many to nominate additions to the new scientist list!
 
-Age 90 End Schedule
+## Age 90 End Schedule
 
 Age 91 Proposed Changes: April 5, 2021
 
@@ -26,9 +26,9 @@ Age 91 Final Changes: April 10, 2021
 
 Age 90 End: Saturday April 10, 2021 @ 00:00 GMT
 
-Age 91 Final Changes:
+## Age 91 Final Changes
 
-Mechanics
+## Mechanics
 
 ## Exploration & Buildings
 
@@ -82,7 +82,7 @@ Mechanics
 
 -
 
-Bug fixes
+## Bug Fixes
 
 - Crystal Ball will be available thru Non-Aggression-Pact Relations
 

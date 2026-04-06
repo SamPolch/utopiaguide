@@ -121,7 +121,6 @@ Stats listed here considered 'base effectiveness'
 - +50% Self-Spell Duration
 - +20% Rune Production
 - Access to All Racial Spells
-**Spells:** All Racial Spells, Tree of Gold
 - -10% Maximum Population
 - Elite: 6/13, 1200gc, 8.0 NW
 

@@ -68,7 +68,6 @@ In progress.
 
 - +30% Thievery Effectiveness (TPA)
 - -30% Defensive Military Casualties
-**Spells:** All Racial Spells, Tree of Gold
 - -10% Population
 - Soldier: 2/2, 1.0nw
 - Offensive Specialist: 10/0, 4.0nw

@@ -4,7 +4,7 @@
 **WoL Age 99 End:** Saturday, February 4, 2023 @ 00:00 GMT
 **Duration:** 76
 
-**Forum Source:** [Age 99 Final Changes](http://forums.utopia-game.com/showthread.php?640313-Age-99-Final-Changes)
+**Forum Source:** [Age 99 Final Changes](https://forums.utopia-game.com/showthread.php?640313-Age-99-Final-Changes)
 
 ### Mechanical Changes
 
@@ -21,7 +21,7 @@
 - Mind Focus - bonus effect increased to 35% (up from 25%).
 - Mystic Vortex - cost will be reduced when cast on Kingdom mates and a bot request will be available.
 
-**Support Spells**
+### Support Spells
 
 - Minor Protection
 - Greater Protection

@@ -4,7 +4,7 @@
 **WoL Age 97 End:** Saturday, September 3, 2022 @ 00:00 GMT
 **Duration:** 67
 
-**Forum Source:** [http://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes](http://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes)
+**Forum Source:** [Age 97 Final Changes](https://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes)
 
 #### Mechanical Changes
 
@@ -34,7 +34,7 @@
 - Military Casualties will be proportionally reduced by the scaling Effectiveness penalty for hitting into/out of War
 - Points needed for reaching War Tiers have been adjusted (each tier provides additional bonuses to the winning Kingdom of a War)
 
-**War Score Tiers**
+### War Score Tiers
 
 - Tier 1: 120
 - Tier 2: 140
@@ -49,7 +49,7 @@
 - The overcast Ritual efficiency formula has been adjusted to account for the new requirement
 - Ritual effects have been adjusted
 
-**Rituals**
+### Ritual Details
 
 - Affluent: +15% Income, +20% Draft Rate
 - Barrier: -20% Damage from Enemy Instant Magic & Thievery Operations, -10% Combat (Resource) Losses
@@ -76,7 +76,7 @@
 - Meteor Showers - availability changed to War only
 - Support Spells list has been updated
 
-**Support Spells**
+### Support Spells
 
 - Minor Protection
 - Greater Protection
@@ -112,7 +112,7 @@
 - Dragon page will now show Cost and HP w/o starting a project
 - Dragon stats and effects have been adjusted
 
-#### Dragons
+### Dragon Effects
 
 - Amethyst Dragon: removed
 - Emerald Dragon: (HP and Cost scaling reduced to Ruby's scaling)

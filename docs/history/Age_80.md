@@ -92,7 +92,6 @@ Stats listed here considered 'base effectiveness'
 
 - Access to All Racial Spells
 - +25% Wizardry Effectiveness (WPA)
-**Spells:** All Racial Spells, Reflect Magic, Tree of Gold
 - -10% Population
 - -1 General
 - Elite: 3/8, 1100gc, 10.0 NW

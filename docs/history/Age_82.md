@@ -121,7 +121,6 @@ Stats listed here considered 'base effectiveness'
 - Access to All Racial Spells
 - +20% Magic Effectiveness (WPA)
 - +25% Self Spell Duration
-**Spells:** All Racial Spells, Tree of Gold
 - -1 General
 - -10% Maximum Population
 - Elite: 3/8, 1200gc, 9.5 NW

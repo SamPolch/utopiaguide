@@ -4,7 +4,7 @@
 **WoL Age 93 End:** Saturday Nov 20, 2021 @ 00:00 GMT
 **Duration:** 74
 
-**Forum Source:** [http://forums.utopia-game.com/showthread.php?640192-Age-93-Final-Changes](http://forums.utopia-game.com/showthread.php?640192-Age-93-Final-Changes)
+**Forum Source:** [Age 93 Final Changes](https://forums.utopia-game.com/showthread.php?640192-Age-93-Final-Changes)
 
 Our second round with the unique Dual Race choice!
 

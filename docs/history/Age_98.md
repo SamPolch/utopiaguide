@@ -4,7 +4,7 @@
 **WoL Age 98 End:** Saturday, November 19, 2022 @ 00:00 GMT
 **Duration:** 74
 
-**Forum Source:** [Age 98 Finals](http://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)
+**Forum Source:** [Age 98 Final Changes](https://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)
 
 ### Mechanical Changes
 
@@ -29,7 +29,7 @@
 
 ### [Rituals](../misc/Ritual.md)
 
-**Rituals**
+### Ritual Details
 
 - Affluent: +15% Income, +20% Draft Rate
 - Barrier: -20% Damage from Enemy Instant Magic & Thievery Operations, -10% Combat (Resource) Losses
@@ -49,7 +49,7 @@
 - Storms - also increases Tornado damage taken by 15%.
 - Support Spells list has been updated
 
-**Support Spells**
+### Support Spells
 
 - Minor Protection
 - Greater Protection
@@ -79,7 +79,7 @@
 
 ### [Dragons](../main/Dragons.md)
 
-**Dragons**
+### Dragon Effects
 
 - Emerald Dragon: (HP and Cost scaling reduced to Ruby's scaling)
 
