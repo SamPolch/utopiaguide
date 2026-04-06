@@ -8,6 +8,8 @@ Utopia has 10 Personalities. Choose carefully alongside your [Race](../main/Race
 
 ## Artisan
 
+**Ruler Title:** ...the Craftsman / Craftswoman (suffix)
+
 **Bonuses:**
 
 - +30% Building Capacity (Homes, Stables, Dungeons)
@@ -33,6 +35,8 @@ For 6 ticks after a successful attack, the target's building efficiency is reduc
 
 ## General
 
+**Ruler Title:** The Great (prefix)
+
 **Bonuses:**
 
 - +1 General
@@ -56,6 +60,8 @@ Attacks inflict +15% enemy military casualties when two or more generals are sen
 ---
 
 ## Heretic
+
+**Ruler Title:** ...the Skeptic (suffix)
 
 **Bonuses:**
 
@@ -89,6 +95,8 @@ Cooldown: 23 ticks
 
 ## Mystic
 
+**Ruler Title:** ...the Sorcerer / Sorceress (suffix)
+
 **Bonuses:**
 
 - +125% Guilds Effectiveness
@@ -112,6 +120,8 @@ While above 40% mana, all spells gain +20% Wizard Effectiveness (WPA).
 ---
 
 ## Necromancer
+
+**Ruler Title:** ...the Reanimator (suffix)
 
 **Bonuses:**
 
@@ -141,6 +151,8 @@ Successful offensive instant spells also kill 1% of the target's peasant populat
 
 ## Paladin
 
+**Ruler Title:** ...the Chivalrous (suffix)
+
 **Bonuses:**
 
 - +5% Population
@@ -161,6 +173,8 @@ All daily bonuses granted on the 1st of each month are doubled.
 
 ## Rogue
 
+**Ruler Title:** ...the Rogue (suffix)
+
 **Bonuses:**
 
 - +100% Thieves' Dens Effectiveness
@@ -179,6 +193,8 @@ Rogue provinces may perform thievery operations even while overpopulated.
 ---
 
 ## Tactician
+
+**Ruler Title:** The Conniving (prefix)
 
 **Bonuses:**
 
@@ -204,6 +220,8 @@ When successfully attacking with a dragon, 3% of your raw offense from units als
 
 ## War Hero
 
+**Ruler Title:** ...the Hero (suffix)
+
 **Bonuses:**
 
 - -30% Honor Losses
@@ -222,6 +240,8 @@ All successful attacks generate +2.5% additional Honor Gains.
 ---
 
 ## Warrior
+
+**Ruler Title:** The Brave (prefix)
 
 **Bonuses:**
 
