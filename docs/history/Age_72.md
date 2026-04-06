@@ -46,80 +46,160 @@
 
 ### Avians
 
+**Bonuses:**
+
 - Attack time -25%
 - Birth Rate +40%
 - Can Train Elites with Credits
-- **Spells:** Fanaticism, Greater Protection, Blood Lust
+
+**Penalties:**
+
 - Battle Gains -10%
 - Can't Use Stables
 - Minus 2000 Starting Spec Training Credits
 - 20% fewer credits generated
+
+**Spell Book:**
+
+- Fanaticism
+- Greater Protection
+- Blood Lust
+
+**Units:**
+
 - Elite: 11/4, 775GC, 10.5NW
 
 ### Dwarves
+
+**Bonuses:**
 
 - +25% Building Efficiency
 - -100% Construction Cost
 - -50% Construction Time
 - Use Credits to Raze
 - Access to Greater Arson
-- **Spells:** Mystic Aura
+
+**Penalties:**
+
 - Can't use Accelerated Construction
 - +100% food consumption
+
+**Spell Book:**
+
+- Mystic Aura
+
+**Units:**
+
 - Elite: 8/9, 900GC, 10NW
 
 ### Elves
+
+**Bonuses:**
 
 - +25% Instant Spell Damage
 - +35% WPA
 - +20% Towers Efficiency
 - +2 def spec strength
-- **Spells:** Clear Sight
+
+**Penalties:**
+
 - +50% Military Wages
-- 9/7, 1000GC, 10NW
+
+**Spell Book:**
+
+- Clear Sight
+
+**Units:**
+
+- Elite: 9/7, 1000GC, 10NW
 
 ### Faeries
 
-- All Spells (Including Tree of Gold; Excluding Paradise & Paladin Spells)
-- **Spells:** All Spells (Including Tree of Gold; Excluding Paradise & Paladin Spells)
+**Penalties:**
+
 - -10% Income
 - -5% Max Population
+
+**Spell Book:**
+
+- All Spells (Including Tree of Gold; Excluding Paradise & Paladin Spells)
+
+**Units:**
+
 - Elite: 5/10, 1050GC, 11NW
 
 ### Halflings
+
+**Bonuses:**
 
 - +10% Max Population
 - -50% Thief Cost
 - +40% TPA
 - +1 Extra Stealth
 - +1 ospec Strength
-- **Spells:** Mage's Fury, Aggression
+
+**Penalties:**
+
 - -5% Building Efficiency
 - -10% Birth Rate
+
+**Spell Book:**
+
+- Mage's Fury
+- Aggression
+
+**Units:**
+
 - Elite: 6/8, 700GC, 9NW
 
 ### Humans
+
+**Bonuses:**
 
 - +30% Income
 - Immune to Income Penalties
 - Increase Scientist Generation Rate +25%
 - +1 general
-- **Spells:** Greater Protection, Quick Feet
+
+**Penalties:**
+
 - -10% Spell Success (WPA)
 - +50% Rune Cost
+
+**Spell Book:**
+
+- Greater Protection
+- Quick Feet
+
+**Units:**
+
 - Elite: 11/5, 1050GC, 11NW
 
 ### Orcs
 
+**Bonuses:**
+
 - +20% Battle Gains
 - -100% Draft Cost
 - +15% Enemy Casualties on Attack
-- **Spells:** Reflect Magic, Blood Lust
+
+**Penalties:**
+
 - +10% Military Casualties
 - -10% TPA
+
+**Spell Book:**
+
+- Reflect Magic
+- Blood Lust
+
+**Units:**
+
 - Elite: 12/1, 1000GW, 11.5NW
 
 ### Undeads
+
+**Bonuses:**
 
 - Carries & Immune to Plague
 - No Food Required
@@ -128,22 +208,43 @@
 - Convert Specs to Elites
 - +2 Ospec strength
 - +1 Mana
-- **Spells:** Town Watch, Nightmare
+
+**Penalties:**
+
 - -15% Science Effectiveness
 - Can't Train Elites
 - Basic Thievery Only
+
+**Spell Book:**
+
+- Town Watch
+- Nightmare
+
+**Units:**
+
 - Elite: 11/3, 11.5NW
 
 ## Personalities
 
 ### Cleric
 
+**Bonuses:**
+
 - -35% Your Military Casualties (on attack or defense)
 - Immune to The Plague
-- Spell Book: Animate Dead, Greater Protection
+
+**Spell Book:**
+
+- Animate Dead
+- Greater Protection
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### Heretic
+
+**Bonuses:**
 
 - +20% Magic Science Effectiveness
 - +20% Thievery Science Effectiveness
@@ -151,62 +252,137 @@
 - +35% Runes Refunded on Spell Success
 - No wizards killed from failed spells
 - No thieves lost on failed ops
-- Spell Book: Nightmare, Blizzard and Revelation
+
+**Spell Book:**
+
+- Nightmare
+- Blizzard
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +100 Wizards and +200 thieves
 
 ### Mystic
 
+**Bonuses:**
+
 - All Guilds are 100% more effective
 - +75% Magic Science Effectiveness
-- Spell Book: Meteor Showers, Chastity, Revelation
+
+**Spell Book:**
+
+- Meteor Showers
+- Chastity
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +600 Wizards
 
 ### Paladin
 
+**Bonuses:**
+
 - Can Cast Fading Self Spells on Kingdom Members (success will be based on WPA)
 - Troops attacks dragon with 20% more strength
-- Spell Book: Fool's Gold, Paladin's Inspiration, Scientific Insights, Illuminate Shadows, Wrathful Smite, Divine Shield, Magic Ward, Barrier of Integrity
+
+**Spell Book:**
+
+- Fool's Gold
+- Paladin's Inspiration
+- Scientific Insights
+- Illuminate Shadows
+- Wrathful Smite
+- Divine Shield
+- Magic Ward
+- Barrier of Integrity
+
+**Starting Bonuses:**
+
 - Starts with 800 elites
 
 ### Rogue
+
+**Bonuses:**
 
 - +1 Stealth recovery per tick
 - Access to all thievery operations
 - Thieves Dens are 50% more effective
 - +50% Thievery Science Effectiveness
-- Spell Book: Gluttony and Revelation
+
+**Spell Book:**
+
+- Gluttony
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +400 thieves
 
 ### Sage
 
+**Bonuses:**
+
 - Protect 30% of scientists on abduct attack
 - Scientists are 25% more effective
-- Spell Book: Amnesia
+
+**Spell Book:**
+
+- Amnesia
+
+**Starting Bonuses:**
+
 - Starts with 25% extra scientists
 
 ### Tactician
 
+**Bonuses:**
+
 - -20% Attack Time
 - Accurate Espionage
-- Spell Book: Clear Sight
+
+**Spell Book:**
+
+- Clear Sight
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### Warrior
 
+**Bonuses:**
+
 - +5% Offensive Military Efficiency
 - +10% Offensive Military Efficiency in war
 - Enhanced Conquest range
-- Spell Book: Fanaticism
+
+**Spell Book:**
+
+- Fanaticism
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### War Hero
+
+**Bonuses:**
 
 - Converts some Specialists into Elites on successful land attacks (increasing this amount by ~20%)
 - Immune to Dragon
 - Income penalty effects
 - +5% Battle Gains
 - +100% Honor Bonuses
-- Spell Book: War Spoils, Pitfalls
+
+**Spell Book:**
+
+- War Spoils
+- Pitfalls
+
+**Starting Bonuses:**
+
 - Starts with 800 elites
 
 ## Stances

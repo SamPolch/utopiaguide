@@ -51,171 +51,375 @@ Stats listed here considered 'base effectiveness'
 
 ### Avians
 
+**Bonuses:**
+
 - -30% Attack travel time
 - +20% Birth Rate
 - +25% Specialist Credits from Attacks
-- **Spells:** Fanaticism, Greater Protection, Aggression, Bloodlust
+
+**Penalties:**
+
 - Cannot Use War Horses or Stables
+
+**Spell Book:**
+
+- Fanaticism
+- Greater Protection
+- Aggression
+- Bloodlust
+
+**Units:**
+
 - Elite: 8/2, 850gc, 8.5 NW
 
 ### Bocans
 
+**Bonuses:**
+
 - +20% Sabotage Damage
 - +50% Honor Bonuses
 - Can Train Thieves using Specialist Credits
-- **Spells:** Invisibility, Inspire Army, Nightmare
+
+**Spell Book:**
+
+- Invisibility
+- Inspire Army
+- Nightmare
+
+**Units:**
+
 - Elite: 5/8, 1000gc, 9.5 NW
 
 ### Dark Elves
 
+**Bonuses:**
+
 - +25% Instant Spell Damage
 - +2 Offensive Specialist Strength
 - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md)
-- **Spells:** Nightmare
+
+**Penalties:**
+
 - +20% Wages
-- 4/8, 1050gc, 10.5 NW
+
+**Spell Book:**
+
+- Nightmare
+
+**Units:**
+
+- Elite: 4/8, 1050gc, 10.5 NW
 
 ### Dryads
+
+**Bonuses:**
 
 - All land produces food
 - -30% Military Train Time
 - Mercenaries & Prisoners 7/0
 - War Horses 3/0
-- **Spells:** Inspire Army
+
+**Penalties:**
+
 - +15% Attack Travel Time
 - -15% Enemy Military Casualties
+
+**Spell Book:**
+
+- Inspire Army
+
+**Units:**
+
 - Elite: 10/1, 950gc, 9 NW
 
 ### Dwarves
 
+**Bonuses:**
+
 - +20% Building Efficiency
 - Free Building Construction
 - -50% Building Construction Time
-- **Spells:** Mystic Aura, Inspire Army
+
+**Penalties:**
+
 - Can't use Accelerated Construction
 - +75% Food consumption
+
+**Spell Book:**
+
+- Mystic Aura
+- Inspire Army
+
+**Units:**
+
 - Elite: 7/5, 950gc, 9.0 NW
 
 ### Elves
 
+**Bonuses:**
+
 - +35% Wizardry Effectiveness (WPA)
 - +25% Tower Effectiveness
 - +2 Defensive Specialist Strength
-- **Spells:** Inspire Army, Mage's Fury, Chastity
+
+**Spell Book:**
+
+- Inspire Army
+- Mage's Fury
+- Chastity
+
+**Units:**
+
 - Elite: 7/5, 1025gc, 10.0 NW
 
 ### Faeries
 
+**Bonuses:**
+
 - +35% Self Spell Duration (will not affect spells on others)
 - Can Cast Fading Spells on Kingdom Mates
-- **Spells:** Fool's Gold, Greater Protection, Invisibility, Mystic Aura, Reflect Magic, Tree of Gold, Animate Dead, Mage's Fury
+
+**Penalties:**
+
 - -10% Income
+
+**Spell Book:**
+
+- Fool's Gold
+- Greater Protection
+- Invisibility
+- Mystic Aura
+- Reflect Magic
+- Tree of Gold
+- Animate Dead
+- Mage's Fury
+
+**Units:**
+
 - Elite: 3/8, 1200gc, 11.0 NW
 
 ### Halflings
 
+**Bonuses:**
+
 - +50% Thievery Effectiveness (TPA)
 - +10% Population
 - -50% Thief Costs
-- **Spells:** Aggression, Town Watch
+
+**Penalties:**
+
 - -10% Building Effectiveness
+
+**Spell Book:**
+
+- Aggression
+- Town Watch
+
+**Units:**
+
 - Elite: 5/7, 1000gc, 9.5 NW
 
 ### Humans
 
+**Bonuses:**
+
 - +30% Income
 - +15% Credits (Building & Training)
 - +35% Scientist Spawn Rate
-- **Spells:** Greater Protection, Inspire Army, Quick Feet
+
+**Penalties:**
+
 - -10% Wizardry Effectiveness (WPA)
 - +20% Rune Costs
+
+**Spell Book:**
+
+- Greater Protection
+- Inspire Army
+- Quick Feet
+
+**Units:**
+
 - Elite: 7/5, 1025gc, 10.5 NW
 
 ### Orcs
 
+**Bonuses:**
+
 - +15% Battle Gains
 - +15% Enemy casualties when attacking
 - Free draft
-- **Spells:** Reflect Magic
+
+**Penalties:**
+
 - +10% Military Casualties
 - -15% Thievery Effectiveness (TPA)
+
+**Spell Book:**
+
+- Reflect Magic
+
+**Units:**
+
 - Elite: 9/2, 950gc, 9.0 NW
 
 ## Personalities
 
 ### Heretic
 
+**Bonuses:**
+
 - +100% Guilds Effectiveness
 - Wizards do not die on failed spells
 - -66% Thieves lost on failed ops
 - +40% Magic and Thievery Science Effectiveness
 - +1 Mana per Tick
-- Access to Blizzard and Revelation
+
+**Spell Book:**
+
+- Blizzard
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +400 wizards and +400 thieves
 
 ### Mystic
 
+**Bonuses:**
+
 - +200% Guilds Effectiveness
 - +100% Magic Science Effectiveness
 - +20% Instant Spell Damage
-- Access to Meteor Showers, Chastity, Revelation and Paradise
+
+**Spell Book:**
+
+- Meteor Showers
+- Chastity
+- Revelation
+- Paradise
+
+**Starting Bonuses:**
+
 - Starts with +800 wizards
 
 ### Paladin
+
+**Bonuses:**
 
 - +100% Guilds Effectiveness
 - +35% Dragon-slaying Unit Strength
 - -20% Military Casualties
 - Immune to the Plague
-- Access to all Paladin-Only Spells, Fool's Gold, Town Watch
+
+**Spell Book:**
+
+- All Paladin-Only Spells
+- Fool's Gold
+- Town Watch
+
+**Starting Bonuses:**
+
 - Starts with +400 soldiers, +400 specialist credits and +400 wizards
 
 ### Rogue
+
+**Bonuses:**
 
 - +50% Guilds Effectiveness
 - +50% Thieves' Dens Effectiveness
 - +50% Thievery Science Effectiveness
 - +1 Stealth per Tick
 - Access to all thievery operations, including 3 unique to Rogues: Greater Arson, Assassinate Wizards and Propaganda
-- Spell Book: Gluttony, Paradise and Revelation
+
+**Spell Book:**
+
+- Gluttony
+- Paradise
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +800 thieves
 
 ### Sage
 
+**Bonuses:**
+
 - -30% Losses from Abducts
 - +35% Science Effectiveness
-- Access to Amnesia
+
+**Spell Book:**
+
+- Amnesia
+
+**Starting Bonuses:**
+
 - Starts with +50% scientists
 
 ### Tactician
 
+**Bonuses:**
+
 - -15% Attack Time
 - Accurate Espionage
-- Access to Clear Sight
+
+**Spell Book:**
+
+- Clear Sight
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### Undead
 
+**Bonuses:**
+
 - Spreads and is Immune to The Plague
 - -40% Offensive Casualties
-- Access to Greater Protection, Animate Dead
+
+**Spell Book:**
+
+- Greater Protection
+- Animate Dead
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### War Hero
+
+**Bonuses:**
 
 - Immune to Dragons
 - Immune to Income Penalty effects
 - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md)
 - +100% Honor Bonuses
-- Access to War Spoils, Pitfalls
+
+**Spell Book:**
+
+- War Spoils
+- Pitfalls
+
+**Starting Bonuses:**
+
 - Starts with 800 elites
 
 ### Warrior
 
+**Bonuses:**
+
 - +10% Offensive Military Efficiency
 - +20% Military Science Effectiveness
 - Full Conquest Access (Regardless of NW range)
-- Access to Fanaticism
+
+**Spell Book:**
+
+- Fanaticism
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ## Rituals

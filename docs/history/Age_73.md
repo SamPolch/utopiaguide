@@ -38,84 +38,175 @@
 
 ### Avians
 
+**Bonuses:**
+
 - -25% Attack travel time
 - +40% Birth Rate
 - Can Train Elites with Credits
-- **Spells:** Fanaticism, Greater Protection, Blood Lust
+
+**Penalties:**
+
 - -5% Combat Gains
 - -2000 Starting Credits
 - -20% Training Credits
 - Cannot Use War Horses
+
+**Spell Book:**
+
+- Fanaticism
+- Greater Protection
+- Blood Lust
+
+**Units:**
+
 - Elite: 9/4, 775gc, 10.5 NW
 
 ### Bocans
 
+**Bonuses:**
+
 - Ignores Watchtowers
 - +1 Stealth per tick
 - +50% Effects from Honor
-- **Spells:** Invisibility
+
+**Penalties:**
+
 - -15% Sabotage Damage
+
+**Spell Book:**
+
+- Invisibility
+
+**Units:**
+
 - Elite: 4/6, 450gc, 7 NW
 
 ### Dark Elves
+
+**Bonuses:**
 
 - +1 Offensive Specialist strength
 - +25% Spell Success (WPA)
 - +30% Combat Instant Spell Damage
 - 35% Runes Refunded on Successful Spells
-- **Spells:** Nightmare, Mage's Fury
+
+**Penalties:**
+
 - -1 Defensive Spec Strength
-- 4/7, 750gc, 10 NW
+
+**Spell Book:**
+
+- Nightmare
+- Mage's Fury
+
+**Units:**
+
+- Elite: 4/7, 750gc, 10 NW
 
 ### Dryads
+
+**Bonuses:**
 
 - All land produces food
 - Mercenaries & Prisoners 7/0
 - War Horses 3/0
-- **Spells:** Aggression, Quick Feet
+
+**Penalties:**
+
 - +25% Attack Travel Time
 - -15% Enemy Military Casualties
+
+**Spell Book:**
+
+- Aggression
+- Quick Feet
+
+**Units:**
+
 - Elite: 12/2, 950gc, 11 NW
 
 ### Dwarves
 
+**Bonuses:**
+
 - +20% Building Efficiency
 - Free Building Construction and Can Use Credits to Raze Buildings
 - -50% Building Construction Time
-- **Spells:** Mystic Aura
+
+**Penalties:**
+
 - Can't use Accelerated Construction
 - +100% Food consumption
+
+**Spell Book:**
+
+- Mystic Aura
+
+**Units:**
+
 - Elite: 7/4, 900gc, 10 NW
 
 ### Faeries
 
-- All Spells (Except Paladin Only & Paradise)
-- **Spells:** All Spells (Excluding Paradise & Paladin Spells)
+**Penalties:**
+
 - -15% Income
+
+**Spell Book:**
+
+- All Spells (Excluding Paradise & Paladin Spells)
+
+**Units:**
+
 - Elite: 2/8, 900gc, 10.5 NW
 
 ### Humans
+
+**Bonuses:**
 
 - +30% Income
 - -25% Wages
 - Immune to Income Penalties
 - +25% Increase Sci Spawn
-- **Spells:** Greater Protection
+
+**Penalties:**
+
 - -15% Spell Success (WPA)
 - +30% Rune Costs
+
+**Spell Book:**
+
+- Greater Protection
+
+**Units:**
+
 - Elite: 8/3, 900gc, 10 NW
 
 ### Orcs
 
+**Bonuses:**
+
 - +30% Battle Gains
 - Free draft
 - +20% Enemy casualties when attacking
-- **Spells:** Reflect Magic, Blood Lust
+
+**Penalties:**
+
 - +10% Military Casualties
 - -15% Thievery Effectiveness (TPA)
+
+**Spell Book:**
+
+- Reflect Magic
+- Blood Lust
+
+**Units:**
+
 - Elite: 10/1, 900gc, 9.5 NW
 
 ### Undeads
+
+**Bonuses:**
 
 - -50% Offensive losses on attacks you make
 - Spreads and is Immune to The Plague
@@ -124,86 +215,184 @@
 - Defensive losses automatically convert to soldiers(Permanent Animate Dead)
 - +2 Offensive Specialist strength
 - +1 Mana per tick
-- **Spells:** Town Watch, Nightmare
+
+**Penalties:**
+
 - Basic Thievery (Intel Operations Only)
 - No Elite Training
 - -15% Science Effectiveness
+
+**Spell Book:**
+
+- Town Watch
+- Nightmare
+
+**Units:**
+
 - Elite: 11/2, 10.5 NW
 
 ## Personalities
 
 ### Cleric
 
+**Bonuses:**
+
 - -35% Your Military Casualties (on attack or defense)
 - Immune to The Plague
 - +15% Population Science Effectiveness
-- Spell Book: Animate Dead, Greater Protection
+
+**Spell Book:**
+
+- Animate Dead
+- Greater Protection
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### Heretic
+
+**Bonuses:**
 
 - +15% Spell and Operation Damage
 - +10% Magic Science Effectiveness
 - +10% Thievery Science Effectiveness
 - No wizards killed from failed spells
 - -50% thieves lost on failed ops
-- Spell Book: Nightmare, Blizzard and Revelation
+
+**Spell Book:**
+
+- Nightmare
+- Blizzard
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +150 wizards and +300 thieves
 
 ### Mystic
 
+**Bonuses:**
+
 - All Guilds are 100% more effective
 - +75% Magic Science Effectiveness
 - +20% Spell Damage
-- Spell Book: Meteor Showers, Chastity, Revelation and Paradise
+
+**Spell Book:**
+
+- Meteor Showers
+- Chastity
+- Revelation
+- Paradise
+
+**Starting Bonuses:**
+
 - Starts with +800 Wizards
 
 ### Paladin
 
+**Bonuses:**
+
 - Can Cast Fading Self Spells on Kingdom Members (success will be based on WPA)
 - Troops attacks dragon with 25% more strength
-- Spell Book: Fool's Gold, Paladin's Inspiration, Scientific Insights, Illuminate Shadows, Wrathful Smite, Divine Shield, Magic Ward, Barrier of Integrity
+
+**Spell Book:**
+
+- Fool's Gold
+- Paladin's Inspiration
+- Scientific Insights
+- Illuminate Shadows
+- Wrathful Smite
+- Divine Shield
+- Magic Ward
+- Barrier of Integrity
+
+**Starting Bonuses:**
+
 - Starts with +400 soldiers, +400 specialist credits and +400 wizards
 
 ### Rogue
+
+**Bonuses:**
 
 - +1 Stealth recovery per tick
 - Access to all thievery operations
 - Thieves Dens are 50% more effective
 - +50% Thievery Science Effectiveness
-- Spell Book: Gluttony, Paradise and Revelation
+
+**Spell Book:**
+
+- Gluttony
+- Paradise
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +800 thieves
 
 ### Sage
 
+**Bonuses:**
+
 - Protect 30% of scientists on abduct attack
 - Scientists are 30% more effective
-- Spell Book: Amnesia
+
+**Spell Book:**
+
+- Amnesia
+
+**Starting Bonuses:**
+
 - Starts with 50% extra scientists
 
 ### Tactician
 
+**Bonuses:**
+
 - -15% Attack Time
 - Accurate Espionage
-- Spell Book: Clear Sight
+
+**Spell Book:**
+
+- Clear Sight
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### Warrior
 
+**Bonuses:**
+
 - +10% Offensive Military Efficiency
 - +15% Military Science Effectiveness
 - Full Conquest Access (Regardless of NW range)
-- Spell Book: Fanaticism
+
+**Spell Book:**
+
+- Fanaticism
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### War Hero
+
+**Bonuses:**
 
 - Converts some Specialists into Elites on successful Traditional March attacks
 - Immune to Dragon
 - Income penalty effects
 - +5% Battle Gains
 - +100% Honor Bonuses
-- Spell Book: War Spoils, Pitfalls
+
+**Spell Book:**
+
+- War Spoils
+- Pitfalls
+
+**Starting Bonuses:**
+
 - Starts with 800 elites
 
 ## Stances

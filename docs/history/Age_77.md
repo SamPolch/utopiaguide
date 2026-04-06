@@ -54,72 +54,156 @@ Stats listed here considered 'base effectiveness'
 
 ### Avians
 
+**Bonuses:**
+
 - -25% Attack travel time
 - +40% Birth Rate
 - +25% Specialist Credits from Attacks
-- **Spells:** Fanaticism and Greater Protection
+
+**Penalties:**
+
 - Cannot Use War Horses or Stables
+
+**Spell Book:**
+
+- Fanaticism
+- Greater Protection
+
+**Units:**
+
 - Elite: 8/2, 850gc, 8.5 NW
 
 ### Dwarves
 
+**Bonuses:**
+
 - +20% Building Efficiency
 - Free Building Construction
 - -50% Building Construction Time
-- **Spells:** Mystic Aura, Inspire Army
+
+**Penalties:**
+
 - Can't use Accelerated Construction
 - +50% Food consumption
+
+**Spell Book:**
+
+- Mystic Aura
+- Inspire Army
+
+**Units:**
+
 - Elite: 7/5, 950gc, 9.5 NW
 
 ### Elves
 
+**Bonuses:**
+
 - +35% Wizardry Effectiveness (WPA)
 - +20% Tower Effectiveness
 - +1 Defensive Specialist Strength
-- **Spells:** Inspire Army
+
+**Spell Book:**
+
+- Inspire Army
+
+**Units:**
+
 - Elite: 7/3, 975gc, 9.0 NW
 
 ### Faeries
 
+**Bonuses:**
+
 - +20% Self Spell Duration (will not affect spells on others)
 - +20% Sabotage Damage
 - +1% Extra Stealth Per Tick
-- **Spells:** Greater Protection, Tree of Gold, Animate Dead and Mystic Aura
+
+**Penalties:**
+
 - -10% Income
+
+**Spell Book:**
+
+- Greater Protection
+- Tree of Gold
+- Animate Dead
+- Mystic Aura
+
+**Units:**
+
 - Elite: 3/8, 1150gc, 10.0 NW
 
 ### Halflings
 
+**Bonuses:**
+
 - +30% Thievery Effectiveness (TPA)
 - +5% Population
 - -50% Thief Costs
-- **Spells:** Aggression, Town Watch
+
+**Penalties:**
+
 - -5% Building Effectiveness
+
+**Spell Book:**
+
+- Aggression
+- Town Watch
+
+**Units:**
+
 - Elite: 5/7, 900gc, 9.0 NW
 
 ### Humans
+
+**Bonuses:**
 
 - +30% Income
 - +15% Credits (Building & Training)
 - +25% Scientist Spawn Rate
 - Income Penalty Protection
-- **Spells:** Greater Protection, Inspire Army, Quick Feet
+
+**Penalties:**
+
 - -15% Wizardry Effectiveness (WPA)
+
+**Spell Book:**
+
+- Greater Protection
+- Inspire Army
+- Quick Feet
+
+**Units:**
+
 - Elite: 8/3, 1100gc, 9.5 NW
 
 ### Orcs
 
+**Bonuses:**
+
 - +20% Battle Gains
 - +15% Enemy casualties when attacking
 - Free draft
-- **Spells:** Reflect Magic
+
+**Penalties:**
+
 - +10% Own casualties when attacking
 - -15% Thievery Effectiveness (TPA)
+
+**Spell Book:**
+
+- Reflect Magic
+
+**Units:**
+
 - Elite: 9/2, 950gc, 9.0 NW
 
 ## Personalities
 
 ### Heretic
+
+**Bonuses:**
 
 - -66% Thieves lost on failed ops
 - +100% Land Effect
@@ -128,72 +212,160 @@ Stats listed here considered 'base effectiveness'
 - +30% Thievery Science Effectiveness
 - +1% Extra Mana Per Tick
 - No wizards killed from failed spells
-- Access to Blizzard, Fools Gold, Nightmare and Chastity
+
+**Spell Book:**
+
+- Blizzard
+- Fools Gold
+- Nightmare
+- Chastity
+
+**Starting Bonuses:**
+
 - Starts with +400 wizards and +400 thieves
 
 ### Mystic
 
+**Bonuses:**
+
 - +200% Guilds Effectiveness
 - +75% Magic Science Effectiveness
 - +20% Instant Spell Damage
-- Access to Meteor Showers, Chastity, Paradise and Mage's Fury
+
+**Spell Book:**
+
+- Meteor Showers
+- Chastity
+- Paradise
+- Mage's Fury
+
+**Starting Bonuses:**
+
 - Starts with +800 wizards
 
 ### Paladin
 
+**Bonuses:**
+
 - +50% Guilds Effectiveness
 - +25% Dragon-slaying Unit Strength
-- Access to Paladins Inspiration, Divine Shield, Magic Ward, Scientific Insight, Illuminate Shadows, Wrathful Smite and Barrier of Integrity
+
+**Spell Book:**
+
+- Paladins Inspiration
+- Divine Shield
+- Magic Ward
+- Scientific Insight
+- Illuminate Shadows
+- Wrathful Smite
+- Barrier of Integrity
+
+**Starting Bonuses:**
+
 - Starts with +400 soldiers, +400 specialist credits and +400 wizards
 
 ### Rogue
+
+**Bonuses:**
 
 - +50% Guilds Effectiveness
 - +75% Thieves' Dens Effectiveness
 - +50% Thievery Science Effectiveness
 - +1 Stealth per Tick
 - Access to all thievery operations, including 3 unique to Rogues: Greater Arson, Assassinate Wizards and Propaganda
-- Spell Book: Gluttony, Paradise and Invisibility
+
+**Spell Book:**
+
+- Gluttony
+- Paradise
+- Invisibility
+
+**Starting Bonuses:**
+
 - Starts with +800 thieves
 
 ### Sage
 
+**Bonuses:**
+
 - +35% Land Effect
 - Laboratories
 - +30% Science Effectiveness
-- Access to Amnesia and Revelation
+
+**Spell Book:**
+
+- Amnesia
+- Revelation
+
+**Starting Bonuses:**
+
 - Starts with +100% scientists
 
 ### Tactician
 
+**Bonuses:**
+
 - -15% Attack Time
 - Accurate Espionage
-- Access to Clear Sight and Fanaticism
+
+**Spell Book:**
+
+- Clear Sight
+- Fanaticism
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### Undead
+
+**Bonuses:**
 
 - -30% Own casualties when attacking
 - -30% Own casualties when defending
 - Always Carries and is Immune to the Plague
 - Chance to Spread Plague
-- Access to Greater Protection and Animate Dead
+
+**Spell Book:**
+
+- Greater Protection
+- Animate Dead
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ### War Hero
+
+**Bonuses:**
 
 - +100% Honor Bonus
 - Dragon Immunity
 - Offensive specialist gets +1 strength
 - Convert Specialists into Elites
-- Access to War Spoils, Pitfalls
+
+**Spell Book:**
+
+- War Spoils
+- Pitfalls
+
+**Starting Bonuses:**
+
 - Starts with 800 elites
 
 ### Warrior
 
+**Bonuses:**
+
 - +10% Offensive Military Efficiency
 - Full Conquest Access (Regardless of NW range)
-- Access to Bloodlust
+
+**Spell Book:**
+
+- Bloodlust
+
+**Starting Bonuses:**
+
 - Starts with +800 soldiers and +800 specialist credits
 
 ## Rituals
