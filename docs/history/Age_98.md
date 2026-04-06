@@ -1,21 +1,10 @@
-# Age 98
+# Age 98 — Keen Transformation
 
-| **Age 98** | |
-| --- | --- |
-| Name: | **Keen Transformation** |
-| Number: | 98 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Ended |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | Wednesday Sept 7, 2022 @ 18:00 GMT |
-| End: | Saturday, November 19, 2022 @ 00:00 GMT |
-| Duration (in days): | 74 |
+**WoL Age 98 Start:** Wednesday Sept 7, 2022 @ 18:00 GMT
+**WoL Age 98 End:** Saturday, November 19, 2022 @ 00:00 GMT
+**Duration:** 74
 
-# Keen Transformation
-
-Original details can be found in the forums here: [Age 98 Finals](http://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)
+**Forum Source:** [Age 98 Finals](http://forums.utopia-game.com/showthread.php?640293-Age-98-FINAL-Changes)
 
 ### Mechanical Changes
 

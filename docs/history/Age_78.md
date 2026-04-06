@@ -1,21 +1,10 @@
-# Age 78
+# Age 78 — The Age of Insight
 
-| **Age 78** | |
-| --- | --- |
-| Name: | **The Age of Insight** |
-| Number: | 78 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Finished |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | 8 Oct 2018 |
-| End: | 17 Nov 2018 |
-| Duration (in days): | 5 weeks |
+**WoL Age 78 Start:** 8 Oct 2018
+**WoL Age 78 End:** 17 Nov 2018
+**Duration:** 5 weeks
 
-**The Age of Insight**  (Age 78) - completed Age on [World of Legends](World_of_Legends.md) server.
-
-# Mechanics Changes
+## Mechanics Changes
 
 ### Attacks & Relations
 
@@ -114,34 +103,143 @@ Stats listed here considered 'base effectiveness'
 
 - The History page in the advisor section will be updated with more unique information for your viewing pleasure
 
-# Races
+## Races
 
-| Avians | Dwarves | Elves | Faeries |
-| --- | --- | --- | --- |
-| - -30% Attack travel time - +40% Birth Rate - +35% Specialist Credits from Attacks | - +25% Building Efficiency - Free Building Construction - -50% Building Construction Time | - +35% Wizardry Effectiveness (WPA) - +30% Tower Effectiveness - +1 Defensive Specialist Strength | - +30% Self Spell Duration (will not affect spells on others) - +20% Sabotage Operation Damage |
-| Fanaticism, Greater Protection | Mystic Aura, Inspire Army | Inspire Army | Animate Dead, Greater Protection, Mystic Aura, Tree of Gold |
-| - Cannot Use War Horses or Stables - -5% Battle Gains | - Can't use Accelerated Construction - +75% Food consumption | - +30% Wages | - -10% Income |
-| Elite: 8/3, 900gc, 9 NW | Elite: 7/4, 925gc, 9 NW | Elite: 8/3, 950gc, 9.5 NW | Elite: 3/8, 1100gc, 10.0 NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+### Avians
 
-| Halflings | Humans | Orcs |  |
-| --- | --- | --- | --- |
-| - +30% Thievery Effectiveness (TPA) - +7% Population - -50% Thief Costs - +1 Offense/Defense Soldiers | - +30% Income - Income Penalty Protection - +15% Building and Specialist Credits from Attacks | - +20% Battle Gains - +15% Enemy casualties when attacking - -75% Draft Costs |
-| Aggression, Town Watch | Greater Protection, Inspire Army, Quick Feet | Reflect Magic |
-| - -5% Building Effectiveness | - -10% Wizardry Effectiveness (WPA) and Self Spell Success Chance | - +10% Military Casualties - -10% Science Effectiveness |
-| Elite: 5/7, 900gc, 9.5 NW | Elite: 8/3, 1100gc, 9.5 NW | Elite: 9/2, 925gc, 9.0 NW |
+- -30% Attack travel time
+- +40% Birth Rate
+- +35% Specialist Credits from Attacks
+**Spells:** Fanaticism, Greater Protection
+- Cannot Use War Horses or Stables
+- -5% Battle Gains
+- Elite: 8/3, 900gc, 9 NW
 
-# Personalities
+### Dwarves
 
-| Heretic | Mystic | Paladin | Rogue |
-| --- | --- | --- | --- |
-| - +100% Guilds Effectiveness - Wizards do not die on failed spells - -66% Thieves lost on failed ops - +40% Channeling and Crime Science Effectiveness - +1 Mana per Tick - Access to Blizzard, Chastity, Fool's Gold and Nightmare  - Starts with +400 wizards and +400 thieves | - +200% Guilds Effectiveness - +100% Channeling Science Effectiveness - +20% Instant Spell Damage - Access to Chastity, Mage's Fury, Meteor Showers and Paradise  - Starts with +800 wizards | - Can cast support spells on Kingdom mates - +50% Guilds Effectiveness - +30% Dragon-slaying Unit Strength - Access to all Paladin-Only Spells  - Starts with +400 soldiers, +400 specialist credits and +400 wizards | - +50% Guilds Effectiveness - +75% Thieves' Dens Effectiveness - +50% Crime Science Effectiveness - +1 Stealth per Tick - Access to all thievery operations, including 3 unique to Rogues: Greater Arson, Assassinate Wizards and Propaganda - Spell Book: Gluttony, Invisibility and Paradise  - Starts with +800 thieves |
+- +25% Building Efficiency
+- Free Building Construction
+- -50% Building Construction Time
+**Spells:** Mystic Aura, Inspire Army
+- Can't use Accelerated Construction
+- +75% Food consumption
+- Elite: 7/4, 925gc, 9 NW
 
-| Tactician | Undead | War Hero | Warrior |
-| --- | --- | --- | --- |
-| - -15% Attack Time - Accurate Espionage - Access to Clear Sight and Fanaticism  - Starts with +800 soldiers and +800 specialist credits | - Spreads and is Immune to The Plague - -30% Military Casualties in Combat - Access to Animate Dead and Greater Protection  - Starts with +800 soldiers and +800 specialist credits | - +100% Honor Bonuses - Immune to Dragons - +1 Offense Specialist Strength - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md) - Access to Pitfalls and War Spoils  - Starts with 800 elites | - +10% Offensive Military Efficiency - Full Conquest Access (Regardless of Networth range) - Access to Bloodlust  - Starts with +800 soldiers and +800 specialist credits |
+### Elves
 
-# Rituals
+- +35% Wizardry Effectiveness (WPA)
+- +30% Tower Effectiveness
+- +1 Defensive Specialist Strength
+**Spells:** Inspire Army
+- +30% Wages
+- Elite: 8/3, 950gc, 9.5 NW
+
+### Faeries
+
+- +30% Self Spell Duration (will not affect spells on others)
+- +20% Sabotage Operation Damage
+**Spells:** Animate Dead, Greater Protection, Mystic Aura, Tree of Gold
+- -10% Income
+- Elite: 3/8, 1100gc, 10.0 NW
+
+### Halflings
+
+- +30% Thievery Effectiveness (TPA)
+- +7% Population
+- -50% Thief Costs
+- +1 Offense/Defense Soldiers
+**Spells:** Aggression, Town Watch
+- -5% Building Effectiveness
+- Elite: 5/7, 900gc, 9.5 NW
+
+### Humans
+
+- +30% Income
+- Income Penalty Protection
+- +15% Building and Specialist Credits from Attacks
+**Spells:** Greater Protection, Inspire Army, Quick Feet
+- -10% Wizardry Effectiveness (WPA) and Self Spell Success Chance
+- Elite: 8/3, 1100gc, 9.5 NW
+
+### Orcs
+
+- +20% Battle Gains
+- +15% Enemy casualties when attacking
+- -75% Draft Costs
+**Spells:** Reflect Magic
+- +10% Military Casualties
+- -10% Science Effectiveness
+- Elite: 9/2, 925gc, 9.0 NW
+
+## Personalities
+
+### Heretic
+
+- +100% Guilds Effectiveness
+- Wizards do not die on failed spells
+- -66% Thieves lost on failed ops
+- +40% Channeling and Crime Science Effectiveness
+- +1 Mana per Tick
+- Access to Blizzard, Chastity, Fool's Gold and Nightmare
+- Starts with +400 wizards and +400 thieves
+
+### Mystic
+
+- +200% Guilds Effectiveness
+- +100% Channeling Science Effectiveness
+- +20% Instant Spell Damage
+- Access to Chastity, Mage's Fury, Meteor Showers and Paradise
+- Starts with +800 wizards
+
+### Paladin
+
+- Can cast support spells on Kingdom mates
+- +50% Guilds Effectiveness
+- +30% Dragon-slaying Unit Strength
+- Access to all Paladin-Only Spells
+- Starts with +400 soldiers, +400 specialist credits and +400 wizards
+
+### Rogue
+
+- +50% Guilds Effectiveness
+- +75% Thieves' Dens Effectiveness
+- +50% Crime Science Effectiveness
+- +1 Stealth per Tick
+- Access to all thievery operations, including 3 unique to Rogues: Greater Arson, Assassinate Wizards and Propaganda
+- Spell Book: Gluttony, Invisibility and Paradise
+- Starts with +800 thieves
+
+### Tactician
+
+- -15% Attack Time
+- Accurate Espionage
+- Access to Clear Sight and Fanaticism
+- Starts with +800 soldiers and +800 specialist credits
+
+### Undead
+
+- Spreads and is Immune to The Plague
+- -30% Military Casualties in Combat
+- Access to Animate Dead and Greater Protection
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- +100% Honor Bonuses
+- Immune to Dragons
+- +1 Offense Specialist Strength
+- Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md)
+- Access to Pitfalls and War Spoils
+- Starts with 800 elites
+
+### Warrior
+
+- +10% Offensive Military Efficiency
+- Full Conquest Access (Regardless of Networth range)
+- Access to Bloodlust
+- Starts with +800 soldiers and +800 specialist credits
+
+## Rituals
 
 | Kingdom Rituals | |
 | --- | --- |
@@ -154,7 +252,7 @@ Stats listed here considered 'base effectiveness'
 | Havoc | - +30% Offensive WPA/TPA, +10% Spell/Thief Damage |
 | Onslaught | - +10% Offensive Military Efficiency, +15% Offensive Enemy Casualties |
 
-# Dragons
+## Dragons
 
 | Dragon Type | | | |
 | --- | --- | --- | --- |

@@ -1,21 +1,10 @@
-# Age 55
+# Age 55 — Veil of Shadows
 
-| **Age 55** | |
-| --- | --- |
-| Name: | **Veil of Shadows** |
-| Number: | 55 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | finished |
-| Owner: | [Arcadia Games](../misc/Brian_&_Sean.md) |
-| **Dates** | |
-| Start: | 10 August 2012 |
-| End: | 13 November 2012 |
-| Duration (in days): | 95 |
+**WoL Age 55 Start:** 10 August 2012
+**WoL Age 55 End:** 13 November 2012
+**Duration:** 95
 
-**Veil of Shadows** (Age 55) - finished Age on [World of Legends](World_of_Legends.md) server.
-
-# Changes in brief
+## Changes in brief
 
 ## Race's Changes
 
@@ -69,49 +58,150 @@
 - Entering Fortified stance will result in -50% magic and thief operation gains. This kicks in immediately for the fortified kingdom and slides in over 24 hours for the rest.
 - Sabotage damage mods will increase the thievery damage cap, watchtowers will decrease it.
 
-# Races
+## Races
 
-| Avians | Dwarves | Elves | Faeries |
-| --- | --- | --- | --- |
-| - - 30% Attack Time - + 20% Sabotage Damage | - + 20% Building Efficiency - Free Building Construction - Can use credits to raze buildings - + 30% Spell Damage (Instant Spells) | - + 1 Mana Recovery / Tick in war - + 50 % WPA - + 1 Defence Specialist Strength | - + 30 % Spell Damage (Instant Spells) - + 20 % Sabotage Damage - + 30 % WPA and TPA |
-| Town Watch, Vermin, Mystic Aura | Quick Feet, Fanaticism, Fools Gold, Clearsight | Pitfalls, Mages Fury, Amnesia, Nightmare | Access to All Racial Spells |
-| - - 10% Attack Gains - No Access to Stables | - + 50% Food Consumption - Can't use Accelerated Construction |  | - - 5 % Population - - 3 Generals |
-| Elite: 6/3, 700gc, 5.25NW | Elite: 6/2, 650gc, 5NW | Elite: 5/3, 650gc, 4.75NW | Elite: 3/6, 800gc, 6NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+### Avians
 
-| Halflings | Humans | Orcs | Undead |
-| --- | --- | --- | --- |
-| - + 50 % TPA - + 1 Stealth Recovery / Tick - - 50 % Thief Cost - Soldiers: 2/2 (3NW) | - + 5 % Population - + 30 % Sabotage Damage - + 40 % Spell Damage (Instant Spells) - + 1 Offense Specialist Strength | - + 20 % Gains - Earns Elite Credits | - - 50% Offensive losses on attacks you make - Converts some Specialists into Elites on successful land attacks - Spreads and is Immune to The Plague - No Food Required |
-| Invisibility, Town Watch | Tree of Gold, Fountain of Knowledge, War Spoils | Bloodlust, Fanaticism, Aggression, Reflect Magic | Greater Protection, Town Watch, Animate Dead, Chastity |
-| - - 15 % Birthrate |  | - - 75 % Combat Instant Spell Damage and Duration - - 75 % Sabotage Damage | - - 25% science effectiveness |
-| Elite: 4/5, 550gc, 5NW | Elite: 4/4, 600gc, 4NW | Elite: 7/1, 850gc, 5.75NW | Elite: 7/2, 1000gc, 6NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+- -30% Attack Time
+- +20% Sabotage Damage
+**Spells:** Town Watch, Vermin, Mystic Aura
+- -10% Attack Gains
+- No Access to Stables
+- Elite: 6/3, 700gc, 5.25NW
 
-# Personalities
+### Dwarves
 
-| Merchant | Sage | Rogue | Mystic |
-| --- | --- | --- | --- |
-| - + 30 % Income - - 50 % Money Losses from Plunders - Immunity to Income Penalties | - + 30 % Science Effectiveness - - 66 % Losses on Learn Attacks - Immune to the Plague | - + 1 Stealth Recovery / Tick - Access to all Thievery Operations - Each Thieves' Den functions as Two | - Access to Meteor Showers spell - All Guilds and Towers are twice as effective - + 50 % Spell Duration (For Duration Spells Only) - + 1 mana per tick in War |
+- +20% Building Efficiency
+- Free Building Construction
+- Can use credits to raze buildings
+- +30% Spell Damage (Instant Spells)
+**Spells:** Quick Feet, Fanaticism, Fools Gold, Clearsight
+- +50% Food Consumption
+- Can't use Accelerated Construction
+- Elite: 6/2, 650gc, 5NW
 
-| Warrior | Tactician | Cleric | War Hero |
-| --- | --- | --- | --- |
-| - + 1 General - + 15% OME in war - Enhanced Conquest range | - Gain 50 % more Specialist and Building Credits - - 15% Attack Time - Accurate Espionage (in war) | - - 50% Own Casualties - Animate Dead spell always active (reawakens all troops lost on defense/offense as soldiers) | - + 50% more bonuses from honor - - 50% draft cost - - 50% train time - - 50% Land Losses on Ambush Attacks |
+### Elves
 
-# Stances
+- +1 Mana Recovery / Tick in war
+- +50 % WPA
+- +1 Defence Specialist Strength
+**Spells:** Pitfalls, Mages Fury, Amnesia, Nightmare
+- Elite: 5/3, 650gc, 4.75NW
+
+### Faeries
+
+- +30 % Spell Damage (Instant Spells)
+- +20 % Sabotage Damage
+- +30 % WPA and TPA
+**Spells:** Access to All Racial Spells
+- -5 % Population
+- -3 Generals
+- Elite: 3/6, 800gc, 6NW
+
+### Halflings
+
+- +50 % TPA
+- +1 Stealth Recovery / Tick
+- -50 % Thief Cost
+- Soldiers: 2/2 (3NW)
+**Spells:** Invisibility, Town Watch
+- -15 % Birthrate
+- Elite: 4/5, 550gc, 5NW
+
+### Humans
+
+- +5 % Population
+- +30 % Sabotage Damage
+- +40 % Spell Damage (Instant Spells)
+- +1 Offense Specialist Strength
+**Spells:** Tree of Gold, Fountain of Knowledge, War Spoils
+- Elite: 4/4, 600gc, 4NW
+
+### Orcs
+
+- +20 % Gains
+- Earns Elite Credits
+**Spells:** Bloodlust, Fanaticism, Aggression, Reflect Magic
+- -75 % Combat Instant Spell Damage and Duration
+- -75 % Sabotage Damage
+- Elite: 7/1, 850gc, 5.75NW
+
+### Undead
+
+- -50% Offensive losses on attacks you make
+- Converts some Specialists into Elites on successful land attacks
+- Spreads and is Immune to The Plague
+- No Food Required
+**Spells:** Greater Protection, Town Watch, Animate Dead, Chastity
+- -25% science effectiveness
+- Elite: 7/2, 1000gc, 6NW
+
+## Personalities
+
+### Merchant
+
+- +30 % Income
+- -50 % Money Losses from Plunders
+- Immunity to Income Penalties
+
+### Sage
+
+- +30 % Science Effectiveness
+- -66 % Losses on Learn Attacks
+- Immune to the Plague
+
+### Rogue
+
+- +1 Stealth Recovery / Tick
+- Access to all Thievery Operations
+- Each Thieves' Den functions as Two
+
+### Mystic
+
+- Access to Meteor Showers spell
+- All Guilds and Towers are twice as effective
+- +50 % Spell Duration (For Duration Spells Only)
+- +1 mana per tick in War
+
+### Warrior
+
+- +1 General
+- +15% OME in war
+- Enhanced Conquest range
+
+### Tactician
+
+- Gain 50 % more Specialist and Building Credits
+- -15% Attack Time
+- Accurate Espionage (in war)
+
+### Cleric
+
+- -50% Own Casualties
+- Animate Dead spell always active (reawakens all troops lost on defense/offense as soldiers)
+
+### War Hero
+
+- +50% more bonuses from honor
+- -50% draft cost
+- -50% train time
+- -50% Land Losses on Ambush Attacks
+
+## Stances
 
 | Stances | | |
 | --- | --- | --- |
 | Normal | Aggressive | Fortified |
 | - No Effects | - +10% Combat Gains - 10% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -50% gains and effectiveness on magic and thievery ops in (slides in over a period of 24 hours) - -25% Military training time and cost - +25% draft speed - -25% Construction time and cost      - 4 days maximum duration - -50% gains hitting out - -50% gains and effectiveness on magic and thievery ops in - +100% Explore costs - No Paradise spell available - Science limited to "Active" |
 
-# Relations
+## Relations
 
 | Inter-Kingdoms' Relations | | | | |
 | --- | --- | --- | --- | --- |
 | Ceasefire | Normal | Unfriendly | Hostile | War |
 | - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**  +   - Min 12 U-Days - Max 96 U-Days - +500% birth rate - 30% reduction in training costs of all troops. - Draft cost reduced 50% - Combined with War Relations - Separate annul the Relations (War and CF) - All land currently out with armies at war end returns home immediately. - Instant population growth of 20% of your max pop if you are under 50% of your max pop | - No Effects | To opposite Kingdom :   - Unlocks (Unfriendly/Hostile/War) spells - Unlocks (Unfriendly/Hostile/War) thievery operations | - +10% Combat Gains - Increases the Networth Range of the Conquest Attack - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% - Enables Monarch bonuses:   - +10% defensive military strength   - +10% defense magic   - +10% defense thievery | **Immediate Effects**   - Annul Hostile Meter with everyone  ---   *Benefits*   - -10% Attack Time - Enhanced Massacre Destroys Buildings - +10% Combat Gains - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% - Enables Monarch bonuses:   - +10% defensive military strength   - +10% defense magic   - +10% defense thievery  ---   *Penalties*   - +100% Exploration Costs - No Paradise spell available - Science limited to "Active"     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -20% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -25% Military Losses - -25% Military Training Time - No Distance Penalties for Attacks - -75% Gains and Effectiveness for operations to and from other Kingdoms (this fades in from war start) |
 
-# Dragon's Table
+## Dragon's Table
 
 | Dragon Type | | | |
 | --- | --- | --- | --- |

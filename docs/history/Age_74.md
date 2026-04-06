@@ -1,21 +1,10 @@
-# Age 74
+# Age 74 — The Age of Affinity
 
-| **Age 74** | |
-| --- | --- |
-| Name: | **The Age of Affinity** |
-| Number: | 74 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Finished |
-| Owner: | Arcadia Games |
-| **Dates** | |
-| Start: | 6 Nov 2017 |
-| End: | 27 Jan 2018 |
-| Duration (in days): | 12 weeks |
+**WoL Age 74 Start:** 6 Nov 2017
+**WoL Age 74 End:** 27 Jan 2018
+**Duration:** 12 weeks
 
-**The Age of Affinity** (Age 74) - finished Age on [World of Legends](World_of_Legends.md) server.
-
-# Mechanics Changes
+## Mechanics Changes
 
 - New Features
   - Multi-Attack Protection (MAP) - The rate at which this metric increases for abducts has been adjusted to be a more adequate representation of the resources lost. Additionally, this metric has been revised slightly in other areas to be a better representation of damage that occurs in an attack.
@@ -65,44 +54,168 @@
   - Merging of Kingdoms - Kingdoms will merge weekly starting after Yr 1. Eligible Kingdoms to merge will be in the lowest 1/3 of the server and will merge similarly as is performed during the end of age reset such that Kingdoms with very few provinces will have a chance to play with other active players in a normal size Kingdom. Kingdoms that will be merged will be handled on a case by case basis and contacted directly via Game Administration. Kingdoms will have the option not to merge if they so choose as we test the effectiveness of this feature.
   - Game Administration Kingdom - Kingdom 1:1 will be dedicated to Game Administration and Utopia News Reporters. The provinces in this Kingdom will remain in protection for the duration of the age. These provinces should not be messaged to replace the use of Utopia Support e-mail or for reporting violations of the Game Rules. Utopia News Reporters will have a dedicated province in this Kingdom to enable them a safe and secure place to message Kingdoms with privacy for their in-game accounts and Forum accounts. Kingdoms or players that receive messages from these Reporter accounts can be assured the person they are speaking with is who they say they are and not some random person scamming for information.
 
-# Races
+## Races
 
-| Avians | Bocans | Dark Elves |
-| --- | --- | --- |
-| - -30% Attack travel time - +30% Birth Rate | - +30% Sabotage Damage - +1 Stealth per tick - +50% Effects from Honor | - +25% Spell Damage - +2 Offensive Specialist strength - Converts Specialists into Elites on successful Traditional March |
-| Fanaticism, Greater Protection | Invisibility, Town Watch, Inspire Army | Nightmare |
-| - -5% Combat Gains - Cannot Use War Horses | - -1 Army Generals | - +20% Wages |
-| Elite: 9/2, 775gc, 10.0 NW | Elite: 4/7, 500gc, 7.0 NW | 5/7, 790gc, 9.0 NW |
+### Avians
 
-| Dryads | Dwarves | Elves |
-| --- | --- | --- |
-| - All land produces food - -35% Military Train Time - Mercenaries & Prisoners 7/0 - War Horses 3/0 | - +20% Building Efficiency - Free Building Construction - -50% Building Construction Time | - +35% WPA - +15% Tower Efficiency - +1 Defensive Specialist Strength |
-| Aggression, Quick Feet | Mystic Aura, Inspire Army | Mage's Fury, Chastity, Inspire Army |
-| - +20% Attack Travel Time - -15% Enemy Military Casualties | - Can't use Accelerated Construction - +100% Food consumption |  |
-| Elite: 12/2, 900gc, 10.5 NW | Elite: 8/5, 900gc, 10.0 NW | Elite: 7/6, 700gc, 8.5 NW |
+- -30% Attack travel time
+- +30% Birth Rate
+**Spells:** Fanaticism, Greater Protection
+- -5% Combat Gains
+- Cannot Use War Horses
+- Elite: 9/2, 775gc, 10.0 NW
 
-| Faeries | Humans | Orcs |
-| --- | --- | --- |
-| - +35% Self Spell Duration (will not affect spells on others) - Can Cast Fading Spells on Kingdom Mates | - +30% Income - +15% Credts (Building & Military) - +25% Increase Sci Spawn | - +20% Battle Gains - Free draft - +15% Enemy casualties when attacking |
-| Greater Protection, Invisibility, Reflect Magic, Tree of Gold, War Spoils, Animate Dead, Fool's Gold, Mystic Aura | Greater Protection, Inspire Army | Reflect Magic, Blood Lust |
-| - -10% Income | - -15% Spell Success (WPA) - +25% Rune Costs | - +10% Military Casualties - -15% Thievery Effectiveness (TPA) |
-| Elite: 4/9, 900gc, 10.5 NW | Elite: 9/4, 900gc, 10.0 NW | Elite: 10/1, 900gc, 9.5 NW |
+### Bocans
 
-# Personalities
+- +30% Sabotage Damage
+- +1 Stealth per tick
+- +50% Effects from Honor
+**Spells:** Invisibility, Town Watch, Inspire Army
+- -1 Army Generals
+- Elite: 4/7, 500gc, 7.0 NW
 
-| Heretic | Mystic | Paladin |
-| --- | --- | --- |
-| - Wizards do not die on failed spells - Reduced thief losses on failed operations (-66%) - +30% Magic and Thievery Science Effectiveness - Spell and Operation Damage +15% - +1 Mana - Access to Blizzard and Revelation  - Starts with +200 Wizards and +400 thieves | - All Guilds are 100% more effective - +75% Magic Science Effectiveness - +25% Spell Damage - Spell Book: Meteor Showers, Chastity, Revelation and Paradise  - Starts with +800 Wizards | - Troops attack dragon with +35% increased power - -25% Defensive Losses - Immune to the Plague - Spell Book: All Paladin Only Spells & Fool's Gold  - Starts with +400 soldiers, +400 specialist credits and +400 wizards |
+### Dark Elves
 
-| Rogue | Sage | Tactician |
-| --- | --- | --- |
-| - +1 Stealth recovery per tick - Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda - Thieves Dens are 50% more effective - +75% Thievery Science Effectiveness - Spell Book: Gluttony, Paradise and Revelation  - Starts with +800 thieves | - Protect 20% of scientists on abduct attack - Scientists are 35% more effective - Spell Book: Amnesia  - Starts with 50% extra scientists | - -15% Attack Time - Accurate Espionage - Spell Book: Clear Sight, Town Watch  - Starts with +800 soldiers and +800 specialist credits |
+- +25% Spell Damage
+- +2 Offensive Specialist strength
+- Converts Specialists into Elites on successful Traditional March
+**Spells:** Nightmare
+- +20% Wages
+- 5/7, 790gc, 9.0 NW
 
-| Undead | Warrior | War Hero |
-| --- | --- | --- |
-| - Spreads and is Immune to The Plague - -40% Offensive Losses - Spell Book: Greater Protection, Animate Dead  - Starts with +800 soldiers and +800 specialist credits | - +15% Offensive Military Efficiency - +15% Military Science Effectiveness - Full Conquest Access (Regardless of NW range) - Spell Book: Fanaticism  - Starts with +800 soldiers and +800 specialist credits | - Immune to Dragon - Income penalty effects - +5% Battle Gains - +100% Honor Bonuses - Spell Book: War Spoils, Pitfalls  - Starts with 800 elites |
+### Dryads
 
-# Relations
+- All land produces food
+- -35% Military Train Time
+- Mercenaries & Prisoners 7/0
+- War Horses 3/0
+**Spells:** Aggression, Quick Feet
+- +20% Attack Travel Time
+- -15% Enemy Military Casualties
+- Elite: 12/2, 900gc, 10.5 NW
+
+### Dwarves
+
+- +20% Building Efficiency
+- Free Building Construction
+- -50% Building Construction Time
+**Spells:** Mystic Aura, Inspire Army
+- Can't use Accelerated Construction
+- +100% Food consumption
+- Elite: 8/5, 900gc, 10.0 NW
+
+### Elves
+
+- +35% WPA
+- +15% Tower Efficiency
+- +1 Defensive Specialist Strength
+**Spells:** Mage's Fury, Chastity, Inspire Army
+- Elite: 7/6, 700gc, 8.5 NW
+
+### Faeries
+
+- +35% Self Spell Duration (will not affect spells on others)
+- Can Cast Fading Spells on Kingdom Mates
+**Spells:** Greater Protection, Invisibility, Reflect Magic, Tree of Gold, War Spoils, Animate Dead, Fool's Gold, Mystic Aura
+- -10% Income
+- Elite: 4/9, 900gc, 10.5 NW
+
+### Humans
+
+- +30% Income
+- +15% Credts (Building & Military)
+- +25% Increase Sci Spawn
+**Spells:** Greater Protection, Inspire Army
+- -15% Spell Success (WPA)
+- +25% Rune Costs
+- Elite: 9/4, 900gc, 10.0 NW
+
+### Orcs
+
+- +20% Battle Gains
+- Free draft
+- +15% Enemy casualties when attacking
+**Spells:** Reflect Magic, Blood Lust
+- +10% Military Casualties
+- -15% Thievery Effectiveness (TPA)
+- Elite: 10/1, 900gc, 9.5 NW
+
+## Personalities
+
+### Heretic
+
+- Wizards do not die on failed spells
+- Reduced thief losses on failed operations (-66%)
+- +30% Magic and Thievery Science Effectiveness
+- Spell and Operation Damage +15%
+- +1 Mana
+- Access to Blizzard and Revelation
+- Starts with +200 Wizards and +400 thieves
+
+### Mystic
+
+- All Guilds are 100% more effective
+- +75% Magic Science Effectiveness
+- +25% Spell Damage
+- Spell Book: Meteor Showers, Chastity, Revelation and Paradise
+- Starts with +800 Wizards
+
+### Paladin
+
+- Troops attack dragon with +35% increased power
+- -25% Defensive Losses
+- Immune to the Plague
+- Spell Book: All Paladin Only Spells & Fool's Gold
+- Starts with +400 soldiers, +400 specialist credits and +400 wizards
+
+### Rogue
+
+- +1 Stealth recovery per tick
+- Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
+- Thieves Dens are 50% more effective
+- +75% Thievery Science Effectiveness
+- Spell Book: Gluttony, Paradise and Revelation
+- Starts with +800 thieves
+
+### Sage
+
+- Protect 20% of scientists on abduct attack
+- Scientists are 35% more effective
+- Spell Book: Amnesia
+- Starts with 50% extra scientists
+
+### Tactician
+
+- -15% Attack Time
+- Accurate Espionage
+- Spell Book: Clear Sight, Town Watch
+- Starts with +800 soldiers and +800 specialist credits
+
+### Undead
+
+- Spreads and is Immune to The Plague
+- -40% Offensive Losses
+- Spell Book: Greater Protection, Animate Dead
+- Starts with +800 soldiers and +800 specialist credits
+
+### Warrior
+
+- +15% Offensive Military Efficiency
+- +15% Military Science Effectiveness
+- Full Conquest Access (Regardless of NW range)
+- Spell Book: Fanaticism
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- Immune to Dragon
+- Income penalty effects
+- +5% Battle Gains
+- +100% Honor Bonuses
+- Spell Book: War Spoils, Pitfalls
+- Starts with 800 elites
+
+## Relations
 
 | Inter-Kingdoms' Relations | | | | |
 | --- | --- | --- | --- | --- |

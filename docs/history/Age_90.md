@@ -1,23 +1,10 @@
-# Age 90
+# Age 90 — Age of Exile
 
-| **Age 90** | |
-| --- | --- |
-| Name: | **Age of Exile** |
-| Number: | 90 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Current |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | February 1, 2021 @ 18:00 GMT+0 |
-| End: | April 10, 2021 @ 00:00 GMT +0 |
-| Duration (in days): | 69 |
+**WoL Age 90 Start:** February 1, 2021 @ 18:00 GMT+0
+**WoL Age 90 End:** April 10, 2021 @ 00:00 GMT +0
+**Duration:** 69
 
-**Age of Exile** - current age on [World of Legends](World_of_Legends.md) server.
-
-Original details can be found in the forums here: [http://forums.utopia-game.com/showthread.php?640093-Age-90-Final-Changes](http://forums.utopia-game.com/showthread.php?640093-Age-90-Final-Changes)
-
-# Mechanical Changes
+## Mechanical Changes
 
 ### Exploration & Buildings
 
@@ -70,6 +57,6 @@ Original details can be found in the forums here: [http://forums.utopia-game.com
 - Kingdom Wall will be available during Freeze and Protection time
 - Starting Draft Target % increased
 
-# Races
+## Races
 
-# Personalities
+## Personalities

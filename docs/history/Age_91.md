@@ -80,7 +80,7 @@ Mechanics
 
 - The build tool will show up on the growth RAZE page for convenience
 
-- 
+-
 
 Bug fixes
 
@@ -362,7 +362,7 @@ Bug fixes
 
 #### Penalties
 
-- - Spellbook: Town Watch, Vermin
+- Spellbook: Town Watch, Vermin
 
 - Soldier - 1/1, 1.0nw
 

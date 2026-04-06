@@ -1,21 +1,8 @@
-# Age 79
+# Age 79 — Vanguards Acquiescence
 
-| **Age 79** | |
-| --- | --- |
-| Name: | **Vanguards Acquiescence** |
-| Number: | 79 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Current |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | Nov 2018 |
-| End: |  |
-| Duration (in days): |  |
+**WoL Age 79 Start:** Nov 2018
 
-**Vanguards Acquiescence**  - current age on [World of Legends](World_of_Legends.md) server.
-
-# Mechanics Changes
+## Mechanics Changes
 
 ### Attacks & Relations
 
@@ -85,33 +72,148 @@ Stats listed here considered 'base effectiveness'
 
 - Learn allocation of unallocated books to proper categories
 
-# Races
+## Races
 
-| Avians | Dwarves | Elves | Faeries |
-| --- | --- | --- | --- |
-| - -20% Attack travel time - +30% Birth Rate - +30% Specialist Credits from Attacks | - +20% Building Efficiency - Free Building Construction - -50% Building Construction Time | - +25% Wizardry Effectiveness (WPA) - +30% Tower Effectiveness - +1 Defensive Specialist Strength | - +30% Self Spell Duration (will not affect spells on others) - +20% Sabotage Operation Damage - +15% Instant Spell Damage |
-| Fanaticism, Greater Protection | Mystic Aura, Inspire Army | Inspire Army | Animate Dead, Greater Protection, Mystic Aura, Tree of Gold |
-| - Cannot Use War Horses or Stables - -5% Battle Gains | - Can't use Accelerated Construction - +75% Food consumption | - +30% Wages | - -10% Income |
-| **Elite: 8/1, 900gc, 9 NW** | **Elite: 7/4, 925gc, 9 NW** | **Elite: 8/2, 950gc, 9.5 NW** | **Elite: 3/8, 1100gc, 10.0 NW** |
+### Avians
 
-| Halflings | Humans | Orcs |  |
-| --- | --- | --- | --- |
-| - +25% Thievery Effectiveness (TPA) - +5% Population - -50% Thief Costs - +1 Offense/Defense Soldiers | - +30% Income - Income Penalty Protection - +20% Building and Specialist Credits from Attacks | - +20% Battle Gains - -75% Draft Costs - +15% Enemy casualties when attacking |
-| Aggression, Town Watch | Greater Protection, Inspire Army, Quick Feet | Reflect Magic |
-| - -5% Building Effectiveness | - +20% Spell Rune Cost | - +10% Military Casualties - -20% Science Effectiveness |
-| **Elite: 5/7, 900gc, 9.5 NW** | **Elite: 8/3, 1000gc, 9.5 NW** | **Elite: 9/1, 925gc, 9.0 NW** |
+- -20% Attack travel time
+- +30% Birth Rate
+- +30% Specialist Credits from Attacks
+**Spells:** Fanaticism, Greater Protection
+- Cannot Use War Horses or Stables
+- -5% Battle Gains
+- Elite: 8/1, 900gc, 9 NW
 
-# Personalities
+### Dwarves
 
-| Heretic | Mystic | Paladin | Rogue |
-| --- | --- | --- | --- |
-| - +100% Guilds Effectiveness - Wizards do not die on failed spells - -66% Thieves lost on failed ops - +35% Channeling and Crime Science Effectiveness - +25% Cunning Science Effectiveness - Access to Blizzard, Chastity, Fool's Gold and Nightmare  - Starts with +400 wizards and +400 thieves | - +150% Guilds Effectiveness - +75% Channeling Science Effectiveness - +1 Mana per tick - Access to Chastity, Mage's Fury, Meteor Showers, Paradise and Revelation  - Starts with +800 wizards | - Can cast support spells on Kingdom mates - +50% Guilds Effectiveness - +30% Dragon-slaying Unit Strength - +25% Valor Science Effectiveness - Access to all Paladin-Only Spells  - Starts with +400 soldiers, +400 specialist credits and +400 wizards | - +50% Guilds Effectiveness - +50% Thieves' Dens Effectiveness - +50% Crime Science Effectiveness - +1 Stealth per Tick - Access to all thievery operations, including 3 unique to Rogues: Greater Arson, Assassinate Wizards and Propaganda - Spell Book: Gluttony, Invisibility, Paradise and Revelation  - Starts with +800 thieves |
+- +20% Building Efficiency
+- Free Building Construction
+- -50% Building Construction Time
+**Spells:** Mystic Aura, Inspire Army
+- Can't use Accelerated Construction
+- +75% Food consumption
+- Elite: 7/4, 925gc, 9 NW
 
-| Tactician | Undead | War Hero | Warrior |
-| --- | --- | --- | --- |
-| - -15% Attack Time - +20% Siege Science Effectiveness - Accurate Espionage - Access to Clear Sight and Fanaticism  - Starts with +800 soldiers and +800 specialist credits | - Spreads and is Immune to The Plague - -35% Military Casualties in Combat - Access to Animate Dead and Greater Protection  - Starts with +800 soldiers and +800 specialist credits | - +1 Offense Specialist Strength - +100% Honor Bonuses - +25% Heroism Science Effectiveness - Immune to Dragons - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md) - Access to Pitfalls and War Spoils  - Starts with 800 elites | - +10% Offensive Military Efficiency - +10% Strategy Science Effectiveness - Full Conquest Access (Regardless of Networth range) - Access to Bloodlust  - Starts with +800 soldiers and +800 specialist credits |
+### Elves
 
-# Rituals
+- +25% Wizardry Effectiveness (WPA)
+- +30% Tower Effectiveness
+- +1 Defensive Specialist Strength
+**Spells:** Inspire Army
+- +30% Wages
+- Elite: 8/2, 950gc, 9.5 NW
+
+### Faeries
+
+- +30% Self Spell Duration (will not affect spells on others)
+- +20% Sabotage Operation Damage
+- +15% Instant Spell Damage
+**Spells:** Animate Dead, Greater Protection, Mystic Aura, Tree of Gold
+- -10% Income
+- Elite: 3/8, 1100gc, 10.0 NW
+
+### Halflings
+
+- +25% Thievery Effectiveness (TPA)
+- +5% Population
+- -50% Thief Costs
+- +1 Offense/Defense Soldiers
+**Spells:** Aggression, Town Watch
+- -5% Building Effectiveness
+- Elite: 5/7, 900gc, 9.5 NW
+
+### Humans
+
+- +30% Income
+- Income Penalty Protection
+- +20% Building and Specialist Credits from Attacks
+**Spells:** Greater Protection, Inspire Army, Quick Feet
+- +20% Spell Rune Cost
+- Elite: 8/3, 1000gc, 9.5 NW
+
+### Orcs
+
+- +20% Battle Gains
+- -75% Draft Costs
+- +15% Enemy casualties when attacking
+**Spells:** Reflect Magic
+- +10% Military Casualties
+- -20% Science Effectiveness
+- Elite: 9/1, 925gc, 9.0 NW
+
+## Personalities
+
+### Heretic
+
+- +100% Guilds Effectiveness
+- Wizards do not die on failed spells
+- -66% Thieves lost on failed ops
+- +35% Channeling and Crime Science Effectiveness
+- +25% Cunning Science Effectiveness
+- Access to Blizzard, Chastity, Fool's Gold and Nightmare
+- Starts with +400 wizards and +400 thieves
+
+### Mystic
+
+- +150% Guilds Effectiveness
+- +75% Channeling Science Effectiveness
+- +1 Mana per tick
+- Access to Chastity, Mage's Fury, Meteor Showers, Paradise and Revelation
+- Starts with +800 wizards
+
+### Paladin
+
+- Can cast support spells on Kingdom mates
+- +50% Guilds Effectiveness
+- +30% Dragon-slaying Unit Strength
+- +25% Valor Science Effectiveness
+- Access to all Paladin-Only Spells
+- Starts with +400 soldiers, +400 specialist credits and +400 wizards
+
+### Rogue
+
+- +50% Guilds Effectiveness
+- +50% Thieves' Dens Effectiveness
+- +50% Crime Science Effectiveness
+- +1 Stealth per Tick
+- Access to all thievery operations, including 3 unique to Rogues: Greater Arson, Assassinate Wizards and Propaganda
+- Spell Book: Gluttony, Invisibility, Paradise and Revelation
+- Starts with +800 thieves
+
+### Tactician
+
+- -15% Attack Time
+- +20% Siege Science Effectiveness
+- Accurate Espionage
+- Access to Clear Sight and Fanaticism
+- Starts with +800 soldiers and +800 specialist credits
+
+### Undead
+
+- Spreads and is Immune to The Plague
+- -35% Military Casualties in Combat
+- Access to Animate Dead and Greater Protection
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- +1 Offense Specialist Strength
+- +100% Honor Bonuses
+- +25% Heroism Science Effectiveness
+- Immune to Dragons
+- Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md)
+- Access to Pitfalls and War Spoils
+- Starts with 800 elites
+
+### Warrior
+
+- +10% Offensive Military Efficiency
+- +10% Strategy Science Effectiveness
+- Full Conquest Access (Regardless of Networth range)
+- Access to Bloodlust
+- Starts with +800 soldiers and +800 specialist credits
+
+## Rituals
 
 | Kingdom Rituals | |
 | --- | --- |
@@ -124,7 +226,7 @@ Stats listed here considered 'base effectiveness'
 | Havoc | - +30% Offensive WPA/TPA, +10% Spell/Op Damage |
 | Onslaught | - +10% Offensive Military Efficiency, +15% Offensive Enemy Casualties |
 
-# Dragons
+## Dragons
 
 | Dragon Type | | | |
 | --- | --- | --- | --- |

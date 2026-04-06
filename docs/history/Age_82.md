@@ -1,21 +1,10 @@
-# Age 82
+# Age 82 — The Grimoires of Glory
 
-| **Age 82** | |
-| --- | --- |
-| Name: | **The Grimoires of Glory** |
-| Number: | 82 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Finished |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | 24 Jul 2019 |
-| End: | 28 Sep 2019 |
-| Duration (in days): | 11 weeks |
+**WoL Age 82 Start:** 24 Jul 2019
+**WoL Age 82 End:** 28 Sep 2019
+**Duration:** 11 weeks
 
-**The Grimoires of Glory** - completed Age on [World of Legends](World_of_Legends.md) server.
-
-# Mechanics Changes
+## Mechanics Changes
 
 ### Attacks, Relations, & Economy
 
@@ -94,35 +83,176 @@ Stats listed here considered 'base effectiveness'
 - Havoc: +30% Offensive TPA & +30% Offensive WPA & +10% Spell/Thief damage
 - Onslaught: +10% OME & +15% enemy casualties on attacks
 
-# Races
+## Races
 
-| Avian | Dwarf | Elf | Faery |
-| --- | --- | --- | --- |
-| - +20% Birth Rate - -20% Attack Time - -50% Ambush Protection | - +20% Building Efficiency - -40% Build Time - +25% Building Credits Gained in Combat | - +1 Mana Recovery per Tick - +1 Defensive Specialist Strength - Can Cast Support Spells on Others (2% mana cost when casting on others - A complete list of all Support Spells can be found below) - +10% Military Efficiency | - Access to All Racial Spells - +20% Magic Effectiveness (WPA) - +25% Self Spell Duration |
-| Greater Protection, Bloodlust | Greater Protection, Inspire Army, Reflect Magic, Fanaticism | Inspire Army, Mage's Fury, Mystic Aura, Chastity | All Racial Spells, Tree of Gold |
-| - -10% Combat Gains - Cannot Use War Horses/Stables - +10% Military Casualties | - +100% Food consumption | - +15% Explore Costs | - -1 General - -10% Maximum Population |
-| Elite: 9/2, 800gc, 10.5 NW | Elite: 7/5, 975, 9.0 NW | Elite: 7/3, 900gc, 10.0 NW | Elite: 3/8, 1200gc, 9.5 NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+### Avian
 
-| Halfling | Human | Orc | Undead |
-| --- | --- | --- | --- |
-| - Homes hold 20 population - +20% Thievery Effectiveness (TPA) - -50% Thief Losses - Mercenaries and Prisoners fight with 10 strength - Can use Specialist credits to train Thieves - +1/+1 Soldier Strength | - +15% Science Effectiveness - +25% Military Wages - +15% Defensive TPA | - +15% Combat Gains - +30% Draftees - -50% Draft Costs | - +10% Maximum Population - -30% Military Casualties - No food required - Spreads and is Immune to the Plague - Converts some Specialists to Elites on successful Traditional Marches |
-| Aggression, Town Watch and Gluttony | Greater Protection, Ghost Workers, Quick Feet, Fountain of Knowledge, Fanaticism | Inspire Army | Animate Dead, Chastity, Vermin |
-| - Cannot use Hospitals | - -1 Mana Recovery per Tick | - +15% Damage taken from Instant Spells & Sabotage Operations - 20% of Spells Fail - 20% of Thievery Operations Fail | - -25% Science Effectiveness - Cannot train Elites - Only Basic Thievery Intel Operations Available - -1 Defensive Specialist Strength - -1 Offensive Specialist Strength - Cannot Use Dungeons |
-| Elite: 6/6, 700gc, 8.5 NW | Elite: 5/7, 1150gc, 10.25 NW | Elite: 10/3, 1100gc, 10.5 NW | Elite: 12/4, -gc, 12.0 NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+- +20% Birth Rate
+- -20% Attack Time
+- -50% Ambush Protection
+**Spells:** Greater Protection, Bloodlust
+- -10% Combat Gains
+- Cannot Use War Horses/Stables
+- +10% Military Casualties
+- Elite: 9/2, 800gc, 10.5 NW
 
-# Personalities
+### Dwarf
 
-| Artisan | Cleric | Heretic | Mystic |
-| --- | --- | --- | --- |
-| - Immune to all Income Penalties - -20% Income - -25% Build Time - -25% Build Cost - Access to Ghost Workers, Fountain of Knowledge   Starts with +800 soldiers and +800 specialist credits | - Immune to The Plague - +15% Valor Science Effectiveness - -35% Military Casualties - Can Cast Support Spells on Kingdom Mates (2% mana cost when casting on others - A complete list of all Support Spells can be found below) - Access to Fountain of Knowledge, Greater Protection, Scientific Insight, Illuminate Shadows and Animate Dead   Starts with +600 soldiers, +600 specialist credits and +200 wizards | - +50% Guilds Effectiveness - -75% Thieves lost on Failed Thievery Operations - +20% Magic Effectiveness (WPA) - +20% Thievery Effectiveness (TPA) - +30% Cunning Science Effectiveness - Access to Blizzard, Fool's Gold, Nightmare, and Revelation   Starts with +400 wizards and +400 thieves | - +150% Guilds Effectiveness - +60% Channeling Science Effectiveness - +25% Rune Production - Access to Expose Thieves, Mage's Fury, Meteor Showers, and Revelation   Starts with +800 wizards |
+- +20% Building Efficiency
+- -40% Build Time
+- +25% Building Credits Gained in Combat
+**Spells:** Greater Protection, Inspire Army, Reflect Magic, Fanaticism
+- +100% Food consumption
+- Elite: 7/5, 975, 9.0 NW
 
-| Rogue | Tactician | War Hero | Warrior |
-| --- | --- | --- | --- |
-| - +50% Guilds Effectiveness - +50% Thieves' Dens Effectiveness - +60% Crime Science Effectiveness - +1 Stealth Recovery per Tick - Access to all Thievery Operations - Access to Expose Thieves, Invisibility, and Revelation   Starts with +800 thieves | - -15% Attack Time - +20% Building Credits gained in Combat - +25% Siege Science Effectiveness - Accurate Espionage - Access to Clear Sight, Fanaticism   Starts with +800 soldiers and +800 specialist credits | - +100% Honor Bonuses - +10% Offensive Military Efficiency in War - +15% Specialist Credits Gained - Immune to Dragons - Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md) - Access to Pitfalls and War Spoils   Starts with 800 elites | - Prisoners will convert into Elites over time (3% per tick) - -25% Military Train Time - +30% Tactics Science Effectiveness - +10% Siege Science Effectiveness - Full Conquest Access - Access to Paladin's Inspiration, Wrathful Smite, Aggression   Starts with +800 soldiers and +800 specialist credits |
+### Elf
 
-# Rituals
+- +1 Mana Recovery per Tick
+- +1 Defensive Specialist Strength
+- Can Cast Support Spells on Others (2% mana cost when casting on others
+- A complete list of all Support Spells can be found below)
+- +10% Military Efficiency
+**Spells:** Inspire Army, Mage's Fury, Mystic Aura, Chastity
+- +15% Explore Costs
+- Elite: 7/3, 900gc, 10.0 NW
+
+### Faery
+
+- Access to All Racial Spells
+- +20% Magic Effectiveness (WPA)
+- +25% Self Spell Duration
+**Spells:** All Racial Spells, Tree of Gold
+- -1 General
+- -10% Maximum Population
+- Elite: 3/8, 1200gc, 9.5 NW
+
+### Halfling
+
+- Homes hold 20 population
+- +20% Thievery Effectiveness (TPA)
+- -50% Thief Losses
+- Mercenaries and Prisoners fight with 10 strength
+- Can use Specialist credits to train Thieves
+- +1/+1 Soldier Strength
+**Spells:** Aggression, Town Watch and Gluttony
+- Cannot use Hospitals
+- Elite: 6/6, 700gc, 8.5 NW
+
+### Human
+
+- +15% Science Effectiveness
+- +25% Military Wages
+- +15% Defensive TPA
+**Spells:** Greater Protection, Ghost Workers, Quick Feet, Fountain of Knowledge, Fanaticism
+- -1 Mana Recovery per Tick
+- Elite: 5/7, 1150gc, 10.25 NW
+
+### Orc
+
+- +15% Combat Gains
+- +30% Draftees
+- -50% Draft Costs
+**Spells:** Inspire Army
+- +15% Damage taken from Instant Spells & Sabotage Operations
+- 20% of Spells Fail
+- 20% of Thievery Operations Fail
+- Elite: 10/3, 1100gc, 10.5 NW
+
+### Undead
+
+- +10% Maximum Population
+- -30% Military Casualties
+- No food required
+- Spreads and is Immune to the Plague
+- Converts some Specialists to Elites on successful Traditional Marches
+**Spells:** Animate Dead, Chastity, Vermin
+- -25% Science Effectiveness
+- Cannot train Elites
+- Only Basic Thievery Intel Operations Available
+- -1 Defensive Specialist Strength
+- -1 Offensive Specialist Strength
+- Cannot Use Dungeons
+- Elite: 12/4, -gc, 12.0 NW
+
+## Personalities
+
+### Artisan
+
+- Immune to all Income Penalties
+- -20% Income
+- -25% Build Time
+- -25% Build Cost
+- Access to Ghost Workers, Fountain of Knowledge
+- Starts with +800 soldiers and +800 specialist credits
+
+### Cleric
+
+- Immune to The Plague
+- +15% Valor Science Effectiveness
+- -35% Military Casualties
+- Can Cast Support Spells on Kingdom Mates (2% mana cost when casting on others
+- A complete list of all Support Spells can be found below)
+- Access to Fountain of Knowledge, Greater Protection, Scientific Insight, Illuminate Shadows and Animate Dead
+- Starts with +600 soldiers, +600 specialist credits and +200 wizards
+
+### Heretic
+
+- +50% Guilds Effectiveness
+- -75% Thieves lost on Failed Thievery Operations
+- +20% Magic Effectiveness (WPA)
+- +20% Thievery Effectiveness (TPA)
+- +30% Cunning Science Effectiveness
+- Access to Blizzard, Fool's Gold, Nightmare, and Revelation
+- Starts with +400 wizards and +400 thieves
+
+### Mystic
+
+- +150% Guilds Effectiveness
+- +60% Channeling Science Effectiveness
+- +25% Rune Production
+- Access to Expose Thieves, Mage's Fury, Meteor Showers, and Revelation
+- Starts with +800 wizards
+
+### Rogue
+
+- +50% Guilds Effectiveness
+- +50% Thieves' Dens Effectiveness
+- +60% Crime Science Effectiveness
+- +1 Stealth Recovery per Tick
+- Access to all Thievery Operations
+- Access to Expose Thieves, Invisibility, and Revelation
+- Starts with +800 thieves
+
+### Tactician
+
+- -15% Attack Time
+- +20% Building Credits gained in Combat
+- +25% Siege Science Effectiveness
+- Accurate Espionage
+- Access to Clear Sight, Fanaticism
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- +100% Honor Bonuses
+- +10% Offensive Military Efficiency in War
+- +15% Specialist Credits Gained
+- Immune to Dragons
+- Converts Specialists into Elites on successful [Traditional Marches](../guide/War_Room.md)
+- Access to Pitfalls and War Spoils
+- Starts with 800 elites
+
+### Warrior
+
+- Prisoners will convert into Elites over time (3% per tick)
+- -25% Military Train Time
+- +30% Tactics Science Effectiveness
+- +10% Siege Science Effectiveness
+- Full Conquest Access
+- Access to Paladin's Inspiration, Wrathful Smite, Aggression
+- Starts with +800 soldiers and +800 specialist credits
+
+## Rituals
 
 | Kingdom Rituals | |
 | --- | --- |
@@ -135,7 +265,7 @@ Stats listed here considered 'base effectiveness'
 | Havoc | - +30% Offensive WPA/TPA, +10% Spell/Op Damage |
 | Onslaught | - +10% Offensive Military Efficiency, +15% Offensive Enemy Casualties |
 
-# Dragons
+## Dragons
 
 | Dragon Type | | | |
 | --- | --- | --- | --- |

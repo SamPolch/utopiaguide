@@ -1,21 +1,9 @@
-# Age 65
+# Age 65 — Isles of Legion
 
-| **Age 65** | |
-| --- | --- |
-| Name: | **Isles of Legion** |
-| Number: | 65 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | finished |
-| Owner: | [Arcadia Games](../misc/Brian_&_Sean.md) |
-| **Dates** | |
-| Start: | 11 May 2015 |
-| End: | 30 August 2015 |
-| Duration (in days): |  |
+**WoL Age 65 Start:** 11 May 2015
+**WoL Age 65 End:** 30 August 2015
 
-**Age of Isles of Legion** (Age 65) - finished Age on [World of Legends](World_of_Legends.md) server.
-
-# Changes in brief
+## Changes in brief
 
 ## Race Changes
 
@@ -228,42 +216,151 @@ Starts with 400 elites
 - Protection duration for invited provinces
   - Fixed a subtle bug causing the duration to be incorrect for certain provinces.
 
-# Races
+## Races
 
-| Avians | Dwarves | Elves | Faeries |
-| --- | --- | --- | --- |
-| - - 25% Attack Time - + 30% Birth Rate - - 30% Building Construction Time - - 30% Military training time - + 1 offensive specialist strength | - + 30% Building Efficiency - Free Building Construction - Can use credits to raze buildings | - + 30% Combat Instant Spell Damage - + 30% Sabotage Operation Damage - + 30% Spell Duration - + 1 mana per tick in war - + 1 defensive specialist strength | - + 30% WPA - + 30% TPA |
-| Fanaticism, Greater Protection | Fools Gold, Pitfalls, Mystic Aura | Nightmares, Pitfalls, Mages Fury | Access to All Racial Spells |
-| - No Access to Stables | - Can't use Accelerated Construction - + 50% food consumption |  |  |
-| Elite: 6/2, 600gc, 5NW | Elite: 6/3, 800gc, 5.25NW | 5/4, 700gc, 5.75NW | Elite: 3/5, 950gc, 5.25NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+### Avians
 
-| Halflings | Humans | Orcs | Undead |
-| --- | --- | --- | --- |
-| - + 1 Stealth - - 50% thief cost - + 15% population | - + 15% Offensive Military Efficiency In War - - 30% defensive losses - Every 3 acres generates 1 book of science | - + 30 % Attack Gains - Free draft - + 25% Enemy casualties when attacking | - - 75% Offensive losses on attacks you make - Spreads and is Immune to The Plague - No Food Required |
-| Invisibility, Aggression | Tree of Gold, Fountain of Knowledge, Quick Feet | Reflect Magic, Clear Sight | Town Watch, Animate Dead |
-| - - 10% Gains | - + 30% Cost of Science | - - 10% science effectiveness | - Basic Thievery (Intel operations only) |
-| Soldiers 2/2, Elite: 4/4, 350gc, 5NW | Elite: 6/3, 1100gc 6.5NW | Elite: 7/1, 800gc, 5.75NW | Elite: 7/2, 900gc, 6.5NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+- -25% Attack Time
+- +30% Birth Rate
+- -30% Building Construction Time
+- -30% Military training time
+- +1 offensive specialist strength
+**Spells:** Fanaticism, Greater Protection
+- No Access to Stables
+- Elite: 6/2, 600gc, 5NW
 
-# Personalities
+### Dwarves
 
-| Merchant | Sage | Rogue | Mystic |
-| --- | --- | --- | --- |
-| - Gain 50% more Specialist and Building Credits - Immune to Income Penalties - Access to Tree of Gold  - Starts with +1600 specialist credits | - +40% Science Effectiveness - Access to Amnesia  - Starts with 40000 science books | - + 1 Stealth Recovery / Tick - Access to all Thievery Operations - +75% Thievery Science Effectiveness - Access to Vermin  - Starts with +400 thieves | - All Guilds are twice as effective - + 1 mana per tick in War - + 50% Magic Science Effectiveness - Access to Meteor Showers, Chastity, Nightmares  - Starts with +200 Wizards |
+- +30% Building Efficiency
+- Free Building Construction
+- Can use credits to raze buildings
+**Spells:** Fools Gold, Pitfalls, Mystic Aura
+- Can't use Accelerated Construction
+- +50% food consumption
+- Elite: 6/3, 800gc, 5.25NW
 
-| Warrior | Tactician | Cleric | War Hero |
-| --- | --- | --- | --- |
-| - + 1 General - + 10% OME - Enhanced Conquest range - Access to Bloodlust  - Starts with +800 soldiers and +800 specialist credits | - - 15% Attack Time - Accurate Espionage - Access to Clear Sight  - Starts with +800 soldiers and +800 specialist credits | - - 40% Your Military Casualties (on attack or defense) - Immune to The Plague - Access to Pitfalls  - Starts with +800 soldiers and +800 specialist credits | - + 100% Honor Effects - Converts some Specialists into Elites on successful land attacks - Immune to all Dragon effects - Access to War Spoils  - Starts with 400 elites |
+### Elves
 
-# Stances
+- +30% Combat Instant Spell Damage
+- +30% Sabotage Operation Damage
+- +30% Spell Duration
+- +1 mana per tick in war
+- +1 defensive specialist strength
+**Spells:** Nightmares, Pitfalls, Mages Fury
+- 5/4, 700gc, 5.75NW
+
+### Faeries
+
+- +30% WPA
+- +30% TPA
+**Spells:** Access to All Racial Spells
+- Elite: 3/5, 950gc, 5.25NW
+
+### Halflings
+
+- +1 Stealth
+- -50% thief cost
+- +15% population
+**Spells:** Invisibility, Aggression
+- -10% Gains
+- Elite: 4/4, 350gc, 5NW
+
+### Humans
+
+- +15% Offensive Military Efficiency In War
+- -30% defensive losses
+- Every 3 acres generates 1 book of science
+**Spells:** Tree of Gold, Fountain of Knowledge, Quick Feet
+- +30% Cost of Science
+- Elite: 6/3, 1100gc 6.5NW
+
+### Orcs
+
+- +30 % Attack Gains
+- Free draft
+- +25% Enemy casualties when attacking
+**Spells:** Reflect Magic, Clear Sight
+- -10% science effectiveness
+- Elite: 7/1, 800gc, 5.75NW
+
+### Undead
+
+- -75% Offensive losses on attacks you make
+- Spreads and is Immune to The Plague
+- No Food Required
+**Spells:** Town Watch, Animate Dead
+- Basic Thievery (Intel operations only)
+- Elite: 7/2, 900gc, 6.5NW
+
+## Personalities
+
+### Merchant
+
+- Gain 50% more Specialist and Building Credits
+- Immune to Income Penalties
+- Access to Tree of Gold
+- Starts with +1600 specialist credits
+
+### Sage
+
+- +40% Science Effectiveness
+- Access to Amnesia
+- Starts with 40000 science books
+
+### Rogue
+
+- +1 Stealth Recovery / Tick
+- Access to all Thievery Operations
+- +75% Thievery Science Effectiveness
+- Access to Vermin
+- Starts with +400 thieves
+
+### Mystic
+
+- All Guilds are twice as effective
+- +1 mana per tick in War
+- +50% Magic Science Effectiveness
+- Access to Meteor Showers, Chastity, Nightmares
+- Starts with +200 Wizards
+
+### Warrior
+
+- +1 General
+- +10% OME
+- Enhanced Conquest range
+- Access to Bloodlust
+- Starts with +800 soldiers and +800 specialist credits
+
+### Tactician
+
+- -15% Attack Time
+- Accurate Espionage
+- Access to Clear Sight
+- Starts with +800 soldiers and +800 specialist credits
+
+### Cleric
+
+- -40% Your Military Casualties (on attack or defense)
+- Immune to The Plague
+- Access to Pitfalls
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- +100% Honor Effects
+- Converts some Specialists into Elites on successful land attacks
+- Immune to all Dragon effects
+- Access to War Spoils
+- Starts with 400 elites
+
+## Stances
 
 | Stances | | |
 | --- | --- | --- |
 | Normal | Aggressive | Fortified |
 | - No Effects | - +10% Combat Gains - 10% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -50% gains on magic and thievery ops in(slides in over a period of 24 hours) - -40% Military training time and cost - +40% draft speed - -50% Construction time and cost - +200% Birth Rate      - 72 hours maximum duration - -50% gains hitting out - -50% gains on magic and thievery ops out - +500% Explore costs - No Paradise spell available - Science limited to "Active" |
 
-# Relations
+## Relations
 
 | Inter-Kingdoms' Relations | | | | |
 | --- | --- | --- | --- | --- |

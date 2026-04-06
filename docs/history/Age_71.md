@@ -1,21 +1,10 @@
-# Age 71
+# Age 71 — The Metamorphosis
 
-| **Age 71** | |
-| --- | --- |
-| Name: | **The Metamorphosis** |
-| Number: | 71 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Finished |
-| Owner: | [Arcadia Games](../misc/Brian_&_Sean.md) |
-| **Dates** | |
-| Start: | 11 Mar 2017 |
-| End: | 20 May 2017 |
-| Duration (in days): | 10 weeks |
+**WoL Age 71 Start:** 11 Mar 2017
+**WoL Age 71 End:** 20 May 2017
+**Duration:** 10 weeks
 
-**The Metamorphosis** (Age 71) - finished age on [World of Legends](World_of_Legends.md) server.
-
-# Changes in brief
+## Changes in brief
 
 ## Race Changes
 
@@ -282,40 +271,175 @@ Starts with 800 elites
   - The Attack Gains formula may also receive tweaks to adjust the scaling of how relative net worth affects gains in such a way that further discourages bottom-feeding and promotes protecting your own land.
   - The War Win bonus choice of 'Land' or 'Honor' will be removed. All War Wins will yield a single bonus, which will be an increased amount of both Land and Honor. Similar to the minimum land bonus, a minimum honor bonus will also be added.
 
-# Races
+## Races
 
-| Avians | Dwarves | Elves | Faeries |
-| --- | --- | --- | --- |
-| - -30% Attack travel time - Cannot be ambushed - +40% Birth Rate - Train Elites with Credits | - +25% Building Efficiency - Free Building Construction and Can Use Credits to Raze Buildings - -50% Building Construction Time - +1 Offensive specialist strength - +1 Defensive specialist strength | - +2 Defensive Specialist strength - +35% Spell Success (WPA) - +25% Combat Instant Spell Damage - +50% Rune Generation - -35% Military Casualties (on both offense and defence) | - +40% Combat Instant Spell Damage - +40% Sabotage Operation Damage - +1 mana per tick in war |
-| Fanaticism, Greater Protection, Blood Lust | Mystic Aura | Fool's Gold, Pitfalls, Invisibility | Aggression, Fanaticism, Fools Gold, Greater Protection, Invisibility, Mage's Fury, Mystic Aura, Pitfalls, Quick Feet, Reflect Magic, Town Watch, Tree of Gold and Bloodlust |
-| - -10% Battle Gains   Cannot Use War Horses | - Can't use Accelerated Construction - +100% food consumption | - +50% Military Wages | - -10% Income - -5% Max Population |
-| **Elite: 11/4, 775gc, 10.5NW** | **Elite: 8/8, 900gc, 10NW** | **8/7, 900gc, 9.5NW** | **Elite: 5/10, 1050gc, 11NW** |
+### Avians
 
-| Halflings | Humans | Orcs | Undeads |
-| --- | --- | --- | --- |
-| - +15% Max Population - +50% Thievery Operation Success (TPA) - -50% Thief cost - +1 Stealth per tick - +2 Offensive Specialist Strength | - +30% income - Immune to Income Penalties | - +25% Battle Gains - Free draft - +20% Enemy casualties when attacking | - +570% Plague Contagiousness - -100% Food Consumption - -50% Own casualties when attacking - -50% Troop deaths (converted to soldiers) - Convert Specialists into Elites - Always Carries and is Immune to the Plague - +3 Offensive Specialist strength |
-| Mage's Fury, Aggression | Greater Protection, Quick Feet | Reflect Magic, Blood Lust | Town Watch |
-| - -5% Building Efficiency - -10% Birth Rate | - -10% Spell Success (WPA) - +50% Rune Cost | - +15% Battle Losses - +10% Own casualties when attacking - +10% Own casualties when defending - -10% Thievery Operation Success (TPA) | - Basic Thievery (Intel Operations Only) - No Elite Training - -35% Science Effectiveness |
-| **Elite: 6/8, 700gc, 10NW** | **Elite: 10/4, 1000gc, 9.5NW** | **Elite: 13/2, 1000gc, 11.5NW** | **Elite: 15/1, 11.5NW** |
+- -30% Attack travel time
+- Cannot be ambushed
+- +40% Birth Rate
+- Train Elites with Credits
+**Spells:** Fanaticism, Greater Protection, Blood Lust
+- -10% Battle Gains Cannot Use War Horses
+- Elite: 11/4, 775gc, 10.5NW
 
-# Personalities
+### Dwarves
 
-| Heretic | Sage | Rogue | Mystic |
-| --- | --- | --- | --- |
-| - +20% Magic Science Effectiveness - +20% Spell Success (WPA) - +35% Runes Refunded on Spell Success - +20% Thievery Science Effectiveness - No wizards killed from failed spells - No thieves lost on failed ops - Spell Book: Nightmare, Blizzard and Revelation  - Starts with +100 Wizards and +200 thieves | - Protect 30% of scientists on abduct attack - Scientists are 25% more effective - Increase base Scientist spawn rate by 25% - Spell Book: Amnesia  - Starts with 25% extra scientists | - +1 Stealth recovery per tick - Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda - Thieves Dens are 50% more effective - +75% Thievery Science Effectiveness - Spell Book: Gluttony and Revelation  - Starts with +400 thieves | - All Guilds are 100% more effective - +75% Magic Science Effectiveness - Spell Book: Meteor Showers, Chastity, Revelation  - Starts with +600 Wizards |
+- +25% Building Efficiency
+- Free Building Construction and Can Use Credits to Raze Buildings
+- -50% Building Construction Time
+- +1 Offensive specialist strength
+- +1 Defensive specialist strength
+**Spells:** Mystic Aura
+- Can't use Accelerated Construction
+- +100% food consumption
+- Elite: 8/8, 900gc, 10NW
 
-| Warrior | Tactician | Cleric | War Hero |
-| --- | --- | --- | --- |
-| - +10% Offensive Military Efficiency - Enhanced Conquest range - +1 General  - Starts with +800 soldiers and +800 specialist credits | - -20% Attack Time - Accurate Espionage - Spell Book: Clear Sight  - Starts with +800 soldiers and +800 specialist credits | - -35% Your Military Casualties (on attack or defense) - Immune to The Plague - Spell Book: Animate Dead, Greater Protection  - Starts with +800 soldiers and +800 specialist credits | - +120% Honor Effects - Converts some Specialists into Elites on successful land attacks (increasing this amount by ~20%) - Immune to Dragon and Income penalty effects - +5% Battle Gains - Increase honor gains by generating honor in all land attacks (in or out of war) - Spell Book: War Spoils, Pitfalls and Fanaticism  - Starts with 800 elites |
+### Elves
 
-# Stances
+- +2 Defensive Specialist strength
+- +35% Spell Success (WPA)
+- +25% Combat Instant Spell Damage
+- +50% Rune Generation
+- -35% Military Casualties (on both offense and defence)
+**Spells:** Fool's Gold, Pitfalls, Invisibility
+- +50% Military Wages
+- 8/7, 900gc, 9.5NW
+
+### Faeries
+
+- +40% Combat Instant Spell Damage
+- +40% Sabotage Operation Damage
+- +1 mana per tick in war
+**Spells:** Aggression, Fanaticism, Fools Gold, Greater Protection, Invisibility, Mage's Fury, Mystic Aura, Pitfalls, Quick Feet, Reflect Magic, Town Watch, Tree of Gold and Bloodlust
+- -10% Income
+- -5% Max Population
+- Elite: 5/10, 1050gc, 11NW
+
+### Halflings
+
+- +15% Max Population
+- +50% Thievery Operation Success (TPA)
+- -50% Thief cost
+- +1 Stealth per tick
+- +2 Offensive Specialist Strength
+**Spells:** Mage's Fury, Aggression
+- -5% Building Efficiency
+- -10% Birth Rate
+- Elite: 6/8, 700gc, 10NW
+
+### Humans
+
+- +30% income
+- Immune to Income Penalties
+**Spells:** Greater Protection, Quick Feet
+- -10% Spell Success (WPA)
+- +50% Rune Cost
+- Elite: 10/4, 1000gc, 9.5NW
+
+### Orcs
+
+- +25% Battle Gains
+- Free draft
+- +20% Enemy casualties when attacking
+**Spells:** Reflect Magic, Blood Lust
+- +15% Battle Losses
+- +10% Own casualties when attacking
+- +10% Own casualties when defending
+- -10% Thievery Operation Success (TPA)
+- Elite: 13/2, 1000gc, 11.5NW
+
+### Undeads
+
+- +570% Plague Contagiousness
+- -100% Food Consumption
+- -50% Own casualties when attacking
+- -50% Troop deaths (converted to soldiers)
+- Convert Specialists into Elites
+- Always Carries and is Immune to the Plague
+- +3 Offensive Specialist strength
+**Spells:** Town Watch
+- Basic Thievery (Intel Operations Only)
+- No Elite Training
+- -35% Science Effectiveness
+- Elite: 15/1, 11.5NW
+
+## Personalities
+
+### Heretic
+
+- +20% Magic Science Effectiveness
+- +20% Spell Success (WPA)
+- +35% Runes Refunded on Spell Success
+- +20% Thievery Science Effectiveness
+- No wizards killed from failed spells
+- No thieves lost on failed ops
+- Spell Book: Nightmare, Blizzard and Revelation
+- Starts with +100 Wizards and +200 thieves
+
+### Sage
+
+- Protect 30% of scientists on abduct attack
+- Scientists are 25% more effective
+- Increase base Scientist spawn rate by 25%
+- Spell Book: Amnesia
+- Starts with 25% extra scientists
+
+### Rogue
+
+- +1 Stealth recovery per tick
+- Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
+- Thieves Dens are 50% more effective
+- +75% Thievery Science Effectiveness
+- Spell Book: Gluttony and Revelation
+- Starts with +400 thieves
+
+### Mystic
+
+- All Guilds are 100% more effective
+- +75% Magic Science Effectiveness
+- Spell Book: Meteor Showers, Chastity, Revelation
+- Starts with +600 Wizards
+
+### Warrior
+
+- +10% Offensive Military Efficiency
+- Enhanced Conquest range
+- +1 General
+- Starts with +800 soldiers and +800 specialist credits
+
+### Tactician
+
+- -20% Attack Time
+- Accurate Espionage
+- Spell Book: Clear Sight
+- Starts with +800 soldiers and +800 specialist credits
+
+### Cleric
+
+- -35% Your Military Casualties (on attack or defense)
+- Immune to The Plague
+- Spell Book: Animate Dead, Greater Protection
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- +120% Honor Effects
+- Converts some Specialists into Elites on successful land attacks (increasing this amount by ~20%)
+- Immune to Dragon and Income penalty effects
+- +5% Battle Gains
+- Increase honor gains by generating honor in all land attacks (in or out of war)
+- Spell Book: War Spoils, Pitfalls and Fanaticism
+- Starts with 800 elites
+
+## Stances
 
 | Stances | | |
 | --- | --- | --- |
 | Normal | Aggressive | Fortified |
 | - No Effects | - +10% Combat Gains - -15% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -50% gains on magic and thievery ops in(slides in over a period of 24 hours) - -40% Military training time and cost - +40% draft speed - -50% Construction time and cost - +200% Birth Rate      - 72 hours maximum duration (with 96 hour cooldown) - -50% gains hitting out - -50% gains on magic and thievery ops out - +500% Explore costs - No Paradise spell available - No scientist progression and no new scientists |
 
-# Relations
+## Relations
 
 | Inter-Kingdoms' Relations | | | | |
 | --- | --- | --- | --- | --- |

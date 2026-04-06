@@ -1,21 +1,10 @@
-# Age 97
+# Age 97 — Dominance
 
-| **Age 97** | |
-| --- | --- |
-| Name: | **Dominance** |
-| Number: | 97 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Ended |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | Wednesday June 29, 2022 @ 18:00 GMT |
-| End: | Saturday, September 3, 2022 @ 00:00 GMT |
-| Duration (in days): | 67 |
+**WoL Age 97 Start:** Wednesday June 29, 2022 @ 18:00 GMT
+**WoL Age 97 End:** Saturday, September 3, 2022 @ 00:00 GMT
+**Duration:** 67
 
-# Dominance
-
-Original details can be found in the forums here: [http://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes](http://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes)
+**Forum Source:** [http://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes](http://forums.utopia-game.com/showthread.php?640273-Age-97-Final-Changes)
 
 #### Mechanical Changes
 

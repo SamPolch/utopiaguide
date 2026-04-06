@@ -1,21 +1,10 @@
-# Age 68
+# Age 68 — Heresy
 
-| **Age 68** | |
-| --- | --- |
-| Name: | **Heresy** |
-| Number: | 68 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | finished |
-| Owner: | [Arcadia Games](../misc/Brian_&_Sean.md) |
-| **Dates** | |
-| Start: | 19 Apr 2016 |
-| End: | 5 Aug 2016 |
-| Duration (in days): | 15 weeks |
+**WoL Age 68 Start:** 19 Apr 2016
+**WoL Age 68 End:** 5 Aug 2016
+**Duration:** 15 weeks
 
-**The Age of Heresy** (Age 68) - finished Age on [World of Legends](World_of_Legends.md) server.
-
-# Changes in brief
+## Changes in brief
 
 ## Race Changes
 
@@ -247,42 +236,152 @@ Starts with 400 elites
 - Empty kingdoms:
   - I'll be able to create new empty kingdoms to move people into should they wish to start a new kingdom. Minimum 3 people to create a kingdom, 7 free invites provided.
 
-# Races
+## Races
 
-| Avians | Dwarves | Elves | Faeries |
-| --- | --- | --- | --- |
-| - - 25% Attack Time - + 30% Birth Rate - Ambush Immunity - + 1 General | - Free Building Construction - Can use credits to raze buildings - -50% Building Construction Time - -50% food consumption | - + 30% Spell success - + 2 Defensive Specialist strength - - 30% defensive losses - +100% land effect from Towers | - + 20% Combat Instant Spell damage - + 20% Sabotage Operation damage - + 20% Spell duration - + 1 mana per tick in War - + 1 stealth per tick |
-| Fanaticism, Greater Protection | Clear Sight, Mystic Aura | Fools gold, Pitfalls, Invisibility | Access to All Racial Spells and Tree of Gold |
-|  | - Can't use Accelerated Construction |  |  |
-| Elite: 9/3, 750gc, 8.75NW | Elite: 7/7, 700gc, 10NW | 7/6, 750gc, 8.5NW | Elite: 5/9, 1200gc, 11NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+### Avians
 
-| Halflings | Humans | Orcs | Undead |
-| --- | --- | --- | --- |
-| - + 50% TPA - + 2 offensive specialist strength - - 50% thief cost - + 12% population | - + 30% income - Immune to income penalties | - + 20 % Battle Gains - Free draft - + 25% Enemy casualties when attacking | - - 75% Offensive losses on attacks you make - Spreads and is Immune to The Plague - No Food Required |
-| Mage's Fury, Aggression | Fountain of Knowledge, Quick Feet | Reflect Magic | Town Watch, Animate Dead |
-|  | - - 15% Spell success | - - 10% science effectiveness | - Basic Thievery (Intel operations only) |
-| Soldiers 3/3, Elite: 6/6, 550gc, 8.5NW | Elite: 9/4, 750gc, 9.25NW | Elite: 12/2, 800gc, 10.5NW | Elite: 11/3, 950gc, 10NW |
-| {{{1f}}} | {{{2f}}} | {{{3f}}} | {{{4f}}} |
+- -25% Attack Time
+- +30% Birth Rate
+- Ambush Immunity
+- +1 General
+**Spells:** Fanaticism, Greater Protection
+- Elite: 9/3, 750gc, 8.75NW
 
-# Personalities
+### Dwarves
 
-| Heretic | Sage | Rogue | Mystic |
-| --- | --- | --- | --- |
-| - Wizards do not die on failed spells - Thieves do not die on failed operations - Successful spell casts get 50% of rune cost refunded - +30% Magic and Thievery Science Effectiveness. - Access to Nightmares  - Starts with +100 Wizards and +200 thieves | - Protect 75% of science on attacks - Every 2 acres generates 1 book of science - Access to Amnesia  - Starts with 40000 science books | - + 1 Stealth recovery per tick - + 100% land effect from Thieves Dens - Access to all Thievery Operations - +75% Thievery Science Effectiveness - Access to Gluttony  - Starts with +400 thieves | - All Guilds are twice as effective - + 50% Magic Science Effectiveness - Access to Meteor Showers, Chastity  - Starts with +200 Wizards |
+- Free Building Construction
+- Can use credits to raze buildings
+- -50% Building Construction Time
+- -50% food consumption
+**Spells:** Clear Sight, Mystic Aura
+- Can't use Accelerated Construction
+- Elite: 7/7, 700gc, 10NW
 
-| Warrior | Tactician | Cleric | War Hero |
-| --- | --- | --- | --- |
-| - + 15% OME - Enhanced Conquest range - Access to Bloodlust  - Starts with +800 soldiers and +800 specialist credits | - - 15% Attack Time - Accurate Espionage - Access to Clear Sight  - Starts with +800 soldiers and +800 specialist credits | - - 30% Your Military Casualties (on attack or defense) - Immune to The Plague - Access to Pitfalls  - Starts with +800 soldiers and +800 specialist credits | - + 100% Honor Effects - Converts some Specialists into Elites on successful land attacks - Immune to all Dragon effects and Income Penalties - Access to War Spoils  - Starts with 400 elites |
+### Elves
 
-# Stances
+- +30% Spell success
+- +2 Defensive Specialist strength
+- -30% defensive losses
+- +100% land effect from Towers
+**Spells:** Fools gold, Pitfalls, Invisibility
+- 7/6, 750gc, 8.5NW
+
+### Faeries
+
+- +20% Combat Instant Spell damage
+- +20% Sabotage Operation damage
+- +20% Spell duration
+- +1 mana per tick in War
+- +1 stealth per tick
+**Spells:** Access to All Racial Spells and Tree of Gold
+- Elite: 5/9, 1200gc, 11NW
+
+### Halflings
+
+- +50% TPA
+- +2 offensive specialist strength
+- -50% thief cost
+- +12% population
+**Spells:** Mage's Fury, Aggression
+- Elite: 6/6, 550gc, 8.5NW
+
+### Humans
+
+- +30% income
+- Immune to income penalties
+**Spells:** Fountain of Knowledge, Quick Feet
+- -15% Spell success
+- Elite: 9/4, 750gc, 9.25NW
+
+### Orcs
+
+- +20 % Battle Gains
+- Free draft
+- +25% Enemy casualties when attacking
+**Spells:** Reflect Magic
+- -10% science effectiveness
+- Elite: 12/2, 800gc, 10.5NW
+
+### Undead
+
+- -75% Offensive losses on attacks you make
+- Spreads and is Immune to The Plague
+- No Food Required
+**Spells:** Town Watch, Animate Dead
+- Basic Thievery (Intel operations only)
+- Elite: 11/3, 950gc, 10NW
+
+## Personalities
+
+### Heretic
+
+- Wizards do not die on failed spells
+- Thieves do not die on failed operations
+- Successful spell casts get 50% of rune cost refunded
+- +30% Magic and Thievery Science Effectiveness.
+- Access to Nightmares
+- Starts with +100 Wizards and +200 thieves
+
+### Sage
+
+- Protect 75% of science on attacks
+- Every 2 acres generates 1 book of science
+- Access to Amnesia
+- Starts with 40000 science books
+
+### Rogue
+
+- +1 Stealth recovery per tick
+- +100% land effect from Thieves Dens
+- Access to all Thievery Operations
+- +75% Thievery Science Effectiveness
+- Access to Gluttony
+- Starts with +400 thieves
+
+### Mystic
+
+- All Guilds are twice as effective
+- +50% Magic Science Effectiveness
+- Access to Meteor Showers, Chastity
+- Starts with +200 Wizards
+
+### Warrior
+
+- +15% OME
+- Enhanced Conquest range
+- Access to Bloodlust
+- Starts with +800 soldiers and +800 specialist credits
+
+### Tactician
+
+- -15% Attack Time
+- Accurate Espionage
+- Access to Clear Sight
+- Starts with +800 soldiers and +800 specialist credits
+
+### Cleric
+
+- -30% Your Military Casualties (on attack or defense)
+- Immune to The Plague
+- Access to Pitfalls
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- +100% Honor Effects
+- Converts some Specialists into Elites on successful land attacks
+- Immune to all Dragon effects and Income Penalties
+- Access to War Spoils
+- Starts with 400 elites
+
+## Stances
 
 | Stances | | |
 | --- | --- | --- |
 | Normal | Aggressive | Fortified |
 | - No Effects | - +10% Combat Gains - -15% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -50% gains on magic and thievery ops in(slides in over a period of 24 hours) - -40% Military training time and cost - +40% draft speed - -50% Construction time and cost - +200% Birth Rate      - 48 hours maximum duration - -50% gains hitting out - -50% gains on magic and thievery ops out - +500% Explore costs - No Paradise spell available - Science limited to "Active" |
 
-# Relations
+## Relations
 
 | Inter-Kingdoms' Relations | | | | |
 | --- | --- | --- | --- | --- |

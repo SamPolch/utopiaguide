@@ -1,21 +1,10 @@
-# Age 99
+# Age 99 — Crossing Boundaries
 
-| **Age 99** | |
-| --- | --- |
-| Name: | **Crossing Boundaries** |
-| Number: | 99 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Ended |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | Monday, November 21, 2022 @ 18:00 GMT |
-| End: | Saturday, February 4, 2023 @ 00:00 GMT |
-| Duration (in days): | 76 |
+**WoL Age 99 Start:** Monday, November 21, 2022 @ 18:00 GMT
+**WoL Age 99 End:** Saturday, February 4, 2023 @ 00:00 GMT
+**Duration:** 76
 
-# Crossing Boundaries
-
-Original details can be found in the forums here: [Age 99 Final Changes](http://forums.utopia-game.com/showthread.php?640313-Age-99-Final-Changes)
+**Forum Source:** [Age 99 Final Changes](http://forums.utopia-game.com/showthread.php?640313-Age-99-Final-Changes)
 
 ### Mechanical Changes
 

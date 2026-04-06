@@ -1,21 +1,10 @@
-# Age 93
+# Age 93 — Occult Ordination
 
-| **Age 93** | |
-| --- | --- |
-| Name: | **Occult Ordination** |
-| Number: | 93 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Ended |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | Tuesday Sept 7, 2021 @ 18:00 GMT |
-| End: | Saturday Nov 20, 2021 @ 00:00 GMT |
-| Duration (in days): | 74 |
+**WoL Age 93 Start:** Tuesday Sept 7, 2021 @ 18:00 GMT
+**WoL Age 93 End:** Saturday Nov 20, 2021 @ 00:00 GMT
+**Duration:** 74
 
-# **Occult Ordination**
-
-Original details can be found in the forums here: http://forums.utopia-game.com/showthread.php?640192-Age-93-Final-Changes
+**Forum Source:** [http://forums.utopia-game.com/showthread.php?640192-Age-93-Final-Changes](http://forums.utopia-game.com/showthread.php?640192-Age-93-Final-Changes)
 
 Our second round with the unique Dual Race choice!
 

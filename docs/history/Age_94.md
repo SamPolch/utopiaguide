@@ -1,21 +1,10 @@
 # Age 94
 
-| **Age 94** | |
-| --- | --- |
-| Name: | ' |
-| Number: | 94 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Ended |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | Monday Nov 22, 2021 @ 18:00 GMT |
-| End: | Saturday Jan 29, 2022 @ 00:00 GMT |
-| Duration (in days): | 69 |
+**WoL Age 94 Start:** Monday Nov 22, 2021 @ 18:00 GMT
+**WoL Age 94 End:** Saturday Jan 29, 2022 @ 00:00 GMT
+**Duration:** 69
 
-# Age 94
-
-[Age 94 Final Changes](http://forums.utopia-game.com/showthread.php?640217-Age-94-Final-Changes%7C)
+**Forum Source:** [Age 94 Final Changes](http://forums.utopia-game.com/showthread.php?640217-Age-94-Final-Changes%7C)
 
 ### Military, Attacking & Defending
 

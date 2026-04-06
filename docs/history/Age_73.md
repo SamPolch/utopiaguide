@@ -1,21 +1,8 @@
-# Age 73
+# Age 73 — The Age of Tricksters and Mischief
 
-| **Age 73** | |
-| --- | --- |
-| Name: | **The Age of Tricksters and Mischief** |
-| Number: | 73 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Current |
-| Owner: | [Arcadia Games](../misc/Brian_&_Sean.md) |
-| **Dates** | |
-| Start: | 11 Aug 2017 |
-| End: |  |
-| Duration (in days): |  |
+**WoL Age 73 Start:** 11 Aug 2017
 
-**The Age of Tricksters and Mischief** (Age 73) - current age on [World of Legends](World_of_Legends.md) server.
-
-# Mechanics Changes
+## Mechanics Changes
 
 - New Features
   - Interactive Player Sign-Up: We are developing a method through which Kingdom Monarchs will have a better opportunity to have players join their Kingdom that fit what they are looking for, and respectively new players will have a better opportunity to join Kingdoms that fit what they are looking for in terms of experience, competitiveness, and play style
@@ -47,51 +34,186 @@
   - Aid Explorable Acres - Explorable acres will now have the option to be sent to other members of your Kingdom. 75% of the acres transferred will be destroyed. Acres will not be available for transfer during protection. Acres will have a Trade Balance cost of 500 gc each.
   - Science Caps - Science will no longer have a hard maximum for all categories. The purpose of this is to allow players more freedom to make your province unique and provide further bonuses to the areas you choose. Science will scale in a linear fashion similar to Age 72 up to the previously stated maximums as normal. Once this point is reached additional scientists will yield diminishing returns.
 
-# Races
+## Races
 
-| Avians | Bocans | Dark Elves |
-| --- | --- | --- |
-| - -25% Attack travel time - +40% Birth Rate - Can Train Elites with Credits | - Ignores Watchtowers - +1 Stealth per tick - +50% Effects from Honor | - +1 Offensive Specialist strength - +25% Spell Success (WPA) - +30% Combat Instant Spell Damage - 35% Runes Refunded on Successful Spells |
-| Fanaticism, Greater Protection, Blood Lust | Invisibility | Nightmare, Mage's Fury |
-| - -5% Combat Gains - -2000 Starting Credits - -20% Training Credits - Cannot Use War Horses | - -15% Sabotage Damage | - -1 Defensive Spec Strength |
-| **Elite: 9/4, 775gc, 10.5 NW** | **Elite: 4/6, 450gc, 7 NW** | **4/7, 750gc, 10 NW** |
+### Avians
 
-| Dryads | Dwarves | Faeries |
-| --- | --- | --- |
-| - All land produces food - Mercenaries & Prisoners 7/0 - War Horses 3/0 | - +20% Building Efficiency - Free Building Construction and Can Use Credits to Raze Buildings - -50% Building Construction Time | - All Spells (Except Paladin Only & Paradise) |
-| Aggression, Quick Feet | Mystic Aura | All Spells (Excluding Paradise & Paladin Spells) |
-| - +25% Attack Travel Time - -15% Enemy Military Casualties | - Can't use Accelerated Construction - +100% Food consumption | - -15% Income |
-| **Elite: 12/2, 950gc, 11 NW** | **Elite: 7/4, 900gc, 10 NW** | **Elite: 2/8, 900gc, 10.5 NW** |
+- -25% Attack travel time
+- +40% Birth Rate
+- Can Train Elites with Credits
+**Spells:** Fanaticism, Greater Protection, Blood Lust
+- -5% Combat Gains
+- -2000 Starting Credits
+- -20% Training Credits
+- Cannot Use War Horses
+- Elite: 9/4, 775gc, 10.5 NW
 
-| Humans | Orcs | Undeads |
-| --- | --- | --- |
-| - +30% Income - -25% Wages - Immune to Income Penalties - +25% Increase Sci Spawn | - +30% Battle Gains - Free draft - +20% Enemy casualties when attacking | - -50% Offensive losses on attacks you make - Spreads and is Immune to The Plague - No Food Required - Successful land attacks convert Offensive Specialists into Elites - Defensive losses automatically convert to soldiers(Permanent Animate Dead) - +2 Offensive Specialist strength - +1 Mana per tick |
-| Greater Protection | Reflect Magic, Blood Lust | Town Watch, Nightmare |
-| - -15% Spell Success (WPA) - +30% Rune Costs | - +10% Military Casualties - -15% Thievery Effectiveness (TPA) | - Basic Thievery (Intel Operations Only) - No Elite Training - -15% Science Effectiveness |
-| **Elite: 8/3, 900gc, 10 NW** | **Elite: 10/1, 900gc, 9.5 NW** | **Elite: 11/2, 10.5 NW** |
+### Bocans
 
-# Personalities
+- Ignores Watchtowers
+- +1 Stealth per tick
+- +50% Effects from Honor
+**Spells:** Invisibility
+- -15% Sabotage Damage
+- Elite: 4/6, 450gc, 7 NW
 
-| Cleric | Heretic | Mystic |
-| --- | --- | --- |
-| - -35% Your Military Casualties (on attack or defense) - Immune to The Plague - +15% Population Science Effectiveness - Spell Book: Animate Dead, Greater Protection  - Starts with +800 soldiers and +800 specialist credits | - +15% Spell and Operation Damage - +10% Magic Science Effectiveness - +10% Thievery Science Effectiveness - No wizards killed from failed spells - -50% thieves lost on failed ops - Spell Book: Nightmare, Blizzard and Revelation  - Starts with +150 wizards and +300 thieves | - All Guilds are 100% more effective - +75% Magic Science Effectiveness - +20% Spell Damage - Spell Book: Meteor Showers, Chastity, Revelation and Paradise  - Starts with +800 Wizards |
+### Dark Elves
 
-| Paladin | Rogue | Sage |
-| --- | --- | --- |
-| - Can Cast Fading Self Spells on Kingdom Members (success will be based on WPA) - Troops attacks dragon with 25% more strength - Spell Book: Fool's Gold, Paladin's Inspiration, Scientific Insights, Illuminate Shadows, Wrathful Smite, Divine Shield, Magic Ward, Barrier of Integrity  - Starts with +400 soldiers, +400 specialist credits and +400 wizards | - +1 Stealth recovery per tick - Access to all thievery operations - Thieves Dens are 50% more effective - +50% Thievery Science Effectiveness - Spell Book: Gluttony, Paradise and Revelation  - Starts with +800 thieves | - Protect 30% of scientists on abduct attack - Scientists are 30% more effective - Spell Book: Amnesia  - Starts with 50% extra scientists |
+- +1 Offensive Specialist strength
+- +25% Spell Success (WPA)
+- +30% Combat Instant Spell Damage
+- 35% Runes Refunded on Successful Spells
+**Spells:** Nightmare, Mage's Fury
+- -1 Defensive Spec Strength
+- 4/7, 750gc, 10 NW
 
-| Tactician | Warrior | War Hero |
-| --- | --- | --- |
-| - -15% Attack Time - Accurate Espionage - Spell Book: Clear Sight  - Starts with +800 soldiers and +800 specialist credits | - +10% Offensive Military Efficiency - +15% Military Science Effectiveness - Full Conquest Access (Regardless of NW range) - Spell Book: Fanaticism  - Starts with +800 soldiers and +800 specialist credits | - Converts some Specialists into Elites on successful Traditional March attacks - Immune to Dragon - Income penalty effects - +5% Battle Gains - +100% Honor Bonuses - Spell Book: War Spoils, Pitfalls  - Starts with 800 elites |
+### Dryads
 
-# Stances
+- All land produces food
+- Mercenaries & Prisoners 7/0
+- War Horses 3/0
+**Spells:** Aggression, Quick Feet
+- +25% Attack Travel Time
+- -15% Enemy Military Casualties
+- Elite: 12/2, 950gc, 11 NW
+
+### Dwarves
+
+- +20% Building Efficiency
+- Free Building Construction and Can Use Credits to Raze Buildings
+- -50% Building Construction Time
+**Spells:** Mystic Aura
+- Can't use Accelerated Construction
+- +100% Food consumption
+- Elite: 7/4, 900gc, 10 NW
+
+### Faeries
+
+- All Spells (Except Paladin Only & Paradise)
+**Spells:** All Spells (Excluding Paradise & Paladin Spells)
+- -15% Income
+- Elite: 2/8, 900gc, 10.5 NW
+
+### Humans
+
+- +30% Income
+- -25% Wages
+- Immune to Income Penalties
+- +25% Increase Sci Spawn
+**Spells:** Greater Protection
+- -15% Spell Success (WPA)
+- +30% Rune Costs
+- Elite: 8/3, 900gc, 10 NW
+
+### Orcs
+
+- +30% Battle Gains
+- Free draft
+- +20% Enemy casualties when attacking
+**Spells:** Reflect Magic, Blood Lust
+- +10% Military Casualties
+- -15% Thievery Effectiveness (TPA)
+- Elite: 10/1, 900gc, 9.5 NW
+
+### Undeads
+
+- -50% Offensive losses on attacks you make
+- Spreads and is Immune to The Plague
+- No Food Required
+- Successful land attacks convert Offensive Specialists into Elites
+- Defensive losses automatically convert to soldiers(Permanent Animate Dead)
+- +2 Offensive Specialist strength
+- +1 Mana per tick
+**Spells:** Town Watch, Nightmare
+- Basic Thievery (Intel Operations Only)
+- No Elite Training
+- -15% Science Effectiveness
+- Elite: 11/2, 10.5 NW
+
+## Personalities
+
+### Cleric
+
+- -35% Your Military Casualties (on attack or defense)
+- Immune to The Plague
+- +15% Population Science Effectiveness
+- Spell Book: Animate Dead, Greater Protection
+- Starts with +800 soldiers and +800 specialist credits
+
+### Heretic
+
+- +15% Spell and Operation Damage
+- +10% Magic Science Effectiveness
+- +10% Thievery Science Effectiveness
+- No wizards killed from failed spells
+- -50% thieves lost on failed ops
+- Spell Book: Nightmare, Blizzard and Revelation
+- Starts with +150 wizards and +300 thieves
+
+### Mystic
+
+- All Guilds are 100% more effective
+- +75% Magic Science Effectiveness
+- +20% Spell Damage
+- Spell Book: Meteor Showers, Chastity, Revelation and Paradise
+- Starts with +800 Wizards
+
+### Paladin
+
+- Can Cast Fading Self Spells on Kingdom Members (success will be based on WPA)
+- Troops attacks dragon with 25% more strength
+- Spell Book: Fool's Gold, Paladin's Inspiration, Scientific Insights, Illuminate Shadows, Wrathful Smite, Divine Shield, Magic Ward, Barrier of Integrity
+- Starts with +400 soldiers, +400 specialist credits and +400 wizards
+
+### Rogue
+
+- +1 Stealth recovery per tick
+- Access to all thievery operations
+- Thieves Dens are 50% more effective
+- +50% Thievery Science Effectiveness
+- Spell Book: Gluttony, Paradise and Revelation
+- Starts with +800 thieves
+
+### Sage
+
+- Protect 30% of scientists on abduct attack
+- Scientists are 30% more effective
+- Spell Book: Amnesia
+- Starts with 50% extra scientists
+
+### Tactician
+
+- -15% Attack Time
+- Accurate Espionage
+- Spell Book: Clear Sight
+- Starts with +800 soldiers and +800 specialist credits
+
+### Warrior
+
+- +10% Offensive Military Efficiency
+- +15% Military Science Effectiveness
+- Full Conquest Access (Regardless of NW range)
+- Spell Book: Fanaticism
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- Converts some Specialists into Elites on successful Traditional March attacks
+- Immune to Dragon
+- Income penalty effects
+- +5% Battle Gains
+- +100% Honor Bonuses
+- Spell Book: War Spoils, Pitfalls
+- Starts with 800 elites
+
+## Stances
 
 | Stances | | |
 | --- | --- | --- |
 | Normal | Aggressive | Prosperous |
 | - No Effects | - +10% Combat Gains - -15% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -40% Military training time and cost - +40% draft speed - -50% Construction time and cost - +200% Birth Rate      - 72 hours maximum duration (with 96 hour cooldown) - -20% gains hitting out - -20% gains on magic and thievery ops out - +500% Explore costs - No Paradise spell available |
 
-# Relations
+## Relations
 
 | Inter-Kingdoms' Relations | | | | |
 | --- | --- | --- | --- | --- |

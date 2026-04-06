@@ -1,21 +1,9 @@
-# Age 86
+# Age 86 — Global Viction
 
-| **Age 86** | |
-| --- | --- |
-| Name: | **Global Viction** |
-| Number: | 86 |
-| **Official Information** | |
-| Server: | [World of Legends](World_of_Legends.md) |
-| Status: | Closed |
-| Owner: | [Muga Gaming](../misc/Muga_Gaming.md) |
-| **Dates** | |
-| Start: | 18 May 2020 |
-| End: |  |
-| Duration (in days): | 11 weeks |
+**WoL Age 86 Start:** 18 May 2020
+**Duration:** 11 weeks
 
-**Global Viction**
-
-# Mechanics Changes
+## Mechanics Changes
 
 ### Attacks & Relations
 
@@ -107,44 +95,175 @@ Stats listed here considered 'base effectiveness'
 - Havoc: +30% Offensive TPA & +30% Offensive WPA & +15% Spell/Thief damage
 - Onslaught: +10% OME & +15% enemy casualties on attacks
 
-# Races
+## Races
 
-| Avian | Dark Elf | Dwarf |
-| --- | --- | --- |
-| - -25% Attack Time - -25% Military Train Time - +40% Birth Rate | - +2 Offensive Specialist Strength - -50% Rune Cost - No Wizards lost on Failed Spell Casts | - +30% Building Efficiency - -75% Construction Cost |
-| Fanaticism | Pitfalls, Reflect Magic | Gluttony |
-| - -10% Battle Gains - Can't use Stables | - -20% Birth Rate | - +100% Food consumption |
-| Elite: 16/5, 900gc, 8.0 NW | Elite: 9/12, 950gc, 8.75 NW | Elite: 13/8, 1000gc, 8.25 NW |
+### Avian
 
-| Elf | Faery | Halfling |
-| --- | --- | --- |
-| - +2 Defensive Specialist Strength - +25% Combat Instant Spell Damage - -1 Mana Self Spell Cost | - +30% Magic Effectiveness (WPA) - +50% Self-Spell Duration - +25% Rune Production - Access to All Racial Spells | - Homes hold 20 population - +25% Thievery Effectiveness (TPA) - -20% Military Training Cost |
-| Magic Ward, Mystic Aura | All Racial Spells, Tree of Gold | Town Watch, Vermin |
-| - Can't use Dungeons | - -10% Maximum Population |  |
-| Elite: 13/6, 900gc, 7.50 NW | Elite: 6/13, 1100gc, 8.0 NW | Elite: 11/7, 800gc, 7.0 NW |
+- -25% Attack Time
+- -25% Military Train Time
+- +40% Birth Rate
+**Spells:** Fanaticism
+- -10% Battle Gains
+- Can't use Stables
+- Elite: 16/5, 900gc, 8.0 NW
 
-| Human | Orc | Undead |
-| --- | --- | --- |
-| - +25% Income - +20% Science Effectiveness - +2 War Horse Strength | - +20% Combat Gains - -50% Draft Costs | - +15% Population - -50% Offensive Military Casualties - No Food required - Spreads and is immune to the Plague - Converts some Specialists to Elites on Successful Traditional Marches |
-| Quick Feet, Fountain of Knowledge, Greater Protection | Aggression, Bloodlust | Animate Dead, Chastity |
-| - -20% Magic Effectiveness (WPA) | - +20% Damage taken from Instant Spells & Sabotage Operations - -50% Honor Bonus | - -50% Science Effectiveness - Cannot train Elites - No Access to Hospitals |
-| Elite: 8/12, 1150gc, 8.25 NW | Elite: 15/4, 950gc, 7.75 NW | Elite: 16/6, -gc, 8.5 NW |
+### Dark Elf
 
-# Personalities
+- +2 Offensive Specialist Strength
+- -50% Rune Cost
+- No Wizards lost on Failed Spell Casts
+**Spells:** Pitfalls, Reflect Magic
+- -20% Birth Rate
+- Elite: 9/12, 950gc, 8.75 NW
 
-| Artisan | Cleric | Heretic |
-| --- | --- | --- |
-| - +25% Economy Science book production - -50% Build Time - +30% Flat Rate Building Production (Farms/Towers/Banks/Stables) - +150% Building Credits gained in Combat - Access to Ghost Workers   Starts with +600 soldiers and +600 specialist credits and +200 building credits | - +25% Economy Science book production - -30% Military Casualties in Combat - Immune to The Plague - Can Cast Support Spells on Kingdom Members - Access to Animate Dead, Greater Protection, Fanaticism, Illuminate Shadows, Scientific Insight, and Wrathful Smite - Starts with +600 soldiers, +600 specialist credits and +200 wizards | - +25% Arcane Science book production - +100% Wizard Production - -75% Thieves lost on failed Ops - Access to Blizzard, Fool's Gold, Nightmare, and Revelation - Starts with +400 wizards and +400 thieves |
+### Dwarf
 
-| Mystic | Rogue | Sage |
-| --- | --- | --- |
-| - +25% Arcane Science book production - +150% Guilds Effectiveness - +1 Mana Recovery per Tick - Runes Do Not Decay - Access to Expose Thieves, Mage's Fury, Meteor Showers, and Revelation - Starts with +800 wizards | - +25% Arcane Science book production - +100% Thieves' Dens Effectiveness - +1 Stealth Recovery per Tick - Access to all thievery operations, including 4 unique to Rogues: Assassinate Wizards, Greater Arson, Propaganda, and Steal War Horses - Access to Expose Thieves, Invisibility, and Revelation - Starts with +800 thieves | - +25% Economy Science book production - +25% Science Book Production - -50% Losses on Learn Attacks - Immune to Amnesia - Access to Amnesia, Scientific Insight, and Revelation - Starts with 6000 science books in each category |
+- +30% Building Efficiency
+- -75% Construction Cost
+**Spells:** Gluttony
+- +100% Food consumption
+- Elite: 13/8, 1000gc, 8.25 NW
 
-| Tactician | War Hero | Warrior |
-| --- | --- | --- |
-| - +25% Military Science book production - -15% Attack Time - -50% Land Losses on Ambush - Accurate Espionage - Access to Clear Sight and Sacred Mist - Starts with +800 soldiers and +800 specialist credits | - +25% Warfare Science book production - +100% Honor Bonuses - +10% Military Efficiency in War - Immune to Dragons - Access to Hero's Inspiration and War Spoils - Starts with 800 elites | - +25% Military Science book production - +15% Offensive Military Efficiency - +20% Enemy Military Casualties in Combat - -75% Mercenary Costs - Starts with +800 soldiers and +800 specialist credits |
+### Elf
 
-# Rituals
+- +2 Defensive Specialist Strength
+- +25% Combat Instant Spell Damage
+- -1 Mana Self Spell Cost
+**Spells:** Magic Ward, Mystic Aura
+- Can't use Dungeons
+- Elite: 13/6, 900gc, 7.50 NW
+
+### Faery
+
+- +30% Magic Effectiveness (WPA)
+- +50% Self-Spell Duration
+- +25% Rune Production
+- Access to All Racial Spells
+**Spells:** All Racial Spells, Tree of Gold
+- -10% Maximum Population
+- Elite: 6/13, 1100gc, 8.0 NW
+
+### Halfling
+
+- Homes hold 20 population
+- +25% Thievery Effectiveness (TPA)
+- -20% Military Training Cost
+**Spells:** Town Watch, Vermin
+- Elite: 11/7, 800gc, 7.0 NW
+
+### Human
+
+- +25% Income
+- +20% Science Effectiveness
+- +2 War Horse Strength
+**Spells:** Quick Feet, Fountain of Knowledge, Greater Protection
+- -20% Magic Effectiveness (WPA)
+- Elite: 8/12, 1150gc, 8.25 NW
+
+### Orc
+
+- +20% Combat Gains
+- -50% Draft Costs
+**Spells:** Aggression, Bloodlust
+- +20% Damage taken from Instant Spells & Sabotage Operations
+- -50% Honor Bonus
+- Elite: 15/4, 950gc, 7.75 NW
+
+### Undead
+
+- +15% Population
+- -50% Offensive Military Casualties
+- No Food required
+- Spreads and is immune to the Plague
+- Converts some Specialists to Elites on Successful Traditional Marches
+**Spells:** Animate Dead, Chastity
+- -50% Science Effectiveness
+- Cannot train Elites
+- No Access to Hospitals
+- Elite: 16/6, -gc, 8.5 NW
+
+## Personalities
+
+### Artisan
+
+- +25% Economy Science book production
+- -50% Build Time
+- +30% Flat Rate Building Production (Farms/Towers/Banks/Stables)
+- +150% Building Credits gained in Combat
+- Access to Ghost Workers
+- Starts with +600 soldiers and +600 specialist credits and +200 building credits
+
+### Cleric
+
+- +25% Economy Science book production
+- -30% Military Casualties in Combat
+- Immune to The Plague
+- Can Cast Support Spells on Kingdom Members
+- Access to Animate Dead, Greater Protection, Fanaticism, Illuminate Shadows, Scientific Insight, and Wrathful Smite
+- Starts with +600 soldiers, +600 specialist credits and +200 wizards
+
+### Heretic
+
+- +25% Arcane Science book production
+- +100% Wizard Production
+- -75% Thieves lost on failed Ops
+- Access to Blizzard, Fool's Gold, Nightmare, and Revelation
+- Starts with +400 wizards and +400 thieves
+
+### Mystic
+
+- +25% Arcane Science book production
+- +150% Guilds Effectiveness
+- +1 Mana Recovery per Tick
+- Runes Do Not Decay
+- Access to Expose Thieves, Mage's Fury, Meteor Showers, and Revelation
+- Starts with +800 wizards
+
+### Rogue
+
+- +25% Arcane Science book production
+- +100% Thieves' Dens Effectiveness
+- +1 Stealth Recovery per Tick
+- Access to all thievery operations, including 4 unique to Rogues: Assassinate Wizards, Greater Arson, Propaganda, and Steal War Horses
+- Access to Expose Thieves, Invisibility, and Revelation
+- Starts with +800 thieves
+
+### Sage
+
+- +25% Economy Science book production
+- +25% Science Book Production
+- -50% Losses on Learn Attacks
+- Immune to Amnesia
+- Access to Amnesia, Scientific Insight, and Revelation
+- Starts with 6000 science books in each category
+
+### Tactician
+
+- +25% Military Science book production
+- -15% Attack Time
+- -50% Land Losses on Ambush
+- Accurate Espionage
+- Access to Clear Sight and Sacred Mist
+- Starts with +800 soldiers and +800 specialist credits
+
+### War Hero
+
+- +25% Warfare Science book production
+- +100% Honor Bonuses
+- +10% Military Efficiency in War
+- Immune to Dragons
+- Access to Hero's Inspiration and War Spoils
+- Starts with 800 elites
+
+### Warrior
+
+- +25% Military Science book production
+- +15% Offensive Military Efficiency
+- +20% Enemy Military Casualties in Combat
+- -75% Mercenary Costs
+- Starts with +800 soldiers and +800 specialist credits
+
+## Rituals
 
 | Kingdom Rituals | |
 | --- | --- |
@@ -157,7 +276,7 @@ Stats listed here considered 'base effectiveness'
 | Havoc | - +30% Offensive WPA/TPA, +15% Spell/Op Damage |
 | Onslaught | - +10% Offensive Military Efficiency, +15% Offensive Enemy Casualties |
 
-# Dragons
+## Dragons
 
 | Dragon Type | | | |
 | --- | --- | --- | --- |
