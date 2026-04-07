@@ -42,7 +42,7 @@
 
 ## Races
 
-### Avians
+### Avian
 
 **Bonuses:**
 
@@ -67,7 +67,7 @@
 
 - Elite: 11/4, 775GC, 10.5NW
 
-### Dwarves
+### Dwarf
 
 **Bonuses:**
 
@@ -90,7 +90,7 @@
 
 - Elite: 8/9, 900GC, 10NW
 
-### Elves
+### Elf
 
 **Bonuses:**
 
@@ -111,7 +111,7 @@
 
 - Elite: 9/7, 1000GC, 10NW
 
-### Faeries
+### Faery
 
 **Penalties:**
 
@@ -126,7 +126,7 @@
 
 - Elite: 5/10, 1050GC, 11NW
 
-### Halflings
+### Halfling
 
 **Bonuses:**
 
@@ -150,7 +150,7 @@
 
 - Elite: 6/8, 700GC, 9NW
 
-### Humans
+### Human
 
 **Bonuses:**
 
@@ -173,7 +173,7 @@
 
 - Elite: 11/5, 1050GC, 11NW
 
-### Orcs
+### Orc
 
 **Bonuses:**
 

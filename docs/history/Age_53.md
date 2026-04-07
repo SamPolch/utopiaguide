@@ -8,20 +8,20 @@
 
 ## Race's Changes
 
-- Avians
+- Avian
     - - 30% attack times
     - Defensive Specialist Strength +1
     - - 10% attack gains
     - Elite Unit: Drake (7/4, $650, 6.5 nw)
     - Spell book: Clear Sight, Town Watch, Fanaticism
 
-- Dwarves
+- Dwarf
     - - 25% thievery effectiveness
     - + 50% food consumption
     - Elite Unit: Berserker (6/5, $700, 6 nw)
     - Spell book: Vermin, Quick feet
 
-- Elves
+- Elf
     - Spellbook: Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect Magic, Mage's Fury
 
 - Faery
@@ -29,7 +29,7 @@
     - Offensive Specialist Strength -1
     - Elite Unit: Beastmasters (3/8, $1000, 8.0 nw)
 
-- Halflings
+- Halfling
     - + 1 extra stealth per tick
     - + 10% Population
     - -20% birthrate
@@ -37,11 +37,11 @@
     - Elite Unit: Brutes (5/6, $500, 6.25 nw)
     - Spellbook: Animate Dead, Town Watch, Quick Feet, War Spoils, Aggression
 
-- Humans
+- Human
     - - 20% magic effectiveness
     - Spell Book: Greater Protection, Fountain of Knowledge
 
-- Orcs
+- Orc
     - + 25% gains
     - - 10% building efficiency
     - - 50% thievery and magic damage (on offensive operations)
@@ -86,14 +86,14 @@
 
 ## Races
 
-### Avians
+### Avian
 
 - **Bonuses:** -30% attack time; Defensive Specialist Strength +1
 - **Spell Book:** Clear Sight, Town Watch, Fanaticism
 - **Penalties:** -10% attack gains; No access to Stables
 - **Elite Unit:** $650
 
-### Dwarves
+### Dwarf
 
 - **Bonuses:** +20% Building Efficiency; Free Building Construction; Can
   use credits to raze buildings
@@ -102,7 +102,7 @@
   Can't use Accelerated Construction
 - **Elite Unit:** $700
 
-### Elves
+### Elf
 
 - **Bonuses:** +2 Mana Recovery / Tick in war; +1 Defensive Specialist
   Strength; +30% Spell Damage (Instant Spells)
@@ -110,14 +110,14 @@
   Magic, Mage's Fury
 - **Elite Unit:** $600
 
-### Faeries
+### Faery
 
 - **Bonuses:** +50% Magic Effectiveness; +50% thievery effectiveness
 - **Spell Book:** Access to All Spells
 - **Penalties:** -10% Population; -1 Offensive Specialist Strength
 - **Elite Unit:** $1000
 
-### Halflings
+### Halfling
 
 - **Bonuses:** +1 extra stealth per tick; -50% thief cost; +10%
   Population; Espionage operations are 100% accurate in war
@@ -126,7 +126,7 @@
 - **Penalties:** -20% birthrate
 - **Elite Unit:** $500
 
-### Humans
+### Human
 
 - **Bonuses:** +30% Income; +40% Thievery Damage (Sabotage Ops)
 - **Spell Book:** Greater Protection, Fountain of Knowledge
@@ -134,7 +134,7 @@
   Strength
 - **Elite Unit:** $800
 
-### Orcs
+### Orc
 
 - **Bonuses:** +25% Gains; Earns Elite Credits
 - **Spell Book:** Fanaticism, Aggression, Bloodlust

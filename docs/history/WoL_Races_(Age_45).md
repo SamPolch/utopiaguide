@@ -2,7 +2,7 @@
 
 This is a list of the current benefits and limitations for the Utopian Races on the WoL server for Age 45
 
-## Humans
+## Human
 
 Benefits
 
@@ -25,7 +25,7 @@ Units
 - Defensive Specialist – Archer
 - Elite Unit – Knight (6/3, $750, 5.25 nw)
 
-## Elves
+## Elf
 
 Benefits
 
@@ -54,7 +54,7 @@ Units
 - Defensive Specialist – Archer
 - Elite Unit – Elf Lord (6/4, $700, 5.5 nw)
 
-## Dwarves
+## Dwarf
 
 Benefits
 
@@ -78,7 +78,7 @@ Units
 - Defensive Specialist – Axeman
 - Elite Unit – Berserker (7/4, $1000, 6.75 nw)
 
-## Orcs
+## Orc
 
 Benefits
 
@@ -103,7 +103,7 @@ Units
 - Defensive Specialist – Troll
 - Elite Unit – Ogre (8/2, $800, 6.75 nw)
 
-## Gnomes
+## Gnome
 
 Benefits
 
@@ -129,7 +129,7 @@ Units
 - Defensive Specialist – Pikeman
 - Elite Unit – Golem (5/4, $250, 4.5 nw)
 
-## Dark Elves
+## Dark Elf
 
 Benefits
 
@@ -155,7 +155,7 @@ Units
 - Defensive Specialist – Druid
 - Elite Unit – Drow (5/6, $900, 6.0 nw)
 
-## Avians
+## Avian
 
 Benefits
 

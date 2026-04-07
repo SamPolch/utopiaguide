@@ -25,7 +25,7 @@
 
 ## Races
 
-### Avians
+### Avian
 
 - **Bonuses:** -30% Attack travel time; Cannot be ambushed; +40% Birth
   Rate; Train Elites with Credits
@@ -33,7 +33,7 @@
 - **Penalties:** -10% Battle Gains; Cannot Use War Horses
 - **Elite Unit:** 11/4, 775gc, 10.5NW
 
-### Dwarves
+### Dwarf
 
 - **Bonuses:** +25% Building Efficiency; Free Building Construction and
   Can Use Credits to Raze Buildings; -50% Building Construction Time;
@@ -43,7 +43,7 @@
   consumption
 - **Elite Unit:** 8/8, 900gc, 10NW
 
-### Elves
+### Elf
 
 - **Bonuses:** +2 Defensive Specialist strength; +35% Spell Success
   (WPA); +25% Combat Instant Spell Damage; +50% Rune Generation; -35%
@@ -52,7 +52,7 @@
 - **Penalties:** +50% Military Wages
 - **Elite Unit:** 8/7, 900gc, 9.5NW
 
-### Faeries
+### Faery
 
 - **Bonuses:** +40% Combat Instant Spell Damage; +40% Sabotage
   Operation Damage; +1 mana per tick in war
@@ -62,7 +62,7 @@
 - **Penalties:** -10% Income; -5% Max Population
 - **Elite Unit:** 5/10, 1050gc, 11NW
 
-### Halflings
+### Halfling
 
 - **Bonuses:** +15% Max Population; +50% Thievery Operation Success
   (TPA); -50% Thief cost; +1 Stealth per tick; +2 Offensive Specialist
@@ -71,14 +71,14 @@
 - **Penalties:** -5% Building Efficiency; -10% Birth Rate
 - **Elite Unit:** 6/8, 700gc, 10NW
 
-### Humans
+### Human
 
 - **Bonuses:** +30% income; Immune to Income Penalties
 - **Spell Book:** Greater Protection, Quick Feet
 - **Penalties:** -10% Spell Success (WPA); +50% Rune Cost
 - **Elite Unit:** 10/4, 1000gc, 9.5NW
 
-### Orcs
+### Orc
 
 - **Bonuses:** +25% Battle Gains; Free draft; +20% Enemy casualties
   when attacking

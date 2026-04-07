@@ -48,14 +48,14 @@
 
 ## Races
 
-### Avians
+### Avian
 
 - **Bonuses:** -20% attack time; Immunity to Ambush
 - **Spell Book:** Clear Sight, Town Watch
 - **Penalties:** No access to Stables
 - **Elite Unit:** $800
 
-### Dwarves
+### Dwarf
 
 - **Bonuses:** +20% Building Efficiency; Free Building Construction;
   Immunity to Fog
@@ -63,13 +63,13 @@
 - **Penalties:** Can't use Accelerated Construction
 - **Elite Unit:** $800
 
-### DarkElf
+### Dark Elf
 
 - **Bonuses:** Spells don't consume runes; +15% Sabotage gains
 - **Spell Book:** Invisibility, Fool's Gold, Nightmares, Tree of Gold
 - **Elite Unit:** 6/4, $650
 
-### Elves
+### Elf
 
 - **Bonuses:** +1 Mana Recovery / Tick in War; +30% Spell success
 - **Spell Book:** Mystic Aura, Clear Sight, Fountain of Knowledge,
@@ -85,21 +85,21 @@
 - **Penalties:** -50% Cost of Thieves; No Hospitals
 - **Elite Unit:** 5/5, $300
 
-### Halflings
+### Halfling
 
 - **Bonuses:** +40% Sabotage success; +40% Sabotage gains; +1
   Stealth recovery per tick; Immune to Clear Sight
 - **Spell Book:** Quick Feet, War Spoils
 - **Elite Unit:** $550
 
-### Humans
+### Human
 
 - **Bonuses:** +25% Income; +1 Defensive Specialist Strength
 - **Spell Book:** Greater Protection, Aggression
 - **Penalties:** -25% Spell success; -1 Offensive Specialist Strength
 - **Elite Unit:** $800
 
-### Orcs
+### Orc
 
 - **Bonuses:** +50% Gains; Train Elites with Specialist credits; Spreads
   and is immune to the Plague

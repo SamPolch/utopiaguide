@@ -8,26 +8,26 @@
 
 ## Race's Changes
 
-- Dwarves
+- Dwarf
     - Spells: Fanaticism, Fools Gold, Clearsight (removed QuickFeet)
 
-- Elves
+- Elf
     - Spells: Pitfalls, Mages Fury, Amnesia, Nightmare, Quick Feet
 
-- Faeries
+- Faery
     - + 20% WPA and TPA
     - - 50% effects from honor
     - (lost population penalty)
 
-- Halflings
+- Halfling
     - -10% birthrate (down from -15%)
     - Invisibility, Town Watch, Aggression
     - Elite: 4/5, 400gc, 5NW
 
-- Humans
+- Human
     - +10% Population (up from 5%)
 
-- Orcs
+- Orc
     - + 30% Gains (up from +20%)
     - Spells: Bloodlust, Fanaticism, Reflect Magic (lost Aggression)
     - Elite: 7/1, 800gc, 5.75NW
@@ -64,7 +64,7 @@
 
 ## Races
 
-### Avians
+### Avian
 
 - -30% Attack Time
 - +20% Sabotage Damage
@@ -73,7 +73,7 @@
 - No Access to Stables
 - Elite: 6/3, 700gc, 5.25NW
 
-### Dwarves
+### Dwarf
 
 - +20% Building Efficiency
 - Free Building Construction
@@ -84,7 +84,7 @@
 - Can't use Accelerated Construction
 - Elite: 6/2, 650gc, 5NW
 
-### Elves
+### Elf
 
 - +1 Mana Recovery / Tick in war
 - +50 % WPA
@@ -92,7 +92,7 @@
 - **Spells:** Pitfalls, Mages Fury, Amnesia, Nightmare, Quickfeet
 - Elite: 5/3, 650gc, 4.75NW
 
-### Faeries
+### Faery
 
 - +30 % Spell Damage (Instant Spells)
 - +20 % Sabotage Damage
@@ -102,7 +102,7 @@
 - -3 Generals
 - Elite: 3/6, 800gc, 6NW
 
-### Halflings
+### Halfling
 
 - +50 % TPA
 - +1 Stealth Recovery / Tick
@@ -112,7 +112,7 @@
 - -10 % Birthrate
 - Elite: 4/5, 400gc, 5NW
 
-### Humans
+### Human
 
 - +10 % Population
 - +30 % Sabotage Damage
@@ -121,7 +121,7 @@
 - **Spells:** Tree of Gold, Fountain of Knowledge, War Spoils
 - Elite: 4/4, 600gc, 4NW
 
-### Orcs
+### Orc
 
 - +30 % Gains
 - Earns Elite Credits

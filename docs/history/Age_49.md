@@ -14,7 +14,7 @@
 - Elf
     - Mana Recovery per tick: +2 in WAR (was +1)
     - Spell success: +40% (up from 30%)
-- DarkElf
+- Dark Elf
     - Mage's Fury(NEW, normal relations)
 - Dwarf
     - Building Efficiency: +25% (was +20%)
@@ -60,14 +60,14 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 
 ## Races
 
-### Avians
+### Avian
 
 - **Bonuses:** -25% attack time; Immunity to Ambush
 - **Spell Book:** Clear Sight, Town Watch
 - **Penalties:** No access to Stables
 - **Elite Unit:** $700
 
-### Dwarves
+### Dwarf
 
 - **Bonuses:** +25% Building Efficiency; Free Building Construction;
   Immunity to Fog
@@ -75,14 +75,14 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 - **Penalties:** Can't use Accelerated Construction
 - **Elite Unit:** $800
 
-### DarkElf
+### Dark Elf
 
 - **Bonuses:** Spells don't consume runes; +15% Sabotage gains
 - **Spell Book:** Invisibility, Fool's Gold, Nightmares, Tree of Gold,
   Mage's Fury
 - **Elite Unit:** 6/4, $650
 
-### Elves
+### Elf
 
 - **Bonuses:** +2 Mana Recovery / Tick in War; +40% Spell success
 - **Spell Book:** Mystic Aura, Clear Sight, Fountain of Knowledge,
@@ -98,14 +98,14 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 - **Penalties:** -50% Cost of Thieves; No Hospitals
 - **Elite Unit:** 5/5, $300
 
-### Halflings
+### Halfling
 
 - **Bonuses:** +40% Sabotage success; +40% Sabotage gains; +1
   Stealth recovery per tick; Immune to Clear Sight
 - **Spell Book:** Quick Feet, War Spoils
 - **Elite Unit:** $550
 
-### Humans
+### Human
 
 - **Bonuses:** +20% Income; +1 Defensive Specialist Strength
 - **Spell Book:** Greater Protection, Aggression
@@ -113,7 +113,7 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
   Strength
 - **Elite Unit:** $800
 
-### Orcs
+### Orc
 
 - **Bonuses:** +40% Gains; Train Elites with Specialist credits; Spreads
   and is immune to the Plague

@@ -8,34 +8,34 @@
 
 ## Race's Changes
 
-- Avians
+- Avian
     - - 30% attack time (was -25%)
     - +20% Sabotage damage (was 40%)
     - Elite: 6/3, 700gc, 5.25NW
 
-- Dwarves
+- Dwarf
     - + 20% Building Efficiency (was +15%)
     - Elite: 6/2, 650gc, 5NW
 
-- Elves
+- Elf
     - Elite: 5/3, 650gc, 4.75NW
 
-- Faeries
+- Faery
     - - 3 generals (was -2)
     - Lost Offensive Specialist Strength -2
     - - 5% population (was -10%)
     - Elite: 3/6, 800gc, 6NW
 
-- Halflings
+- Halfling
     - Elite: 4/5, 550gc, 5NW
 
-- Humans
+- Human
     - +5% Population (was +10%)
     - + 30% Sabotage damage (was +50%)
     - + 40% Spell Damage (Instant Spells) (was +50%)
     - Elite: 4/4, 600gc, 4NW
 
-- Orcs
+- Orc
     - Elite: 7/1, 850gc, 5.75NW
 
 - Undead
@@ -60,14 +60,14 @@
 
 ## Races
 
-### Avians
+### Avian
 
 - **Bonuses:** -30% Attack Time; +20% Sabotage Damage
 - **Spell Book:** Town Watch, Vermin, Mystic Aura
 - **Penalties:** -10% Attack Gains; No access to Stables
 - **Elite Unit:** 6/3, 700gc, 5.25NW
 
-### Dwarves
+### Dwarf
 
 - **Bonuses:** +20% Building Efficiency; Free Building Construction; Can
   use credits to raze buildings; +30% Spell Damage (Instant Spells)
@@ -76,14 +76,14 @@
   Construction
 - **Elite Unit:** 6/2, 650gc, 5NW
 
-### Elves
+### Elf
 
 - **Bonuses:** +1 Mana Recovery / Tick in war; +50 % WPA; +1 Defence
   Specialist Strength
 - **Spell Book:** Pitfalls, Mages Fury, Amnesia, Nightmare
 - **Elite Unit:** 5/3, 650gc, 4.75NW
 
-### Faeries
+### Faery
 
 - **Bonuses:** +30 % Spell Damage (Instant Spells); +20 % Sabotage
   Damage; +30 % WPA and TPA
@@ -91,7 +91,7 @@
 - **Penalties:** -5 % Population; -3 Generals
 - **Elite Unit:** 3/6, 800gc, 6NW
 
-### Halflings
+### Halfling
 
 - **Bonuses:** +50 % TPA; +1 Stealth Recovery / Tick; -50 % Thief Cost
 - **Spell Book:** Invisibility, Town Watch
@@ -99,14 +99,14 @@
 - **Units:** Soldiers: 2/2 (3NW)
 - **Elite Unit:** 4/5, 550gc, 5NW
 
-### Humans
+### Human
 
 - **Bonuses:** +5 % Population; +30 % Sabotage Damage; +40 % Spell
   Damage (Instant Spells); +1 Offense Specialist Strength
 - **Spell Book:** Tree of Gold, Fountain of Knowledge, War Spoils
 - **Elite Unit:** 4/4, 600gc, 4NW
 
-### Orcs
+### Orc
 
 - **Bonuses:** +20 % Gains; Earns Elite Credits
 - **Spell Book:** Bloodlust, Fanaticism, Aggression, Reflect Magic

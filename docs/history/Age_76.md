@@ -37,7 +37,7 @@
 
 ## Races
 
-### Avians
+### Avian
 
 **Bonuses:**
 
@@ -78,7 +78,7 @@
 
 - Elite: 5/8, 1000gc, 9.5 NW
 
-### Dark Elves
+### Dark Elf
 
 **Bonuses:**
 
@@ -98,7 +98,7 @@
 
 - Elite: 4/8, 1050gc, 10.5 NW
 
-### Dryads
+### Dryad
 
 **Bonuses:**
 
@@ -120,7 +120,7 @@
 
 - Elite: 10/1, 950gc, 9 NW
 
-### Dwarves
+### Dwarf
 
 **Bonuses:**
 
@@ -142,7 +142,7 @@
 
 - Elite: 7/5, 950gc, 9.0 NW
 
-### Elves
+### Elf
 
 **Bonuses:**
 
@@ -160,7 +160,7 @@
 
 - Elite: 7/5, 1025gc, 10.0 NW
 
-### Faeries
+### Faery
 
 **Bonuses:**
 
@@ -186,7 +186,7 @@
 
 - Elite: 3/8, 1200gc, 11.0 NW
 
-### Halflings
+### Halfling
 
 **Bonuses:**
 
@@ -207,7 +207,7 @@
 
 - Elite: 5/7, 1000gc, 9.5 NW
 
-### Humans
+### Human
 
 **Bonuses:**
 
@@ -230,7 +230,7 @@
 
 - Elite: 7/5, 1025gc, 10.5 NW
 
-### Orcs
+### Orc
 
 **Bonuses:**
 

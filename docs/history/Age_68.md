@@ -49,14 +49,14 @@
 
 ## Races
 
-### Avians
+### Avian
 
 - **Bonuses:** -25% Attack Time; +30% Birth Rate; Ambush Immunity; +1
   General
 - **Spell Book:** Fanaticism, Greater Protection
 - **Elite Unit:** 9/3, 750gc, 8.75NW
 
-### Dwarves
+### Dwarf
 
 - **Bonuses:** Free Building Construction; Can use credits to raze
   buildings; -50% Building Construction Time; -50% food consumption
@@ -64,14 +64,14 @@
 - **Penalties:** Can't use Accelerated Construction
 - **Elite Unit:** 7/7, 700gc, 10NW
 
-### Elves
+### Elf
 
 - **Bonuses:** +30% Spell success; +2 Defensive Specialist strength;
   -30% defensive losses; +100% land effect from Towers
 - **Spell Book:** Fools gold, Pitfalls, Invisibility
 - **Elite Unit:** 7/6, 750gc, 8.5NW
 
-### Faeries
+### Faery
 
 - **Bonuses:** +20% Combat Instant Spell damage; +20% Sabotage
   Operation damage; +20% Spell duration; +1 mana per tick in War; +1
@@ -79,21 +79,21 @@
 - **Spell Book:** Access to All Racial Spells and Tree of Gold
 - **Elite Unit:** 5/9, 1200gc, 11NW
 
-### Halflings
+### Halfling
 
 - **Bonuses:** +50% TPA; +2 offensive specialist strength; -50% thief
   cost; +12% population
 - **Spell Book:** Mage's Fury, Aggression
 - **Elite Unit:** 6/6, 550gc, 8.5NW
 
-### Humans
+### Human
 
 - **Bonuses:** +30% income; Immune to income penalties
 - **Spell Book:** Fountain of Knowledge, Quick Feet
 - **Penalties:** -15% Spell success
 - **Elite Unit:** 9/4, 750gc, 9.25NW
 
-### Orcs
+### Orc
 
 - **Bonuses:** +20 % Battle Gains; Free draft; +25% Enemy casualties
   when attacking

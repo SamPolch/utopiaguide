@@ -8,39 +8,39 @@
 
 ## Race's Changes
 
-- Avians
+- Avian
     - -25% attack time (was -30%)
     - new -20% birth rate
     - (lost - 10% attack gains)
     - Elite: 6/3, 650gc, 5.25NW
 
-- Dwarves
+- Dwarf
     - +75% Food Consumption (was +50%)
     - SpellBook: Fanaticism, Fools Gold, new Quick Feet (lost Clear Sight)
     - Elite: 6/2, 750gc, 5NW
 
-- Elves
+- Elf
     - +30% WPA (was +50%)
     - SpellBook: Pitfalls, Mages Fury, Amnesia, Nightmare (lost Quickfeet)
 
-- Faeries
+- Faery
     - +40% Spell Damage (Instant Spells) (was +30%)
     - +30% Sabotage damage (was +20%)
     - (lost wpa/tpa bonuses)
 
-- Halflings
+- Halfling
     - +40% TPA (was +50%)
     - new -15% Attack Gains
     - (lost -10% birthrate)
     - SpellBook: Invisibility, Town Watch, Aggression, new Animate Dead
     - Soldiers: 2/2\*\*; Elite: 5/5, 500gc, 5.5NW
 
-- Humans
+- Human
     - +20% Sabotage damage (was +30%)
     - +30% Spell Damage (Instant Spells) (was +40%)
     - Elite: 4/4, 700gc, 4NW
 
-- Orcs
+- Orc
     - +25% Gains (was +30%)
     - -50% Combat Instant Spell Damage and Duration (was -75%)
     - -50% Sabotage Damage (was -75%)
@@ -93,7 +93,7 @@
 
 ## Races
 
-### Avians
+### Avian
 
 - -25% Attack Time
 - +20% Sabotage Damage
@@ -102,7 +102,7 @@
 - No Access to Stables
 - Elite: 6/3, 650gc, 5.25NW
 
-### Dwarves
+### Dwarf
 
 - +20% Building Efficiency
 - Free Building Construction
@@ -113,7 +113,7 @@
 - Can't use Accelerated Construction
 - Elite: 6/2, 750gc, 5NW
 
-### Elves
+### Elf
 
 - +1 Mana Recovery / Tick in war
 - +30 % WPA
@@ -121,7 +121,7 @@
 - **Spells:** Pitfalls, Mages Fury, Amnesia, Nightmare
 - Elite: 5/3, 650gc, 4.75NW
 
-### Faeries
+### Faery
 
 - +40 % Spell Damage (Instant Spells)
 - +30 % Sabotage Damage
@@ -130,7 +130,7 @@
 - -3 Generals
 - Elite: 3/6, 800gc, 6NW
 
-### Halflings
+### Halfling
 
 - +40 % TPA
 - +1 Stealth Recovery / Tick
@@ -140,7 +140,7 @@
 - -15 % Attack Gains
 - Elite: 5/5, 500gc, 5.5NW
 
-### Humans
+### Human
 
 - +10 % Population
 - +20 % Sabotage Damage
@@ -149,7 +149,7 @@
 - **Spells:** Tree of Gold, Fountain of Knowledge, War Spoils
 - Elite: 4/4, 600gc, 4NW
 
-### Orcs
+### Orc
 
 - +25 % Gains
 - Earns Elite Credits
