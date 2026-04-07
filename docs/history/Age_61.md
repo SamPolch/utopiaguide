@@ -225,133 +225,121 @@ Starts with 400 elites
 
 ### Avians
 
-- -35% Attack Time
-- +25% Birth Rate
-- **Spells:** Fanaticism, Greater Protection
-- No Access to Stables
-- -10% gains on attacks
-- Elite: 6/2, 500gc, 5NW
+- **Bonuses:** -35% Attack Time; +25% Birth Rate
+- **Spell Book:** Fanaticism, Greater Protection
+- **Penalties:** No Access to Stables; -10% gains on attacks
+- **Elite Unit:** 6/2, 500gc, 5NW
 
 ### Dwarves
 
-- +30% Building Efficiency
-- Free Building Construction
-- Can use credits to raze buildings
-- **Spells:** Fools Gold, Quick Feet, Mystic Aura
-- Can't use Accelerated Construction
-- +75% food consumption
-- Elite: 6/3, 700gc, 5.5NW
+- **Bonuses:** +30% Building Efficiency; Free Building Construction;
+  Can use credits to raze buildings
+- **Spell Book:** Fools Gold, Quick Feet, Mystic Aura
+- **Penalties:** Can't use Accelerated Construction; +75% food
+  consumption
+- **Elite Unit:** 6/3, 700gc, 5.5NW
 
 ### Elves
 
-- +30% WPA
-- -50% defensive losses
-- +1 defensive specialist strength
-- **Spells:** Nightmares, Pitfalls, Mages Fury
-- 5/4, 800gc, 5.75NW
+- **Bonuses:** +30% WPA; -50% defensive losses; +1 defensive
+  specialist strength
+- **Spell Book:** Nightmares, Pitfalls, Mages Fury
+- **Elite Unit:** 5/4, 800gc, 5.75NW
 
 ### Faeries
 
-- +30% Spell Damage (Instant Spells)
-- +30% Sabotage Damage +1 mana per tick in war
-- **Spells:** Access to All Racial Spells
-- Elite: 4/5, 650gc, 5.5NW
+- **Bonuses:** +30% Spell Damage (Instant Spells); +30% Sabotage
+  Damage; +1 mana per tick in war
+- **Spell Book:** Access to All Racial Spells
+- **Elite Unit:** 4/5, 650gc, 5.5NW
 
 ### Halflings
 
-- +10% population
-- +50% TPA
-- -50% Thief Cost
-- +1 offensive specialist strength
-- **Spells:** Invisibility, Town Watch, Aggression, Animate Dead
-- -25% Birth Rate
-- Elite: 4/4, 450gc, 4NW
+- **Bonuses:** +10% population; +50% TPA; -50% Thief Cost; +1
+  offensive specialist strength
+- **Spell Book:** Invisibility, Town Watch, Aggression, Animate Dead
+- **Penalties:** -25% Birth Rate
+- **Elite Unit:** 4/4, 450gc, 4NW
 
 ### Humans
 
-- +20% Science Effectiveness
-- +20% income
-- **Spells:** Tree of Gold, Fountain of Knowledge
-- -5% Population
-- Elite: 6/4, 1000gc 5.5NW
+- **Bonuses:** +20% Science Effectiveness; +20% income
+- **Spell Book:** Tree of Gold, Fountain of Knowledge
+- **Penalties:** -5% Population
+- **Elite Unit:** 6/4, 1000gc, 5.5NW
 
 ### Orcs
 
-- +25 % Attack Gains
-- Free draft
-- +25% Enemy casualties when attacking
-- **Spells:** Reflect Magic
-- -15% science effectiveness
-- Elite: 7/1, 750gc, 5.75NW
+- **Bonuses:** +25 % Attack Gains; Free draft; +25% Enemy casualties
+  when attacking
+- **Spell Book:** Reflect Magic
+- **Penalties:** -15% science effectiveness
+- **Elite Unit:** 7/1, 750gc, 5.75NW
 
 ### Undead
 
-- -50% Offensive losses on attacks you make
-- Converts some Specialists into Elites on successful land attacks
-- Spreads and is Immune to The Plague
-- No Food Required
-- **Spells:** Town Watch
-- Basic Thievery (Intel operations only)
-- Elite: 7/2, 600gc, 6NW
+- **Bonuses:** -50% Offensive losses on attacks you make; Converts some
+  Specialists into Elites on successful land attacks; Spreads and is
+  Immune to The Plague; No Food Required
+- **Spell Book:** Town Watch
+- **Operation Access:** Basic Thievery (Intel operations only)
+- **Elite Unit:** 7/2, 600gc, 6NW
 
 ## Personalities
 
 ### Merchant
 
-- Gain 50% more Specialist and Building Credits
-- Access to Tree of Gold
-- Starts with +1600 specialist credits
+- **Bonuses:** Gain 50% more Specialist and Building Credits
+- **Spell Book:** Tree of Gold
+- **Starting Bonuses:** +1600 specialist credits
 
 ### Sage
 
-- -30% cost of science
-- Protect 30% of science from the Learn attack
-- Every 3 acres generates 1 science point
-- Access to Amnesia
-- Starts with 40000 science books
+- **Bonuses:** -30% cost of science; Protect 30% of science from the
+  Learn attack; Every 3 acres generates 1 science point
+- **Spell Book:** Amnesia
+- **Starting Bonuses:** 40000 science books
 
 ### Rogue
 
-- +1 Stealth Recovery / Tick
-- Access to all Thievery Operations
-- Access to Vermin
-- Starts with +400 thieves
+- **Bonuses:** +1 Stealth Recovery / Tick
+- **Operation Access:** All Thievery Operations
+- **Spell Book:** Vermin
+- **Starting Bonuses:** +400 thieves
 
 ### Mystic
 
-- All Guilds are twice as effective
-- +1 mana per tick in War
-- Access to Meteor Showers, Chastity, Nightmares
-- Starts with +200 Wizards
+- **Bonuses:** All Guilds are twice as effective; +1 mana per tick in
+  War
+- **Spell Book:** Meteor Showers, Chastity, Nightmares
+- **Starting Bonuses:** +200 Wizards
 
 ### Warrior
 
-- +1 General
-- +10% OME in war
-- Enhanced Conquest range
-- Access to Bloodlust
-- Starts with +800 soldiers and +800 specialist credits
+- **Bonuses:** +1 General; +10% OME in war
+- **Special Access:** Enhanced Conquest range
+- **Spell Book:** Bloodlust
+- **Starting Bonuses:** +800 soldiers and +800 specialist credits
 
 ### Tactician
 
-- -15% Attack Time
-- Accurate Espionage
-- Access to Clear Sight
-- Starts with +800 soldiers and +800 specialist credits
+- **Bonuses:** -15% Attack Time
+- **Special Access:** Accurate Espionage
+- **Spell Book:** Clear Sight
+- **Starting Bonuses:** +800 soldiers and +800 specialist credits
 
 ### Cleric
 
-- -35% Your Military Casualties (on attack or defense)
-- Access to Pitfalls
-- Starts with +800 soldiers and +800 specialist credits
+- **Bonuses:** -35% Your Military Casualties (on attack or defense)
+- **Spell Book:** Pitfalls
+- **Starting Bonuses:** +800 soldiers and +800 specialist credits
 
 ### War Hero
 
-- -50% train time
-- Immune to all dragon effects
-- Immune to The Plague
-- Access to War Spoils
-- Starts with 400 elites
+- **Bonuses:** -50% train time; Immune to all dragon effects; Immune to
+  The Plague
+- **Spell Book:** War Spoils
+- **Starting Bonuses:** 400 elites
 
 ## Stances
 

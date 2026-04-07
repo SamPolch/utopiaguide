@@ -217,138 +217,125 @@ Starts with 400 elites
 
 ### Avians
 
-- -25% Attack Time
-- +30% Sabotage Operation Damage
-- -50% Military Training Time
-- **Spells:** Fanaticism, Greater Protection
-- No Access to Stables
-- -20% Birth Rate
-- Elite: 6/2, 650gc, 5NW
+- **Bonuses:** -25% Attack Time; +30% Sabotage Operation Damage; -50%
+  Military Training Time
+- **Spell Book:** Fanaticism, Greater Protection
+- **Penalties:** No Access to Stables; -20% Birth Rate
+- **Elite Unit:** 6/2, 650gc, 5NW
 
 ### Dwarves
 
-- +30% Building Efficiency
-- +30% Combat Instant Spell Damage
-- Free Building Construction
-- Can use credits to raze buildings
-- **Spells:** Fools Gold, Quick Feet, Mystic Aura
-- Can't use Accelerated Construction
-- +100% food consumption
-- Elite: 6/3, 900gc, 5.5NW
+- **Bonuses:** +30% Building Efficiency; +30% Combat Instant Spell
+  Damage; Free Building Construction; Can use credits to raze buildings
+- **Spell Book:** Fools Gold, Quick Feet, Mystic Aura
+- **Penalties:** Can't use Accelerated Construction; +100% food
+  consumption
+- **Elite Unit:** 6/3, 900gc, 5.5NW
 
 ### Elves
 
-- +30% WPA
-- -33% defensive losses
-- +1 defensive specialist strength
-- **Spells:** Nightmares, Pitfalls, Mages Fury
-- 5/4, 950gc, 5.75NW
+- **Bonuses:** +30% WPA; -33% defensive losses; +1 defensive
+  specialist strength
+- **Spell Book:** Nightmares, Pitfalls, Mages Fury
+- **Elite Unit:** 5/4, 950gc, 5.75NW
 
 ### Faeries
 
-- +40% Spell Damage (Instant Spells)
-- +40% Sabotage Damage +1 mana per tick in war
-- **Spells:** Access to All Racial Spells
-- Elite: 4/5, 1150gc, 5.5NW
+- **Bonuses:** +40% Spell Damage (Instant Spells); +40% Sabotage
+  Damage; +1 mana per tick in war
+- **Spell Book:** Access to All Racial Spells
+- **Elite Unit:** 4/5, 1150gc, 5.5NW
 
 ### Halflings
 
-- +50% TPA
-- -50% Thief Cost
-- +1 Stealth
-- **Spells:** Invisibility, Town Watch, Aggression, Animate Dead
-- -10% Gains
-- Elite: 5/5, 900gc, 6.5NW
+- **Bonuses:** +50% TPA; -50% Thief Cost; +1 Stealth
+- **Spell Book:** Invisibility, Town Watch, Aggression, Animate Dead
+- **Penalties:** -10% Gains
+- **Elite Unit:** 5/5, 900gc, 6.5NW
 
 ### Humans
 
-- +5% Population
-- +30% Spell Duration
-- +10% Offensive Military Efficiency In War
-- **Spells:** Tree of Gold, Fountain of Knowledge
-- +50% Cost of Science
-- Elite: 6/4, 1250gc 7.0NW
+- **Bonuses:** +5% Population; +30% Spell Duration; +10% Offensive
+  Military Efficiency In War
+- **Spell Book:** Tree of Gold, Fountain of Knowledge
+- **Penalties:** +50% Cost of Science
+- **Elite Unit:** 6/4, 1250gc, 7.0NW
 
 ### Orcs
 
-- +20 % Attack Gains
-- Free draft
-- +20% Enemy casualties when attacking
-- **Spells:** Reflect Magic
-- -10% science effectiveness
-- Elite: 7/1, 800gc, 5.75NW
+- **Bonuses:** +20 % Attack Gains; Free draft; +20% Enemy casualties
+  when attacking
+- **Spell Book:** Reflect Magic
+- **Penalties:** -10% science effectiveness
+- **Elite Unit:** 7/1, 800gc, 5.75NW
 
 ### Undead
 
-- -50% Offensive losses on attacks you make
-- Converts some Specialists into Elites on successful land attacks
-- Spreads and is Immune to The Plague
-- No Food Required
-- +1 Offensive Specialist strength
-- **Spells:** Town Watch
-- Basic Thievery (Intel operations only)
-- Cannot Train Elites
-- Elite: 7/2, 6.5NW
+- **Bonuses:** -50% Offensive losses on attacks you make; Converts some
+  Specialists into Elites on successful land attacks; Spreads and is
+  Immune to The Plague; No Food Required; +1 Offensive Specialist
+  strength
+- **Spell Book:** Town Watch
+- **Penalties:** Cannot Train Elites
+- **Operation Access:** Basic Thievery (Intel operations only)
+- **Elite Unit:** 7/2, 6.5NW
 
 ## Personalities
 
 ### Merchant
 
-- Gain 50% more Specialist and Building Credits
-- Access to Tree of Gold
-- Starts with +1600 specialist credits
+- **Bonuses:** Gain 50% more Specialist and Building Credits
+- **Spell Book:** Tree of Gold
+- **Starting Bonuses:** +1600 specialist credits
 
 ### Sage
 
-- +40% Science Effectiveness
-- Every 4 acres generates 1 science point
-- Access to Amnesia
-- Starts with 40000 science books
+- **Bonuses:** +40% Science Effectiveness; Every 4 acres generates 1
+  science point
+- **Spell Book:** Amnesia
+- **Starting Bonuses:** 40000 science books
 
 ### Rogue
 
-- +1 Stealth Recovery / Tick
-- Access to all Thievery Operations
-- +100% Thievery Science Effectiveness
-- Access to Vermin
-- Starts with +400 thieves
+- **Bonuses:** +1 Stealth Recovery / Tick; +100% Thievery Science
+  Effectiveness
+- **Operation Access:** All Thievery Operations
+- **Spell Book:** Vermin
+- **Starting Bonuses:** +400 thieves
 
 ### Mystic
 
-- All Guilds are twice as effective
-- +1 mana per tick in War
-- +75% Magic Science Effectiveness
-- Access to Meteor Showers, Chastity, Nightmares
-- Starts with +200 Wizards
+- **Bonuses:** All Guilds are twice as effective; +1 mana per tick in
+  War; +75% Magic Science Effectiveness
+- **Spell Book:** Meteor Showers, Chastity, Nightmares
+- **Starting Bonuses:** +200 Wizards
 
 ### Warrior
 
-- +1 General
-- +10% OME
-- Enhanced Conquest range
-- Access to Bloodlust
-- Starts with +800 soldiers and +800 specialist credits
+- **Bonuses:** +1 General; +10% OME
+- **Special Access:** Enhanced Conquest range
+- **Spell Book:** Bloodlust
+- **Starting Bonuses:** +800 soldiers and +800 specialist credits
 
 ### Tactician
 
-- -20% Attack Time
-- Accurate Espionage
-- Access to Clear Sight
-- Starts with +800 soldiers and +800 specialist credits
+- **Bonuses:** -20% Attack Time
+- **Special Access:** Accurate Espionage
+- **Spell Book:** Clear Sight
+- **Starting Bonuses:** +800 soldiers and +800 specialist credits
 
 ### Cleric
 
-- -40% Your Military Casualties (on attack or defense)
-- Access to Pitfalls
-- Starts with +800 soldiers and +800 specialist credits
+- **Bonuses:** -40% Your Military Casualties (on attack or defense)
+- **Spell Book:** Pitfalls
+- **Starting Bonuses:** +800 soldiers and +800 specialist credits
 
 ### War Hero
 
-- +100% Honor Effects
-- Immune to all dragon effects
-- Immune to The Plague (but can carry/spread)
-- Access to War Spoils
-- Starts with 400 elites
+- **Bonuses:** +100% Honor Effects; Immune to all dragon effects; Immune
+  to The Plague (but can carry/spread)
+- **Spell Book:** War Spoils
+- **Starting Bonuses:** 400 elites
 
 ## Stances
 
