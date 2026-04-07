@@ -9,77 +9,77 @@
 ## Race's Changes
 
 - Avians
-  - -25% attack time (was -30%)
-  - new -20% birth rate
-  - (lost - 10% attack gains)
-  - Elite: 6/3, 650gc, 5.25NW
+    - -25% attack time (was -30%)
+    - new -20% birth rate
+    - (lost - 10% attack gains)
+    - Elite: 6/3, 650gc, 5.25NW
 
 - Dwarves
-  - +75% Food Consumption (was +50%)
-  - SpellBook: Fanaticism, Fools Gold, new Quick Feet (lost Clear Sight)
-  - Elite: 6/2, 750gc, 5NW
+    - +75% Food Consumption (was +50%)
+    - SpellBook: Fanaticism, Fools Gold, new Quick Feet (lost Clear Sight)
+    - Elite: 6/2, 750gc, 5NW
 
 - Elves
-  - +30% WPA (was +50%)
-  - SpellBook: Pitfalls, Mages Fury, Amnesia, Nightmare (lost Quickfeet)
+    - +30% WPA (was +50%)
+    - SpellBook: Pitfalls, Mages Fury, Amnesia, Nightmare (lost Quickfeet)
 
 - Faeries
-  - +40% Spell Damage (Instant Spells) (was +30%)
-  - +30% Sabotage damage (was +20%)
-  - (lost wpa/tpa bonuses)
+    - +40% Spell Damage (Instant Spells) (was +30%)
+    - +30% Sabotage damage (was +20%)
+    - (lost wpa/tpa bonuses)
 
 - Halflings
-  - +40% TPA (was +50%)
-  - new -15% Attack Gains
-  - (lost -10% birthrate)
-  - SpellBook: Invisibility, Town Watch, Aggression, new Animate Dead
-  - Soldiers: 2/2\*\*; Elite: 5/5, 500gc, 5.5NW
+    - +40% TPA (was +50%)
+    - new -15% Attack Gains
+    - (lost -10% birthrate)
+    - SpellBook: Invisibility, Town Watch, Aggression, new Animate Dead
+    - Soldiers: 2/2\*\*; Elite: 5/5, 500gc, 5.5NW
 
 - Humans
-  - +20% Sabotage damage (was +30%)
-  - +30% Spell Damage (Instant Spells) (was +40%)
-  - Elite: 4/4, 700gc, 4NW
+    - +20% Sabotage damage (was +30%)
+    - +30% Spell Damage (Instant Spells) (was +40%)
+    - Elite: 4/4, 700gc, 4NW
 
 - Orcs
-  - +25% Gains (was +30%)
-  - -50% Combat Instant Spell Damage and Duration (was -75%)
-  - -50% Sabotage Damage (was -75%)
+    - +25% Gains (was +30%)
+    - -50% Combat Instant Spell Damage and Duration (was -75%)
+    - -50% Sabotage Damage (was -75%)
 
 - Undead
-  - new Basic Thievery (Intel operations only)
-  - -20% Science Effectiveness (was -25%)
-  - Soldiers: Greater Protection, Town Watch, Chastity, new Clearsight
+    - new Basic Thievery (Intel operations only)
+    - -20% Science Effectiveness (was -25%)
+    - Soldiers: Greater Protection, Town Watch, Chastity, new Clearsight
 
 ## Personality's Changes
 
 - The Merchant
-  - +20% Income(was +30%)
-  - new gain 20% more Specialist and Building Credits
-  - (lost Immunity to all Income Penalties (Riots, Plagues, etc.))
+    - +20% Income(was +30%)
+    - new gain 20% more Specialist and Building Credits
+    - (lost Immunity to all Income Penalties (Riots, Plagues, etc.))
 
 - The Sage
-  - +25% Science effectiveness (was + 30%)
-  - new -25% cost of science
-  - -50% Losses on Learn Attacks (was -66%)
+    - +25% Science effectiveness (was + 30%)
+    - new -25% cost of science
+    - -50% Losses on Learn Attacks (was -66%)
 
 - The Mystic
-  - +30% Spell Duration (For Duration Spells Only) (was +50%)
+    - +30% Spell Duration (For Duration Spells Only) (was +50%)
 
 - The Warrior
-  - +20% OME in war (was +15%)
-  - Reawaken 50% Casualties
-  - (lost +1 General)
+    - +20% OME in war (was +15%)
+    - Reawaken 50% Casualties
+    - (lost +1 General)
 
 - The Tactician
-  - (lost Gain 50% more Specialist and Building Credits)
-  - new Immune to Ambush
+    - (lost Gain 50% more Specialist and Building Credits)
+    - new Immune to Ambush
 
 - The Cleric
-  - new +1 General
+    - new +1 General
 
 - The War Hero
-  - new Immune to The Plague
-  - (Lost -50% draft costs)
+    - new Immune to The Plague
+    - (Lost -50% draft costs)
 
 ## Game mechanic changes
 
@@ -222,22 +222,68 @@
 
 ## Stances
 
-| Stances | | |
-| --- | --- | --- |
-| Normal | Aggressive | Fortified |
-| - No Effects | - +10% Combat Gains - 10% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -50% gains and effectiveness on magic and thievery ops in (slides in over a period of 24 hours) - -25% Military training time and cost - +25% draft speed - -25% Construction time and cost      - 4 days maximum duration - -50% gains hitting out - -50% gains and effectiveness on magic and thievery ops in - +100% Explore costs - No Paradise spell available - Science limited to "Active" |
+- **Normal:** No effects
+- **Aggressive**
+    - +10% Combat Gains
+    - -10% Attack Time
+    - +30% Military Wages
+    - +10% Military losses
+- **Fortified**
+    - -50% gains hitting in and effectiveness on magic/thievery ops in
+      (slides in over 24 hours)
+    - -25% Military training time and cost
+    - +25% draft speed
+    - -25% Construction time and cost
+    - 4-day maximum duration
+    - -50% gains hitting out and effectiveness on magic/thievery ops out
+    - +100% Explore costs
+    - No Paradise spell available
+    - Science limited to Active
 
 ## Relations
 
-| Inter-Kingdoms' Relations | | | | |
-| --- | --- | --- | --- | --- |
-| Ceasefire | Normal | Unfriendly | Hostile | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**  +   - Min 12 U-Days - Max 96 U-Days - +500% birth rate - 30% reduction in training costs of all troops. - Draft cost reduced 50% - Combined with War Relations - Separate annul the Relations (War and CF) - All land currently out with armies at war end returns home immediately. - Instant population growth of 20% of your max pop if you are under 50% of your max pop | - No Effects | To opposite Kingdom :   - Unlocks (Unfriendly/Hostile/War) spells - Unlocks (Unfriendly/Hostile/War) thievery operations | - +10% Combat Gains - Increases the Networth Range of the Conquest Attack - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% | **Immediate Effects**   - Annul Hostile Meter with everyone  ---   *Benefits*   - -10% Attack Time - Enhanced Massacre Destroys Buildings - +10% Combat Gains - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2%  ---   *Penalties*   - +100% Exploration Costs - No Paradise spell available - Science limited to "Active"     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -20% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -25% Military Losses - -25% Military Training Time - No Distance Penalties for Attacks - -75% Gains and Effectiveness for operations to and from other Kingdoms (this fades in from war start) |
+- **Ceasefire**
+    - Prohibits attacks, spells, and thievery operations
+    - Annuls the Hostile Meter
+    - End Of War Ceasefire lasts 12-96 Utopian days
+    - +500% birth rate
+    - -30% troop training costs
+    - -50% draft cost
+    - Combined with War relations
+    - War and Ceasefire relations can be cancelled separately
+    - All land currently out returns home immediately at war end
+    - Instant population growth of 20% of max population if below 50%
+- **Normal:** No effects
+- **Unfriendly:** Unlocks Unfriendly/Hostile/War spells and thievery
+  operations against the other kingdom
+- **Hostile**
+    - +10% Combat Gains
+    - Increases Conquest networth range
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+- **War Immediate Effects**
+    - Annuls the Hostile Meter with everyone
+    - -10% Attack Time
+    - Enhanced Massacre destroys buildings
+    - +10% Combat Gains
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+- **War Penalties**
+    - +100% Exploration Costs
+    - No Paradise spell available
+    - Science limited to Active
+- **War After 12 Hours:** -20% Attack Time
+- **War After 24 Hours:** -25% Military Losses; -25% Military Training
+  Time; no distance penalties for attacks; -75% gains and
+  effectiveness for operations to and from other kingdoms
 
-## Dragon's Table
+## Dragons
 
-| Dragon Type | | | |
-| --- | --- | --- | --- |
-| Emerald | Sapphire | Gold | Ruby |
-| +15% Combat Losses -15% Gains | -30% Thievery & Magic Effectiveness | -25% from Building Efficiency | -8% from Military Efficiency |
-| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+- **Emerald**
+    - +15% Combat Losses
+    - -15% Gains
+- **Sapphire:** -30% Thievery & Magic Effectiveness
+- **Gold:** -25% Building Efficiency
+- **Ruby:** -8% Military Efficiency
+- All dragons result in 10% lower income and the loss of 20% of new
+  draftees.

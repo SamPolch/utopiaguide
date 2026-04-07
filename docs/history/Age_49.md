@@ -171,22 +171,72 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 
 ## Stances
 
-| Stances | | |
-| --- | --- | --- |
-| Normal | Aggressive | Fortified |
-| - No Effects | - +10% Combat Gains - 10% Lower Attack Time      - +15% Military Wages | - +30% troops losses hitting in - +15% Defensive - +100% Births - +20% Building efficiency - -25% Construction time      - -15% Offensive - +15% Attack time - -15% Thievery & Magic Effectiveness on enemies - -50% gains hitting out - +100% Explore costs - No Paradise spell available |
+- **Normal:** No effects
+- **Aggressive**
+    - +10% Combat Gains
+    - -10% Attack Time
+    - +15% Military Wages
+- **Fortified**
+    - +30% troop losses hitting in
+    - +15% Defensive
+    - +100% Births
+    - +20% Building efficiency
+    - -25% Construction time
+    - -15% Offensive
+    - +15% Attack time
+    - -15% Thievery & Magic Effectiveness on enemies
+    - -50% gains hitting out
+    - +100% Explore costs
+    - No Paradise spell available
 
 ## Relations
 
-| Inter-Kingdoms' Relations | | | | |
-| --- | --- | --- | --- | --- |
-| Ceasefire | Normal | Unfriendly | Hostile | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**  +   - Min 12 U-Days - Max 48 U-Days - +300% birth rate - Combined with War Relatins - Separate annul the Relations (War and CF) | - No Effects | To opposite Kingdom :   - Unlocks (Unfriendly/Hostile/War) spells - Unlocks (Unfriendly/Hostile/War) thievery operations | - +10% Combat Gains - Increases the Networth Range of the Conquest Attack - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% - Enables Monarch bonuses:   - +10% defensive military strength   - +10% defense magic   - +10% defense thievery | **Immediate Effects**   - Annul Hostile Meter with everyone  ---   *Benefits*   - -10% Attack Time - Enhanced Massacre Destroys Buildings - +10% Combat Gains - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% - Enables Monarch bonuses:   - +10% defensive military strength   - +10% defense magic   - +10% defense thievery  ---   *Penalties*   - +100% Exploration Costs - No Paradise spell available - Science limited to "Active"     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -20% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -25% Military Losses - -25% Military Training Time - No Distance Penalties for Attacks - -75% Gains and Effectiveness for operations to and from other Kingdoms (this fades in from war start) |
+- **Ceasefire**
+    - Prohibits attacks, spells, and thievery operations
+    - Annuls the Hostile Meter
+    - End Of War Ceasefire lasts 12-48 Utopian days
+    - +300% birth rate
+    - Combined with War relations
+    - War and Ceasefire relations can be cancelled separately
+- **Normal:** No effects
+- **Unfriendly:** Unlocks Unfriendly/Hostile/War spells and thievery
+  operations against the other kingdom
+- **Hostile**
+    - +10% Combat Gains
+    - Increases Conquest networth range
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+    - Enables monarch bonuses:
+        - +10% defensive military strength
+        - +10% defense magic
+        - +10% defense thievery
+- **War Immediate Effects**
+    - Annuls the Hostile Meter with everyone
+    - -10% Attack Time
+    - Enhanced Massacre destroys buildings
+    - +10% Combat Gains
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+    - Enables monarch bonuses:
+        - +10% defensive military strength
+        - +10% defense magic
+        - +10% defense thievery
+- **War Penalties**
+    - +100% Exploration Costs
+    - No Paradise spell available
+    - Science limited to Active
+- **War After 12 Hours:** -20% Attack Time
+- **War After 24 Hours:** -25% Military Losses; -25% Military Training
+  Time; no distance penalties for attacks; -75% gains and
+  effectiveness for operations to and from other kingdoms
 
-## Dragon's Table
+## Dragons
 
-| Dragon Type | | | |
-| --- | --- | --- | --- |
-| Emerald | Sapphire | Gold | Ruby |
-| +15% Combat Losses -15% Gains | -30% Thievery & Magic Effectiveness | -30% from Building Efficiency | -8% from Military Efficiency |
-| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+- **Emerald**
+    - +15% Combat Losses
+    - -15% Gains
+- **Sapphire:** -30% Thievery & Magic Effectiveness
+- **Gold:** -30% Building Efficiency
+- **Ruby:** -8% Military Efficiency
+- All dragons result in 10% lower income and the loss of 20% of new
+  draftees.

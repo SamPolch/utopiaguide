@@ -7,45 +7,45 @@
 ## Mechanics Changes
 
 - Unit Strength: Buffing unit strengths as below
-  - Specialists to 6
-  - Mercs/prisoners to 5
-  - Horses to 2
-  - Soldiers to 2
+    - Specialists to 6
+    - Mercs/prisoners to 5
+    - Horses to 2
+    - Soldiers to 2
 
 - The Wall:
-  - New monarch option to block randoms provinces from joining a kingdom. Causes kingdoms wages to increase by 20%.
+    - New monarch option to block randoms provinces from joining a kingdom. Causes kingdoms wages to increase by 20%.
 - War win reward:
-  - Not granted if the kingdoms are out of range at war start.
+    - Not granted if the kingdoms are out of range at war start.
 - War declaration:
-  - Requires 2 different people from each kingdom to have attacked (in such a way that the meter is moved) before war can be declared.
+    - Requires 2 different people from each kingdom to have attacked (in such a way that the meter is moved) before war can be declared.
 - Fortified:
-  - Reduced to 48 hours max duration.
+    - Reduced to 48 hours max duration.
 - End of War ceasefire:
-  - Maximum time reduced to 72 hours. Double wizards removed.
+    - Maximum time reduced to 72 hours. Double wizards removed.
 - Aggressive stance:
-  - Attack time buffed to -15%.
+    - Attack time buffed to -15%.
 - Draft locked and timer message:
-  - Will be displayed on the military page around age start.
+    - Will be displayed on the military page around age start.
 - Aid page:
-  - Will inform you that sending aid counts as an aggressive action.
+    - Will inform you that sending aid counts as an aggressive action.
 - In-game target finder:
-  - Additional filters and sorting added for stance and war status.
+    - Additional filters and sorting added for stance and war status.
 - War room:
-  - Will default to the kingdom you are at war with, if any.
+    - Will default to the kingdom you are at war with, if any.
 - Anonymity:
-  - This spell will case the target to lose honor, but the attacker will not gain it.
+    - This spell will case the target to lose honor, but the attacker will not gain it.
 - Tree of Gold:
-  - Reduced amount gained from this spell by 33.333333%, recurring of course.
+    - Reduced amount gained from this spell by 33.333333%, recurring of course.
 - Vermin:
-  - Removed.
+    - Removed.
 - Gluttony:
-  - New - Increases food required by 25%.
+    - New - Increases food required by 25%.
 - Guilds:
-  - Unaffected by BE for the purposes of calculating spell duration.
+    - Unaffected by BE for the purposes of calculating spell duration.
 - War:
-  - Timer will tick during war for stances and war will override any stance. You can change stances during war so as to exit war in your desired stance.
+    - Timer will tick during war for stances and war will override any stance. You can change stances during war so as to exit war in your desired stance.
 - Empty kingdoms:
-  - I'll be able to create new empty kingdoms to move people into should they wish to start a new kingdom. Minimum 3 people to create a kingdom, 7 free invites provided.
+    - I'll be able to create new empty kingdoms to move people into should they wish to start a new kingdom. Minimum 3 people to create a kingdom, 7 free invites provided.
 
 ## Races
 
@@ -172,22 +172,69 @@
 
 ## Stances
 
-| Stances | | |
-| --- | --- | --- |
-| Normal | Aggressive | Fortified |
-| - No Effects | - +10% Combat Gains - -15% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -50% gains on magic and thievery ops in(slides in over a period of 24 hours) - -40% Military training time and cost - +40% draft speed - -50% Construction time and cost - +200% Birth Rate      - 48 hours maximum duration - -50% gains hitting out - -50% gains on magic and thievery ops out - +500% Explore costs - No Paradise spell available - Science limited to "Active" |
+- **Normal:** No effects
+- **Aggressive**
+    - +10% Combat Gains
+    - -15% Attack Time
+    - +30% Military Wages
+    - +10% Military losses
+- **Fortified**
+    - -50% gains hitting in and on magic/thievery ops in (slides in
+      over 24 hours)
+    - -40% Military training time and cost
+    - +40% draft speed
+    - -50% Construction time and cost
+    - +200% Birth Rate
+    - 48 hours maximum duration
+    - -50% gains hitting out and on magic/thievery ops out
+    - +500% Explore costs
+    - No Paradise spell available
+    - Science limited to Active
 
 ## Relations
 
-| Inter-Kingdoms' Relations | | | | |
-| --- | --- | --- | --- | --- |
-| Ceasefire | Normal | Unfriendly | Hostile | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**  +   - Min 12 U-Days - Max 72 U-Days - +500% birth rate - 30% reduction in training costs of all troops. - Draft cost reduced 50% - Combined with War Relations - Separate annul the Relations (War and CF) - All land currently out with armies at war end returns home immediately. - Instant population growth of 20% of your max pop if you are under 50% of your max pop | - No Effects | To opposite Kingdom :   - Unlocks (Unfriendly/Hostile/War) spells - Unlocks (Unfriendly/Hostile/War) thievery operations | - +10% Combat Gains - Increases the Networth Range of the Conquest Attack - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% | **Immediate Effects**   - Annul Hostile Meter with everyone  ---   *Benefits*   - -10% Attack Time - Enhanced Massacre Destroys Buildings - +10% Combat Gains - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2%  ---   *Penalties*   - +500% Exploration Costs - No Paradise spell available - Science limited to "Active"     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -20% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -25% Military Losses - -25% Military Training Time - No Distance Penalties for Attacks - -75% Gains and Effectiveness for operations to and from other Kingdoms (this fades in from war start) |
+- **Ceasefire**
+    - Prohibits attacks, spells, and thievery operations
+    - Annuls the Hostile Meter
+    - End Of War Ceasefire lasts 12-72 Utopian days
+    - +500% birth rate
+    - -30% troop training costs
+    - -50% draft cost
+    - Combined with War relations
+    - War and Ceasefire relations can be cancelled separately
+    - All land currently out returns home immediately at war end
+    - Instant population growth of 20% of max population if below 50%
+- **Normal:** No effects
+- **Unfriendly:** Unlocks Unfriendly/Hostile/War spells and thievery
+  operations against the other kingdom
+- **Hostile**
+    - +10% Combat Gains
+    - Increases Conquest networth range
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+- **War Immediate Effects**
+    - Annuls the Hostile Meter with everyone
+    - -10% Attack Time
+    - Enhanced Massacre destroys buildings
+    - +10% Combat Gains
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+- **War Penalties**
+    - +500% Exploration Costs
+    - No Paradise spell available
+    - Science limited to Active
+- **War After 12 Hours:** -20% Attack Time
+- **War After 24 Hours:** -25% Military Losses; -25% Military Training
+  Time; no distance penalties for attacks; -75% gains and
+  effectiveness for operations to and from other kingdoms
 
-## Dragon's Table
+## Dragons
 
-| Dragon Type | | | |
-| --- | --- | --- | --- |
-| Emerald | Sapphire\* | Gold | Ruby |
-| +20% Military losses in combat & -15% Attack gains | -25% Thievery & Magic Effectiveness | -25% from Building Efficiency | -10% from Military Efficiency |
-| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+- **Emerald**
+    - +20% Military losses in combat
+    - -15% Attack gains
+- **Sapphire:** -25% Thievery & Magic Effectiveness
+- **Gold:** -25% Building Efficiency
+- **Ruby:** -10% Military Efficiency
+- All dragons result in 10% lower income and the loss of 20% of new
+  draftees.

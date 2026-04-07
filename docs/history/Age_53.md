@@ -9,64 +9,64 @@
 ## Race's Changes
 
 - Avians
-  - - 30% attack times
-  - Defensive Specialist Strength +1
-  - - 10% attack gains
-  - Elite Unit: Drake (7/4, $650, 6.5 nw)
-  - Spell book: Clear Sight, Town Watch, Fanaticism
+    - - 30% attack times
+    - Defensive Specialist Strength +1
+    - - 10% attack gains
+    - Elite Unit: Drake (7/4, $650, 6.5 nw)
+    - Spell book: Clear Sight, Town Watch, Fanaticism
 
 - Dwarves
-  - - 25% thievery effectiveness
-  - + 50% food consumption
-  - Elite Unit: Berserker (6/5, $700, 6 nw)
-  - Spell book: Vermin, Quick feet
+    - - 25% thievery effectiveness
+    - + 50% food consumption
+    - Elite Unit: Berserker (6/5, $700, 6 nw)
+    - Spell book: Vermin, Quick feet
 
 - Elves
-  - Spellbook: Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect Magic, Mage's Fury
+    - Spellbook: Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect Magic, Mage's Fury
 
 - Faery
-  - + 50% thievery effectiveness
-  - Offensive Specialist Strength -1
-  - Elite Unit: Beastmasters (3/8, $1000, 8.0 nw)
+    - + 50% thievery effectiveness
+    - Offensive Specialist Strength -1
+    - Elite Unit: Beastmasters (3/8, $1000, 8.0 nw)
 
 - Halflings
-  - + 1 extra stealth per tick
-  - + 10% Population
-  - -20% birthrate
-  - Soldiers: 2/2
-  - Elite Unit: Brutes (5/6, $500, 6.25 nw)
-  - Spellbook: Animate Dead, Town Watch, Quick Feet, War Spoils, Aggression
+    - + 1 extra stealth per tick
+    - + 10% Population
+    - -20% birthrate
+    - Soldiers: 2/2
+    - Elite Unit: Brutes (5/6, $500, 6.25 nw)
+    - Spellbook: Animate Dead, Town Watch, Quick Feet, War Spoils, Aggression
 
 - Humans
-  - - 20% magic effectiveness
-  - Spell Book: Greater Protection, Fountain of Knowledge
+    - - 20% magic effectiveness
+    - Spell Book: Greater Protection, Fountain of Knowledge
 
 - Orcs
-  - + 25% gains
-  - - 10% building efficiency
-  - - 50% thievery and magic damage (on offensive operations)
+    - + 25% gains
+    - - 10% building efficiency
+    - - 50% thievery and magic damage (on offensive operations)
 
 - The Undead
-  - -50% Offensive losses on attacks you make
-  - - 20% science effectiveness
-  - Elite Unit: Ghoul (9/3, $1000, 7.0 nw)
+    - -50% Offensive losses on attacks you make
+    - - 20% science effectiveness
+    - Elite Unit: Ghoul (9/3, $1000, 7.0 nw)
 
 ## Personalitie's Changes
 
 - The Merchant
-  - +40% Income
-  - -50% Money Losses on Plunder Attacks
+    - +40% Income
+    - -50% Money Losses on Plunder Attacks
 - The Sage
-  - + 20% Science effectiveness
-  - - 20% Book Costs
-  - -20% Research Time
-  - -75% Losses on Learn Attacks
+    - + 20% Science effectiveness
+    - - 20% Book Costs
+    - -20% Research Time
+    - -75% Losses on Learn Attacks
 - The Warrior
-  - + 50% bonuses from honor
+    - + 50% bonuses from honor
 - The Tactician
-  - -50% Land Losses when Ambushed
+    - -50% Land Losses when Ambushed
 - The Cleric
-  - Lost "Troops losses on attacks or defense converted to soldiers"
+    - Lost "Troops losses on attacks or defense converted to soldiers"
 
 ## Game mechanic changes
 
@@ -201,22 +201,71 @@
 
 ## Stances
 
-| Stances | | |
-| --- | --- | --- |
-| Normal | Aggressive | Fortified |
-| - No Effects | - +10% Combat Gains - 10% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -25% Military training time and cost - +25% draft speed - -25% Construction time and cost      - 4 days maximum duration - -50% gains hitting out - +100% Explore costs - No Paradise spell available - Science limited to "Active" |
+- **Normal:** No effects
+- **Aggressive**
+    - +10% Combat Gains
+    - -10% Attack Time
+    - +30% Military Wages
+    - +10% Military losses
+- **Fortified**
+    - -50% gains hitting in (slides in over 24 hours)
+    - -25% Military training time and cost
+    - +25% draft speed
+    - -25% Construction time and cost
+    - 4-day maximum duration
+    - -50% gains hitting out
+    - +100% Explore costs
+    - No Paradise spell available
+    - Science limited to Active
 
 ## Relations
 
-| Inter-Kingdoms' Relations | | | | |
-| --- | --- | --- | --- | --- |
-| Ceasefire | Normal | Unfriendly | Hostile | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**  +   - Min 12 U-Days - Max 96 U-Days - +300% birth rate - Combined with War Relatins - Separate annul the Relations (War and CF) | - No Effects | To opposite Kingdom :   - Unlocks (Unfriendly/Hostile/War) spells - Unlocks (Unfriendly/Hostile/War) thievery operations | - +10% Combat Gains - Increases the Networth Range of the Conquest Attack - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% - Enables Monarch bonuses:   - +10% defensive military strength   - +10% defense magic   - +10% defense thievery | **Immediate Effects**   - Annul Hostile Meter with everyone  ---   *Benefits*   - -10% Attack Time - Enhanced Massacre Destroys Buildings - +10% Combat Gains - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% - Enables Monarch bonuses:   - +10% defensive military strength   - +10% defense magic   - +10% defense thievery  ---   *Penalties*   - +100% Exploration Costs - No Paradise spell available - Science limited to "Active"     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -20% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -25% Military Losses - -25% Military Training Time - No Distance Penalties for Attacks - -75% Gains and Effectiveness for operations to and from other Kingdoms (this fades in from war start) |
+- **Ceasefire**
+    - Prohibits attacks, spells, and thievery operations
+    - Annuls the Hostile Meter
+    - End Of War Ceasefire lasts 12-96 Utopian days
+    - +300% birth rate
+    - Combined with War relations
+    - War and Ceasefire relations can be cancelled separately
+- **Normal:** No effects
+- **Unfriendly:** Unlocks Unfriendly/Hostile/War spells and thievery
+  operations against the other kingdom
+- **Hostile**
+    - +10% Combat Gains
+    - Increases Conquest networth range
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+    - Enables monarch bonuses:
+        - +10% defensive military strength
+        - +10% defense magic
+        - +10% defense thievery
+- **War Immediate Effects**
+    - Annuls the Hostile Meter with everyone
+    - -10% Attack Time
+    - Enhanced Massacre destroys buildings
+    - +10% Combat Gains
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+    - Enables monarch bonuses:
+        - +10% defensive military strength
+        - +10% defense magic
+        - +10% defense thievery
+- **War Penalties**
+    - +100% Exploration Costs
+    - No Paradise spell available
+    - Science limited to Active
+- **War After 12 Hours:** -20% Attack Time
+- **War After 24 Hours:** -25% Military Losses; -25% Military Training
+  Time; no distance penalties for attacks; -75% gains and
+  effectiveness for operations to and from other kingdoms
 
-## Dragon's Table
+## Dragons
 
-| Dragon Type | | | |
-| --- | --- | --- | --- |
-| Emerald | Sapphire | Gold | Ruby |
-| +15% Combat Losses -15% Gains | -30% Thievery & Magic Effectiveness | -25% from Building Efficiency | -8% from Military Efficiency |
-| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+- **Emerald**
+    - +15% Combat Losses
+    - -15% Gains
+- **Sapphire:** -30% Thievery & Magic Effectiveness
+- **Gold:** -25% Building Efficiency
+- **Ruby:** -8% Military Efficiency
+- All dragons result in 10% lower income and the loss of 20% of new
+  draftees.
