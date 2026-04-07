@@ -23,6 +23,28 @@ The original wiki at `wiki.utopia-game.com` is currently inaccessible (expired S
 
 Already-downloaded pages are skipped, so the scraper is safe to re-run if interrupted.
 
+## Recovering historical forum posts
+
+Many age pages and changelogs were recovered from the official Utopia
+forums and the Wayback Machine. The repo includes helpers for both live
+forum fetches and archived thread recovery.
+
+```bash
+./scripts/fetch_forum_page.sh 'https://forums.utopia-game.com/forumdisplay.php?1585-Game-Announcements&page=1' -o /tmp/forum-page1.html
+python3 ./scripts/fetch_wayback_thread.py 640160
+python3 ./scripts/extract_forum_post.py /tmp/utopia-wayback-thread-cache/640160-*.html
+python3 ./scripts/list_wayback_forum_pages.py 'https://forums.utopia-game.com/forumdisplay.php?1585-Game-Announcements'
+python3 ./scripts/compare_archived_forum_ages.py
+```
+
+Useful helpers:
+
+- `scripts/fetch_forum_page.sh`: fetch a live forum page with the header set that works against the flaky official forum
+- `scripts/fetch_wayback_thread.py`: fetch and cache the latest Wayback snapshot for a forum thread id
+- `scripts/extract_forum_post.py`: extract the first forum post body from saved HTML
+- `scripts/list_wayback_forum_pages.py`: list archived forumdisplay page coverage in Wayback
+- `scripts/compare_archived_forum_ages.py`: compare archived age-change threads against local `docs/history/Age_*.md` coverage
+
 ## Deploying to GitHub Pages
 
 ### 1. Configure your subdomain
@@ -74,6 +96,11 @@ Repo files of note:
 scripts/scrape_wiki.py    # Wayback Machine scraper
 scripts/rescrape_broken.py # Re-scrape garbled pages
 scripts/fix_links.py      # Fix internal links
+scripts/fetch_forum_page.sh # Fetch live forum pages with browser-style headers
+scripts/fetch_wayback_thread.py # Cache archived forum thread snapshots
+scripts/extract_forum_post.py # Extract first forum post from saved HTML
+scripts/list_wayback_forum_pages.py # Inspect forum page coverage in Wayback
+scripts/compare_archived_forum_ages.py # Compare archived age threads to local docs
 mkdocs.yml                # Site configuration and navigation
 requirements.txt          # Python dependencies
 .github/workflows/
