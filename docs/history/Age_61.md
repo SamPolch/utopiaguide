@@ -5,27 +5,27 @@
 ## Mechanic Changes
 
 - Dragons:
-  - Sapphire:
-    - 25% lower magic effectiveness
-    - 25% lower thievery effectiveness
-    - 10% lower income
-    - the loss of 20% of new draftees
-  - Emerald:
-    - 20% Higher military losses in combat
-    - 15% lower attack gains
-    - 10% lower income
-    - the loss of 20% of new draftees
-    - Troops will slay a dragon at their individual strength. A race with +1 offensive strength will slay at 5 points, an elite will slay at its highest elite value. You cannot oversend when slaying any more.
+    - Sapphire:
+        - 25% lower magic effectiveness
+        - 25% lower thievery effectiveness
+        - 10% lower income
+        - the loss of 20% of new draftees
+    - Emerald:
+        - 20% Higher military losses in combat
+        - 15% lower attack gains
+        - 10% lower income
+        - the loss of 20% of new draftees
+        - Troops will slay a dragon at their individual strength. A race with +1 offensive strength will slay at 5 points, an elite will slay at its highest elite value. You cannot oversend when slaying any more.
 
 - Shop items:
-  - Taunts: Price reduced by 50% to 5 credits. Added additional checks to avoid taunting your own kingdom.
-  - Kingdom hostile meter: Price reduced by 50% to 10 credits a week.
+    - Taunts: Price reduced by 50% to 5 credits. Added additional checks to avoid taunting your own kingdom.
+    - Kingdom hostile meter: Price reduced by 50% to 10 credits a week.
 - Buildings
-  - Homes: Increase population by 10
-  - Stables: Hold 80 horses per stable, draft 2 horses an hour.
+    - Homes: Increase population by 10
+    - Stables: Hold 80 horses per stable, draft 2 horses an hour.
 - Attacks:
-  - Massacre: Raze element in war removed. Damage in war increased.
-  - Raze: Damage in war to buildings significantly increased.
+    - Massacre: Raze element in war removed. Damage in war increased.
+    - Raze: Damage in war to buildings significantly increased.
 - War Win chart formula: TBC, no change has been decided yet.
 
 ## Races
@@ -150,22 +150,68 @@
 
 ## Stances
 
-| Stances | | |
-| --- | --- | --- |
-| Normal | Aggressive | Fortified |
-| - No Effects | - +10% Combat Gains - 10% Lower Attack Time      - +30% Military Wages - +10% Military losses | - -50% gains hitting in (slides in over a period of 24 hours) - -50% gains on magic and thievery ops in(slides in over a period of 24 hours) - -25% Military training time and cost - +25% draft speed - -25% Construction time and cost      - 4 days maximum duration - -50% gains hitting out - -50% gains on magic and thievery ops out - +500% Explore costs - No Paradise spell available - Science limited to "Active" |
+- **Normal:** No effects
+- **Aggressive**
+    - +10% Combat Gains
+    - -10% Attack Time
+    - +30% Military Wages
+    - +10% Military losses
+- **Fortified**
+    - -50% gains hitting in and on magic/thievery ops in (slides in
+      over 24 hours)
+    - -25% Military training time and cost
+    - +25% draft speed
+    - -25% Construction time and cost
+    - 4 days maximum duration
+    - -50% gains hitting out and on magic/thievery ops out
+    - +500% Explore costs
+    - No Paradise spell available
+    - Science limited to Active
 
 ## Relations
 
-| Inter-Kingdoms' Relations | | | | |
-| --- | --- | --- | --- | --- |
-| Ceasefire | Normal | Unfriendly | Hostile | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**  +   - Min 12 U-Days - Max 96 U-Days - +500% birth rate - 30% reduction in training costs of all troops. - Draft cost reduced 50% - Combined with War Relations - Separate annul the Relations (War and CF) - All land currently out with armies at war end returns home immediately. - Instant population growth of 20% of your max pop if you are under 50% of your max pop | - No Effects | To opposite Kingdom :   - Unlocks (Unfriendly/Hostile/War) spells - Unlocks (Unfriendly/Hostile/War) thievery operations | - +10% Combat Gains - Increases the Networth Range of the Conquest Attack - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2% | **Immediate Effects**   - Annul Hostile Meter with everyone  ---   *Benefits*   - -10% Attack Time - Enhanced Massacre Destroys Buildings - +10% Combat Gains - Mana costs for offensive spells reduced to 2% - Stealth costs for offensive ops reduced to 2%  ---   *Penalties*   - +500% Exploration Costs - No Paradise spell available - Science limited to "Active"     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -20% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -25% Military Losses - -25% Military Training Time - No Distance Penalties for Attacks - -75% Gains and Effectiveness for operations to and from other Kingdoms (this fades in from war start) |
+- **Ceasefire**
+    - Prohibits attacks, spells, and thievery operations
+    - Annuls the Hostile Meter
+    - End Of War Ceasefire lasts 12-96 Utopian days
+    - +500% birth rate
+    - -30% troop training costs
+    - -50% draft cost
+    - Combined with War relations
+    - War and Ceasefire relations can be cancelled separately
+    - All land currently out returns home immediately at war end
+    - Instant population growth of 20% of max population if below 50%
+- **Normal:** No effects
+- **Unfriendly:** Unlocks Unfriendly/Hostile/War spells and thievery
+  operations against the other kingdom
+- **Hostile**
+    - +10% Combat Gains
+    - Increases Conquest networth range
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+- **War Immediate Effects**
+    - Annuls the Hostile Meter with everyone
+    - -10% Attack Time
+    - Enhanced Massacre destroys buildings
+    - +10% Combat Gains
+    - Offensive spells cost 2% mana
+    - Offensive ops cost 2% stealth
+- **War Penalties**
+    - +500% Exploration Costs
+    - No Paradise spell available
+    - Science limited to Active
+- **War After 12 Hours:** -20% Attack Time
+- **War After 24 Hours:** -25% Military Losses; -25% Military Training
+  Time; no distance penalties for attacks; -75% gains and
+  effectiveness for operations to and from other kingdoms
 
-## Dragon's Table
+## Dragons
 
-| Dragon Type | | | |
-| --- | --- | --- | --- |
-| Emerald | Sapphire\* | Gold | Ruby |
-| +20% Military losses in combat & -15% Attack gains | -25% Thievery & Magic Effectiveness | -25% from Building Efficiency | -8% from Military Efficiency |
-| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+- **Emerald**
+    - +20% Military losses in combat
+    - -15% Attack gains
+- **Sapphire:** -25% Thievery & Magic Effectiveness
+- **Gold:** -25% Building Efficiency
+- **Ruby:** -8% Military Efficiency
+- All dragons result in 10% lower income and the loss of 20% of new
+  draftees.
