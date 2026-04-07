@@ -155,12 +155,79 @@ Provinces created/reset during War will start without Soldiers, Military & Build
 
 Once the **Hostile** relation status has been reached by one kingdom, the Monarch of the least hostile Kingdom will receive the option to Declare War as long as their own relations with that Kingdom are at a minimum of **Unfriendly**. This "War Button" appears on the Relations Page under the War tab. If both kingdoms have reached **Hostile** relations status, the kingdom with fewer points (while under 60 points) will have a "Declare War" button. When both kingdoms reach 60 points, the button will be available to both. Once the button is pressed certain effects are immediately applied; others slowly take effect, rising to their maximum potential over a 24 hour period.
 
-# Relation Table
+# Relation Effects
 
-| Inter-Kingdoms' Relations | | | | |
-| --- | --- | --- | --- | --- |
-| Ceasefire | Normal (0-14.99) | Unfriendly (15-29.99) | Hostile (30-180) | War |
-| - Prohibits any Attacks - Prohibits any Spells - Prohibits any Thievery Operations - Annul Hostile Meter   **End Of War Ceasefire**   - Min 24 U-Days - Max 96 U-Days - +1000% birth rate (minimum 500) for the first 24 U-Days - Explore penalty reduced to 300% for provinces below Kingdom Median (including incoming explored Acres) - Combined with War Relations - Separate annul the Relations (War and CF) - All Land currently out with armies at War end returns home immediately - All Military Units currently out on Attacks against the War opponent return home immediately - Negative Spell effects and Riots removed - Dragon project is automatically canceled - Instant Population growth of 20% of your max population if you are under 50% of your max Population | - No Effects | To opposing Kingdom:   - Unlocks Unfriendly Spells - Unlocks Unfriendly Thievery Operations | To opposing Kingdom:   - Unlocks Hostile Spells - Unlocks Hostile Thievery Operations - Mana cost for Offensive Spells reduced to 2% - Stealth cost for Offensive Ops reduced to 2% | **Immediate Effects**   - Annul Hostility Meter with everyone  ---   *Benefits*   - +10% Combat Gains - Unlocks [Propaganda](../misc/Thievery.md) thievery operation - Unlocks [Amnesia](Mystics.md) spell - Mana costs for Offensive Spells reduced to 2% - Stealth costs for Offensive Ops reduced to 2%  ---   *Penalties*   - 600% Exploration Costs - [Paradise](Mystics.md) unavailable     **After 12 Hours (12 Utopian Days)**  *Benefits*   - -15% Attack Time     **After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))**  *Benefits*   - -80% Gains and Effectiveness for operations to and from other Kingdoms (this phases in from War start) |
+## Ceasefire
+
+- Prohibits any Attacks
+- Prohibits any Spells
+- Prohibits any Thievery Operations
+- Annuls the Hostile Meter
+
+### End-of-War Ceasefire
+
+- Minimum duration: 24 U-Days
+- Maximum duration: 96 U-Days
+- +1000% birth rate, minimum 500, for the first 24 U-Days
+- Explore penalty reduced to 300% for provinces below Kingdom Median, including incoming explored acres
+- Combined with War Relations
+- War and Ceasefire relations are annulled separately
+- All land currently out with armies at War end returns home immediately
+- All military units currently out on attacks against the War opponent return home immediately
+- Negative spell effects and Riots are removed
+- Dragon projects are automatically canceled
+- Instant population growth of 20% of max population if under 50% of max population
+
+## Normal (0-14.99)
+
+- No effects
+
+## Unfriendly (15-29.99)
+
+To the opposing Kingdom:
+
+- Unlocks Unfriendly Spells
+- Unlocks Unfriendly Thievery Operations
+
+## Hostile (30-180)
+
+To the opposing Kingdom:
+
+- Unlocks Hostile Spells
+- Unlocks Hostile Thievery Operations
+- Mana cost for offensive spells reduced to 2%
+- Stealth cost for offensive ops reduced to 2%
+
+## War
+
+### Immediate Effects
+
+- Annuls the Hostility Meter with everyone
+
+Benefits:
+
+- +10% Combat Gains
+- Unlocks [Propaganda](../misc/Thievery.md) thievery operation
+- Unlocks [Amnesia](Mystics.md) spell
+- Mana costs for offensive spells reduced to 2%
+- Stealth costs for offensive ops reduced to 2%
+
+Penalties:
+
+- 600% Exploration Costs
+- [Paradise](Mystics.md) unavailable
+
+### After 12 Hours (12 Utopian Days)
+
+Benefits:
+
+- -15% Attack Time
+
+### After 24 Hours (1 [Utopian Month](../main/Utopia_Time.md))
+
+Benefits:
+
+- -80% Gains and Effectiveness for operations to and from other Kingdoms; this phases in from War start
 
 # Ending a War
 
