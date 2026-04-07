@@ -8,7 +8,7 @@ This age we focused on changing the flow of the game start by reducing the durat
 
 Comment thread here.
 
-Schedule:
+## Schedule
 
 End of Age 59: Friday 13th December at 12:00 GMT
 
@@ -18,195 +18,195 @@ Start of Age 60 Protection: Monday 16th December at 18:00 GMT
 
 End of Age 60 Protection: Tuesday 17th December at 18:00 GMT 
 
-Race Changes
+## Race Changes
 
-    Avians
+### Avian
 
-    -30% Attack Time
+- -30% Attack Time
 
-    +15% Birth Rate
+- +15% Birth Rate
 
-    No Access to Stables
+- No Access to Stables
 
-    Fanaticism, Greater Protection
+- Fanaticism, Greater Protection
 
-    Elite: 6/2, 550gc, 5NW
+- Elite: 6/2, 550gc, 5NW
 
-    Dwarves
+### Dwarf
 
-    +30% Building Efficiency
+- +30% Building Efficiency
 
-    Free Building Construction
+- Free Building Construction
 
-    Can use credits to raze buildings
+- Can use credits to raze buildings
 
-    Can't use Accelerated Construction
+- Can't use Accelerated Construction
 
--5% gains on attacks
+- -5% gains on attacks
 
-    Fools Gold, Quick Feet, Mystic Aura
+- Fools Gold, Quick Feet, Mystic Aura
 
-    Elite: 6/1, 500gc, 4.75NW
+- Elite: 6/1, 500gc, 4.75NW
 
-    Elf
+### Elf
 
-    +30% wpa
+- +30% wpa
 
-    -50% defensive losses
+- -50% defensive losses
 
-+1 defensive specialist strength
+- +1 defensive specialist strength
 
-    Nightmares, Amnesia, Pitfalls, Mages Fury
+- Nightmares, Amnesia, Pitfalls, Mages Fury
 
-    Elite: 5/3, 600gc, 5.25NW
+- Elite: 5/3, 600gc, 5.25NW
 
-    Faery
+### Faery
 
-    +30% Spell damage (instant spells)
+- +30% Spell damage (instant spells)
 
-    +30% Sabotage damage
+- +30% Sabotage damage
 
-    All racial spells
+- All racial spells
 
-    Elite: 3/5, 700gc, 5.25NW
+- Elite: 3/5, 700gc, 5.25NW
 
-    Halflings
+### Halfling
 
-    +10% population
+- +10% population
 
-    +50% TPA
+- +50% TPA
 
-    -50% thief cost
+- -50% thief cost
 
-+1 offensive specialist strength
+- +1 offensive specialist strength
 
-    -20% Birth Rate
+- -20% Birth Rate
 
-    Invisibility, Town Watch, Aggression, Animate Dead
+- Invisibility, Town Watch, Aggression, Animate Dead
 
-Elite: 4/4, 400gc, 4NW
+- Elite: 4/4, 400gc, 4NW
 
-    Human
+### Human
 
-    +20% Science Effectiveness
+- +20% Science Effectiveness
 
-    -5% population
+- -5% population
 
-    Tree of Gold, Fountain of Knowledge
+- Tree of Gold, Fountain of Knowledge
 
-    Elite: 6/4, 1000gc 5.5NW
+- Elite: 6/4, 1000gc 5.5NW
 
-    Orcs
+### Orc
 
-    +30% Attack Gains
+- +30% Attack Gains
 
-    Free draft
+- Free draft
 
-    +20% Enemy casualties when attacking
+- +20% Enemy casualties when attacking
 
-    -20% science effectiveness
+- -20% science effectiveness
 
-    Reflect Magic
+- Reflect Magic
 
-    Elite: 7/1, 750gc, 5.75NW
+- Elite: 7/1, 750gc, 5.75NW
 
-    Undead
+### Undead
 
-    -50% Offensive losses on attacks you make
+- -50% Offensive losses on attacks you make
 
-    Converts some Specialists into Elites on successful land attacks
+- Converts some Specialists into Elites on successful land attacks
 
-    Spreads and is Immune to The Plague
+- Spreads and is Immune to The Plague
 
-    No Food Required
+- No Food Required
 
-    Basic Thievery (Intel operations only)
+- Basic Thievery (Intel operations only)
 
-    Town Watch
+- Town Watch
 
-    Elite: 7/2, 800gc, 6NW
+- Elite: 7/2, 800gc, 6NW
 
-    Personality Changes
+## Personality Changes
 
-    The Merchant
+### The Merchant
 
-    +30% Income
+- +30% Income
 
-    Gain 50% more Specialist and Building Credits
+- Gain 50% more Specialist and Building Credits
 
-Starts with +1600 specialist credits
+- Starts with +1600 specialist credits
 
-    The Sage
+### The Sage
 
-    Every 3 acres generates 1 book
+- Every 3 acres generates 1 book
 
-    -50% cost of science
+- -50% cost of science
 
-Starts with 40000 science books
+- Starts with 40000 science books
 
-    The Rogue
+### The Rogue
 
-    +1 Stealth recovery per tick
+- +1 Stealth recovery per tick
 
-    Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
+- Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
 
-Access to Vermin
+- Access to Vermin
 
-Starts with +400 thieves
+- Starts with +400 thieves
 
-    The Mystic
+### The Mystic
 
-    All Guilds are twice as effective
+- All Guilds are twice as effective
 
-    +1 mana per tick in War
+- +1 mana per tick in War
 
-Access to Meteor Showers, Chastity, Nightmares
+- Access to Meteor Showers, Chastity, Nightmares
 
-Starts with +200 Wizards
+- Starts with +200 Wizards
 
-    The Warrior
+### The Warrior
 
-    +1 General
+- +1 General
 
-    +15% OME in war
+- +15% OME in war
 
-    Enhanced Conquest range
+- Enhanced Conquest range
 
-Access to  Bloodlust
+- Access to Bloodlust
 
-Starts with +800 soldiers and +800 specialist credits
+- Starts with +800 soldiers and +800 specialist credits
 
-    The Tactician
+### The Tactician
 
-    -20% Attack Time
+- -20% Attack Time
 
-    Accurate Espionage
+- Accurate Espionage
 
-Access to Clear Sight
+- Access to Clear Sight
 
-Starts with +800 soldiers and +800 specialist credits
+- Starts with +800 soldiers and +800 specialist credits
 
-    The Cleric
+### The Cleric
 
-    -35% Your Military Casualties (on attack or defense)
+- -35% Your Military Casualties (on attack or defense)
 
-Access to Pitfalls
+- Access to Pitfalls
 
-Starts with +800 soldiers and +800 specialist credits
+- Starts with +800 soldiers and +800 specialist credits
 
-    The War Hero
+### The War Hero
 
-    -50% train time
+- -50% train time
 
-    Immune to Dragon effects
+- Immune to Dragon effects
 
-    Immune to The Plague
+- Immune to The Plague
 
-Access to War Spoils
+- Access to War Spoils
 
-Starts with 200 elites
+- Starts with 200 elites
 
-    Mechanic Changes
+## Mechanic Changes
 
 Protection will be changed to last for 24 hours and provinces starting resources will be modified to take this into account. Provinces will begin with 400 acres of which 200 will be built (10% farms, 25% banks, 10% guilds and 5% towers) 200 building credits and an army that is 50% drafted with credits to train the soldiers. The personality resources below are additional to this.
 

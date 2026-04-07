@@ -2,9 +2,9 @@
 
 **Forum Source:** [Age 59 Changes](https://forums.utopia-game.com/showthread.php?627066)
 
-Below please find the changes for Age 59. Honor has been changed significantly, more details below. You can comment here 
+Below please find the changes for Age 59. Honor has been changed significantly, more details below. You can comment here.
 
-Schedule
+## Schedule
 
 End of Age 58: Tuesday 10th September, 12.00 GMT
 
@@ -14,175 +14,176 @@ Start of Age 59 Protection: Friday 13th September, 18.00 GMT
 
 End of Age 59 Protection: Monday 16th September, 18.00 GMT
 
-Race Changes
+## Race Changes
 
-Avians
+### Avian
 
--30% Attack Time
+- -30% Attack Time
 
-+30% Birth Rate
+- +30% Birth Rate
 
-No Access to Stables
+- No Access to Stables
 
-Fanaticism, Greater Protection
+- Fanaticism, Greater Protection
 
-Elite: 6/2, 525gc, 5NW
+- Elite: 6/2, 525gc, 5NW
 
-Dwarves 
+### Dwarf
 
-+30% Building Efficiency
+- +30% Building Efficiency
 
-Free Building Construction
+- Free Building Construction
 
-Can use credits to raze buildings
+- Can use credits to raze buildings
 
--10% attack gains
+- -10% attack gains
 
-Can't use Accelerated Construction
+- Can't use Accelerated Construction
 
-Fools Gold, Quick Feet 
+- Fools Gold, Quick Feet 
 
-Elite: 6/3, 700gc, 5.25NW
+- Elite: 6/3, 700gc, 5.25NW
 
-Elf
+### Elf
 
-+30% wpa
+- +30% wpa
 
-Revives dead troops
+- Revives dead troops
 
--50% defensive losses
+- -50% defensive losses
 
-Nightmares, Amnesia, Pitfalls,  Mages Fury
+- Nightmares, Amnesia, Pitfalls,  Mages Fury
 
-Elite: 5/3, 600gc, 5NW
+- Elite: 5/3, 600gc, 5NW
 
-Faery
+### Faery
 
-+20% Spell damage (instant spells)
+- +20% Spell damage (instant spells)
 
-+20% Sabotage damage
+- +20% Sabotage damage
 
-All racial spells
+- All racial spells
 
-Elite: 3/5, 800gc, 5.25NW
+- Elite: 3/5, 800gc, 5.25NW
 
-Halflings
+### Halfling
 
-+10% population
+- +10% population
 
-+50% TPA
+- +50% TPA
 
--50% thief cost
+- -50% thief cost
 
--20% Birth Rate
+- -20% Birth Rate
 
-Invisibility, Town Watch, Aggression, Animate Dead
+- Invisibility, Town Watch, Aggression, Animate Dead
 
-Soldiers: 2/2 Elite: 4/4, 300gc, 4NW
+- Soldiers: 2/2
+- Elite: 4/4, 300gc, 4NW
 
-Human
+### Human
 
-+30% Science Effectiveness
+- +30% Science Effectiveness
 
--10% population
+- -10% population
 
-Tree of Gold, Fountain of Knowledge, Clear Sight
+- Tree of Gold, Fountain of Knowledge, Clear Sight
 
-Elite: 6/4, 1000gc 5.5NW
+- Elite: 6/4, 1000gc 5.5NW
 
-Orcs
+### Orc
 
-+30% Attack Gains
+- +30% Attack Gains
 
-Free draft
+- Free draft
 
-+15% Enemy casualties when attacking
+- +15% Enemy casualties when attacking
 
--20% science effectiveness
+- -20% science effectiveness
 
-Reflect Magic
+- Reflect Magic
 
-Elite: 7/1, 700gc, 5.75NW
+- Elite: 7/1, 700gc, 5.75NW
 
-Undead
+### Undead
 
--50% Offensive losses on attacks you make
+- -50% Offensive losses on attacks you make
 
-Converts some Specialists into Elites on successful land attacks
+- Converts some Specialists into Elites on successful land attacks
 
-Spreads and is Immune to The Plague
+- Spreads and is Immune to The Plague
 
-No Food Required
+- No Food Required
 
-Basic Thievery (Intel operations only)
+- Basic Thievery (Intel operations only)
 
--1 General
+- -1 General
 
-Town Watch
+- Town Watch
 
-Elite: 7/2, 1000gc, 6NW
+- Elite: 7/2, 1000gc, 6NW
 
-Personality Changes
+## Personality Changes
 
-The Merchant
+### The Merchant
 
-+20% Income
+- +20% Income
 
-Gain 50% more Specialist and Building Credits
+- Gain 50% more Specialist and Building Credits
 
-The Sage
+### The Sage
 
-Every 4 acres generates 1 book
+- Every 4 acres generates 1 book
 
--50% cost of science
+- -50% cost of science
 
-The Rogue
+### The Rogue
 
-+1 Stealth recovery per tick
+- +1 Stealth recovery per tick
 
-Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
+- Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
 
-The Mystic
+### The Mystic
 
-Access to Meteor Showers
+- Access to Meteor Showers
 
-All Guilds are twice as effective
+- All Guilds are twice as effective
 
-+1 mana per tick in War
+- +1 mana per tick in War
 
-The Warrior
+### The Warrior
 
-+1 General
+- +1 General
 
-+10% OME in war
+- +10% OME in war
 
-Enhanced Conquest range
+- Enhanced Conquest range
 
-The Tactician
+### The Tactician
 
--15% Attack Time
+- -15% Attack Time
 
-Accurate Espionage
+- Accurate Espionage
 
-The Cleric
+### The Cleric
 
--50% Your Military Casualties (on attack or defense)
+- -50% Your Military Casualties (on attack or defense)
 
-The War Hero 
+### The War Hero 
 
--50% train time
+- -50% train time
 
-Immune to Dragon effects
+- Immune to Dragon effects
 
-Immune to The Plague
+- Immune to The Plague
 
-Mechanic Changes
+## Mechanic Changes
 
 Explore formula: We've moved away from an exponential formula to something that is curved more gently. Increases and reductions to cost based on a provinces size relative to the kingdom are still in effect.
 
 Honor: The formulas have been changed significantly both in war and out of war and on ops and attacks. Honor gains and losses should be a less spikey and honor gains out of war are increased. 
 
-[* ]Population mod on honor is reduced to 1%
+- Population mod on honor is reduced to 1%
 
 Attacking honor gains/losses in war have been reduced
 

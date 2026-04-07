@@ -2,17 +2,13 @@
 
 **Forum Source:** [Age 45 - The Age of Light](https://forums.utopia-game.com/showthread.php?601420)
 
-Here are the changes for the new age:
-
-________________________________________________________________________________________
-
-Age 45 - The Age of Light
-
-________________________________________________________________________________________
+Here are the changes for the new age.
 
 ATTENTION: Server time will be UTC/GMT -8 hours.  This will allow Brian and Sean to be available when Freeze time ends and when provinces come OOP.
 
 Game Times are tricky as Daylight Savings periods for London/Dublin and the USA are no longer in sync.  Times below that are during local Daylight Savings are marked with a *.
+
+## Schedule
 
 Freeze Time Starts at:
 
@@ -52,11 +48,9 @@ London/Dublin:  Monday 02nd November 08:00 (Jul 1st YR 0)
 
 The age of light will run until the middle of January 2010.
 
-________________________________________________________________________________________
+## Races
 
-Races
-
-Humans
+### Human
 
 * Income : +25%
 
@@ -70,7 +64,7 @@ Humans
 
 * Elite Unit – Knight (6/3, $750, 5.25 nw)
 
-Elves
+### Elf
 
 * Magic Effectiveness : +30% (instead of Spell Strength : +30%)
 
@@ -86,7 +80,7 @@ Elves
 
 * Elite Unit – Elf Lord (6/4, $700, 5.5 nw)
 
-Dwarves
+### Dwarf
 
 * Building Efficiency : +30%
 
@@ -102,7 +96,7 @@ Dwarves
 
 * Elite Unit – Berserker (7/4, $1000, 6.75 nw) (elite cost increased from $900)
 
-Orcs
+### Orc
 
 * Gains on Attacks : +30%
 
@@ -120,7 +114,7 @@ Orcs
 
 * Elite Unit – Ogre (8/2, $800, 6.75 nw)
 
-Gnomes
+### Gnome
 
 * Thievery Effectiveness : +40%
 
@@ -138,7 +132,7 @@ Gnomes
 
 * Elite Unit – Golem (5/4, $250, 4.5 nw)
 
-Dark Elves
+### Dark Elf
 
 * Spell Strength : +30% (instead of Magic Effectiveness : +30%)
 
@@ -154,7 +148,7 @@ Dark Elves
 
 * Elite Unit – Drow (5/6, $900, 6.0 nw)
 
-Avian
+### Avian
 
 * +75% Birth Rates
 
@@ -170,13 +164,13 @@ Avian
 
 * Elite Unit - Drake (7/3, $700 5.75 nw)
 
+### Removed
+
 Undead is removed
 
-________________________________________________________________________________________
+## Personalities
 
-Personalities
-
-The Merchant (unchanged)
+### The Merchant (unchanged)
 
 * +15% Income
 
@@ -184,7 +178,7 @@ The Merchant (unchanged)
 
 * 75% Money Losses on Plunder Attacks
 
-The Shepherd
+### The Shepherd
 
 * Land generates 4 bushels of food per acre daily (gained)
 
@@ -192,31 +186,31 @@ The Shepherd
 
 * Immunity to food penalties from Drought, Plague, & Storms
 
-The Sage
+### The Sage
 
 * Every 2 Acres of land produces 1 Science Book per Hour
 
 * 50% Protection from Learn Attacks (from 75%)
 
-The Rogue (unchanged)
+### The Rogue (unchanged)
 
 * +1 Stealth per Hour
 
 * Access to all thievery operations, including three unique to Rogues 
 
-The Mystic
+### The Mystic
 
 * Meteor Shower spell (new)
 
 * All Guilds are twice as effective (loses All Towers are twice as effective)
 
-The Warrior (unchanged)
+### The Warrior (unchanged)
 
 * 15% Lower Attack Time
 
 * 50% Land Losses when Ambushed
 
-The War Hero (unchanged)
+### The War Hero (unchanged)
 
 * Access to enhanced Conquest Attack at all times
 

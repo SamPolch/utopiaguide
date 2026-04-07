@@ -14,7 +14,7 @@ Cheers,
 
 Brian
 
------------------------------------------------------------
+## Schedule
 
 Age 46 - The age of Distinction
 
@@ -24,9 +24,9 @@ Ticking Starts: Sunday 31st January 6pm GMT
 
 OOP Starts: Wednesday February 3rd 6pm GMT
 
---- RACES ---
+## Races
 
-@Avian
+### Avian
 
 Attack time: -25%
 
@@ -46,7 +46,7 @@ Off: 5/0
 
 Eli: 8/3 $800 6.5nw
 
-@Elf
+### Elf
 
 Mana Recovery per tick: +1
 
@@ -66,7 +66,7 @@ Off: 5/0
 
 Eli: 7/4 $800 6.0nw
 
-@DarkElf
+### Dark Elf
 
 Spell potentency (efficacy & duration): +30%
 
@@ -82,7 +82,7 @@ Off: 5/0
 
 Eli: 6/4 $650 5.0nw
 
-@Dwarf
+### Dwarf
 
 Free Building Construction
 
@@ -104,7 +104,7 @@ Off: 6/0
 
 Eli: 7/4 $800 6.0nw
 
-@Gnome
+### Gnome
 
 Stealth recovery per tick: +1 
 
@@ -124,7 +124,7 @@ Off: 5/0
 
 Eli: 5/5 $400 4.0nw
 
-@Human
+### Human
 
 Income: +15%
 
@@ -146,7 +146,7 @@ Off: 4/0
 
 Eli: 8/3 $800 6.5nw
 
-@Orc
+### Orc
 
 Gains on Attacks: +30%
 
@@ -168,9 +168,9 @@ Off: 5/0
 
 Eli: 9/2 $850 6.75nw
 
---- PERSONALITIES ---
+## Personalities
 
-@Merchant
+### Merchant
 
 Income: +25% 
 
@@ -178,7 +178,7 @@ Immunity to all Income Penalties (Riots, Plagues, etc.)
 
 Money Losses on Plunder Attacks: -25%
 
-@Shepherd
+### Shepherd
 
 Land generates 4 bushels of food per acre daily
 
@@ -194,7 +194,7 @@ Population Limit: +10%
 
 Birth Rates: +15%
 
-@Sage
+### Sage
 
 Learn time: -30%
 
@@ -206,19 +206,19 @@ Every 2 Acres of land produces 1 Science Book per Hour
 
 Book costs: -30%
 
-@Rogue
+### Rogue
 
 Stealth recovery per tick: +1 
 
 Access to all thievery operations, including three unique to Rogues 
 
-@Mystic
+### Mystic
 
 Access to Meteor Shower spell
 
 All Guilds are twice as effective
 
-@Tactician (Replaces War Hero)
+### Tactician (Replaces War Hero)
 
 Access to enhanced Conquest Attack at all times
 
@@ -230,7 +230,7 @@ Military Wages: -30%
 
 Draft Cost: -30%
 
-@Warrior
+### Warrior
 
 Opponent Casualties (when attacking or defending): +15%
 
@@ -240,7 +240,7 @@ Land Losses when Ambushed: -50%
 
 Attack time: -15%
 
-@Artisan
+### Artisan
 
 Building construction time: -30%
 

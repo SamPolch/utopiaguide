@@ -2,6 +2,8 @@
 
 **Forum Source:** [Age 50 Final Changes](https://forums.utopia-game.com/showthread.php?614829)
 
+## Mechanics Changes
+
 Game mechanic changes for age start:
 
 - Base peasant income increased from 2.25 gc per peasant to 2.75.
@@ -25,6 +27,8 @@ Game mechanic changes for age start:
 - Artisan is removed
 
 - Cleric will be added
+
+## Planned Mid-Age Follow-Up
 
 The following items will not be done before age start, but we want to look at them mid age. Bishop, or another mod, will create a thread mid-age detailing the issues and how we want to resolve it. We will invite people to discuss the issue and solutions with a view to implementing them at a later date
 

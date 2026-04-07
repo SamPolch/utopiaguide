@@ -4,9 +4,9 @@
 
 Hi all. Here are the changes for age 51 - the developers have taken feedback onboard and added some further tweaks. We hope you guys enjoy these changes for the upcoming summer age.
 
-Race Changes
+## Race Changes
 
-Avian
+### Avian
 
 Bonuses:
 
@@ -30,7 +30,7 @@ Other Information:
 
 * Spell book: Clear Sight, Town Watch
 
-Dwarves
+### Dwarf
 
 Bonuses:
 
@@ -56,7 +56,7 @@ Other Information:
 
 * Spell book: Fog, Animate Dead
 
-Elves
+### Elf
 
 Bonuses:
 
@@ -82,7 +82,7 @@ Other Information:
 
 * Spellbook: Mystic Aura, Clear Sight, Fountain of Knowledge, Pitfalls, Amnesia, Quick Feet, Reflect Magic, Mages Fury
 
-Faery
+### Faery
 
 Bonuses:
 
@@ -104,7 +104,7 @@ Other Information:
 
 * Spellbook: All spells
 
-Halfings (no change)
+### Halfings (no change)
 
 Bonuses:
 
@@ -130,7 +130,7 @@ Other Information:
 
 * Spellbook: Vermin, Town Watch, Quick Feet, War Spoils
 
-Human
+### Human
 
 Bonuses:
 
@@ -154,7 +154,7 @@ Other Information:
 
 * Spell Book: Greater Protection, Aggression
 
-Orcs
+### Orc
 
 Bonuses:
 
@@ -182,7 +182,7 @@ Other Information:
 
 * Spellbook: Fanaticism, Aggression, Bloodlust
 
-The Undead
+### Undead
 
 Bonuses:
 
@@ -210,9 +210,9 @@ Other Information:
 
 * Spellbook: War Spoils, Nightmares, Chastity (Lose Mage's Fury)
 
-Personality changes
+## Personality Changes
 
-The Merchant
+### The Merchant
 
 * +30% Income
 
@@ -222,7 +222,7 @@ The Merchant
 
 * Banks are twice as effective (effects subject to DBE)
 
-The Shepherd - no change
+### The Shepherd - no change
 
 * Land generates 4 bushels of food per acre daily
 
@@ -232,7 +232,7 @@ The Shepherd - no change
 
 * -30% Building Construction Time and costs
 
-The Sage
+### The Sage
 
 * + 30% Science effectiveness (up from 25%)
 
@@ -244,7 +244,7 @@ The Sage
 
 * Every 4 Acres of land produces 1 Science Book per Hour
 
-The Rogue
+### The Rogue
 
 * +1 Stealth recovery per tick
 
@@ -252,7 +252,7 @@ The Rogue
 
 * Thieves Dens are twice as effective(effects subject to DBE)
 
-The Mystic
+### The Mystic
 
 * Meteor Showers spell
 
@@ -262,7 +262,7 @@ The Mystic
 
 (loses +30% Spell Effects (For Instant Spells Only) (Excludes Mystic Vortex, Tree of Gold, and Paradise))
 
-The Warrior
+### The Warrior
 
 * -50% Land Losses when Ambushed
 
@@ -272,7 +272,7 @@ The Warrior
 
 * +10% OME in war (gained from tactitian, who loses it)
 
-The Tactician
+### The Tactician
 
 * Access to enhanced Conquest Attack at all times
 
@@ -282,7 +282,7 @@ The Tactician
 
 * -15% Attack Time (gained from warrior, who lost it)
 
-The Cleric - no change
+### The Cleric - no change
 
     - 50% Your Military Casualties (on attack or defense)
 
@@ -290,7 +290,7 @@ The Cleric - no change
 
     1 extra General 
 
-Other changes
+## Other Changes
 
 Fixed day change to run on 24th tick, not 23rd to 24th.
 

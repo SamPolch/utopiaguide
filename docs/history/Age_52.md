@@ -4,9 +4,9 @@
 
 Here is the changelog for Age 52. The changes to the relations system and the stances are quite important and will have a large influence on game mechanics so many thanks to those that contributed to the discussions.
 
-Race
+## Race Changes
 
-Avian
+### Avian
 
 Bonuses:
 
@@ -30,7 +30,7 @@ Other Information:
 
 * Spell book: Clear Sight, Town Watch
 
-Dwarf
+### Dwarf
 
 Bonuses:
 
@@ -38,7 +38,7 @@ Bonuses:
 
 * Free Building Construction
 
-Can use credits to raze buildings (new, clarification: credits not consumed when building acres)
+* Can use credits to raze buildings (new, clarification: credits not consumed when building acres)
 
 Penalty:
 
@@ -58,7 +58,7 @@ Other Information:
 
 * Spell book: Quickfeet, Animate Dead - (loses Fog)
 
-Elf
+### Elf
 
 Bonuses:
 
@@ -82,7 +82,7 @@ Other Information:
 
 * Spellbook: Mystic Aura, Clear Sight, Fountain of Knowledge, Pitfalls, Amnesia,  Reflect Magic, Mage's Fury - lost Quickfeet
 
-Faery  - no change
+### Faery  - no change
 
 Bonuses:
 
@@ -104,7 +104,7 @@ Other Information:
 
 * Spellbook: All spells
 
-Halflings  - no change
+### Halflings  - no change
 
 Bonuses:
 
@@ -130,7 +130,7 @@ Other Information:
 
 * Spellbook: Vermin, Town Watch, Quick Feet, War Spoils
 
-Humans 
+### Human
 
 Bonuses:
 
@@ -154,7 +154,7 @@ Other Information:
 
 * Spell Book: Greater Protection, Aggression
 
-Orcs 
+### Orc
 
 Bonuses:
 
@@ -180,7 +180,7 @@ Other Information:
 
 * Spellbook: Fanaticism, Aggression, Bloodlust
 
-The Undead  - no change
+### Undead  - no change
 
 Bonuses:
 
@@ -208,9 +208,11 @@ Other Information:
 
 * Spellbook: War Spoils, Nightmares, Chastity
 
-Personalities - only shepherd changed, posting all for completeness
+## Personality Changes
 
-The Merchant
+Only shepherd changed, posting all for completeness.
+
+### The Merchant
 
 * +30% Income
 
@@ -220,7 +222,7 @@ The Merchant
 
 * Banks are twice as effective (subject to DBE)
 
-The Shepherd
+### The Shepherd
 
 * Land generates 4 bushels of food per acre daily
 
@@ -230,7 +232,7 @@ The Shepherd
 
 * -30% Building Construction Time and costs
 
-The Sage
+### The Sage
 
 * + 30% Science effectiveness
 
@@ -242,7 +244,7 @@ The Sage
 
 * Every 4 Acres of land produces 1 Science Book per Hour
 
-The Rogue
+### The Rogue
 
 * +1 Stealth recovery per tick
 
@@ -250,7 +252,7 @@ The Rogue
 
 * Thieves Dens are twice as effective (subject to DBE)
 
-The Mystic
+### The Mystic
 
 * Meteor Showers spell
 
@@ -258,7 +260,7 @@ The Mystic
 
 * +30% Spell Duration (For Duration Spells Only)
 
-The Warrior
+### The Warrior
 
 * -50% Land Losses when Ambushed
 
@@ -268,7 +270,7 @@ The Warrior
 
 * 10% more OME in war
 
-The Tactician
+### The Tactician
 
 * Access to enhanced Conquest Attack at all times
 
@@ -278,15 +280,15 @@ The Tactician
 
 * -30% Military Training Time
 
-The Cleric
+### The Cleric
 
-- 50% Your Military Casualties (on attack or defense)
+* - 50% Your Military Casualties (on attack or defense)
 
-Troops losses on attacks or defense converted to soldiers
+* Troops losses on attacks or defense converted to soldiers
 
-1 extra General
+* 1 extra General
 
-Game mechanic changes
+## Game Mechanic Changes
 
 Undeads will not convert any troops if they hit out of the end of war ceasefire period.
 
@@ -300,7 +302,7 @@ End of War Ceasefire period can be extended up to 4 days
 
 As you can see below we heavily modified the meter and the stances, because of this we feel that we have gone a long way to addressing the need for fake wars. In light of these changes we will now be taking punitive action on Fake Wars.
 
-Meter changes
+## Meter Changes
 
 Assumptions: We count trads as 2 points, all other hits as 1. The reduction factor is built into all attacks.
 
@@ -308,9 +310,11 @@ Meter Cap 200 points:
 
 Throttling: Occurs after 100 points and slides linearly to 200 points having - 50% gains.
 
-Stances
+## Stances
 
-Aggressive: removed the double points to meter penalty
+### Aggressive
+
+Removed the double points to meter penalty.
 
     +10% Combat Gains
 
@@ -320,9 +324,13 @@ Aggressive: removed the double points to meter penalty
 
     +10% Military losses (new: affects hits in and out)
 
-Normal: unchanged
+### Normal
 
-Fortified: - extensively changed
+Unchanged.
+
+### Fortified
+
+Extensively changed.
 
     -50% gains hitting in (slides in over a period of 24 hours)
 
