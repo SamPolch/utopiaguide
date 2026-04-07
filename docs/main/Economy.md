@@ -27,10 +27,9 @@ Modified Income = Raw Income * Plague * Riots * Bank % Bonus * Income Sci * Hon
 Military Expenses = (((Def specs + Off specs ) * 0.5) + Elites * 0.75) * Wage Rate * Armouries Bonus * Race Mod * Personality Mod * max(Inspire Army , Hero's Inspiration) * Greed * Ritual * Dragon * Bookkeeping Science Effect
 ```
 
-**Note**
-
-- Wages are not paid to basic soldiers
-- Greed affects provinces as a wage penalty, not an income penalty
+!!! note
+    - Wages are not paid to basic soldiers
+    - Greed affects provinces as a wage penalty, not an income penalty
 
 # Population
 
@@ -42,9 +41,8 @@ Raw Living Space = ((Built Land + Land in progress) * 25) + (Barren Land * 15) +
 Mod Living Space = Raw Living Space * Race Bonus * Population Science * Honor Population Bonus
 ```
 
-**Note**
-
-- Honor Bonuses are calculated as 1 + (Personality Mod \* Honor Bonus)
+!!! note
+    - Honor Bonuses are calculated as 1 + (Personality Mod \* Honor Bonus)
 
 ### Current Population
 
@@ -53,9 +51,8 @@ Current Population = Peasants + Soldiers + Off Specs + Off Specs in Training + D
                      + Elites + Elites in Training + Thieves + Thieves in Training + Wizards
 ```
 
-**Note**
-
-- Prisoners do not add to the population
+!!! note
+    - Prisoners do not add to the population
 
 ## Peasants
 
@@ -71,12 +68,11 @@ Peasants Hourly Change = (Current Peasants * ((Birth Rate + Love & Peace) * Race
 | **Storms** | 1.5% | 0 |
 | **Chastity** | 0.5 | 1 |
 
-**Note**
-
-- Base birth rate is 2.05% and ranges from 1.9457% up to 2.1525% (± 5% of 2.05%)
-- Base birth rate is increased to ~3% during Protection
-- There must be enough population space for peasants to increase
-- When a province is overpopulated, the number of peasants will decrease by 10% per tick
+!!! note
+    - Base birth rate is 2.05% and ranges from 1.9457% up to 2.1525% (± 5% of 2.05%)
+    - Base birth rate is increased to ~3% during Protection
+    - There must be enough population space for peasants to increase
+    - When a province is overpopulated, the number of peasants will decrease by 10% per tick
 
 ## Employment
 
@@ -98,9 +94,8 @@ Unfilled Jobs = MAX ( Available Jobs - Peasants - ROUNDDOWN( Prisoners / 2 ) , 0
 Employed Peasants = MIN ( Peasants , Available Jobs - (ROUNDDOWN ( Prisoners* / 2 )) )
 ```
 
-**Note**
-
-- Prisoners are included in the Employed Peasants calculation for Building Efficiency. Prisoners are not considered actual peasants, as they do not generate the same amount of gold as employed or unemployed peasants (they only generate 0.75 gold regardless of employment)
+!!! note
+    - Prisoners are included in the Employed Peasants calculation for Building Efficiency. Prisoners are not considered actual peasants, as they do not generate the same amount of gold as employed or unemployed peasants (they only generate 0.75 gold regardless of employment)
 
 ### Unemployed Peasants
 

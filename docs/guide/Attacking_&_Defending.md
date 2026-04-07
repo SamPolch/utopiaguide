@@ -112,7 +112,8 @@ For Attacks that target and capture Resources (Traditional March, Conquest, Plun
                                     rknw > 0.9      = 1
 ```
 
-**NOTE**: RKNW is based on the Average Province size of the Kingdom.
+!!! note
+    RKNW is based on the Average Province size of the Kingdom.
 
 !!! note "Editorial Note: Minimum Gains Across Ages"
     The exact gains formula has changed several times across ages, so the
