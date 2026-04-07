@@ -6,9 +6,9 @@ In Utopia, your **Growth** page provides information on:
 
 - Total Land
 - Total Undeveloped Land
-- [Construction Time](../misc/Exploring,_Construction_&_Building_Formulas.md)
+- Construction Time
 - Free Building Credits
-- [Construction Costs](../misc/Exploring,_Construction_&_Building_Formulas.md)
+- Construction Costs
 - Maximum Buildable Now
 - Raze Cost
 - Maximum Razeable Now
@@ -35,19 +35,19 @@ Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes,
 | Barren Land | 15 People | 2 Bushels |  |  | 15 | 0 | Houses 15 people and Produces 2 bushels per hour (Unaffected by BE) |
 | Homes | 10 People |  | 4% | 100% | 35 | 0 | Houses 10 people and Increases Birth Rate |
 | Farms |  | 70 Bushels |  |  | 25 | 25 | Produces 70 bushels per day |
-| Mills |  |  | 4%3%2% | 100%75%50% | 25 | 25 | Decreases [Build Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) Decreases [Gold Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md)Decreases [Soldier Exploration Costs](../misc/Exploring,_Construction_&_Building_Formulas.md) |
-| Banks |  | 25gc | 1.25% | 31.25% | 25 | 25 | Produces 25gc per dayIncrease in Income |
+| Mills |  |  | 4%3%2% | 100%75%50% | 25 | 25 | Decreases Build Costs; Decreases Gold Exploration Costs; Decreases Soldier Exploration Costs |
+| Banks |  | 25gc | 1.25% | 31.25% | 25 | 25 | Produces 25gc per day; Increase in Income |
 | Training Grounds |  |  | 1.5% | 37.5% | 25 | 25 | Increases Offensive Military Efficiency |
-| Armouries |  |  | 2%2%1.5% | 50%50%37.5% | 25 | 25 | Decreases Draft CostsReduction of WagesDecreases Training Costs |
+| Armouries |  |  | 2%2%1.5% | 50%50%37.5% | 25 | 25 | Decreases Draft Costs; Reduction of Wages; Decreases Training Costs |
 | Military Barracks |  |  | 1.5% | 37.5% | 25 | 25 | Lowers Attack Time |
 | Forts |  |  | 1.5% | 37.5% | 25 | 25 | Increases Defensive Military Efficiency |
-| Guard Stations |  |  | 2%2% | 50%50% | 25 | 25 | Decrease Land and resource Losses when AttackedGrants protection against [Learn](Attacking_&_Defending.md) |
+| Guard Stations |  |  | 2%2% | 50%50% | 25 | 25 | Decrease Land and resource Losses when Attacked; Grants protection against [Learn](Attacking_&_Defending.md) |
 | Hospitals |  |  | 3%3% | 75%75% | 25 | 25 | Daily Chance of Curing the PlagueDecreases Military Losses |
-| Guilds |  | 2% Wizards |  |  | 25 | 25 | Wizards Trained per day (Unaffected by BE)Guilds also increase [spell](Mystics.md) duration (Unaffected by BE) |
+| Guilds |  | 2% Wizards |  |  | 25 | 25 | Wizards Trained per day (Unaffected by BE); Guilds also increase [spell](Mystics.md) duration (Unaffected by BE) |
 | Towers |  | 12 Runes |  |  | 25 | 25 | Produces 12 runes per day |
 | Thieves Dens |  |  | 4%3% | 95%75% | 25 | 25 | Lowers losses in Thievery OperationsBonus to TPA |
-| Watch Towers |  |  | 2%3% | 50%75% | 25 | 25 | Chance of Catching Enemy ThievesReduced damage caused by Enemy Thieves |
-| Universities |  |  | 2%2% | 50%50% | 25 | 25 | Increase scientist spawn rate (Unaffected by BE)Increases generation of science books in selected Category (Unaffected by BE) |
+| Watch Towers |  |  | 2%3% | 50%75% | 25 | 25 | Chance of Catching Enemy Thieves; Reduced damage caused by Enemy Thieves |
+| Universities |  |  | 2%2% | 50%50% | 25 | 25 | Increase scientist spawn rate (Unaffected by BE); Increases generation of science books in selected Category (Unaffected by BE) |
 | Libraries |  |  | 1.25% | 31.25% | 25 | 25 | Increase Science Efficiency (Unaffected by BE) |
 | Stables | 80 Horses | 2 Horses |  |  | 25 | 25 | Houses War Horses and increases their production rate |
 | Dungeons | 40 Prisoners |  |  |  | 25 | 25 | Houses Prisoners of War |
