@@ -22,29 +22,29 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- -25% Attack Time
+* -25% Attack Time
 
-- +40% Sabotage damage
+* +40% Sabotage damage
 
-- 10% attack gains
+* 10% attack gains
 
-- No Access to Stables
+* No Access to Stables
 
-- Spell book: Town Watch, Vermin, Mystic Aura
+* Spell book: Town Watch, Vermin, Mystic Aura
 
-- Elite: 7/2, 600gc, 6.25NW
+* Elite: 7/2, 600gc, 6.25NW
 
 #### Age 53
 
 **Bonuses**
 
-* - 30% attack times
+* -30% attack times
 
 * Defensive Specialist Strength +1
 
 **Penalty**
 
-* - 10% attack gains
+* -10% attack gains
 
 * No access to stables
 
@@ -62,27 +62,27 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- + 15% BE
+* +15% BE
 
-- + 30% Spell Damage (Instant Spells)
+* +30% Spell Damage (Instant Spells)
 
-- Free Building Construction
+* Free Building Construction
 
-- Can use credits to raze buildings
+* Can use credits to raze buildings
 
-- + 50% Food consumption
+* +50% Food consumption
 
-- Accelerated Construction not available
+* Accelerated Construction not available
 
-- Spell book: Quick Feet, Fanaticism, Fools Gold, Clearsight
+* Spell book: Quick Feet, Fanaticism, Fools Gold, Clearsight
 
-- Elite: 7/3, 750gc, 6.5NW
+* Elite: 7/3, 750gc, 6.5NW
 
 #### Age 53
 
 **Bonuses**
 
-* + 20% BE
+* +20% BE
 
 * Free Building Construction
 
@@ -92,9 +92,9 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 * Accelerated Construction not available
 
-* - 25% thievery effectiveness
+* -25% thievery effectiveness
 
-* + 50% food consumption
+* +50% food consumption
 
 **Other Information**
 
@@ -110,21 +110,21 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +50% WPA
+* +50% WPA
 
-- +1 mana in war
+* +1 mana in war
 
-- + 1 defence specialist strength
+* +1 defence specialist strength
 
-- Spellbook: Pitfalls, Mages Fury, Amnesia, Nightmare
+* Spellbook: Pitfalls, Mages Fury, Amnesia, Nightmare
 
-- Elite: 6/4, 700gc, 6NW
+* Elite: 6/4, 700gc, 6NW
 
 #### Age 53
 
 **Bonuses**
 
-* + 2 mana per tick in war
+* +2 mana per tick in war
 
 * Defensive Specialist Strength +1
 
@@ -148,31 +148,31 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- + 30% Spell Damage (Instant Spells)
+* +30% Spell Damage (Instant Spells)
 
-- + 30% Sabotage damage
+* +30% Sabotage damage
 
-- + 30% WPA and TPA
+* +30% WPA and TPA
 
-- -10% Population
+* -10% Population
 
-- Offensive Specialist Strength -2
+* Offensive Specialist Strength -2
 
-- Spellbook: All racial spells
+* Spellbook: All racial spells
 
-- Elite: 3/8, 1000gc, 7.5NW
+* Elite: 3/8, 1000gc, 7.5NW
 
 #### Age 53
 
 **Bonuses**
 
-* + 50% magic effectiveness
+* +50% magic effectiveness
 
-* + 50% thievery effectiveness
+* +50% thievery effectiveness
 
 **Penalty**
 
-* - 10% population
+* -10% population
 
 * Offensive Specialist Strength -1
 
@@ -190,29 +190,29 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +50% TPA
+* +50% TPA
 
-- +1 stealth
+* +1 stealth
 
-- 50% thief cost
+* 50% thief cost
 
-- -15% Birth Rate
+* -15% Birth Rate
 
-- Spellbook: Invisibility, Town Watch
+* Spellbook: Invisibility, Town Watch
 
-- Soldiers: 2/2
+* Soldiers: 2/2
 
-- Elite: 5/6, 550gc, 5.75NW
+* Elite: 5/6, 550gc, 5.75NW
 
 #### Age 53
 
 **Bonuses**
 
-* + 1 extra stealth per tick
+* +1 extra stealth per tick
 
-* - 50% thief cost
+* -50% thief cost
 
-* + 10% Population
+* +10% Population
 
 * Espionage operations are 100% accurate in war
 
@@ -236,29 +236,29 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +10% Population
+* +10% Population
 
-- + 50% Sabotage damage
+* +50% Sabotage damage
 
-- + 50% Spell Damage (Instant Spells) 
+* +50% Spell Damage (Instant Spells) 
 
-- + 1 Offense specialist strength
+* +1 Offense specialist strength
 
-- Spellbook: Tree of Gold, Fountain of Knowledge, War Spoils
+* Spellbook: Tree of Gold, Fountain of Knowledge, War Spoils
 
-- Elite: 5/5, 500gc, 5NW
+* Elite: 5/5, 500gc, 5NW
 
 #### Age 53
 
 **Bonuses**
 
-* + 30% income
+* +30% income
 
-* + 40% Damage on Sabotage Operations
+* +40% Damage on Sabotage Operations
 
 **Penalty**
 
-* - 20% magic effectiveness
+* -20% magic effectiveness
 
 * Offensive Specialist Strength -1
 
@@ -276,31 +276,31 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +20% gains
+* +20% gains
 
-- Can train elites with credits
+* Can train elites with credits
 
-- -75% Combat Instant Spell Damage and Duration
+* -75% Combat Instant Spell Damage and Duration
 
-- -75% Sabotage Damage
+* -75% Sabotage Damage
 
-- Spellbook: Bloodlust, Fanaticism, Aggression, Reflect Magic
+* Spellbook: Bloodlust, Fanaticism, Aggression, Reflect Magic
 
-- Elite: 9/2, 850gc, 7.25NW
+* Elite: 9/2, 850gc, 7.25NW
 
 #### Age 53
 
 **Bonuses**
 
-* + 25% gains
+* +25% gains
 
 * Trains elites with credits
 
 **Penalty**
 
-* - 10% building efficiency
+* -10% building efficiency
 
-* - 50% thievery and magic damage (on offensive operations)
+* -50% thievery and magic damage (on offensive operations)
 
 **Other Information**
 
@@ -316,19 +316,19 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- -50% Offensive losses on attacks you make
+* -50% Offensive losses on attacks you make
 
-- Successful land attacks convert specialists to elites
+* Successful land attacks convert specialists to elites
 
-- Spreads and is immune to The Plague
+* Spreads and is immune to The Plague
 
-- No food needed
+* No food needed
 
-- 25% science effectiveness
+* 25% science effectiveness
 
-- Spellbook: Greater Protection, Town Watch, Animate Dead, Chastity
+* Spellbook: Greater Protection, Town Watch, Animate Dead, Chastity
 
-- Elite: 9/3, 1000gc, 7.5NW
+* Elite: 9/3, 1000gc, 7.5NW
 
 #### Age 53
 
@@ -344,7 +344,7 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 **Penalty**
 
-* - 20% science effectiveness
+* -20% science effectiveness
 
 * Access to basic thievery operations only (neutral relations ops)
 
@@ -364,11 +364,11 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +30% Income
+* +30% Income
 
-- -50% Money Losses on Plunder Attacks
+* -50% Money Losses on Plunder Attacks
 
-- Immunity to all Income Penalties (Riots, Plagues, etc.)
+* Immunity to all Income Penalties (Riots, Plagues, etc.)
 
 #### Age 53
 
@@ -382,17 +382,17 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- + 25% Science effectiveness
+* +25% Science effectiveness
 
-- -66% Losses on Learn Attacks
+* -66% Losses on Learn Attacks
 
-- Immune to The Plague
+* Immune to The Plague
 
 #### Age 53
 
-* + 20% Science effectiveness
+* +20% Science effectiveness
 
-* - 20% Book Costs
+* -20% Book Costs
 
 * -20% Research Time
 
@@ -404,11 +404,11 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +1 Stealth recovery per tick
+* +1 Stealth recovery per tick
 
-- Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
+* Access to all thievery operations, including 3 unique to rogues: Greater Arson, Assassinate Wizards and Propaganda
 
-- Thieves Dens are twice as effective (subject to DBE)
+* Thieves Dens are twice as effective (subject to DBE)
 
 #### Age 53
 
@@ -422,13 +422,13 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- Access to Meteor Showers
+* Access to Meteor Showers
 
-- All Guilds and Towers are twice as effective
+* All Guilds and Towers are twice as effective
 
-- +50% Spell Duration (For Duration Spells Only)
+* +50% Spell Duration (For Duration Spells Only)
 
-- +1 mana per tick in War
+* +1 mana per tick in War
 
 #### Age 53
 
@@ -442,11 +442,11 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +1 General
+* +1 General
 
-- +15% OME in war
+* +15% OME in war
 
-- Enhanced Conquest range
+* Enhanced Conquest range
 
 #### Age 53
 
@@ -456,17 +456,17 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 * 10% more OME in war
 
-* + 50% bonuses from honor
+* +50% bonuses from honor
 
 ### The Tactician
 
 #### Age 54
 
-- Gain 50% more Specialist and Building Credits
+* Gain 50% more Specialist and Building Credits
 
-- -15% Attack Time
+* -15% Attack Time
 
-- Accurate Espionage (in war)
+* Accurate Espionage (in war)
 
 #### Age 53
 
@@ -482,13 +482,13 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- 50% Your Military Casualties (on attack or defense)
+* 50% Your Military Casualties (on attack or defense)
 
-- Animate Dead spell always active (reawakens all troops lost on defense/offense as soldiers)
+* Animate Dead spell always active (reawakens all troops lost on defense/offense as soldiers)
 
 #### Age 53
 
-* - 50% Your Military Casualties (on attack or defense)
+* -50% Your Military Casualties (on attack or defense)
 
 * 1 extra General
 
@@ -496,13 +496,13 @@ For Age 54 the following changes will be implemented (use the Show Text button t
 
 #### Age 54
 
-- +50% more bonuses from honor
+* +50% more bonuses from honor
 
-- -50% draft cost
+* -50% draft cost
 
-- -50% train time
+* -50% train time
 
-- -50% Land Losses on Ambush Attacks
+* -50% Land Losses on Ambush Attacks
 
 #### Age 53
 
