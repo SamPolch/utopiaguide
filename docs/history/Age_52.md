@@ -82,7 +82,9 @@ Other Information:
 
 * Spellbook: Mystic Aura, Clear Sight, Fountain of Knowledge, Pitfalls, Amnesia,  Reflect Magic, Mage's Fury - lost Quickfeet
 
-### Faery  - no change
+### Faery
+
+No change.
 
 Bonuses:
 
@@ -104,7 +106,9 @@ Other Information:
 
 * Spellbook: All spells
 
-### Halflings  - no change
+### Halfling
+
+No change.
 
 Bonuses:
 
@@ -180,7 +184,9 @@ Other Information:
 
 * Spellbook: Fanaticism, Aggression, Bloodlust
 
-### Undead  - no change
+### Undead
+
+No change.
 
 Bonuses:
 

@@ -104,7 +104,9 @@ Other Information:
 
 * Spellbook: All spells
 
-### Halfings (no change)
+### Halfling
+
+No change.
 
 Bonuses:
 
@@ -222,7 +224,9 @@ Other Information:
 
 * Banks are twice as effective (effects subject to DBE)
 
-### The Shepherd - no change
+### The Shepherd
+
+No change.
 
 * Land generates 4 bushels of food per acre daily
 
@@ -282,7 +286,9 @@ Other Information:
 
 * -15% Attack Time (gained from warrior, who lost it)
 
-### The Cleric - no change
+### The Cleric
+
+No change.
 
     - 50% Your Military Casualties (on attack or defense)
 

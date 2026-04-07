@@ -2,6 +2,8 @@
 
 **Forum Source:** [Age 47 Changes (confirmed)](https://forums.utopia-game.com/showthread.php?610522)
 
+## Overview
+
 The most significant changes for the new age will be in Thievery.  
 
 Halflings will be returning to Utopia as a strong thief race.  
