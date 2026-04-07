@@ -14,6 +14,10 @@ Project-specific guidance for editing the Utopia Guide docs.
 - Avoid placeholder self-links like `(#)` and self-referential links to
   the current page. Convert them to real links or plain text.
 - Prefer real Markdown headings over bold pseudo-headings.
+- MkDocs admonitions are available and already used on the site. Use
+  `!!! note "Title"`, `!!! tip "Title"`, `!!! info "Title"`, or
+  `!!! example "Title"` with 4-space-indented body content for
+  editorial sidebars, cautions, and callouts.
 - Prefer real Markdown tables only for genuinely row/column data. If a
   table is just being used for layout, convert it to headings or lists.
 - For historical age pages, avoid duplicating the same material in both
