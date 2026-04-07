@@ -67,7 +67,7 @@ Unfriendly relations permit the use of more complex (and damaging) operations an
 ## Hostile
 
 - Mana & Stealth costs for offensive spells/ops reduced to 2%
-- Unlocks [Meteor Showers](Mystics.md)
+- Unlocks [Meteor Showers](Mystics.md#meteor-showers)
 
 When the [Hostile Meter](../main/Hostile_Meter.md) reaches **30** hostility points, the Aggressor Kingdom becomes **Hostile** towards the opposing Kingdom. If the Meter decays below this limit, **Unfriendly** relations are resumed.
 
@@ -107,12 +107,12 @@ Honor and Land gains are higher in War than out of War.
 Benefits
 
 - Mana & Stealth costs for offensive spells/ops reduced to 2%
-- Unlocks [Propaganda](../misc/Thievery.md) and [Sabotage Wizards](../misc/Thievery.md) Operations
-- Unlocks [Amnesia](Mystics.md) and [Expose Thieves](Mystics.md) Spells
+- Unlocks [Propaganda](../misc/Thievery.md#propaganda) and [Sabotage Wizards](../misc/Thievery.md#sabotage-wizards) Operations
+- Unlocks [Amnesia](Mystics.md#amnesia) and [Expose Thieves](Mystics.md#expose-thieves) Spells
 
 Penalties
 
-- [Paradise](Mystics.md) cannot be cast (except during EoWCF)
+- [Paradise](Mystics.md#paradise) cannot be cast (except during EoWCF)
 - 600% Exploration Costs
 
 ### After 12 Hours
@@ -207,15 +207,15 @@ To the opposing Kingdom:
 Benefits:
 
 - +10% Combat Gains
-- Unlocks [Propaganda](../misc/Thievery.md) thievery operation
-- Unlocks [Amnesia](Mystics.md) spell
+- Unlocks [Propaganda](../misc/Thievery.md#propaganda) thievery operation
+- Unlocks [Amnesia](Mystics.md#amnesia) spell
 - Mana costs for offensive spells reduced to 2%
 - Stealth costs for offensive ops reduced to 2%
 
 Penalties:
 
 - 600% Exploration Costs
-- [Paradise](Mystics.md) unavailable
+- [Paradise](Mystics.md#paradise) unavailable
 
 ### After 12 Hours (12 Utopian Days)
 
