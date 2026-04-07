@@ -54,24 +54,24 @@ A complete list of all Utopia ages on the World of Legends server.
 | 42 | The Age of Hope | Age 42 |
 | 43 | The Age of Rebirth | Age 43 |
 | 44 | The Age of Change | [Age 44](Age_44.md) |
-| 45 | The Age of Light | Age 45 |
+| 45 | The Age of Light | [Age 45](Age_45.md) |
 | **2010–2011** | | |
-| 46 | The Age of Distinction | Age 46 |
-| 47 | The Age of Justice | Age 47 |
+| 46 | The Age of Distinction | [Age 46](Age_46.md) |
+| 47 | The Age of Justice | [Age 47](Age_47.md) |
 | 48 | The Age of Peril | [Age 48](Age_48.md) |
 | 49 | The Age of Conspiracy | [Age 49](Age_49.md) |
-| 50 | The Age of Resurrection | Age 50 |
-| 51 | The Age of Domination | Age 51 |
-| 52 | An Era of Supremacy | Age 52 |
+| 50 | The Age of Resurrection | [Age 50](Age_50.md) |
+| 51 | The Age of Domination | [Age 51](Age_51.md) |
+| 52 | An Era of Supremacy | [Age 52](Age_52.md) |
 | **2012–2013** | | |
 | 53 | The Age of Havoc | [Age 53](Age_53.md) |
-| 54 | A Call to Arms | Age 54 |
+| 54 | A Call to Arms | [Age 54](Age_54.md) |
 | 55 | Veil of Shadows | [Age 55](Age_55.md) |
 | 56 | Strength in Union | [Age 56](Age_56.md) |
 | 57 | Relentless Onslaught | [Age 57](Age_57.md) |
-| 58 | Art of War | Age 58 |
-| 59 | An Honorable Proposition | Age 59 |
-| 60 | A Battle Joined | Age 60 |
+| 58 | Art of War | [Age 58](Age_58.md) |
+| 59 | An Honorable Proposition | [Age 59](Age_59.md) |
+| 60 | A Battle Joined | [Age 60](Age_60.md) |
 | **2014–2015** | | |
 | 61 | Age of Destruction | [Age 61](Age_61.md) |
 | 62 | Books of War | [Age 62](Age_62.md) |
