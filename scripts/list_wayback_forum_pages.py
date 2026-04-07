@@ -14,9 +14,11 @@ import argparse
 import json
 import re
 import sys
+import time
 import urllib.parse
 import urllib.request
 from collections import Counter, defaultdict
+from pathlib import Path
 
 
 def parse_args() -> argparse.Namespace:
@@ -35,6 +37,24 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=2,
         help="How many sample originals to print per page number (default: 2).",
+    )
+    parser.add_argument(
+        "--cache-dir",
+        type=Path,
+        default=Path("/tmp/utopia-wayback-cdx-cache"),
+        help="Directory for cached CDX query results.",
+    )
+    parser.add_argument(
+        "--retries",
+        type=int,
+        default=3,
+        help="Retry count for the CDX request (default: 3).",
+    )
+    parser.add_argument(
+        "--retry-delay",
+        type=float,
+        default=2.0,
+        help="Initial retry delay in seconds (default: 2.0).",
     )
     return parser.parse_args()
 
@@ -80,10 +100,35 @@ def page_number_from_original(original: str, forum_query: str) -> int | None:
     return 1
 
 
-def fetch_rows(cdx_url: str) -> list[list[str]]:
-    with urllib.request.urlopen(cdx_url, timeout=30) as response:
-        data = json.load(response)
-    return data[1:]
+def fetch_rows(
+    cdx_url: str,
+    cache_dir: Path,
+    retries: int,
+    retry_delay: float,
+) -> list[list[str]]:
+    cache_dir.mkdir(parents=True, exist_ok=True)
+    cache_name = urllib.parse.quote_plus(cdx_url) + ".json"
+    cache_path = cache_dir / cache_name
+
+    if cache_path.exists():
+        return json.loads(cache_path.read_text(encoding="utf-8"))[1:]
+
+    delay = retry_delay
+    last_error: Exception | None = None
+    for attempt in range(1, retries + 1):
+        try:
+            with urllib.request.urlopen(cdx_url, timeout=30) as response:
+                data = json.load(response)
+            cache_path.write_text(json.dumps(data), encoding="utf-8")
+            return data[1:]
+        except Exception as exc:  # noqa: BLE001
+            last_error = exc
+            if attempt >= retries:
+                break
+            time.sleep(delay)
+            delay *= 2
+
+    raise RuntimeError(f"failed to fetch CDX results: {last_error}") from last_error
 
 
 def main() -> int:
@@ -97,7 +142,16 @@ def main() -> int:
         print(f"error: {exc}", file=sys.stderr)
         return 1
 
-    rows = fetch_rows(cdx_url)
+    try:
+        rows = fetch_rows(
+            cdx_url,
+            cache_dir=args.cache_dir,
+            retries=args.retries,
+            retry_delay=args.retry_delay,
+        )
+    except RuntimeError as exc:
+        print(f"error: {exc}", file=sys.stderr)
+        return 1
     if not rows:
         print("No archived 200 responses found.")
         return 0
