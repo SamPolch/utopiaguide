@@ -2,13 +2,11 @@
 
 - **Forum Source:** [Age 96 Final Changes](https://forums.utopia-game.com/showthread.php?640253-Age-96-Final-Changes)
 
-Tentative Timeline:
+## Tentative Timeline
 
-April 6th - Revised Changes
-
-April 8th - Final Changes
-
-April 9th - Age End
+- April 6th: Revised Changes
+- April 8th: Final Changes
+- April 9th: Age End
 
 The Half Blood population has been infected with a vicious virus that turned them into the living dead replenishing the Undead forces. All Half Bloods have been exterminated by the virus leaving behind only the True Blood population. The races have come together to specialize and brought back Personalities to fill the void left by the Half Bloods extinction to fend off the Undead invasion. Unfortunately, the Halfling race bore the brunt of the invasion and were the first to be forced to retreat from Utopia leaving behind their Gnome brethren. In addition unable to put up a fight the Dryad race has fled into the forests disappearing within the trees.
 
@@ -65,18 +63,13 @@ The Half Blood population has been infected with a vicious virus that turned the
 - Amnesia - Accessible by all Races
 - Tree of Gold - Rune Cost increased by 100%
 
-- Support Spell List
+### Support Spell List
 
 - Minor Protection
-
 - Greater Protection
-
 - Fertile Lands
-
 - Magic Shield
-
 - Natures Blessing
-
 - Love and Peace
 
 - Builders Boon
