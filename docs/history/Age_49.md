@@ -9,31 +9,31 @@
 ## Race's Changes
 
 - Avian
-  - Attack time: -25%(was -20%)
-  - Elites: $700(was $800)
+    - Attack time: -25%(was -20%)
+    - Elites: $700(was $800)
 - Elf
-  - Mana Recovery per tick: +2 in WAR (was +1)
-  - Spell success: +40% (up from 30%)
+    - Mana Recovery per tick: +2 in WAR (was +1)
+    - Spell success: +40% (up from 30%)
 - DarkElf
-  - Mage's Fury(NEW, normal relations)
+    - Mage's Fury(NEW, normal relations)
 - Dwarf
-  - Building Efficiency : +25% (was +20%)
+    - Building Efficiency: +25% (was +20%)
 - Human
-  - Income: +20%(was +25%)
-  - Spell success: -20%(was -25%)
+    - Income: +20%(was +25%)
+    - Spell success: -20%(was -25%)
 - Orc
-  - Gains on Attacks: +40%(was +50%)
-  - Specific Spellbook: Bloodlust(NEW, normal relations)
-  - Elites: $900(was $850)
+    - Gains on Attacks: +40%(was +50%)
+    - Specific Spellbook: Bloodlust(NEW, normal relations)
+    - Elites: $900(was $850)
 
 ## Personalitie's Changes
 
 - Sage
-  - Science Effectiveness: +30%(was +25%)
+    - Science Effectiveness: +30%(was +25%)
 - Tactician
-  - Gain 30%(was 50%) more Specialist and Building Credits
+    - Gain 30%(was 50%) more Specialist and Building Credits
 - Artisan
-  - All Capacity and Flat Rate Buildings are 40%(was 25%) more Effective
+    - All Capacity and Flat Rate Buildings are 40%(was 25%) more Effective
 
 ## Game mechanic changes
 
@@ -43,19 +43,19 @@
 Effect: This spell increases the province's WPA by 10% for offensive purposes while decreasing it by 10% for defensive purposes. No effect on self-spells.
 
 - Peaceful stance has been removed. Its effects have been moved into "Fortified". Fortified effects have been modified:
-  - +15%(was +10%) Defensive points
-  - -25%(was -20%) Construction time
-  - -15% Thievery & Magic Effectiveness on enemies (merged from Peaceful)
-  - +100%(was +30%) Births (merged from Peaceful)
-  - +20%(was +5%) Building efficiency (merged from Peaceful)
-  - -50%(was -15%) Attack gains hitting out(merged from Peaceful)
-  - +30% troops losses hitting in (NEW)
-  - +100% Explore costs (NEW)
+    - +15%(was +10%) Defensive points
+    - -25%(was -20%) Construction time
+    - -15% Thievery & Magic Effectiveness on enemies (merged from Peaceful)
+    - +100%(was +30%) Births (merged from Peaceful)
+    - +20%(was +5%) Building efficiency (merged from Peaceful)
+    - -50%(was -15%) Attack gains hitting out(merged from Peaceful)
+    - +30% troops losses hitting in (NEW)
+    - +100% Explore costs (NEW)
 - Dragons changes:
-  - All dragons result in 10% lower income and the loss of 20% of new draftees
-  - Gold -25%(was -15%) from Building Efficiency
-  - Sapphire -30%(was -20%) Thievery & Magic Effectiveness
-  - Emerald +15%(was +10%) Combat Losses -15%(was -10%) Gains
+    - All dragons result in 10% lower income and the loss of 20% of new draftees
+    - Gold -25%(was -15%) from Building Efficiency
+    - Sapphire -30%(was -20%) Thievery & Magic Effectiveness
+    - Emerald +15%(was +10%) Combat Losses -15%(was -10%) Gains
 - added in-game Kingdom chat
 
 ## Races
