@@ -88,133 +88,116 @@
 
 ### Avians
 
-- -30% attack time
-- Defensive Specialist Strength +1
-- **Spells:** Clear Sight, Town Watch, Fanaticism
-- -10% attack gains
-- No Access to Stables
-- Elite: $650
+- **Bonuses:** -30% attack time; Defensive Specialist Strength +1
+- **Spell Book:** Clear Sight, Town Watch, Fanaticism
+- **Penalties:** -10% attack gains; No access to Stables
+- **Elite Unit:** $650
 
 ### Dwarves
 
-- +20% Building Efficiency
-- Free Building Construction
-- Can use credits to raze buildings
-- **Spells:** Vermin, Quick feet
-- -25% Thievery Effectiveness
-- +50% Food Consumption
-- Can't use Accelerated Construction
-- Elite: $700
+- **Bonuses:** +20% Building Efficiency; Free Building Construction; Can
+  use credits to raze buildings
+- **Spell Book:** Vermin, Quick Feet
+- **Penalties:** -25% Thievery Effectiveness; +50% Food Consumption;
+  Can't use Accelerated Construction
+- **Elite Unit:** $700
 
 ### Elves
 
-- +2 Mana Recovery / Tick in war
-- +1 Defensive Specialist Strength
-- +30% Spell Damage (Instant Spells)
-- **Spells:** Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect Magic, Mage's Fury
-- Elite: $600
+- **Bonuses:** +2 Mana Recovery / Tick in war; +1 Defensive Specialist
+  Strength; +30% Spell Damage (Instant Spells)
+- **Spell Book:** Mystic Aura, Clear Sight, Pitfalls, Amnesia, Reflect
+  Magic, Mage's Fury
+- **Elite Unit:** $600
 
 ### Faeries
 
-- +50% Magic Effectiveness
-- +50% thievery effectiveness
-- **Spells:** Access to All Spells
-- -10% Population
-- -1 Offensive Specialist Strength
-- Elite: $1000
+- **Bonuses:** +50% Magic Effectiveness; +50% thievery effectiveness
+- **Spell Book:** Access to All Spells
+- **Penalties:** -10% Population; -1 Offensive Specialist Strength
+- **Elite Unit:** $1000
 
 ### Halflings
 
-- +1 extra stealth per tick
-- -50% thief cost
-- +10% Population
-- Espionage operations are 100% accurate in war
-- **Spells:** Animate Dead, Town Watch, Quick Feet, War Spoils, Aggression
-- -20% birthrate
-- Elite: $500
+- **Bonuses:** +1 extra stealth per tick; -50% thief cost; +10%
+  Population; Espionage operations are 100% accurate in war
+- **Spell Book:** Animate Dead, Town Watch, Quick Feet, War Spoils,
+  Aggression
+- **Penalties:** -20% birthrate
+- **Elite Unit:** $500
 
 ### Humans
 
-- +30% Income
-- +40% Thievery Damage (Sabotage Ops)
-- **Spells:** Greater Protection, Fountain of Knowledge
-- -20% Magic Effectiveness
-- -1 Offensive Specialist Strength
-- Elite: $800
+- **Bonuses:** +30% Income; +40% Thievery Damage (Sabotage Ops)
+- **Spell Book:** Greater Protection, Fountain of Knowledge
+- **Penalties:** -20% Magic Effectiveness; -1 Offensive Specialist
+  Strength
+- **Elite Unit:** $800
 
 ### Orcs
 
-- +25% Gains
-- Earns Elite Credits
-- **Spells:** Fanaticism, Aggression, Bloodlust
-- -10% building efficiency
-- -50% thievery and magic damage (on offensive operations)
-- Elite: $800
+- **Bonuses:** +25% Gains; Earns Elite Credits
+- **Spell Book:** Fanaticism, Aggression, Bloodlust
+- **Penalties:** -10% building efficiency; -50% thievery and magic
+  damage (on offensive operations)
+- **Elite Unit:** $800
 
 ### Undead
 
-- -50% Offensive losses on attacks you make
-- Converts some Specialists into Elites on successful land attacks
-- Spreads and is Immune to The Plague
-- No Food Required
-- **Spells:** War Spoils, Nightmares, Chastity
-- -20% science effectiveness
-- Basic Thievery Operations Only
-- Elite: $1000
+- **Bonuses:** -50% Offensive losses on attacks you make; Converts some
+  Specialists into Elites on successful land attacks; Spreads and is
+  Immune to The Plague; No Food Required
+- **Spell Book:** War Spoils, Nightmares, Chastity
+- **Penalties:** -20% science effectiveness
+- **Operation Access:** Basic Thievery Operations Only
+- **Elite Unit:** $1000
 
 ## Personalities
 
 ### Merchant
 
-- +40% Income
-- -50% Money Losses from Plunders
-- Immunity to Income Penalties
+- **Bonuses:** +40% Income; -50% Money Losses from Plunders; Immunity
+  to Income Penalties
 
 ### Shepherd
 
-- -30% Explore Time and Costs
-- -30% Building Construction Time and Costs
-- Immunity to Droughts, Storms, the Plague and Dragon effects
-- Each Acre generates 4 Bushels / Tick
+- **Bonuses:** -30% Explore Time and Costs; -30% Building Construction
+  Time and Costs; Immunity to Droughts, Storms, the Plague and Dragon
+  effects; Each Acre generates 4 Bushels / Tick
 
 ### Sage
 
-- +20% Science Effectiveness
-- -20% Book Costs
-- -20% Research Time
-- -75% Losses on Learn Attacks
-- Every 4 Acres produces 1 Book / Tick
+- **Bonuses:** +20% Science Effectiveness; -20% Book Costs; -20%
+  Research Time; -75% Losses on Learn Attacks; Every 4 Acres produces 1
+  Book / Tick
 
 ### Rogue
 
-- +1 Stealth Recovery / Tick
-- Access to all Thievery Operations
-- Each Thieves' Den functions as Two
+- **Bonuses:** +1 Stealth Recovery / Tick; Each Thieves' Den functions
+  as Two
+- **Operation Access:** All Thievery Operations
 
 ### Mystic
 
-- Access to Meteor Showers spell
-- All Guilds and Towers are twice as effective
-- +30% Spell Duration
+- **Spell Book:** Meteor Showers
+- **Bonuses:** All Guilds and Towers are twice as effective; +30%
+  Spell Duration
 
 ### Warrior
 
-- +15% Enemy Casualties (on attack or defense)
-- -15% Your Military Casualties (on attack or defense)
-- 10% more OME in war
-- +50% bonuses from honor
+- **Bonuses:** +15% Enemy Casualties (on attack or defense); -15% Your
+  Military Casualties (on attack or defense); 10% more OME in war; +50%
+  bonuses from honor
 
 ### Tactician
 
-- Gain 30% more Specialist and Building Credits
-- -15% Attack Time
-- -30% Military Training Time
-- -50% Land Losses when Ambushed
+- **Bonuses:** Gain 30% more Specialist and Building Credits; -15%
+  Attack Time; -30% Military Training Time; -50% Land Losses when
+  Ambushed
 
 ### Cleric
 
-- -50% Own Casualties
-- +1 General
+- **Bonuses:** -50% Own Casualties; +1 General
 
 ## Stances
 

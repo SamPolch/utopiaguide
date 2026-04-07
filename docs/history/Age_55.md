@@ -62,130 +62,112 @@
 
 ### Avians
 
-- -30% Attack Time
-- +20% Sabotage Damage
-- **Spells:** Town Watch, Vermin, Mystic Aura
-- -10% Attack Gains
-- No Access to Stables
-- Elite: 6/3, 700gc, 5.25NW
+- **Bonuses:** -30% Attack Time; +20% Sabotage Damage
+- **Spell Book:** Town Watch, Vermin, Mystic Aura
+- **Penalties:** -10% Attack Gains; No access to Stables
+- **Elite Unit:** 6/3, 700gc, 5.25NW
 
 ### Dwarves
 
-- +20% Building Efficiency
-- Free Building Construction
-- Can use credits to raze buildings
-- +30% Spell Damage (Instant Spells)
-- **Spells:** Quick Feet, Fanaticism, Fools Gold, Clearsight
-- +50% Food Consumption
-- Can't use Accelerated Construction
-- Elite: 6/2, 650gc, 5NW
+- **Bonuses:** +20% Building Efficiency; Free Building Construction; Can
+  use credits to raze buildings; +30% Spell Damage (Instant Spells)
+- **Spell Book:** Quick Feet, Fanaticism, Fools Gold, Clearsight
+- **Penalties:** +50% Food Consumption; Can't use Accelerated
+  Construction
+- **Elite Unit:** 6/2, 650gc, 5NW
 
 ### Elves
 
-- +1 Mana Recovery / Tick in war
-- +50 % WPA
-- +1 Defence Specialist Strength
-- **Spells:** Pitfalls, Mages Fury, Amnesia, Nightmare
-- Elite: 5/3, 650gc, 4.75NW
+- **Bonuses:** +1 Mana Recovery / Tick in war; +50 % WPA; +1 Defence
+  Specialist Strength
+- **Spell Book:** Pitfalls, Mages Fury, Amnesia, Nightmare
+- **Elite Unit:** 5/3, 650gc, 4.75NW
 
 ### Faeries
 
-- +30 % Spell Damage (Instant Spells)
-- +20 % Sabotage Damage
-- +30 % WPA and TPA
-- **Spells:** Access to All Racial Spells
-- -5 % Population
-- -3 Generals
-- Elite: 3/6, 800gc, 6NW
+- **Bonuses:** +30 % Spell Damage (Instant Spells); +20 % Sabotage
+  Damage; +30 % WPA and TPA
+- **Spell Book:** Access to All Racial Spells
+- **Penalties:** -5 % Population; -3 Generals
+- **Elite Unit:** 3/6, 800gc, 6NW
 
 ### Halflings
 
-- +50 % TPA
-- +1 Stealth Recovery / Tick
-- -50 % Thief Cost
-- Soldiers: 2/2 (3NW)
-- **Spells:** Invisibility, Town Watch
-- -15 % Birthrate
-- Elite: 4/5, 550gc, 5NW
+- **Bonuses:** +50 % TPA; +1 Stealth Recovery / Tick; -50 % Thief Cost
+- **Spell Book:** Invisibility, Town Watch
+- **Penalties:** -15 % Birthrate
+- **Units:** Soldiers: 2/2 (3NW)
+- **Elite Unit:** 4/5, 550gc, 5NW
 
 ### Humans
 
-- +5 % Population
-- +30 % Sabotage Damage
-- +40 % Spell Damage (Instant Spells)
-- +1 Offense Specialist Strength
-- **Spells:** Tree of Gold, Fountain of Knowledge, War Spoils
-- Elite: 4/4, 600gc, 4NW
+- **Bonuses:** +5 % Population; +30 % Sabotage Damage; +40 % Spell
+  Damage (Instant Spells); +1 Offense Specialist Strength
+- **Spell Book:** Tree of Gold, Fountain of Knowledge, War Spoils
+- **Elite Unit:** 4/4, 600gc, 4NW
 
 ### Orcs
 
-- +20 % Gains
-- Earns Elite Credits
-- **Spells:** Bloodlust, Fanaticism, Aggression, Reflect Magic
-- -75 % Combat Instant Spell Damage and Duration
-- -75 % Sabotage Damage
-- Elite: 7/1, 850gc, 5.75NW
+- **Bonuses:** +20 % Gains; Earns Elite Credits
+- **Spell Book:** Bloodlust, Fanaticism, Aggression, Reflect Magic
+- **Penalties:** -75 % Combat Instant Spell Damage and Duration; -75 %
+  Sabotage Damage
+- **Elite Unit:** 7/1, 850gc, 5.75NW
 
 ### Undead
 
-- -50% Offensive losses on attacks you make
-- Converts some Specialists into Elites on successful land attacks
-- Spreads and is Immune to The Plague
-- No Food Required
-- **Spells:** Greater Protection, Town Watch, Animate Dead, Chastity
-- -25% science effectiveness
-- Elite: 7/2, 1000gc, 6NW
+- **Bonuses:** -50% Offensive losses on attacks you make; Converts some
+  Specialists into Elites on successful land attacks; Spreads and is
+  Immune to The Plague; No Food Required
+- **Spell Book:** Greater Protection, Town Watch, Animate Dead, Chastity
+- **Penalties:** -25% science effectiveness
+- **Elite Unit:** 7/2, 1000gc, 6NW
 
 ## Personalities
 
 ### Merchant
 
-- +30 % Income
-- -50 % Money Losses from Plunders
-- Immunity to Income Penalties
+- **Bonuses:** +30 % Income; -50 % Money Losses from Plunders; Immunity
+  to Income Penalties
 
 ### Sage
 
-- +30 % Science Effectiveness
-- -66 % Losses on Learn Attacks
-- Immune to the Plague
+- **Bonuses:** +30 % Science Effectiveness; -66 % Losses on Learn
+  Attacks; Immune to the Plague
 
 ### Rogue
 
-- +1 Stealth Recovery / Tick
-- Access to all Thievery Operations
-- Each Thieves' Den functions as Two
+- **Bonuses:** +1 Stealth Recovery / Tick; Each Thieves' Den functions
+  as Two
+- **Operation Access:** All Thievery Operations
 
 ### Mystic
 
-- Access to Meteor Showers spell
-- All Guilds and Towers are twice as effective
-- +50 % Spell Duration (For Duration Spells Only)
-- +1 mana per tick in War
+- **Spell Book:** Meteor Showers
+- **Bonuses:** All Guilds and Towers are twice as effective; +50 %
+  Spell Duration (For Duration Spells Only); +1 mana per tick in War
 
 ### Warrior
 
-- +1 General
-- +15% OME in war
-- Enhanced Conquest range
+- **Bonuses:** +1 General; +15% OME in war
+- **Special Access:** Enhanced Conquest range
 
 ### Tactician
 
-- Gain 50 % more Specialist and Building Credits
-- -15% Attack Time
-- Accurate Espionage (in war)
+- **Bonuses:** Gain 50 % more Specialist and Building Credits; -15%
+  Attack Time
+- **Special Access:** Accurate Espionage (in war)
 
 ### Cleric
 
-- -50% Own Casualties
-- Animate Dead spell always active (reawakens all troops lost on defense/offense as soldiers)
+- **Bonuses:** -50% Own Casualties
+- **Special Access:** Animate Dead spell always active (reawakens all
+  troops lost on defense/offense as soldiers)
 
 ### War Hero
 
-- +50% more bonuses from honor
-- -50% draft cost
-- -50% train time
-- -50% Land Losses on Ambush Attacks
+- **Bonuses:** +50% more bonuses from honor; -50% draft cost; -50%
+  train time; -50% Land Losses on Ambush Attacks
 
 ## Stances
 

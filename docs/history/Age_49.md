@@ -62,132 +62,112 @@ Effect: This spell increases the province's WPA by 10% for offensive purposes wh
 
 ### Avians
 
-- -25% attack time
-- Immunity to Ambush
-- **Spells:** Clear Sight, Town Watch
-- No Access to Stables
-- Elite: $700
+- **Bonuses:** -25% attack time; Immunity to Ambush
+- **Spell Book:** Clear Sight, Town Watch
+- **Penalties:** No access to Stables
+- **Elite Unit:** $700
 
 ### Dwarves
 
-- +25% Building Efficiency
-- Free Building Construction
-- Immunity to Fog
-- **Spells:** Fog, Animate Dead
-- Can't use Accelerated Construction
-- Elite: $800
+- **Bonuses:** +25% Building Efficiency; Free Building Construction;
+  Immunity to Fog
+- **Spell Book:** Fog, Animate Dead
+- **Penalties:** Can't use Accelerated Construction
+- **Elite Unit:** $800
 
 ### DarkElf
 
-- Spells don't consume runes
-- 15% Sabotage gains
-- **Spells:** Invisibility, Fool’s Gold, Nightmares, Tree of Gold, Mage's Fury
-- 6/4 $650
+- **Bonuses:** Spells don't consume runes; +15% Sabotage gains
+- **Spell Book:** Invisibility, Fool's Gold, Nightmares, Tree of Gold,
+  Mage's Fury
+- **Elite Unit:** 6/4, $650
 
 ### Elves
 
-- +2 Mana Recovery / Tick in War
-- +40% Spell success
-- **Spells:** Mystic Aura, Clear Sight, Fountain of Knowledge, Pitfalls, Amnesia, Quick Feet, Reflect Magic
-- No Access to Dungeons
-- -15% Sabotage gains
-- Elite: $700
+- **Bonuses:** +2 Mana Recovery / Tick in War; +40% Spell success
+- **Spell Book:** Mystic Aura, Clear Sight, Fountain of Knowledge,
+  Pitfalls, Amnesia, Quick Feet, Reflect Magic
+- **Penalties:** No access to Dungeons; -15% Sabotage gains
+- **Elite Unit:** $700
 
 ### Gnome
 
-- +40% Espionage success
-- +1 Offensive Specialist Strength
-- +15% Spell success
-- 100% Accurate Espionage Intel
-- **Spells:** Town Watch, Vermin, Chastity
-- -50% Cost of Thieves
-- No Hospitals
-- 5/5 $300
+- **Bonuses:** +40% Espionage success; +1 Offensive Specialist Strength;
+  +15% Spell success; 100% Accurate Espionage Intel
+- **Spell Book:** Town Watch, Vermin, Chastity
+- **Penalties:** -50% Cost of Thieves; No Hospitals
+- **Elite Unit:** 5/5, $300
 
 ### Halflings
 
-- +40% Sabotage success
-- +40% Sabotage gains
-- +1 Stealth recovery per tick
-- Immune to Clear Sight
-- **Spells:** Quick Feet, War Spoils
-- Elite: $550
+- **Bonuses:** +40% Sabotage success; +40% Sabotage gains; +1
+  Stealth recovery per tick; Immune to Clear Sight
+- **Spell Book:** Quick Feet, War Spoils
+- **Elite Unit:** $550
 
 ### Humans
 
-- +20% Income
-- +1 Defensive Specialist Strength
-- **Spells:** Greater Protection, Aggression
-- -20% Magic Effectiveness
-- -1 Offensive Specialist Strength
-- Elite: $800
+- **Bonuses:** +20% Income; +1 Defensive Specialist Strength
+- **Spell Book:** Greater Protection, Aggression
+- **Penalties:** -20% Magic Effectiveness; -1 Offensive Specialist
+  Strength
+- **Elite Unit:** $800
 
 ### Orcs
 
-- +40% Gains
-- Train Elites with Specialist credits
-- Spreads and is immune to the Plague
-- **Spells:** Fanaticism, Aggression, Bloodlust
-- -50% Bonuses from Honor
-- -1 Defensive Specialist Strength
-- Elite: $900
+- **Bonuses:** +40% Gains; Train Elites with Specialist credits; Spreads
+  and is immune to the Plague
+- **Spell Book:** Fanaticism, Aggression, Bloodlust
+- **Penalties:** -50% Bonuses from Honor; -1 Defensive Specialist Strength
+- **Elite Unit:** $900
 
 ## Personalities
 
 ### Merchant
 
-- +30% Income
-- -25% Money Losses on Plunder Attacks
-- Immunity to all Income Penalties (Riots, Plagues, etc.)
+- **Bonuses:** +30% Income; -25% Money Losses on Plunder Attacks;
+  Immunity to all Income Penalties (Riots, Plagues, etc.)
 
 ### Shepherd
 
-- Land generates 4 bushels of food per acre daily
-- Immune to Droughts, Storms and the Plague
-- -30% Explore time and costs
-- +10% Population Limit
-- +15% Birth Rates
+- **Bonuses:** Land generates 4 bushels of food per acre daily; Immune
+  to Droughts, Storms and the Plague; -30% Explore time and costs; +10%
+  Population Limit; +15% Birth Rates
 
 ### Sage
 
-- +30% science effectiveness
-- -25% Book Costs
-- -25% Learn Time
-- -50% Losses on Learn Attacks
-- Every 5 Acres of land produces 1 Science Book per Hour
+- **Bonuses:** +30% science effectiveness; -25% Book Costs; -25%
+  Learn Time; -50% Losses on Learn Attacks; Every 5 Acres of land
+  produces 1 Science Book per Hour
 
 ### Rogue
 
-- +1 Stealth recovery per tick
-- Access to all thievery operations
+- **Bonuses:** +1 Stealth recovery per tick
+- **Operation Access:** All thievery operations
 
 ### Mystic
 
-- Meteor Showers spell
-- All Guilds are twice as effective
-- +30% Spell Duration
-- +30% Spell Effects
+- **Spell Book:** Meteor Showers
+- **Bonuses:** All Guilds are twice as effective; +30% Spell Duration;
+  +30% Spell Effects
 
 ### Tactician
 
-- Access to enhanced Conquest Attack at all times
-- Gain 30% more Specialist and Building Credits
-- -50% Military Wages
-- -30% Military Training Time
-- -30% Draft Cost
+- **Bonuses:** Gain 30% more Specialist and Building Credits; -50%
+  Military Wages; -30% Military Training Time; -30% Draft Cost
+- **Special Access:** Enhanced Conquest Attack at all times
 
 ### Warrior
 
-- -50% Land Losses when Ambushed
-- +15% Enemy Casualties (on attack or defense)
-- -15% Your Military Casualties (on attack or defense)
-- -15% Attack Time
+- **Bonuses:** -50% Land Losses when Ambushed; +15% Enemy Casualties
+  (on attack or defense); -15% Your Military Casualties (on attack or
+  defense); -15% Attack Time
 
 ### Artisan
 
-- -30% Building construction time
-- 40% more Effective All Capacity and Flat Rate Buildings
-- 50% Protection of Buildings from Tornadoes, Arson Operations, Raze and Massacre Attacks
+- **Bonuses:** -30% Building construction time; 40% more Effective All
+  Capacity and Flat Rate Buildings; 50% Protection of Buildings from
+  Tornadoes, Arson Operations, Raze and Massacre Attacks
 
 ## Stances
 
