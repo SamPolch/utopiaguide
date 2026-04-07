@@ -1,40 +1,16 @@
 # Dragons, Aid & Stances
 
-# Dragons
+This legacy page has been superseded by more focused reference pages.
 
-At any given time, a kingdom can only be producing one dragon. In addition, a kingdom can only be the target of a single dragon.
+## Current References
 
-```
-Cost Metric = Target Kingdom NW * 0.656
-```
+- [Dragons](Dragons.md) for the current dragon roster and effects
+- [Relations](../guide/Relations.md) for current kingdom relation states
+- [Hostile Meter](Hostile_Meter.md) for hostility meter behavior
+- [Relations Meter](Relations_Meter.md) for relation-meter details
 
-| **Dragon Type** | **Cost Mod** |
-| --- | --- |
-| **Sapphire** | 2 |
-| **Topaz** | 2 |
-| **Amethyst** | 2.4 |
-| **Ruby** | 2.4 |
-| **Emerald** | 3 |
+## Legacy Note
 
-### Dragon HP
-
-- Dragon HP is determined at the time the dragon is sent.
-
-```
-Dragon HP = Dragon Type HP Mod * Relations Modifier * (Receiving Kingdom NW / 132)
-```
-
-| **Dragon Type** | **HP Mod** |
-| --- | --- |
-| **Sapphire** | 3.1875 |
-| **Topaz** | 3.1875 |
-| **Amethyst** | 3.825 |
-| **Ruby** | 3.825 |
-| **Emerald** | 4.78125 |
-
-| **Relations** | **Relations Modifier** |
-| --- | --- |
-| **Relations: None** | 0.5 |
-| **Relations: [Unfriendly](../guide/Relations.md)** | 0.5 |
-| **Relations: [Hostile](../guide/Relations.md)** | 0.75 |
-| **Relations: [War](../guide/Relations.md)** | 1 |
+Older history pages may still link here when discussing earlier dragon,
+aid, or stance mechanics. Where current dragon details are needed, use
+the dedicated [Dragons](Dragons.md) page instead.
