@@ -416,21 +416,24 @@
 
 ## Rituals
 
-| Kingdom Rituals | |
-| --- | --- |
-| Ritual | Description |
-| Affluent | - +20% Income, +35% Draft Speed, +35% Birth Rate |
-| Barrier | - +10% Defensive Military Efficiency, -20% Enemy Spell/Op Damage, +15% Defensive WPA/TPA |
-| Expedient | - -30% Military Training Time, -25% Training Costs (includes Thieves), -20% Build Times, -25% Build Costs |
-| Godspeed | - -15% Attack Time, +10% Battle Gains, -15% Offensive Casualties |
-| Havoc | - +25% Offensive WPA/TPA, +10% Spell/Op Damage |
-| Onslaught | - +10% Offensive Military Efficiency, +15% Offensive Enemy Casualties, +20% Honor Gains |
-| Resilient | - -25% Losses, -40% Battle Gains, -25% Defensive Casualties |
+- **Affluent:** +20% Income, +35% Draft Speed, +35% Birth Rate
+- **Barrier:** +10% Defensive Military Efficiency, -20% Enemy Spell/Op
+  Damage, +15% Defensive WPA/TPA
+- **Expedient:** -30% Military Training Time, -25% Training Costs
+  (includes Thieves), -20% Build Times, -25% Build Costs
+- **Godspeed:** -15% Attack Time, +10% Battle Gains, -15% Offensive
+  Casualties
+- **Havoc:** +25% Offensive WPA/TPA, +10% Spell/Op Damage
+- **Onslaught:** +10% Offensive Military Efficiency, +15% Offensive
+  Enemy Casualties, +20% Honor Gains
+- **Resilient:** -25% Losses, -40% Battle Gains, -25% Defensive
+  Casualties
 
 ## Dragons
 
-| Dragon Type | | | |
-| --- | --- | --- | --- |
-| Emerald | Sapphire\* | Gold | Ruby |
-| +20% Military losses in combat & -15% Attack gains | -25% Thievery & Magic Effectiveness | -25% from Building Efficiency | -10% from Military Efficiency |
-| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+- **Emerald:** +20% Military losses in combat and -15% Attack gains
+- **Sapphire:** -25% Thievery & Magic Effectiveness
+- **Gold:** -25% Building Efficiency
+- **Ruby:** -10% Military Efficiency
+- All dragons result in 10% lower income and the loss of 20% of new
+  draftees.

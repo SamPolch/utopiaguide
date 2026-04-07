@@ -23,18 +23,6 @@
 
 - Scientists - Scientists required for soft cap will be the same number for all categories
 
-### Rituals
-
-Stats listed here considered 'base effectiveness'
-
-- Affluent -> Income +20%, Draft Speed +25%, Birth Rate +25%
-- Barrier -> +10% DME & -20% Spell/Thief damage & +15% Defensive TPA & +15% Defensive WPA
-- Havoc -> +25% Offensive TPA & +25% Offensive WPA & +10% Spell/Thief damage
-- Onslaught -> +10% OME, +15% enemy casualties on attacks & +30% honor gains
-- Resilient -> -35% Gains on attacks into your Kingdom & -40% Gains on attacks you make & -25% Military Casualties on defense
-- Godspeed -> -10% Attack Time & +10% Battle Gains & 15% Less Military Casualties on Offense
-- Expedient -> -20% Military Train time & -25% Training Costs (including Thieves) & -20% Construction Time & -25% Construction Costs
-
 ### Miscellaneous
 
 - Inactive Removal - The days required for a Monarch to have the option to remove provinces will be reduced from 5 to 4
@@ -424,21 +412,23 @@ Stats listed here considered 'base effectiveness'
 
 ## Rituals
 
-| Kingdom Rituals | |
-| --- | --- |
-| Ritual | Description |
-| Affluent | - +20% Income, +25% Draft Speed, +25% Birth Rate |
-| Barrier | - +10% Defensive Military Efficiency, -20% Enemy Spell/Op Damage, +15% Defensive WPA/TPA |
-| Expedient | - -20% Military Training Time, -25% Training Costs (includes Thieves), -20% Construction Times, -25% Construction Costs |
-| Godspeed | - -10% Attack Time, -15% Offensive Casualties |
-| Havoc | - +30% Offensive WPA/TPA, +10% Spell/Op Damage |
-| Onslaught | - +10% Offensive Military Efficiency, +15% Offensive Enemy Casualties, +10% Battle Gains |
-| Resilient | - -35% Gains on attacks into your Kingdom, -50% Gains on attacks you make, -30% Military Casualties on defense |
+- **Affluent:** +20% Income, +25% Draft Speed, +25% Birth Rate
+- **Barrier:** +10% Defensive Military Efficiency, -20% Enemy Spell/Op
+  Damage, +15% Defensive WPA/TPA
+- **Expedient:** -20% Military Training Time, -25% Training Costs
+  (includes Thieves), -20% Construction Times, -25% Construction Costs
+- **Godspeed:** -10% Attack Time, -15% Offensive Casualties
+- **Havoc:** +30% Offensive WPA/TPA, +10% Spell/Op Damage
+- **Onslaught:** +10% Offensive Military Efficiency, +15% Offensive
+  Enemy Casualties, +10% Battle Gains
+- **Resilient:** -35% Gains on attacks into your Kingdom, -50% Gains on
+  attacks you make, -30% Military Casualties on defense
 
 ## Dragons
 
-| Dragon Type | | | |
-| --- | --- | --- | --- |
-| Emerald | Sapphire\* | Gold | Ruby |
-| +20% Military losses in combat & -15% Attack gains | -25% Thievery & Magic Effectiveness | -25% from Building Efficiency | -10% from Military Efficiency |
-| All dragons result in 10% lower income and the loss of 20% of new draftees. | | | |
+- **Emerald:** +20% Military losses in combat and -15% Attack gains
+- **Sapphire:** -25% Thievery & Magic Effectiveness
+- **Gold:** -25% Building Efficiency
+- **Ruby:** -10% Military Efficiency
+- All dragons result in 10% lower income and the loss of 20% of new
+  draftees.
