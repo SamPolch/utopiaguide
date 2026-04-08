@@ -69,39 +69,35 @@ An Aggressor Kingdom can enter into a 96 Ticks unbreakable Ceasefire with a Defe
 
 ## Unfriendly
 
-- Unlocks certain (Unfriendly / Hostile) spells and thievery operations to the **opposing** Kingdom
 - A [Dragon](../main/Dragons.md) sent to an Unfriendly kingdom will only have 50% health points
 
 When the [Hostility Meter](../main/Hostile_Meter.md) reaches **15** hostility points, the aggressor kingdom becomes **Unfriendly** towards the opposing Kingdom. If the meter decays below this limit, **Normal** relations are resumed.
 
-Unfriendly relations permit the use of more complex (and damaging) operations and spells to the enemy kingdom.
+From [Age 112](../history/Age_112.md), relation bonuses and access are granted only towards the Kingdom you have relations with, or which has relations towards you.
 
-### Unfriendly Spells
+### When Your Kingdom Is Unfriendly Towards Another
 
-- [Expose Thieves](Mystics.md#expose-thieves)
-- [Fireball](Mystics.md#fireball)
-- [Lightning Strike](Mystics.md#lightning-strike)
-- [Chastity](Mystics.md#chastity)
-- [Fool's Gold](Mystics.md#fools-gold)
-- [Nightmares](Mystics.md#nightmares)
-- [Mystic Vortex](Mystics.md#mystic-vortex)
-- [Tornadoes](Mystics.md#tornadoes)
-- [Land Lust](Mystics.md#land-lust)
-- [Abolish Ritual](Mystics.md#abolish-ritual)
-- [Magic Ward](Mystics.md#magic-ward)
-- [Sloth](Mystics.md#sloth)
+- +4% Gains
+- -5% Military Casualties
+- +5% WPA/TPA
+- -2.5% Attack Time
+- +2% OME
 
-### Unfriendly Thievery Operations
+### When Another Kingdom Is Unfriendly Towards You
 
-- [Night Strike](../misc/Thievery.md#night-strike)
-- [Assassinate Wizards](../misc/Thievery.md#assassinate-wizards)
-- [Greater Arson](../misc/Thievery.md#greater-arson)
-- [Sabotage Wizards](../misc/Thievery.md#sabotage-wizards)
+- +1.5% Gains
+- -2.5% Military Casualties
+- +2.5% WPA/TPA
+- -1% Attack Time
+- +1% OME
+- Access to Unfriendly T/M actions against that kingdom
+
+For exact spell and thievery-operation requirements by relation level,
+see [Hostile Meter](../main/Hostile_Meter.md#spells-and-thievery-operations).
 
 ## Hostile
 
 - Mana & Stealth costs for offensive spells/ops reduced to 2%
-- Unlocks [Meteor Showers](Mystics.md#meteor-showers)
 - A [Dragon](../main/Dragons.md) sent to a Hostile kingdom will only have 75% health points
 - Some Honor gains from Ops and Spells
 
@@ -112,6 +108,26 @@ relations are resumed.
 
 See [Hostile Meter](../main/Hostile_Meter.md) for the full point table,
 meter decay, and spell/op hostility values.
+
+### When Your Kingdom Is Hostile Towards Another
+
+- +10% Gains
+- -12% Military Casualties
+- +15% WPA/TPA
+- -6% Attack Time
+- +5% OME
+- Access to the target kingdom's Unfriendly T/M actions only
+
+### When Another Kingdom Is Hostile Towards You
+
+- +3% Gains
+- -4% Military Casualties
+- +5% WPA/TPA
+- -2% Attack Time
+- +2% OME
+- Access to Hostile T/M actions against that kingdom
+
+Notable Hostile access includes [Meteor Showers](Mystics.md#meteor-showers).
 
 ## War
 

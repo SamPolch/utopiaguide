@@ -88,16 +88,15 @@ No effects.
 ### Unfriendly
 
 - A [Dragon](Dragons.md) sent to an unfriendly Kingdom will only have 50% health points.
-- Unlocks additional hostile actions. See [Relations](../guide/Relations.md#unfriendly).
+- Relation-specific bonuses and Unfriendly T/M access are documented in [Relations](../guide/Relations.md#unfriendly).
 
 ### Hostile
 
-- Some Honor gains from Ops and Spells
 - A [Dragon](Dragons.md) sent to a Hostile Kingdom will only have 75% health points.
 - Mana costs of Offensive Spells decreases to 2%
 - Stealth costs of Offensive Operations decreases to 2%
 - Access to [Meteor Showers](../guide/Mystics.md#meteor-showers)
-- See [Relations](../guide/Relations.md#hostile) for unlocked actions by relation state.
+- Relation-specific bonuses and Hostile T/M access are documented in [Relations](../guide/Relations.md#hostile).
 
 ### War
 
