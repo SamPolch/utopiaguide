@@ -74,17 +74,3 @@ For example if the MAP rating is currently 59% (heavily hit), on the next Tick i
 ```
 
 For example if the MAP rating of a province is 59% (heavily hit) their ME is boosted by (59 / 7.5 = 7.9%) 7.9% - ie. 1.079 times it's current rating.
-
-## Uses of MAP
-
-### Aid Chained Provinces
-
-If a province gets chained in a war and it is at an obviously disparate size to the rest of the kingdom, what might happen is that the kingdom may approach a friendly kingdom and ask them to hit the chained province with a number of plunders.
-
-This confers MAP on the chained province, which can then be aided with as many soldiers and gc in order to explore him up.
-
-### Building a Bank
-
-| **!** | *The information or formula below is not up to date. Please refer to current MAP discussions to contribute to ongoing research or start a new topic.* |
-
-The tax cap has been used to build up banks before - what happens is that **Kingdom A** approaches a friendly **Kingdom B** and asks them to mass plunder
