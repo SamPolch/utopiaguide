@@ -53,13 +53,13 @@ Learn and Plunder attacks return armies 1 tick faster (after modifiers).
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Griffins *(off spec)* | 13/0 | 5.2 | |
-| Harpies *(def spec)* | 0/9 | 4.5 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Griffins *(off spec)* | 13/0 | 5.2 | 350gc |
+| Harpies *(def spec)* | 0/9 | 4.5 | 350gc |
 | Drakes *(elite)* | 16/6 | 8.0 | 900gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | n/a | | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | n/a | | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -91,13 +91,13 @@ Successful offensive instant spells refund 20% of the rune cost.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Night Rangers *(off spec)* | 15/0 | 6.0 | |
-| Druids *(def spec)* | 0/8 | 4.0 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Night Rangers *(off spec)* | 15/0 | 6.0 | 350gc |
+| Druids *(def spec)* | 0/8 | 4.0 | 350gc |
 | Drows *(elite)* | 4/12 | 7.0 | 750gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 2/0 | 0.6 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -129,13 +129,13 @@ Incoming Raze damage is reduced by 15%. Your Raze attacks destroy 20% additional
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Warriors *(off spec)* | 10/0 | 4.0 | |
-| Axemen *(def spec)* | 0/11 | 6.0 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Warriors *(off spec)* | 10/0 | 4.0 | 350gc |
+| Axemen *(def spec)* | 0/11 | 6.0 | 350gc |
 | Berserkers *(elite)* | 15/9 | 8.0 | 900gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 2/0 | 0.6 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -165,13 +165,13 @@ While mana is below 40%, offensive spells deal +25% spell damage. The boost disa
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Rangers *(off spec)* | 10/0 | 4.0 | |
-| Archers *(def spec)* | 0/13 | 6.5 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Rangers *(off spec)* | 10/0 | 4.0 | 350gc |
+| Archers *(def spec)* | 0/13 | 6.5 | 350gc |
 | Elf Lords *(elite)* | 14/6 | 7.0 | 800gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 2/0 | 0.6 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -210,13 +210,13 @@ Enemy spells cast against Faery provinces have a 15% chance to fail completely.
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Magicians *(off spec)* | 10/0 | 4.0 | |
-| Druids *(def spec)* | 0/10 | 5.0 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Magicians *(off spec)* | 10/0 | 4.0 | 350gc |
+| Druids *(def spec)* | 0/10 | 5.0 | 350gc |
 | Beastmasters *(elite)* | 8/15 | 9.0 | 900gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 2/0 | 0.6 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -246,13 +246,13 @@ Cooldown: 23 Hours
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Strongarms *(off spec)* | 10/0 | 4.0 | |
-| Slingers *(def spec)* | 0/11 | 5.5 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Strongarms *(off spec)* | 10/0 | 4.0 | 350gc |
+| Slingers *(def spec)* | 0/11 | 5.5 | 350gc |
 | Brutes *(elite)* | 10/13 | 8.0 | 900gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 2/0 | 0.6 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -285,13 +285,13 @@ Prisoners generate an additional 2.0gc per tick. Mercenary costs are reduced by 
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Swordsmen *(off spec)* | 12/0 | 4.8 | |
-| Archers *(def spec)* | 0/10 | 5.0 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Swordsmen *(off spec)* | 12/0 | 4.8 | 350gc |
+| Archers *(def spec)* | 0/10 | 5.0 | 350gc |
 | Knights *(elite)* | 14/9 | 8.0 | 1,000gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 3/0 | 0.9 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 3/0 | 0.9 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -319,13 +319,13 @@ Successful Traditional Marches capture +30% additional Prisoners. Massacre attac
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Goblins *(off spec)* | 13/0 | 5.2 | |
-| Trolls *(def spec)* | 0/10 | 5.0 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Goblins *(off spec)* | 13/0 | 5.2 | 350gc |
+| Trolls *(def spec)* | 0/10 | 5.0 | 350gc |
 | Ogres *(elite)* | 20/1 | 7.0 | 850gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 2/0 | 0.6 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
 
 ---
@@ -353,11 +353,14 @@ All successful attacks have a 33% chance to spread plague to the target province
 
 | Unit | Off/Def | NW | Cost |
 | --- | --- | --- | --- |
-| Soldier | 3/0 | 0.75 | |
-| Skeletons *(off spec)* | 11/0 | 4.4 | |
-| Zombies *(def spec)* | 0/10 | 5.0 | |
+| Soldier | 3/0 | 0.75 | Varies[^race-unit-varies] |
+| Skeletons *(off spec)* | 11/0 | 4.4 | 350gc |
+| Zombies *(def spec)* | 0/10 | 5.0 | 350gc |
 | Ghouls *(elite)* | 16/7 | 8.0 | 900gc |
-| Mercenary | 8/0 | 0.0 | |
-| Prisoner | 8/0 | 1.6 | |
-| War Horse | 2/0 | 0.6 | |
+| Mercenary | 8/0 | 0.0 | 300gc |
+| Prisoner | 8/0 | 1.6 | —[^race-unit-na] |
+| War Horse | 2/0 | 0.6 | —[^race-unit-na] |
 | Thief | | | 500gc |
+
+[^race-unit-varies]: `Varies` means the unit is not trained at a single fixed gc cost. Soldiers come from the [draft](Units.md#soldiers-drafted-per-tick).
+[^race-unit-na]: `—` marks units that are not directly trained or purchased for a standard fixed gc cost. See [Units](Units.md) for shared unit costs and mechanics.
