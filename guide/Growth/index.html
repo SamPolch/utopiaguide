@@ -1108,10 +1108,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#guard-stations" class="md-nav__link">
+  <a href="#castles" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Guard Stations
+        Castles
       
     </span>
   </a>
@@ -6133,10 +6133,10 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#guard-stations" class="md-nav__link">
+  <a href="#castles" class="md-nav__link">
     <span class="md-ellipsis">
       
-        Guard Stations
+        Castles
       
     </span>
   </a>
@@ -6389,6 +6389,7 @@
 <li>whether or not to use available credits</li>
 <li>and the option to either raze or cancel buildings.</li>
 </ul>
+<p>The page also has a <strong>Build Tool</strong> that lets you save building ratios so new acres can be built in the same proportions as existing land. On the Raze tab the Build Tool fills the amounts to be razed; on the Cancel tab it fills the amounts to be constructed (not the in-progress amounts), so take care when using it there.</p>
 <h2 id="build-table">Build Table</h2>
 <p>Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes, Stables, Dungeons can hold the specified number regardless of BE).</p>
 <table>
@@ -6418,12 +6419,12 @@
 <tr>
 <td>Homes</td>
 <td>10 People</td>
+<td>0.3 Peasants</td>
 <td></td>
-<td>4%</td>
-<td>100%</td>
+<td></td>
 <td>35</td>
 <td>0</td>
-<td>Houses 10 people and Increases Birth Rate</td>
+<td>Houses 10 extra people and produces 0.3 peasants per day (Unaffected by BE)</td>
 </tr>
 <tr>
 <td>Farms</td>
@@ -6459,11 +6460,11 @@
 <td>Training Grounds</td>
 <td></td>
 <td></td>
-<td>1.5%</td>
-<td>37.5%</td>
+<td>1.5% / 2%</td>
+<td>37.5% / 50%</td>
 <td>25</td>
 <td>25</td>
-<td>Increases Offensive Military Efficiency</td>
+<td>Increases Offensive Military Efficiency; Reduces Training Time</td>
 </tr>
 <tr>
 <td>Armouries</td>
@@ -6479,11 +6480,11 @@
 <td>Military Barracks</td>
 <td></td>
 <td></td>
-<td>1.5%</td>
-<td>37.5%</td>
+<td>1.5% / 2%</td>
+<td>37.5% / 50%</td>
 <td>25</td>
 <td>25</td>
-<td>Lowers Attack Time</td>
+<td>Lowers Attack Time; Reduces Mercenary Costs</td>
 </tr>
 <tr>
 <td>Forts</td>
@@ -6496,34 +6497,34 @@
 <td>Increases Defensive Military Efficiency</td>
 </tr>
 <tr>
-<td>Guard Stations</td>
+<td>Castles</td>
 <td></td>
 <td></td>
-<td>2% / 2%</td>
+<td>2.25% / 2%</td>
 <td>50% / 50%</td>
 <td>25</td>
 <td>25</td>
-<td>Decrease Land and resource Losses when Attacked; Grants protection against <a href="../Attacking_%26_Defending/">Learn</a></td>
+<td>Decreases Resource (Land, Gold, Food, Runes) Losses when Attacked; Decreases Honor Losses when Attacked</td>
 </tr>
 <tr>
 <td>Hospitals</td>
 <td></td>
 <td></td>
-<td>3% / 3%</td>
-<td>75% / 75%</td>
+<td>3% / 3% / 2%</td>
+<td>75% / 75% / 50%</td>
 <td>25</td>
 <td>25</td>
-<td>Daily Chance of Curing the Plague; Decreases Military Losses</td>
+<td>Daily Chance of Curing the Plague; Decreases Military Losses; Increases Birth Rate</td>
 </tr>
 <tr>
 <td>Guilds</td>
 <td></td>
-<td>2% Wizards</td>
+<td>0.02 Wizards</td>
 <td></td>
 <td></td>
 <td>25</td>
 <td>25</td>
-<td>Wizards Trained per day (Unaffected by BE); Guilds also increase <a href="../Mystics/">spell</a> duration (Unaffected by BE)</td>
+<td>Wizards Trained per day (Unaffected by BE); Guilds also increase <a href="../Mystics/">spell</a> duration and self spell/ritual success rate (Unaffected by BE)</td>
 </tr>
 <tr>
 <td>Towers</td>
@@ -6539,8 +6540,8 @@
 <td>Thieves Dens</td>
 <td></td>
 <td></td>
-<td>4% / 3%</td>
-<td>95% / 75%</td>
+<td>3.6% / 3%</td>
+<td>90% / 75%</td>
 <td>25</td>
 <td>25</td>
 <td>Lowers losses in Thievery Operations; Bonus to TPA</td>
@@ -6550,7 +6551,7 @@
 <td></td>
 <td></td>
 <td>2% / 3%</td>
-<td>50% / 75%</td>
+<td>50% / 62.5%</td>
 <td>25</td>
 <td>25</td>
 <td>Chance of Catching Enemy Thieves; Reduced damage caused by Enemy Thieves</td>
@@ -6559,8 +6560,8 @@
 <td>Universities</td>
 <td></td>
 <td></td>
-<td>2% / 2%</td>
-<td>50% / 50%</td>
+<td>1.5% / 1%</td>
+<td>37.5% / 25%</td>
 <td>25</td>
 <td>25</td>
 <td>Increase scientist spawn rate (Unaffected by BE); Increases generation of science books in selected Category (Unaffected by BE)</td>
@@ -6569,8 +6570,8 @@
 <td>Libraries</td>
 <td></td>
 <td></td>
-<td>1.25%</td>
-<td>31.25%</td>
+<td>2%</td>
+<td>37.5%</td>
 <td>25</td>
 <td>25</td>
 <td>Increase Science Efficiency (Unaffected by BE)</td>
@@ -6587,7 +6588,7 @@
 </tr>
 <tr>
 <td>Dungeons</td>
-<td>40 Prisoners</td>
+<td>30 Prisoners</td>
 <td></td>
 <td></td>
 <td></td>
@@ -6608,11 +6609,12 @@
 </tbody>
 </table>
 <h2 id="classes-of-buildings">Classes of Buildings</h2>
-<p>There are three classes of building effects, and each functions differently. While this may be difficult to follow, you will quickly understand it with some experience within the game. The three classes are:</p>
+<p>There are four classes of building effects, and each functions differently. While this may be difficult to follow, you will quickly understand it with some experience within the game. The four classes are:</p>
 <ul>
 <li><strong>Capacity Buildings:</strong> These buildings simply create space for you and are not impacted by efficiency issues. Homes, for example, provide additional space for peasants.</li>
-<li><strong>Flat Rate Buildings:</strong> This type of building provides a set amount of a particular resource. These buildings need many employees to be fully effective and are impacted by building efficiency. A Tower, for example, creates a set number of runes each day.</li>
-<li><strong>Percentage-based Buildings:</strong> The majority of Utopian buildings are percentage-based. These buildings provide an effect based on the portion of your land covered by them. For example, having 10% of your land as Banks will increase your income by a certain percentage. Like flat-rate buildings, these also require employees to provide full effects. In addition, each additional building you construct will be less effective. The numbers listed in this section are for the first building you construct. Your Internal Affairs Advisor will help you understand the benefits of your land. Unless otherwise specified, these buildings have a maximum effect of 25 times the number listed below. With normal building efficiency, this maximum is reached by dedicating 50% of your land to that building.</li>
+<li><strong>Production Buildings:</strong> This type of building provides a set amount of a particular resource per day and is impacted by Building Efficiency. A Tower, for example, creates a set number of runes each day.</li>
+<li><strong>Fixed Rate Buildings:</strong> This type of building provides a set output that is unaffected by Building Efficiency. Guilds training wizards and Homes producing peasants are examples.</li>
+<li><strong>Percentage-based Buildings:</strong> The majority of Utopian buildings are percentage-based. These buildings provide an effect based on the portion of your land covered by them. For example, having 10% of your land as Banks will increase your income by a certain percentage. Like production buildings, these also require employees to provide full effects. In addition, each additional building you construct will be less effective. The numbers listed in this section are for the first building you construct. Your Internal Affairs Advisor will help you understand the benefits of your land. Unless otherwise specified, these buildings have a maximum effect of 25 times the number listed below. With normal building efficiency, this maximum is reached by dedicating 50% of your land to that building.</li>
 </ul>
 <h2 id="the-buildings">The Buildings</h2>
 <h3 id="barren-land">Barren Land</h3>
@@ -6622,10 +6624,10 @@
 <li>Produces 2 Bushels per Day</li>
 </ul>
 <h3 id="homes">Homes</h3>
-<p>While every built up acre of land already houses people – which means Homes are not a necessity for a province – you may find yourself wanting more population. Homes give your citizen more place to live, and also increase your natural birth rates. Furthermore, Homes employ no peasant and will thus overall help you fill all the jobs in your province.</p>
+<p>While every built up acre of land already houses people – which means Homes are not a necessity for a province – you may find yourself wanting more population. Homes give your citizens more place to live, and also produce new peasants each day. Furthermore, Homes employ no peasants and will thus overall help you fill all the jobs in your province.</p>
 <ul>
 <li>Increases your maximum population by 10 (on top of the 25 that a built building provides, for a total of 35)</li>
-<li>Increase Birth Rates by % * 4</li>
+<li>Produces 0.3 Peasants per Day (Unaffected by BE and production bonuses)</li>
 <li>Employs no one</li>
 </ul>
 <h3 id="farms">Farms</h3>
@@ -6636,49 +6638,52 @@
 <h3 id="mills">Mills</h3>
 <p>Exploration is one of the main ways of growing in Utopia, and building Mills will help you to send out expeditions at cheaper cost. Furthermore, Mills will also improve your builders skills, making building construction slightly less expensive.</p>
 <ul>
-<li>Decreases Building Costs by % * 4 (Max of 100%)</li>
-<li>Reduces exploration gold expenses by % * 3</li>
-<li>Reduces exploration soldier cost by % * 2</li>
+<li>Decreases Building Costs by % * 4 (Max of 100%)</li>
+<li>Reduces exploration gold expenses by % * 3</li>
+<li>Reduces exploration soldier cost by % * 2</li>
 </ul>
 <h3 id="banks">Banks</h3>
 <p>Banks are one of the major sources of income in Utopia along with tax collection. Every day, each Bank you own will produce some gold. Furthermore, your Banks all work together at improving your tax collection facilities, increasing further your global income.</p>
 <ul>
 <li>Generates 25gc per day</li>
-<li>Increases Income by % * 1.25</li>
+<li>Increases Income by % * 1.25</li>
 </ul>
 <h3 id="training-grounds">Training Grounds</h3>
-<p>Maintaining a good offense is important for all attackers, and Training Grounds bolster that by providing an enhanced training to all your offensive troops. This allows them to fight more efficiently in combat, thus increasing your overall attacking power.</p>
+<p>Maintaining a good offense is important for all attackers, and Training Grounds bolster that by providing an enhanced training to all your offensive troops. This allows them to fight more efficiently in combat, thus increasing your overall attacking power. Training Grounds also reduce how long it takes to train new troops.</p>
 <ul>
-<li>Increases Offensive Military Efficiency by % * 1.5</li>
+<li>Increases Offensive Military Efficiency by % * 1.5</li>
+<li>Reduces Training Time by % * 2</li>
 </ul>
 <h3 id="armouries">Armouries</h3>
 <p>Armouries improve your military training process, allowing you to train your soldiers to advanced levels at a cheaper cost. Armouries also facilitate your peasant enrolment process and diminish your military maintenance costs.</p>
 <ul>
-<li>Decreases Draft Costs by % * 2</li>
-<li>Decreases Daily Wages by % * 2</li>
-<li>Decreases Military Training Costs by % * 1.5</li>
+<li>Decreases Draft Costs by % * 2</li>
+<li>Decreases Daily Wages by % * 2</li>
+<li>Decreases Military Training Costs by % * 1.5</li>
 </ul>
 <h3 id="military-barracks">Military Barracks</h3>
-<p>Military Barracks are another military-oriented building. The employees of the Barracks are in charge of your military logistics, and a well-equipped army will reach the enemy land faster, making yourself less vulnerable to attacks while your troops are out on a campaign.</p>
+<p>Military Barracks are another military-oriented building. The employees of the Barracks are in charge of your military logistics, and a well-equipped army will reach the enemy land faster, making yourself less vulnerable to attacks while your troops are out on a campaign. Barracks also lower the cost of hiring mercenaries.</p>
 <ul>
-<li>Lowers Attack Time by % * 1.5</li>
+<li>Lowers Attack Time by % * 1.5</li>
+<li>Reduces Mercenary Costs by % * 2</li>
 </ul>
 <h3 id="forts">Forts</h3>
 <p>Forts provide a superior protection to the troops held in garrison in your province, increasing your overall defensive strength against attacks. Maintaining a good defense is important if you want to keep your acres and resources safe.</p>
 <ul>
-<li>Increases Defensive Military Efficiency by % * 1.5</li>
+<li>Increases Defensive Military Efficiency by % * 1.5</li>
 </ul>
-<h3 id="guard-stations">Guard Stations</h3>
-<p>Unlike Forts, Guard Stations will not make you less vulnerable to attacks. Nevertheless, they will effectively protect your land and resources, making the enemy’s attacks against your province less efficient.</p>
+<h3 id="castles">Castles</h3>
+<p>Castles protect your land and resources, making enemy attacks against your province less efficient. They do not protect honor losses from attacks, science books from Learns, or population from Massacres.</p>
 <ul>
-<li>Decreases Land and Resource Losses when Attacked by % * 2</li>
-<li>Protect % * 2 of Science from Enemies</li>
+<li>Decreases Resource (Land, Gold, Food, Runes) Losses when Attacked by % * 2.25</li>
+<li>Decreases Honor Losses when Attacked by % * 2</li>
 </ul>
 <h3 id="hospitals">Hospitals</h3>
-<p>Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the Plague if your province ever catches it.</p>
+<p>Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the Plague if your province ever catches it, and improved sanitation increases natural birth rates.</p>
 <ul>
 <li>% * 3 Daily Chance of Curing the Plague</li>
-<li>Decreases Military Losses by % * 3</li>
+<li>Decreases Military Losses by % * 3</li>
+<li>Increases Birth Rate by % * 2</li>
 </ul>
 <h3 id="guilds">Guilds</h3>
 <p>Unlike all your other units, either the military footmen or the thieves, wizards are not trained by using gold. Your ascendant wizards will have to go through intensive studies in Guilds before being able to serve you properly. They are an absolute necessity for Mages.</p>
@@ -6686,7 +6691,7 @@
 <li>Trains 0.02 Wizards Daily (2% chance to train a Wizard per Guild)</li>
 <li>Unaffected by BE (Building Efficiency)</li>
 </ul>
-<p>Guilds also increase the duration of your self spells and offensive spells.
+<p>Guilds also increase the duration of your self spells and offensive spells, and improve the success rate of self spells and rituals.
 Guilds are unaffected by Building Efficiency for the purposes of calculating spell duration or wizards trained.</p>
 <h3 id="towers">Towers</h3>
 <p>Towers are massive buildings that are used in order to channel mystic energies produced by the Earth into small stones called runes. Runes are then expended by your wizards while casting magic spells.</p>
@@ -6696,26 +6701,26 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 <h3 id="thieves-dens">Thieves Dens</h3>
 <p>Thieves Dens are the lair of all the thieves in your province, serving as the place where they practice their obscure and dark skills. Thieves Dens will increase the success rate of thievery operations you conduct as well as lowering your thief losses. Thieves Dens are a must for all Thieves.</p>
 <ul>
-<li>Lowers Losses in Thievery Operations by % * 4 (capped at 95%)</li>
-<li>Increases Thievery Effectiveness by % * 3</li>
+<li>Lowers Losses in Thievery Operations by % * 3.6 (capped at 90%)</li>
+<li>Increases Thievery Effectiveness by % * 3</li>
 </ul>
 <h3 id="watch-towers">Watch Towers</h3>
-<p>While your own thieves can protect your land against enemy thieves, a little extra protection is never a bad thing. People assigned into Watch Towers will screen your borders and can catch thieves attempting to conduct operations in your province.</p>
+<p>While your own thieves can protect your land against enemy thieves, a little extra protection is never a bad thing. People assigned into Watch Towers will screen your borders and can catch thieves attempting to conduct operations in your province. Note that Watch Towers do not apply to intel operations.</p>
 <ul>
 <li>% * 2 Chance of Catching Enemy Thieves</li>
-<li>Reduces damage caused by Enemy Thieves by % * 3</li>
+<li>Reduces damage caused by Enemy Thieves by % * 3 (capped at 62.5%)</li>
 </ul>
 <h3 id="universities">Universities</h3>
 <p>Universities increase your scientist generation rate and allow your scientists to produce books more effectively.</p>
 <ul>
-<li>Increase spawn rate of new scientists by % * 2</li>
-<li>% * 2 Higher Generation of Science Books</li>
+<li>Increase spawn rate of new scientists by % * 1.5</li>
+<li>% * 1 Higher Generation of Science Books</li>
 <li>Not affected by Building Efficiency</li>
 </ul>
 <h3 id="libraries">Libraries</h3>
 <p>Libraries increase Science Efficiency.</p>
 <ul>
-<li>% * 1.25 Higher Science Efficiency</li>
+<li>% * 2 Higher Science Efficiency (capped at 37.5%)</li>
 </ul>
 <h3 id="stables">Stables</h3>
 <p>Stables are the buildings where your peasants breed your war horses, strong horses sent in combat and increasing the offensive strength of the troop mounting them. Nevertheless, horses do not participate in defense, and you obviously cannot send more horses in combat than you have actual troops!</p>
@@ -6727,7 +6732,7 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 <p>Prisoners caught in combat are held captive in your dungeons. A dungeon can only hold a limited number of prisoners.</p>
 <p>While imprisoned, prisoners will be assigned to province duties, providing you some extra gold. For more detailed information on how much gold they generate, please go to <a href="../../main/Economy/">Economy</a> for the income formula or go to <a href="../Military/">Military</a> for an additional definition of Prisoners.</p>
 <ul>
-<li>Houses 40 Prisoners of War</li>
+<li>Houses 30 Prisoners of War</li>
 </ul>
 <h2 id="retired-buildings">Retired buildings</h2>
 <ul>
@@ -6741,7 +6746,7 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 </ul>
 <h2 id="construction">Construction</h2>
 <h3 id="construction-time">Construction Time</h3>
-<div class="highlight"><pre><span></span><code>Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double Speed * Expedient Ritual Mod * Artisan Science Mod
+<div class="highlight"><pre><span></span><code>Construction Time = 16 * Racial Mod * Personality Mod * Builders Boon * Double Speed * Haste Ritual Mod * Artisan Science Mod
 </code></pre></div>
 <table>
 <thead>
@@ -6773,15 +6778,15 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 <td>1</td>
 </tr>
 <tr>
-<td><strong><a href="../../misc/Ritual/">Expedient Ritual</a></strong></td>
-<td>0.8 (if at 100% efficiency)</td>
+<td><strong><a href="../../misc/Ritual/">Haste Ritual</a></strong></td>
+<td>0.75 (if at 100% efficiency)</td>
 <td>1</td>
 </tr>
 </tbody>
 </table>
 <p>Note that construction speed is rounded at .5 That means if the build time is 15.49, then it is rounded down to 15. If it is 15.5, it will be rounded up to 16. For a double speed build, assuming normal construction is 15.49, the speed build time will be 15.49/2 = 7.745 = rounded up to 8 hours. For 14.9 though, it will be 14.9/2 = 7.45 = rounded down to 7 hours.</p>
 <h3 id="construction-costs">Construction Costs</h3>
-<div class="highlight"><pre><span></span><code>Construction Costs = 2/31 * (land + 11600) * Race Mod * Mills Mod * Double Speed * Expedient Ritual Mod * Artisan Science Mod
+<div class="highlight"><pre><span></span><code>Construction Costs = 0.05 * (land + 10000) * Race Mod * Personality Mod * Mills Mod * Double Speed * Haste Ritual Mod * Artisan Science Mod
 </code></pre></div>
 <table>
 <thead>
@@ -6803,14 +6808,14 @@ Guilds are unaffected by Building Efficiency for the purposes of calculating spe
 <td>1</td>
 </tr>
 <tr>
-<td><strong><a href="../../misc/Ritual/">Expedient Ritual</a></strong></td>
+<td><strong><a href="../../misc/Ritual/">Haste Ritual</a></strong></td>
 <td>0.75 (if at 100% efficiency)</td>
 <td>1</td>
 </tr>
 </tbody>
 </table>
 <h3 id="raze-costs">Raze Costs</h3>
-<div class="highlight"><pre><span></span><code>Raze Costs = (350 + (0.0625 * Total land)) * Artisan Science Mod
+<div class="highlight"><pre><span></span><code>Raze Costs = (300 + (0.05 * Total land)) * Artisan Science Mod * Race Mod * Personality Mod
 </code></pre></div>
 <h2 id="buildings">Buildings</h2>
 <h3 id="building-efficiency">Building Efficiency</h3>
@@ -6820,13 +6825,13 @@ Optimal Workers           =  ROUNDDOWN ( Total Jobs * 0.67 )
 
 % Jobs Performed          =  MIN ( Available Workers / Optimal Workers , 1 )
 
-Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personality * Tools Science * Dragon * Blizzard
+Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personality * Tools Science * Dragon * Blizzard
 </code></pre></div>
 <ul>
 <li>The "Current Available Workers" value, provided by the Internal Affairs Adviser page, already takes prisoners into account.</li>
-<li>Building Efficiency affects <strong>ALL</strong> <a href="./">Flat Rate</a> and <a href="./">Percentage-Based</a> buildings.</li>
+<li>Building Efficiency affects <strong>ALL</strong> <a href="./">Production</a> and <a href="./">Percentage-Based</a> buildings.</li>
 <li>
-<p>Building Efficiency has <strong>NO</strong> effect on Capacity component of Capacity Buildings.</p>
+<p>Building Efficiency has <strong>NO</strong> effect on Capacity or Fixed Rate components.</p>
 </li>
 <li>
 <p>Changes in Building Efficiency take effect gradually.</p>
@@ -6843,7 +6848,7 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 <tbody>
 <tr>
 <td><strong>Race: Dwarf</strong></td>
-<td>1.2</td>
+<td>1.3</td>
 <td>1</td>
 </tr>
 <tr>
@@ -6859,11 +6864,11 @@ Building Efficiency       =  (0.5 * (1 + % Jobs Performed)) * Race * Personalit
 </tbody>
 </table>
 <h3 id="building-effects">Building Effects</h3>
-<div class="highlight"><pre><span></span><code>Percentage Based Buildings = Base Effect * BE * MIN(50%, % of building) * (100% - MIN(50%, % of building))
-Flat Rate Buildings = Base Effect * Number of Buildings * BE
+<div class="highlight"><pre><span></span><code>Percentage Based Buildings = Base Effect * BE * MIN(50%, % of building) * (100% - MIN(50%, % of building))
+Production Buildings = Base Effect * Number of Buildings * BE
 </code></pre></div>
 <ul>
-<li>In general, the Max Effect of a %-Based Building is 25 x Base Effect (exceptions apply, refer to table)</li>
+<li>In general, the Max Effect of a %-Based Building is 25 x Base Effect (exceptions apply, refer to table)</li>
 <li>If your BE is less than 100%, the effect you would have with 50% of that building is the maximum.</li>
 <li>If you have less than 100% BE, additional buildings past 50% will have no effect.</li>
 </ul>
