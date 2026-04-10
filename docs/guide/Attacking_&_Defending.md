@@ -167,6 +167,8 @@ Base gains are 12% and are capped at 20% of your Acres or your opponent's Acres,
 
 Will return 50% of the Acres lost in the attack. Unaffected by Gains modifiers. Inflicts 15% increased Military Casualties.
 
+See the [Ambush guide](Ambush.md) for how to calculate what to send.
+
 #### Plunder
 
 Base gains are 50% gold, 60% food and 60% runes. Max gains is 1.75x base (67.5% gold, 81% runes/food).

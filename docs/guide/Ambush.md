@@ -13,10 +13,10 @@
 1. You can ambush each successful attack once. If you fail, too bad.
 2. You cannot ambush if your opponent used War Spoils.
 3. You cannot ambush if your opponent's hit was made with Anonymity on.
-4. If you successfully carry out an ambush you will gain 50% of his captured land, or 25% if he is a warrior.
-5. You ALWAYS ambush from the last hit to the first.
+4. A successful ambush recaptures 50% of the land taken from you. Ambush ignores all gains modifiers.
+5. Ambush inflicts 15% increased Military Casualties on the defender.
+6. You ALWAYS ambush from the last hit to the first.
    1. You will ambush the last successful hit. Conquests don't count. You CAN ambush an ambush.
-6. A successful ambush recaptures 50% of the land taken from you.
 
 ## How to Figure out What to Send
 
@@ -25,7 +25,7 @@
 3. Once you have obtained these numbers, use this formula:
 
 ```
-Raw Offense Required = [(His Elites sent*Racial Elite Defense Value) + (His Offspecs Sent*Racial Defspec Value) + Soldiers] * 0.8 Remember, this is the RAW offense required - therefore, don't bother sending > 1 generals, they have no effect!
+Raw Offense Required = [(Target's Elites sent*Racial Elite Defense Value) + (Target's Offspecs Sent*Racial Defspec Value) + (Target's Soldiers sent*Racial Soldier Offense Value)] * 0.8 Remember, this is the RAW offense required - therefore, don't bother sending > 1 generals, they have no effect!
 ```
 
 p.s. If you ever see a 0 in the 'army out' column, it means that he did not send ANY of that army type.
