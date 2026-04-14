@@ -43,9 +43,9 @@ If you see a 0 in the army out column, the attacker sent none of that unit type.
 
 ### Example
 
-*June 4th, YR5 **call (9:11)** invaded **Kzagl (3:17)** and captured 81 acres of land.
-June 4th, YR5 **I just been (9:11)** invaded **Kzagl (3:17)** and captured 139 acres of land.
-June 4th, YR5 **piercing through (9:11)** invaded **Kzagl (3:17)** and captured 131 acres of land.*
+- June 4th, YR5 **call (9:11)** invaded **Kzagl (3:17)** and captured 81 acres of land.
+- June 4th, YR5 **I just been (9:11)** invaded **Kzagl (3:17)** and captured 139 acres of land.
+- June 4th, YR5 **piercing through (9:11)** invaded **Kzagl (3:17)** and captured 131 acres of land.
 
 **Kzagl** took a SoM of **I just been** (the largest hit) to see what troops were sent out and whether an ambush was viable.
 
@@ -78,8 +78,8 @@ If sending 5/0 offensive specialists:
 
 You always ambush the last hit first. If the paper looked like this:
 
-*June 4th, YR5 I just been (9:11) invaded Kzagl Elven Grave (3:17) and captured 139 acres of land.
-June 4th, YR5 piercing through (9:11) invaded Kzagl Elven Grave (3:17) and captured 131 acres of land.
-June 4th, YR5 I just been (9:11) invaded KZAGL ELVEN GRAVE (3:17) and captured 25 acres of land.*
+- June 4th, YR5 I just been (9:11) invaded Kzagl Elven Grave (3:17) and captured 139 acres of land.
+- June 4th, YR5 piercing through (9:11) invaded Kzagl Elven Grave (3:17) and captured 131 acres of land.
+- June 4th, YR5 I just been (9:11) invaded KZAGL ELVEN GRAVE (3:17) and captured 25 acres of land.
 
 You would have to ambush the 25-acre hit before you could ambush the 139-acre hit. You don't have to succeed — once you've attempted an ambush on a hit, the game moves on to the next one regardless.
