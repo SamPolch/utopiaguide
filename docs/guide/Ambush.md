@@ -6,6 +6,9 @@ Take a SoM of the attacker, then check the intel site's Armies tab — it has an
 
 In the War Room, make sure **Ambush** is selected as the attack type and use the ambush calculator option so the game calculates the minimum offense correctly. Enter the value from the intel site manually. Unlike other attack types, the ambush offense requirement does not change mid-tick due to modifiers like Minor Protection.
 
+!!! tip "Skipping an ambush"
+    If there are multiple attacks against you and you want to skip over one, send 1 soldier to intentionally fail it. Your next ambush will then target the next hit in reverse order.
+
 ## Rules and Mechanics
 
 1. You can ambush each successful attack once. If you fail, too bad.
