@@ -8,12 +8,26 @@ The best measure of your guild's strength is the number of thieves you maintain 
 
 The larger your province, the more difficult it will be to keep your guild well-organized and efficient. As your province grows larger, be prepared to keep training additional thieves to keep your network intact and effective. Like most things in Utopia, thievery operations are easier and more effective against provinces similar to you in size.
 
-Information on how to calculate thief operations can be found here.
+Thievery operations are divided in two categories:
 
-Thievery operations are divided in two categories, as listed below:
+- [Espionage Operations](#the-thieves-toolbox-the-espionage-operations)
+- [Sabotage Operations](#the-thieves-toolbox-the-sabotage-operations)
 
-- [Espionage Operations](Thievery.md)
-- [Sabotage Operations](Thievery.md)
+## Modified TPA
+
+The success of each operation depends on the two provinces' relative modified TPA, as well as other thief defences like the spell Clear Sight and Watchtowers.
+
+Your TPA can be affected by your race, personality, buildings, science, rituals, and dragons:
+
+```
+Modified TPA = Raw TPA × Invisibility × Crime Science × Racial Mod × Thieves Dens Bonus × Honor Bonus × Ritual Bonus
+```
+
+| Modifier | Value |
+|---|---|
+| Invisibility (spell) | 1.1 |
+| Ritual: Havoc | 1.2 |
+| Crime Science | varies |
 
 ## The Thieves' Toolbox: The Espionage Operations
 
@@ -25,12 +39,12 @@ Nevertheless, sending **5% of your thieves will return completely accurate resul
 ```
  Available to:       All
  Relations Required: All
- Effect:             Gives an estimate of the resources and troops available to a province
+ Effect:             Shows the target province's Throne page information, including race, honor,
+                     resources and military strength (excludes wizards and thieves).
  Difficulty:         very low
+ Stealth cost:       1%
  Meter Movemement:   0
 ```
-
-- Consumes only 1% Stealth
 
 ### Spy on Defense
 
@@ -39,12 +53,12 @@ Reports enemy's standing defenses.
 ```
  Available to:       All
  Relations Required: All
- Effect:             Reveals Net Defensive Points at Home
+ Effect:             Reveals Net Defensive Points at Home (troop defense only; if troop defense is
+                     lower than acres, the acre value is used instead).
  Difficulty:         very low
+ Stealth cost:       1%
  Meter Movemement:   0
 ```
-
-- Consumes only 1% Stealth
 
 ### Spy on Exploration
 
@@ -55,6 +69,7 @@ Gives current pool size, and costs per acre in gold and soldiers.
  Relations Required: All
  Effect:             Reveals pool size, and costs per acre in gold and soldiers.
  Difficulty:         very low
+ Stealth cost:       2%
  Meter Movemement:   0
 ```
 
@@ -63,8 +78,9 @@ Gives current pool size, and costs per acre in gold and soldiers.
 ```
  Available to:       All
  Relations Required: All
- Effect:             Displays the targeted provinces Kingdom Paper
+ Effect:             Shows the target province's kingdom news for the current and previous Utopian month.
  Difficulty:         low
+ Stealth cost:       2%
  Meter Movement:     0
 ```
 
@@ -75,9 +91,10 @@ Reports on the size of your opponent's guild.
 ```
  Available to:       All
  Relations Required: All
- Effect:             Gives an estimate of the number of thieves in the enemy province.
+ Effect:             Shows the total number of thieves the target province has.
  Operation Message:  Our thieves have infiltrated the Thieves' Guilds of [province name] (##:##). They appear to have about X thieves employed across their lands.
  Difficulty:         low
+ Stealth cost:       2%
  Meter Movement:     0
 ```
 
@@ -88,9 +105,11 @@ Reports on the distribution of buildings in a province.
 ```
  Available to:       All
  Relations Required: All
- Effect:             Gives an estimate of the buildings in the enemy province, as displayed by the Internal Affairs advisor.
+ Effect:             Shows the target's completed buildings, building efficiency, building effects,
+                     and buildings in progress. Does not show construction in progress.
  Operation Message:
  Difficulty:         low
+ Stealth cost:       2%
  Meter Movemement:   0
 ```
 
@@ -101,10 +120,11 @@ Provides detailed information from your opponent's army.
 ```
  Available to:       All
  Relations Required: All
- Effect:             Shows the enemy troops out as well as an estimate of troops at home and in training,
-                     as displayed by the Military Advisor.
+ Effect:             Shows the target's military efficiency; number of each unit type at home and out on
+                     attacks; return times on armies not at home; and troops in training per unit type.
  Operation Message:
  Difficulty:         low
+ Stealth cost:       2%
  Meter Movemement:   0
 ```
 
@@ -115,15 +135,57 @@ Estimates strengths and effects of opponent's science levels.
 ```
  Available to:       All
  Relations Required: All
- Effect:             Gives an estimate of the bonuses an enemy province gains from its science, as displayed on the Science page.
+ Effect:             Shows the number of books the target has invested in each science type, and the
+                     total number of unassigned books in each category.
  Operation Message:
  Difficulty:         low
+ Stealth cost:       2%
  Meter Movement:     0
 ```
+
+### Calculating WPA
+
+No intel operation directly reveals an enemy's wizard count, but wizards contribute to networth. With a full set of intel ops you can back-calculate WPA. Run all four of the following on the same Utopian day (ideally back-to-back, since ops or attacks between them can skew results):
+
+- Spy on Throne
+- Infiltrate
+- Spy on Sciences
+- Survey
+
+Spy on Military is not needed — it only shows troop positions, not totals. Once you have consistent data, the remaining networth unexplained by land, troops, thieves, science, and buildings belongs to wizards.
 
 ## The Thieves' Toolbox: The Sabotage Operations
 
 Listed here is a short reference guide to each of the offensive operations available to you and their effects. As mentioned previously, sending more thieves will increase the strength of these operations. Nevertheless, sending too many thieves also increases the chances that the enemy catches your men! Certain operations are designated Unfriendly, Hostile or [War](../guide/Relations.md) Only operations -- Because of the destructive nature of these operations, they can be run only against provinces which have at least a certain level of relations with your kingdom. In addition, you will find that many operations are more effective during heightened relations conditions.
+
+### Formulas
+
+**Optimal thieves to send** for an instant sabotage op:
+
+```
+Thieves to Send = (Target Resources × Max % of Total) / Gains Per Thief / Racial Mod
+```
+
+Target resources can be found with Spy on Throne. Max % of Total and Gains Per Thief are in the individual op entries below.
+
+**Thievery yield** (what you actually receive):
+
+```
+Yield = Thieves Sent
+      × MIN(Target NW / Self NW, Self NW / Target NW)  [+ War Bonus]
+      × Gains Per Thief
+      × (1 − Resources Lost)
+      × Racial Mod × Personality Mod × Guile × Cunning
+      × Target Race Mod × Target Personality Mod
+      × Target Illuminate Shadows
+      × (1 − Target Watchtowers effect)
+      × (1 − Target Shielding)
+      × Stance
+```
+
+The NW ratio term means gains are penalised when hitting a much larger or smaller target. Resources Lost is the fraction that is destroyed rather than transferred (e.g. 50% for Steal War Horses).
+
+**Duration ops** have a random component, but the minimum, average, and maximum durations all scale with the number of thieves sent. Oversending on Riots reduces duration. Effects like Guile and the Heretic personality do affect duration ops (unlike duration spells).
 
 ### Sabotage Wizards
 
@@ -203,7 +265,8 @@ Kidnaps peasants from your enemy and brings them to your province.
  Meter Movement:     0.12
 ```
 
-You can also refer to Thievery Formulas for more information. Note that gains seem to drop by 50% when the enemy province reaches a certain level of under population. This is designed to make it harder to player-kill.
+!!! note
+    Kidnapping gains drop by 50% when the target province reaches a low population level, to make player-killing harder.
 
 ### Arson
 
@@ -269,8 +332,8 @@ Steals an enemy's horses for your own use.
 ```
  Available to:       Rogue
  Relations Required: Unfriendly
- Effect:             Steals up to 20% of the targets horses at a rate of 0.35 horses per thief.
-                     Note that you only gain half of this number as the rest are released.
+ Effect:             Steals up to 13.6% (12.75% OOW) of the target's horses at a rate of 0.1 (0.094 OOW)
+                     horses per thief. Only half are kept; the rest are released.
  Operation Message:  Our thieves were able to release X horses but could only bring back Y of them.
  Difficulty:         medium
  Meter Movement:     0.18
@@ -322,7 +385,7 @@ Attempts to assassinate enemy wizards to permanently weaken their ability to cas
 ```
  Available to:       Rogues
  Relations Required: Unfriendly
- Effect:             Kills up to a max of 1.2% target wizards at a rate of 0.006 wizards per thief.
+ Effect:             Kills up to a max of ~1.6% (~1.4% OOW) target wizards at a rate of ~0.008 (~0.007 OOW) wizards per thief.
  Operation Message:  Our thieves assassinated X wizards of the enemy's guilds!
  Difficulty:         high
  Meter Movement:     0.36
@@ -341,6 +404,19 @@ Attempts to convince enemy peasants, military, or wizards to revolt and join you
  Difficulty:         high
  Meter Movement:     0 (War Only)
 ```
+
+## Stealth Costs
+
+Each operation costs stealth. Stealth regenerates at 3% per day (Rogues receive more). Operations cannot be performed below 5% stealth.
+
+| Operation type | Stealth cost |
+|---|---|
+| Spy on Throne, Spy on Defense | 1% |
+| All other espionage operations | 2% |
+| Sabotage (hostile relations or higher) | 2% |
+| Sabotage (no special relations) | 3% |
+
+The spell Expose Thieves reduces a province's stealth by 5% of its current stealth before regeneration is added each tick. For example, at 50% stealth, Expose Thieves reduces it to 47.5% (rounded to 48%) before the tick's regeneration is applied.
 
 ## Changelog
 
