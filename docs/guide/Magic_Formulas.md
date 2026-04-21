@@ -48,7 +48,7 @@ Runes cost = ROUNDDOWN ( (0.68 * Size + 680) * Spell Cost Multiplier )
 | Divine Shield | 80% | 0.5 | No | No | No | No | No | No | No | No | No | 14 | Yes | Decreases Instant Spell Damage by 20%. Only available to [Cleric](../main/Personality.md). |
 | Mystic Aura |  | 0.5 | No | No | No | Yes | No | No | No | No | No | N/A | No | Makes the next spell cast on you fail automatically. |
 | Fertile Lands | 125% | 0.5 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 16 | Yes | Increases Food production by 25% |
-| Nature's Blessing | 100% | 0.6 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 16 | Yes | Grants immunity to Storms and Droughts. Has a 33% chance to cure the Plague on a successful cast. |
+| Nature's Blessing | 100% | 0.6 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 16 | Yes | Grants immunity to Storms and Droughts. Has a 33% chance to cure the [Plague](../misc/Plague.md) on a successful cast. |
 | Love & Peace | +0.85% | 0.7 | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | Yes | 14 | Yes | Increases base population growth by +0.85% and war horse production rate by 40%. |
 | Quick Feet | 85% | 0.8 | No | No | No | No | No | Yes | No | No | No | 2 | No | Decreases attack time by 15%. Only available to [Tactician](../main/Personality.md). |
 | Tree of Gold |  | 0.8 | No | No | No | No | Yes | No | No | No | No | N/A | No | Gives 26.66 to 53.33% of daily income. |

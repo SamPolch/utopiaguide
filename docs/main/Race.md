@@ -335,7 +335,7 @@ Successful Traditional Marches capture +30% additional Prisoners. Massacre attac
 **Bonuses:**
 
 - -40% Military Losses (attack and defence)
-- Plague Immunity
+- [Plague](../misc/Plague.md) Immunity
 - No Food Requirement
 
 **Penalties:**

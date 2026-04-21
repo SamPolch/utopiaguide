@@ -21,7 +21,7 @@
 
 ### Cursed Plague
 
-- Once activated, until end of tick, all successful Undead attacks have a 100% chance to spread Plague. Cooldown: 24 Utopian Days.
+- Once activated, until end of tick, all successful Undead attacks have a 100% chance to spread [Plague](../misc/Plague.md). Cooldown: 24 Utopian Days.
 
 ### Skybound Strike
 

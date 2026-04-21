@@ -44,7 +44,7 @@ Note: Capacity of buildings is not affected by Building Efficiency (i.e., Homes,
 | Military Barracks |  |  | 1.5% / 2% | 37.5% / 50% | 25 | 25 | Lowers Attack Time; Reduces Mercenary Costs |
 | Forts |  |  | 1.5% | 37.5% | 25 | 25 | Increases Defensive Military Efficiency |
 | Castles |  |  | 2.25% / 2% | 50% / 50% | 25 | 25 | Decreases Resource (Land, Gold, Food, Runes) Losses when Attacked; Decreases Honor Losses when Attacked |
-| Hospitals |  |  | 3% / 3% / 2% | 75% / 75% / 50% | 25 | 25 | Daily Chance of Curing the Plague; Decreases Military Losses; Increases Birth Rate |
+| Hospitals |  |  | 3% / 3% / 2% | 75% / 75% / 50% | 25 | 25 | Daily Chance of Curing the [Plague](../misc/Plague.md); Decreases Military Losses; Increases Birth Rate |
 | Guilds |  | 0.02 Wizards |  |  | 25 | 25 | Wizards Trained per day (Unaffected by BE); Guilds also increase [spell](Mystics.md) duration and self spell/ritual success rate (Unaffected by BE) |
 | Towers |  | 12 Runes |  |  | 25 | 25 | Produces 12 runes per day |
 | Thieves Dens |  |  | 3.6% / 3% | 90% / 75% | 25 | 25 | Lowers losses in Thievery Operations; Bonus to TPA |
@@ -139,7 +139,7 @@ Castles protect your land and resources, making enemy attacks against your provi
 
 ### Hospitals
 
-Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the Plague if your province ever catches it, and improved sanitation increases natural birth rates.
+Having a good military power is important, and keeping your soldiers healthy is vital in order to achieve this. By deploying Hospitals in the battlefields, you will significantly lower the casualties suffered by your troops in combat. Furthermore, your medics will work at curing the [Plague](../misc/Plague.md) if your province ever catches it, and improved sanitation increases natural birth rates.
 
 - % \* 3 Daily Chance of Curing the Plague
 - Decreases Military Losses by % \* 3

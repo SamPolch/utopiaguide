@@ -54,7 +54,7 @@ Here is a short breakdown of the races and their preferred functions:
 
 **Orcs**: Bred for attack with additional enemy casualties and very offensive oriented elites, though they take more damage from mages and thieves. Primary role: Attacker;
 
-**Undead**: Being undead certainly has its advantages, as this race loses less troops when attacking and part of the troops lost immediately become soldiers again that can be trained. The Undead also do not require food for sustenance, allowing would be farms to be converted into other buildings. Further, the Undead are the only race that actively spreads the plague, and are also the only ones immune to it. Undead are very attack oriented with strong offensive elites. Their limitation is that they cannot build any homes or hospitals. Primary role: Attacker;
+**Undead**: Being undead certainly has its advantages, as this race loses less troops when attacking and part of the troops lost immediately become soldiers again that can be trained. The Undead also do not require food for sustenance, allowing would be farms to be converted into other buildings. Further, the Undead are the only race that actively spreads the [plague](../misc/Plague.md), and are also the only ones immune to it. Undead are very attack oriented with strong offensive elites. Their limitation is that they cannot build any homes or hospitals. Primary role: Attacker;
 
 After you have chosen which race you would like to play, you will also need to choose a personality to give you additional benefits. Here is a quick breakdown of personalities:
 

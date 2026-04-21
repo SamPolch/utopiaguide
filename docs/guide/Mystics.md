@@ -395,7 +395,7 @@ Is Known: [Age 85](../history/Age_85.md) ... now
 
 ### Nature's Blessing
 
-Nature's Blessing will protect your lands from any droughts and storms the world may see fit to place on you. This spell also has a chance of curing the Plague if your lands are affected by it.
+Nature's Blessing will protect your lands from any droughts and storms the world may see fit to place on you. This spell also has a chance of curing the [Plague](../misc/Plague.md) if your lands are affected by it.
 
 Is Known: Age 1 ... now
 

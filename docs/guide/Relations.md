@@ -298,7 +298,7 @@ During this ceasefire, both sides benefit from:
 - All Land currently out with armies at War end returns home immediately
 - All Military Units currently out on Attacks against the War opponent return home immediately
 - Negative Spell effects and Riots are removed
-- Any Provinces affected by Plague it removed instantly
+- Any Provinces affected by [Plague](../misc/Plague.md) it removed instantly
 - Instant Population growth of 20% of maximum if you are under 50% of your maximum Population
 - +1000% Birth Rate (minimum 500) for the first 24 Ticks
 - Explore penalty reduced to 300% and explore time reduced by 50% for Provinces below Kingdom Median (including incoming explored Acres)

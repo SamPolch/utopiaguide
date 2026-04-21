@@ -159,7 +159,7 @@ Successful offensive instant spells also kill 1% of the target's peasant populat
 - +50% Stables Capacity and Production
 - Successful attacks inflict +15% enemy military casualties (but also +10% own offensive casualties)
 - +15% Valor Science Efficiency
-- Plague Immunity
+- [Plague](../misc/Plague.md) Immunity
 
 **Starting Bonuses:**
 
