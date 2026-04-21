@@ -67,6 +67,26 @@ An Aggressor Kingdom can enter into a 96 Ticks unbreakable Ceasefire with a Defe
 
 [End-of-War Ceasefire](#end-of-war-ceasefire) has slightly different effects and conditions.
 
+#### Defensive Force Ceasefire (DFCF)
+
+*Reintroduced in Age 115.*
+
+When a kingdom is being overwhelmed by an aggressor and is below the Hostile threshold, it may request a **Defensive Force Ceasefire**. DFCF becomes available when **all** of the following conditions are met:
+
+- The kingdom is **45 points** (in War Range) or **30 points** (out of War Range) below the aggressor on the [Hostility Meter](../main/Hostile_Meter.md)
+- The aggressor has **not** been given Hostile status by the defending kingdom
+- No attacks have been made against the aggressor for **3 ticks**
+- The kingdom is lower in **both Land and Networth** than the aggressor
+
+The DFCF lasts **48 hours** and cannot be broken by either side during that window.
+
+**Penalties if within War Range (15% NW or Land):**
+
+- −1.75% Honor
+- −1.75% Science Efficiency
+
+No penalty applies if the defending kingdom is out of War Range. A warning popup is shown before accepting to make the penalties clear.
+
 ## Unfriendly
 
 - A [Dragon](../main/Dragons.md) sent to an Unfriendly kingdom will only have 50% health points
@@ -105,6 +125,8 @@ When the [Hostile Meter](../main/Hostile_Meter.md) reaches **30**
 hostility points, the Aggressor Kingdom becomes **Hostile** towards the
 opposing Kingdom. If the Meter decays below this limit, **Unfriendly**
 relations are resumed.
+
+After 48 hours of going Hostile, the meter begins to decay at a rate that ramps with the number of meter points accumulated.
 
 See [Hostile Meter](../main/Hostile_Meter.md) for the full point table,
 meter decay, and spell/op hostility values.
