@@ -8,12 +8,12 @@ This site is a community-maintained guide for [Utopia](https://utopia-game.com),
 
 !!! tip "Getting Started"
     - [Getting Started with Utopia](guide/Getting_Started_with_Utopia.md)
-    - **Current Age: [Age 114 — The Age of Convergence](history/Age_114.md)**
+    - **Current Age: [Age 115](history/Age_115.md)**
     - [Race](main/Race.md) · [Personality](main/Personality.md) · [Unique Abilities](main/Unique_Abilities.md) · [Units](main/Units.md)
     - [Game Rules](misc/Game_Rules.md) · [Genesis](history/Genesis.md) · [Gold Status](misc/Gold_Status.md)
 
-!!! note "Age 114 Highlights"
-    **New this age:** [War Doctrines](main/Race.md#war-doctrines) — each race contributes a kingdom-wide bonus in war · [Unique Abilities](main/Race.md#unique-abilities) for every race and personality · [6 named Dragons](main/Dragons.md) with distinct roles · [7 Ritual types](misc/Ritual.md) · 10 Personalities including new General, Necromancer and Paladin
+!!! note "Age 115 Highlights"
+    **New this age:** [War Doctrine](main/Race.md#war-doctrines) scaling reworked (2.0% + 1.5% per province, max 12.5%) · DFCF reintroduced · Hostile meter decay · [Benediction ritual](misc/Ritual.md) replaces Expedient · Celestite Dragon removed; remaining [5 dragons](main/Dragons.md) gain periodic tick effects · New spell: Soul Blight · Castles, Resilience, Artisan, and Finesse science all tuned down
 
 !!! info "Guides by In-game Menus"
     **Province Information** — [Economy](main/Economy.md), [Food](main/Food.md), [Honor](main/Honor.md), [Networth](main/Networth.md)
