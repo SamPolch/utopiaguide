@@ -34,7 +34,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 | --- | --- | --- |
 | Off Spec | 13/0 · 5.2nw | <span class="penalty">12/0</span> · <span class="penalty">4.8nw</span> |
 | Def Spec | 0/9 · 4.5nw | <span class="bonus">0/10</span> · <span class="bonus">5.0nw</span> |
-| Elite | 16/6 · 900gc · 8.0nw | <span class="penalty">16/3</span> · 750gc · <span class="penalty">7.0nw</span> |
+| Elite | 16/6 · 900gc · 8.0nw | 16/<span class="penalty">3</span> · 750gc · <span class="penalty">7.0nw</span> |
 
 ---
 
@@ -95,7 +95,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 | Unit | Age 114 | Age 115 |
 | --- | --- | --- |
 | Def Spec | 0/11 · 6.0nw | <span class="penalty">0/10</span> · <span class="penalty">5.0nw</span> |
-| Elite | 15/9 · 900gc · 8.0nw | <span class="penalty">15/5</span> · 800gc · <span class="penalty">7.0nw</span> |
+| Elite | 15/9 · 900gc · 8.0nw | 15/<span class="penalty">5</span> · 800gc · <span class="penalty">7.0nw</span> |
 
 ---
 
@@ -124,7 +124,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | Unit | Age 114 | Age 115 |
 | --- | --- | --- |
-| Elite | 14/6 · 800gc · 7.0nw | <span class="penalty">15/4</span> · 750gc · <span class="penalty">6.0nw</span> |
+| Elite | 14/6 · 800gc · 7.0nw | <span class="bonus">15</span>/<span class="penalty">4</span> · 750gc · <span class="penalty">6.0nw</span> |
 
 ---
 
@@ -149,7 +149,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | Unit | Age 114 | Age 115 |
 | --- | --- | --- |
-| Elite | 8/15 · 900gc · 9.0nw | <span class="penalty">4/16</span> · 1000gc · <span class="penalty">8.5nw</span> |
+| Elite | 8/15 · 900gc · 9.0nw | <span class="penalty">4</span>/<span class="bonus">16</span> · 1000gc · <span class="penalty">8.5nw</span> |
 
 ---
 
@@ -172,7 +172,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 | Unit | Age 114 | Age 115 |
 | --- | --- | --- |
 | Def Spec | 0/11 · 5.5nw | <span class="penalty">0/10</span> · <span class="penalty">5.0nw</span> |
-| Elite | 10/13 · 900gc · 8.0nw | <span class="penalty">6/12</span> · 700gc · <span class="penalty">7.5nw</span> |
+| Elite | 10/13 · 900gc · 8.0nw | <span class="penalty">6</span>/<span class="penalty">12</span> · 700gc · <span class="penalty">7.5nw</span> |
 
 ---
 
@@ -204,7 +204,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | Unit | Age 114 | Age 115 |
 | --- | --- | --- |
-| Elite | 14/9 · 1000gc · 8.0nw | <span class="penalty">16/3</span> · 750gc · <span class="penalty">6.5nw</span> |
+| Elite | 14/9 · 1000gc · 8.0nw | <span class="bonus">16</span>/<span class="penalty">3</span> · 750gc · <span class="penalty">6.5nw</span> |
 | War Horse | 3/0 · 0.9nw | <span class="penalty">2/0</span> · <span class="penalty">0.6nw</span> |
 
 ---
@@ -233,7 +233,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | Unit | Age 114 | Age 115 |
 | --- | --- | --- |
-| Elite | 20/1 · 850gc · 7.0nw | <span class="penalty">18/2</span> · 800gc · 7.0nw |
+| Elite | 20/1 · 850gc · 7.0nw | <span class="penalty">18</span>/<span class="bonus">2</span> · 800gc · 7.0nw |
 
 ---
 
@@ -265,4 +265,4 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | Unit | Age 114 | Age 115 |
 | --- | --- | --- |
-| Elite | 16/7 · 900gc · 8.0nw | <span class="penalty">17/4</span> · 800gc · <span class="penalty">7.0nw</span> |
+| Elite | 16/7 · 900gc · 8.0nw | <span class="bonus">17</span>/<span class="penalty">4</span> · 800gc · <span class="penalty">7.0nw</span> |
