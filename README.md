@@ -74,9 +74,6 @@ docs/
 ├── misc/                 # Mechanics, community pages, and miscellany
 ├── formulas/             # Formula reference pages
 ├── tools/                # External tool documentation
-├── alliances/            # Alliance pages
-├── kingdoms/             # Kingdom pages
-├── players/              # Player profile pages
 ├── stylesheets/          # Custom CSS (extra.css)
 └── CNAME                 # Custom domain for GitHub Pages
 ```
@@ -87,7 +84,7 @@ Current MkDocs nav groupings:
 - `Guides` and `Player Guides`: `docs/guide/`
 - `Mechanics`: content split across `docs/main/`, `docs/misc/`, and `docs/formulas/`
 - `History`: mostly `docs/history/` with some historical pages in `docs/misc/`
-- `Community & Tools`: content from `docs/tools/`, `docs/misc/`, `docs/players/`, `docs/alliances/`, and `docs/kingdoms/`
+- `Community & Tools`: content from `docs/tools/`, and `docs/misc/`
 - `About`: informational pages in `docs/misc/`
 
 Repo files of note:
