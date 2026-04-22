@@ -34,3 +34,36 @@ body {
   --md-default-fg-color--lightest: #C4A265;
   --md-code-bg-color: #EDE0C4;
 }
+
+/* Comparison page color coding */
+.bonus {
+  color: #2e7d32;
+  font-weight: 600;
+}
+
+.penalty {
+  color: #c62828;
+  font-weight: 600;
+}
+
+[data-md-color-scheme="slate"] .bonus {
+  color: #81c784;
+}
+
+[data-md-color-scheme="slate"] .penalty {
+  color: #ef9a9a;
+}
+
+.badge-new {
+  display: inline-block;
+  background: #1565c0;
+  color: #fff;
+  font-size: 0.65em;
+  font-weight: 700;
+  padding: 0.1em 0.45em;
+  border-radius: 3px;
+  vertical-align: middle;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-left: 0.25em;
+}
