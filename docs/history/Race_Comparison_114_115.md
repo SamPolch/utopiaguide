@@ -198,7 +198,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 | | Age 114 | Age 115 |
 | --- | --- | --- |
-| Spells | Fountain of Knowledge, Revelation, Invisibility, Guile | + Steal War Horses <span class="badge-new">New</span> |
+| Spells | Fountain of Knowledge, Revelation, Invisibility, Guile | Fountain of Knowledge, Revelation, Invisibility, Guile · <span class="bonus">Steal War Horses</span> |
 
 **Units**
 
@@ -244,7 +244,7 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 | | Age 114 | Age 115 |
 | --- | --- | --- |
 | Military Losses | −40% | <span class="bonus">−45%</span> |
-| Always carries and spreads Plague | — | <span class="badge-new">New</span> |
+| Plague spread | 33% chance on successful attacks | <span class="bonus">Always carries and spreads Plague</span> |
 | −5% OME | Penalty | <span class="bonus">Removed</span> |
 | Science Efficiency | — | <span class="penalty">−10% penalty</span> <span class="badge-new">New</span> |
 
@@ -256,10 +256,14 @@ Only rows that changed are shown. Unchanged stats (e.g. Soldier 3/0 · 0.75nw ac
 
 **Unique & Spells**
 
+!!! note
+    The old `Plaguebearers` effect was partially folded into the race bonus above as a reworked plague mechanic.
+
 | | Age 114 | Age 115 |
 | --- | --- | --- |
+| Plaguebearers | 33% plague spread on successful attacks | <span class="penalty">Removed</span> |
 | Death March | — | Converts 45% of offensive losses to Soldiers <span class="badge-new">New</span> |
-| Spells | Animate Dead | + Aggression <span class="badge-new">New</span> |
+| Spells | Animate Dead | Animate Dead · <span class="bonus">Aggression</span> |
 
 **Units**
 

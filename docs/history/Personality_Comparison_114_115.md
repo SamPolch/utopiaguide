@@ -186,6 +186,6 @@ Only rows that changed are shown. Personalities with no changes are omitted.
 | Merc & Prisoner Strength | +4 | <span class="bonus">+5</span> |
 | Merc/Prisoner send ratio | — | <span class="bonus">1 per 4 normal troops</span> <span class="badge-new">New</span> |
 | Tactics Science Efficiency | +15% | <span class="bonus">+25%</span> |
-| Spells | Bloodlust | <span class="penalty">*(none listed)*</span> |
+| Spells | Bloodlust | <span class="penalty">Removed: Bloodlust</span> |
 
 *(Unique — Battle Cry — unchanged)*
